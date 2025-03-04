@@ -1,0 +1,134 @@
+{% extends 'base.njk' %}
+
+{% block extra_css %}
+<link rel="stylesheet" href="/asssets/css/shuffle.css">
+<meta name="page">reviews</meta>
+{% endblock%}
+
+{% block content %}
+
+<section>
+  
+          
+          <div class="mx-auto cta-inner0 text-center">
+              <div style="margin-bottom: 20px;">
+                  <img class="mx-auto img-fluid" src="/assets/img/main_logo.png" alt="" />
+              </div>
+
+                <div class="filters-group mx-auto">
+                  <label for="filters-search-input" class="filter-label">Search</label>
+                  <input class="textfield filter__search js-shuffle-search" type="search" id="filters-search-input" />
+                </div>
+              </div>
+              <div id="grid" class=" row my-shuffle-container mx-auto">
+                <style>.border-3 {
+                  border-width:4px !important;
+                  border-color: #d1ded9;
+              }
+              </style>
+                {% for item in collections.reviews %}
+                <figure style="padding-right:10px;" class="data-item rounded js-item img-item col-4@sm col-4@xs" data-groups='["{{ item.subject }}"]'
+                data-date-created="{{ item.start_year }}" data-title="{{ item.title|safe }}"
+                data-author="{{ item.author }}">
+                  <div >
+                    <div>
+                      <a href="{{ item.title_link }}" target="_blank" rel="noopener"
+                          title="{{ item.title }}"><img 
+                            src="{{ item.item_image.url }}" alt="{{ item.title }}" /></a>
+                    </div>
+                    <figcaption class="picture-item__title" name="{{ item.title }} {{ item.author}}  {{ item.subject_names }} {{ item.location_names}}"><a class="item_title" href="{{ item.title_link }}" target="_blank">{{ item.title }}</a></figcaption>
+ 
+                  </div>
+
+
+
+                </figure>
+                
+                {% endfor %}
+
+
+                  <h4>REVEIWSA</h4>
+
+               
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% endblock %}
+
+  {% block extra_js %}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.2.3/shuffle.js"></script>
+  <script>
+    var Shuffle = window.Shuffle;
+
+    class Demo {
+      constructor(element) {
+        this.element = element;
+        this.shuffle = new Shuffle(element, {
+          itemSelector: '.js-item',
+          sizer: element.querySelector('.my-sizer-element'),
+        });
+
+        // Log events.
+        this.addShuffleEventListeners();
+        this._activeFilters = [];
+        this.addSearchFilter();
+      }
+
+      /**
+       * Shuffle uses the CustomEvent constructor to dispatch events. You can listen
+       * for them like you normally would (with jQuery for example).
+       */
+      addShuffleEventListeners() {
+        this.shuffle.on(Shuffle.EventType.LAYOUT, (data) => {
+          console.log('layout. data:', data);
+        });
+        this.shuffle.on(Shuffle.EventType.REMOVED, (data) => {
+          console.log('removed. data:', data);
+        });
+      }
+
+
+      // Advanced filtering
+      addSearchFilter() {
+        const searchInput = document.querySelector('.js-shuffle-search');
+        if (!searchInput) {
+          return;
+        }
+        searchInput.addEventListener('keyup', this._handleSearchKeyup.bind(this));
+      }
+
+      /**
+       * Filter the shuffle instance by items with a title that matches the search input.
+       * @param {Event} evt Event object.
+       */
+      _handleSearchKeyup(evt) {
+        const searchText = evt.target.value.normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+        this.shuffle.filter((element, shuffle) => {
+          
+          const titleElement = element.querySelector('.picture-item__title');
+          const titleText = titleElement.getAttribute("name").normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+          return titleText.indexOf(searchText) !== -1;
+        });
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      window.demo = new Demo(document.getElementById('grid'));
+      convert_titles();
+    });
+
+  function convert_titles() {
+    let titles = document.getElementsByClassName('item_title')
+    for (i in titles) {
+      titles[i].innerHTML = titles[i].innerText;
+      }
+  };
+  </script>
+  {% endblock %}
