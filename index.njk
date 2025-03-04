@@ -1,0 +1,115 @@
+{% extends 'base.njk' %}
+{% block extra_css %}{% endblock%}
+{% block content %}
+<header class="masthead  d-flex">
+  <div class="container my-auto">
+    <div class="row">
+
+      <div style="padding:10px;"
+        class="text-left col-lg-12 mx-auto rounded text-dark text-center">
+        <img class="img-fluid" src="/assets/img/main_logo.png" alt="" />
+        
+          <h1 id="met" style="margin-top: 20px;"><i>Mapping Eastern Europe</i> is a platform
+          intended to promote study, teaching, and research about Eastern Europe between the 13th and 17th centuries
+          through
+          <b><a href="/category/historical-overviews">historical overviews</a></b>,
+          <b><a href="/category/thematic-overviews">thematic overviews</a></b>,
+          <b><a href="/category/case-studies">case-studies</a></b> 
+          and <b><a href="/category/videos">videos</a></b> of monuments and objects,
+          <b><a href="/category/ongoing-projects">ongoing projects</a></b>, as well as 
+          reviews of <b><a href="/category/reviews">books</a></b> and <b><a href="/category/exhibitions">exhibitions.</a></b></em><br></h1>
+
+      </div>
+    </div>
+
+    <div class="d-flex justify-content-center">
+      <a class="btn btn btn-outline-dark btn-xl js-scroll-trigger" role="button" href="#map">
+        <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-globe2" fill="currentColor"
+          xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd"
+            d="M1.018 7.5h2.49c.037-1.07.189-2.087.437-3.008a9.124 9.124 0 0 1-1.565-.667A6.964 6.964 0 0 0 1.018 7.5zM3.05 3.049c.362.184.763.349 1.198.49.142-.384.304-.744.481-1.078a6.7 6.7 0 0 1 .597-.933A7.01 7.01 0 0 0 3.051 3.05zM8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zm-.5 1.077c-.67.204-1.335.82-1.887 1.855-.143.268-.276.56-.395.872.705.157 1.473.257 2.282.287V1.077zm0 4.014c-.91-.03-1.783-.145-2.591-.332a12.344 12.344 0 0 0-.4 2.741H7.5V5.091zm1 2.409V5.091c.91-.03 1.783-.145 2.591-.332.223.827.364 1.754.4 2.741H8.5zm-1 1H4.51c.035.987.176 1.914.399 2.741A13.596 13.596 0 0 1 7.5 10.91V8.5zm1 2.409V8.5h2.99a12.343 12.343 0 0 1-.399 2.741A13.596 13.596 0 0 0 8.5 10.91zm-1 1c-.81.03-1.577.13-2.282.287.12.312.252.604.395.872.552 1.035 1.218 1.65 1.887 1.855V11.91zm-2.173 2.563a6.695 6.695 0 0 1-.597-.933 8.857 8.857 0 0 1-.481-1.078 8.356 8.356 0 0 0-1.198.49 7.01 7.01 0 0 0 2.276 1.52zM2.38 12.175c.47-.258.995-.482 1.565-.667A13.36 13.36 0 0 1 3.508 8.5h-2.49a6.964 6.964 0 0 0 1.362 3.675zm8.293 2.297a7.01 7.01 0 0 0 2.275-1.521 8.353 8.353 0 0 0-1.197-.49 8.859 8.859 0 0 1-.481 1.078 6.688 6.688 0 0 1-.597.933zm.11-2.276A12.63 12.63 0 0 0 8.5 11.91v3.014c.67-.204 1.335-.82 1.887-1.855.143-.268.276-.56.395-.872zm1.272-.688c.57.185 1.095.409 1.565.667A6.964 6.964 0 0 0 14.982 8.5h-2.49a13.355 13.355 0 0 1-.437 3.008zm.437-4.008h2.49a6.963 6.963 0 0 0-1.362-3.675c-.47.258-.995.482-1.565.667.248.92.4 1.938.437 3.008zm-.74-3.96a8.854 8.854 0 0 0-.482-1.079 6.692 6.692 0 0 0-.597-.933c.857.355 1.63.875 2.275 1.521a8.368 8.368 0 0 1-1.197.49zm-.97.264c-.705.157-1.473.257-2.282.287V1.077c.67.204 1.335.82 1.887 1.855.143.268.276.56.395.872z" />
+        </svg><br>
+        
+        <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-chevron-down" fill="currentColor"
+          xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd"
+            d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
+        </svg>
+      </a></div>
+  </div>
+
+</header>
+
+<section>
+  <div id="map" class="container" style="padding-top: 20px;">
+    
+    <div class="row">
+      <div class="col-lg-2">
+        <form>
+
+          <div class="form-group">
+
+            <input type="text" class="form-control" id="query" placeholder="Search...">
+            <button type="button" onclick="reset_map();" class="btn btn-sm btn-light">Reset Map</button>
+
+            <hr>
+
+            <label for="subject">Entry</label>
+            <select style="width: 100%;" class="select2-type" multiple="multiple"></select>
+            <label for="medium">Type</label>
+            <select style="width: 100%;" class="select2-medium" multiple="multiple"></select>
+            <label for="medium">Location</label>
+            <select style="width: 100%;" class="select2-location" multiple="multiple"></select>
+            <label for="subject">Subject</label>
+            <select style="width: 100%;" class="select2-subject"  multiple="multiple"></select>
+            <label for="author">Author</label>
+            <select style="width: 100%;" class="select2-author"></select>            
+            
+          
+            <hr>
+            <div class="card" style="background-color: #f3efef;">
+              <div class="card-body">
+                <p>Legend</p>
+                {% for category in categories %}
+                {% if foroop.last %}
+                <img style="height:25px; width:25px" src="{{ category.marker_image.url }}" /><span
+                  style="font-size:x-small;">&nbsp;{{ category.name }}</span><br>
+                
+                {% else %}
+                <img style="height:25px; width:25px" src="{{ category.marker_image.url }}" /><span
+                  style="font-size:x-small;">&nbsp;{{ category.name }}</span><br>
+                  <hr style="border-width: 1px; ">
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+
+
+        </form>
+      </div>
+      <div class="col-lg-10">
+
+        <label for="amount">Date range:</label>
+        <input type="text" id="amount" readonly style="border:0; background-color: white;">
+
+        <style>
+          #slider {
+            margin: 10px;
+          }
+          
+        </style>
+        <div id="slider"></div>
+        <!-- http://bl.ocks.org/zross/47760925fcb1643b4225 -->
+        <div id="mapid" style="width:100%; height:91%"></div>
+      </div>
+    </div>
+
+  </div>
+</section>
+{% endblock%}
+
+{% block extra_js%}
+<script> console.log('i am extra js') </script>
+{% endblock %}
+
