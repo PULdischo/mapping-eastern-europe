@@ -1,12 +1,10 @@
 {% extends 'base.njk' %}
 
 {% block extra_css %}
-<link rel="stylesheet" href="/asssets/css/shuffle.css">
-<meta name="page">reviews</meta>
+<link rel="stylesheet" href="/assets/css/shuffle.css">
+
 {% endblock%}
-
 {% block content %}
-
 <section>
   
           
@@ -26,28 +24,25 @@
                   border-color: #d1ded9;
               }
               </style>
-                {% for item in collections.reviews %}
-                <figure style="padding-right:10px;" class="data-item rounded js-item img-item col-4@sm col-4@xs" data-groups='["{{ item.subject }}"]'
+                {% for item in collections[listCollection] %}
+                <figure style="padding-right:10px;" class=" rounded js-item img-item col-4@sm col-4@xs" data-groups='["{{ item.subject.name }}"]'
                 data-date-created="{{ item.start_year }}" data-title="{{ item.title|safe }}"
                 data-author="{{ item.author }}">
                   <div >
                     <div>
-                      <a href="{{ item.title_link }}" target="_blank" rel="noopener"
+                      <a href="{{ item.slug }}" target="_blank" rel="noopener"
                           title="{{ item.title }}"><img 
-                            src="{{ item.item_image.url }}" alt="{{ item.title }}" /></a>
+                            src="{{ item.item_image }}" alt="{{ item.title }}" /></a>
                     </div>
-                    <figcaption class="picture-item__title" name="{{ item.title }} {{ item.author}}  {{ item.subject_names }} {{ item.location_names}}"><a class="item_title" href="{{ item.title_link }}" target="_blank">{{ item.title }}</a></figcaption>
- 
+                   
                   </div>
-
-
-
+                  <figcaption class="picture-item__title" name="{{ item.title }} {{ item.author}}  {{ item.subject_names }} {{ item.location_names}}"><a href="{{ item.slug }}" target="_blank">{{ item.title|safe }}</a></figcaption>
                 </figure>
                 
                 {% endfor %}
 
 
-                  <h4>REVEIWSA</h4>
+
 
                
               </div>
@@ -62,10 +57,13 @@
 
   {% endblock %}
 
-  {% block extra_js %}
+  {% block js %}
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.2.3/shuffle.js"></script>
   <script>
     var Shuffle = window.Shuffle;
+
+
+    
 
     class Demo {
       constructor(element) {
@@ -111,7 +109,7 @@
       _handleSearchKeyup(evt) {
         const searchText = evt.target.value.normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
         this.shuffle.filter((element, shuffle) => {
-          
+         
           const titleElement = element.querySelector('.picture-item__title');
           const titleText = titleElement.getAttribute("name").normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
           return titleText.indexOf(searchText) !== -1;
@@ -121,14 +119,8 @@
 
     document.addEventListener('DOMContentLoaded', () => {
       window.demo = new Demo(document.getElementById('grid'));
-      convert_titles();
     });
 
-  function convert_titles() {
-    let titles = document.getElementsByClassName('item_title')
-    for (i in titles) {
-      titles[i].innerHTML = titles[i].innerText;
-      }
-  };
+
   </script>
   {% endblock %}

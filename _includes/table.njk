@@ -1,0 +1,89 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block css %}
+<link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/responsive/1.0.3/css/dataTables.responsive.css">
+
+{% endblock%}
+{% block content %}
+<div class="container my-auto">
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 mx-auto">
+
+                    <div class="cta-inner text-center rounded">
+                        <a href="/"><img class="img-fluid" src="{% static 'img/main_logo.png' %}" alt="" /></a>
+                        <table id="example" class="table display compact" style="width:100%">
+                            <thead>
+                                <tr>
+                                    {% if not request.path == '/category/ongoing-projects' %}
+                                    <th>Author</th>
+                                    <th>Title</th>
+                                    {% else %}
+                                    <th>Title</th>
+                                    {% endif %}
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for item in items %}
+                                <tr>
+                                    {% if not request.path == '/category/ongoing-projects' %}
+                                    <td><a href="{% url 'item' item.slug %}">{{ item.author }}</a></td>
+                                    <td><a href="{% url 'item' item.slug %}">{{ item.title }}</a></td>
+                                    {% else %}
+                                    <td><a href="{% url 'item' item.slug %}">{{ item.title }}</a></td>
+                                    {% endif %}
+
+                                </tr>
+                                {% endfor %}
+
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    {% endblock %}
+    {% block js %}
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js" defer></script>
+    <script src="https://cdn.datatables.net/responsive/1.0.3/js/dataTables.responsive.js" defer></script>
+    <script>
+        $(document).ready(function () {
+            $('#example').DataTable({
+                "lengthChange": false,
+                "responsive": true,
+                language: {
+        paginate: {
+            first:    '«',
+            previous: '‹',
+            next:     '›',
+            last:     '»'
+        },
+        aria: {
+            paginate: {
+                first:    'First',
+                previous: 'Previous',
+                next:     'Next',
+                last:     'Last'
+            }
+        }
+    },
+                responsive: true,drawCallback: function () {
+        // Pagination - Add BS4-Class for Horizontal Alignment (in second of 2 columns) & Top Margin
+        $('a.paginate_button').addClass("btn mt-3 mt-md-2").val('<i class="fa fa-chevron-right" ></i>');
+      }
+                
+            }
+            );
+        });
+        
+	   
+    </script>
+    {% endblock %}
