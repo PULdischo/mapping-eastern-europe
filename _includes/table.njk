@@ -1,11 +1,10 @@
-{% extends 'base.html' %}
-{% load static %}
+{% extends 'base.njk' %}
 
-{% block css %}
+{% block extra_css %}
 <link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/dataTables.bootstrap4.min.css">
 <link rel="stylesheet" href="https://cdn.datatables.net/responsive/1.0.3/css/dataTables.responsive.css">
+{% endblock %}
 
-{% endblock%}
 {% block content %}
 <div class="container my-auto">
     <section>
@@ -14,29 +13,20 @@
                 <div class="col-xl-12 mx-auto">
 
                     <div class="cta-inner text-center rounded">
-                        <a href="/"><img class="img-fluid" src="{% static 'img/main_logo.png' %}" alt="" /></a>
+                        <a href="/"><img class="img-fluid" src="/assets/img/main_logo.png" alt="" /></a>
                         <table id="example" class="table display compact" style="width:100%">
                             <thead>
                                 <tr>
-                                    {% if not request.path == '/category/ongoing-projects' %}
-                                    <th>Author</th>
+                                    
                                     <th>Title</th>
-                                    {% else %}
-                                    <th>Title</th>
-                                    {% endif %}
-
+                                    
                                 </tr>
                             </thead>
                             <tbody>
                                 {% for item in items %}
                                 <tr>
-                                    {% if not request.path == '/category/ongoing-projects' %}
-                                    <td><a href="{% url 'item' item.slug %}">{{ item.author }}</a></td>
-                                    <td><a href="{% url 'item' item.slug %}">{{ item.title }}</a></td>
-                                    {% else %}
-                                    <td><a href="{% url 'item' item.slug %}">{{ item.title }}</a></td>
-                                    {% endif %}
-
+                                    <td><a href="/item/{{item.slug }}">{{ item.title|safe }}</a></td>
+                                    
                                 </tr>
                                 {% endfor %}
 
@@ -51,7 +41,7 @@
     </section>
 
     {% endblock %}
-    {% block js %}
+    {% block extra_js %}
     <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js" defer></script>
     <script src="https://cdn.datatables.net/responsive/1.0.3/js/dataTables.responsive.js" defer></script>
     <script>
