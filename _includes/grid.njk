@@ -30,7 +30,7 @@
                 data-author="{{ item.author }}">
                   <div >
                     <div>
-                      <a href="{{ item.slug }}" target="_blank" rel="noopener"
+                      <a href="/item/{{ item.slug }}/" target="_blank" rel="noopener"
                           title="{{ item.title|safe }}"><img 
                             src="{{ item.item_image }}" alt="{{ item.title }}" /></a>
                     </div>
@@ -54,7 +54,7 @@
 
   {% endblock %}
 
-  {% block js %}
+  {% block extra_js %}
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.2.3/shuffle.js"></script>
   <script>
     var Shuffle = window.Shuffle;

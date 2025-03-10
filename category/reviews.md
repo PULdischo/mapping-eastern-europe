@@ -1,5 +1,5 @@
 ---
 layout: grid.njk
 title: Book Reviews
-listCollection: 'reviews'
+listCollection: 'book-reviews'
 ---

@@ -1,0 +1,204 @@
+html, body {
+    height: 100%;
+    background-color: #white;
+
+}
+
+.navbar-brand {
+    font-size: 1.75rem;
+}
+#favicon {
+    fill: #394D5B;
+}
+/* colors from image
+blue #394D5B
+red #D23B15
+green #37493F
+gold #F5C96C
+purple #8E4D50 */
+
+/* fonts 
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Eczar', serif;
+font-family: 'Gentium Basic', serif;
+font-family: 'Proza Libre', sans-serif; */
+
+ a, a:hover {
+    color: #212529;
+ }
+.byzantine {
+    background-image: url({% static 'byzantine1.png'});
+}
+
+#mainNav {
+    background-color:#f3efef;
+}
+
+#mainNav .navbar-brand  {
+    color:black;
+    font-family: 'Cormorant Garamond', serif;
+    /*-webkit-text-stroke: 1px  #7cacd8;*/
+}
+
+#mainNav .navbar-nav>li.nav-item>a.nav-link,  {
+    
+}
+
+#mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
+    
+}
+#mainNav.navbar-shrink .navbar-brand {
+    color: #9EBCD8;
+}
+
+.btn-primary:hover {
+    background-color: green;
+}
+
+#mapid { 
+    height: 650px;
+    z-index: 3;
+    border: 1px dotted #1C6EA4;
+    border-radius: 32px;
+    
+}
+
+#met {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 30px;
+    color: #37493F;
+    line-height:2.5rem;
+
+}
+
+
+
+a#overviews {
+    text-decoration: none;
+    font-family: 'Gentium Basic', serif;
+
+    font-size: 30px;
+    color: #212529;
+    border-bottom: 1px solid #a7559e;
+}
+
+a#overviews:hover {
+    text-decoration: thistle;
+    border-bottom: 3px solid #a7559e;
+    
+}
+
+a#case-studies {
+    text-decoration: none;
+    color: #37493F;
+    font-family: 'Gentium Basic', serif;
+    border-bottom: 1px solid #394D5B;
+}
+
+a#case-studies:hover {
+    border-bottom: 3px solid #394D5B;
+}
+
+a#notices { 
+    font-family: 'Playfair Display', serif;
+    border-bottom: 2px solid #844477;
+}
+
+a#notices:hover { 
+    text-decoration: none;
+    border-bottom: 4px solid #844477;
+}
+
+a#reviews { 
+    font-family: 'Proza Libre', sans-serif; 
+    border-bottom: 2px solid #D23B15;
+    font-size: 25px;
+}
+a#reviews:hover { 
+    text-decoration: none;
+    font-family: 'Proza Libre', sans-serif; 
+    border-bottom: 4px solid #D23B15;
+
+}
+
+.cta-inner {
+    position:relative;
+    padding:3rem;
+    margin:.5rem;
+}
+
+.cta-inner:before {
+    border-radius:.5rem;
+    content:"";
+    position:absolute;
+    top:-.5rem;
+    bottom:-.5rem;
+    left:-.5rem;
+    right:-.5rem;
+    border:.25rem solid #f3efef;
+    pointer-events:none;
+}
+
+.cta-inner0 {
+    position:relative;
+    padding:3rem;
+    margin:.5rem;
+}
+
+.cta-inner0:before {
+    border-radius:.5rem;
+    content:"";
+    position:absolute;
+    top:-.5rem;
+    bottom:-.5rem;
+    left:-.5rem;
+    right:-.5rem;
+    
+    pointer-events:none;
+}
+
+.carousel {
+    /* any dimensions are fine, it can be responsive with max-width */
+    width: 500px;
+    height: 500px;
+  }
+  
+  .carousel-inner {
+    /* make sure your .items will get correct height */
+    height: 100%;
+  }
+  
+
+  .carousel-control-prev-icon,
+.carousel-control-next-icon {
+ 
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '›';
+  font-size: 55px;
+  color: black;
+}
+
+.carousel-control-prev-icon:after {
+  content: '‹';
+  font-size: 55px;
+  color:black;
+}
+
+  .item {
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .item img {
+    visibility: hidden;
+  }
+
+#example_filter input {
+    width: 90%;
+}

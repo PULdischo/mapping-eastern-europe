@@ -27,7 +27,7 @@ permalink: "item/{{ item.slug }}/"
 
                     <div class="modal-body">
 
-                        <p id="modal_caption"></p>
+                        <p id="modal_caption">{{ item.title|safe }}</p>
                         <img id="modal_image" alt="{{ item.title|safe }}" style="width:100%">
                     </div>
                     <div class="modal-footer">
@@ -162,7 +162,7 @@ permalink: "item/{{ item.slug }}/"
 
             function open_modal(e) {
                 document.getElementById('modal_image').src = e.src;
-                document.getElementById('modal_caption').textContent = e.alt;
+                //document.getElementById('modal_caption').textContent = e.alt;
                 $('#itemModal').modal('toggle');
             }
         </script>
