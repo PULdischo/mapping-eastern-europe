@@ -1,8 +1,5 @@
 [
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.6685182,
     "medium_m2m":[
 
@@ -38,9 +35,6 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":20.4489216,
     "medium_m2m":[
 
@@ -73,9 +67,6 @@
     "start_year":450
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":19.040235,
     "medium_m2m":[
 
@@ -108,9 +99,6 @@
     "start_year":1450
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":30.5234,
     "medium_m2m":[
 
@@ -166,9 +154,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":21.8957589,
     "medium_m2m":[
       "Manuscript"
@@ -204,9 +189,6 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":38.5114203495,
     "medium_m2m":[
 
@@ -242,9 +224,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":22.9444191,
     "medium_m2m":[
 
@@ -280,9 +259,6 @@
     "start_year":1204
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":25.5960889,
     "medium_m2m":[
       "Woodwork"
@@ -318,9 +294,6 @@
     "start_year":1401
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":25.5982871929,
     "medium_m2m":[
       "Textile"
@@ -353,9 +326,6 @@
     "start_year":1450
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":18.774561882,
     "medium_m2m":[
       "Metalwork"
@@ -411,9 +381,6 @@
     "start_year":1539
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.3901363438,
     "medium_m2m":[
       "Monumental art"
@@ -446,9 +413,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.369885,
     "medium_m2m":[
 
@@ -481,9 +445,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":29.3707953495,
     "medium_m2m":[
 
@@ -516,9 +477,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.0166011875,
     "medium_m2m":[
 
@@ -551,9 +509,6 @@
     "start_year":1204
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":20.2301703495,
     "medium_m2m":[
 
@@ -586,9 +541,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":43.9606390995,
     "medium_m2m":[
 
@@ -621,9 +573,6 @@
     "start_year":1401
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":23.2843695683,
     "medium_m2m":[
 
@@ -656,9 +605,6 @@
     "start_year":1301
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":23.7444220585,
     "medium_m2m":[
 
@@ -691,9 +637,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":32.4469672245,
     "medium_m2m":[
 
@@ -726,9 +669,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":27.129584412,
     "medium_m2m":[
 
@@ -761,9 +701,6 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9643012089,
     "medium_m2m":[
 
@@ -796,9 +733,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":24.9213324589,
     "medium_m2m":[
 
@@ -831,9 +765,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9176093143,
     "medium_m2m":[
 
@@ -866,9 +797,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.4494086308,
     "medium_m2m":[
 
@@ -901,9 +829,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.6691351933,
     "medium_m2m":[
 
@@ -936,9 +861,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":24.229193787,
     "medium_m2m":[
 
@@ -971,9 +893,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.4274359745,
     "medium_m2m":[
 
@@ -1006,9 +925,6 @@
     "start_year":900
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":21.9879828495,
     "medium_m2m":[
 
@@ -1041,9 +957,6 @@
     "start_year":1450
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":28.9424664,
     "medium_m2m":[
       "Monumental art"
@@ -1083,9 +996,6 @@
     "start_year":1301
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.7646184529,
     "medium_m2m":[
       "Monumental art"
@@ -1141,9 +1051,6 @@
     "start_year":1350
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":21.4022408,
     "medium_m2m":[
       "Monumental art"
@@ -1203,9 +1110,6 @@
     "start_year":1350
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":20.6460501,
     "medium_m2m":[
       "Monumental art"
@@ -1257,9 +1161,6 @@
     "start_year":1207
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.7413333,
     "medium_m2m":[
       "Metalwork"
@@ -1296,9 +1197,6 @@
     "start_year":1673
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":18.550769,
     "medium_m2m":[
       "Panel painting"
@@ -1339,9 +1237,6 @@
     "start_year":1647
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":31.2954591,
     "medium_m2m":[
       "Monumental art"
@@ -1397,9 +1292,6 @@
     "start_year":1301
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
       "Manuscript"
@@ -1435,9 +1327,6 @@
     "start_year":1401
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":26.088911,
     "medium_m2m":[
       "Manuscript"
@@ -1489,9 +1378,6 @@
     "start_year":1740
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":25.6286522656,
     "medium_m2m":[
       "Manuscript"
@@ -1539,9 +1425,6 @@
     "start_year":1350
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":40.4109426,
     "medium_m2m":[
       "Monumental art"
@@ -1609,9 +1492,6 @@
     "start_year":1193
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.9268401,
     "medium_m2m":[
       "Metalwork"
@@ -1659,9 +1539,6 @@
     "start_year":1650
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":20.2653426,
     "medium_m2m":[
       "Monumental art"
@@ -1709,9 +1586,6 @@
     "start_year":1301
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":18.0096334,
     "medium_m2m":[
       "Monumental art"
@@ -1767,9 +1641,6 @@
     "start_year":1150
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":20.5213617,
     "medium_m2m":[
       "Monumental art"
@@ -1805,9 +1676,6 @@
     "start_year":1208
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":25.6171514,
     "medium_m2m":[
 
@@ -1840,9 +1708,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":25.4460586514,
     "medium_m2m":[
 
@@ -1875,9 +1740,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":28.9496619457,
     "medium_m2m":[
 
@@ -1910,9 +1772,6 @@
     "start_year":1150
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":31.1342137759,
     "medium_m2m":[
       "Manuscript"
@@ -1952,9 +1811,6 @@
     "start_year":1150
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":23.3218675,
     "medium_m2m":[
       "Manuscript"
@@ -1987,9 +1843,6 @@
     "start_year":1470
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":19.8335496,
     "medium_m2m":[
 
@@ -2022,9 +1875,6 @@
     "start_year":1689
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":20.5316786,
     "medium_m2m":[
       "Monumental art"
@@ -2068,9 +1918,6 @@
     "start_year":1208
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":28.8944701309,
     "medium_m2m":[
       "Textile"
@@ -2118,9 +1965,6 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":24.96676,
     "medium_m2m":[
 
@@ -2172,9 +2016,6 @@
     "start_year":1200
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":21.8280364,
     "medium_m2m":[
       "Monumental art"
@@ -2223,9 +2064,6 @@
     "start_year":1312
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":23.881275,
     "medium_m2m":[
 
@@ -2258,9 +2096,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":23.881275,
     "medium_m2m":[
 
@@ -2293,9 +2128,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":28.9373774285,
     "medium_m2m":[
       "Textile"
@@ -2331,9 +2163,6 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":24.6686898614,
     "medium_m2m":[
 
@@ -2366,9 +2195,6 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":23.6620995312,
     "medium_m2m":[
 
@@ -2401,9 +2227,6 @@
     "start_year":500
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":25.8017209375,
     "medium_m2m":[
 
@@ -2436,9 +2259,6 @@
     "start_year":1450
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":26.188955,
     "medium_m2m":[
 
@@ -2471,9 +2291,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.6538082188,
     "medium_m2m":[
 
@@ -2506,9 +2323,6 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":26.5707639062,
     "medium_m2m":[
 
@@ -2541,9 +2355,6 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.8053337188,
     "medium_m2m":[
 
@@ -2576,9 +2387,6 @@
     "start_year":1200
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.0528921875,
     "medium_m2m":[
 
@@ -2611,9 +2419,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":26.8783810937,
     "medium_m2m":[
 
@@ -2646,9 +2451,6 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":24.1212945,
     "medium_m2m":[
 
@@ -2681,9 +2483,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":24.1317990625,
     "medium_m2m":[
 
@@ -2716,9 +2515,6 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":26.1532834375,
     "medium_m2m":[
 
@@ -2751,9 +2547,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":37.09566625,
     "medium_m2m":[
 
@@ -2786,9 +2579,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":21.3744837,
     "medium_m2m":[
 
@@ -2821,9 +2611,6 @@
     "start_year":1160
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":20.0526205063,
     "medium_m2m":[
 
@@ -2856,9 +2643,6 @@
     "start_year":1000
   },
   {
-    "category_m2m":[
-      "exhibition-reviews"
-    ],
     "longitude":28.9550224395,
     "medium_m2m":[
 
@@ -2891,9 +2675,6 @@
     "start_year":1250
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":19.1077962875,
     "medium_m2m":[
 
@@ -2926,9 +2707,6 @@
     "start_year":1000
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":24.4080464,
     "medium_m2m":[
 
@@ -2961,9 +2739,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":24.10946825,
     "medium_m2m":[
 
@@ -2996,9 +2771,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":30.9600740378,
     "medium_m2m":[
 
@@ -3031,9 +2803,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":21.3966415924,
     "medium_m2m":[
 
@@ -3070,9 +2839,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.3157196,
     "medium_m2m":[
       "Textile"
@@ -3117,9 +2883,6 @@
     "start_year":1350
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":22.8835409487,
     "medium_m2m":[
       "Textile"
@@ -3152,9 +2915,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":20.7954559,
     "medium_m2m":[
       "Panel painting"
@@ -3219,9 +2979,6 @@
     "start_year":1300
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":20.2659536,
     "medium_m2m":[
       "Monumental art"
@@ -3273,9 +3030,6 @@
     "start_year":1327
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":26.1025384,
     "medium_m2m":[
       "Manuscript"
@@ -3311,9 +3065,6 @@
     "start_year":1480
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":26.084574,
     "medium_m2m":[
       "Monumental art"
@@ -3353,9 +3104,6 @@
     "start_year":1150
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":21.6842793988,
     "medium_m2m":[
 
@@ -3395,9 +3143,6 @@
     "start_year":1150
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":24.2152731,
     "medium_m2m":[
 
@@ -3449,9 +3194,6 @@
     "start_year":1150
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":26.2095764,
     "medium_m2m":[
       "Monumental art"
@@ -3515,9 +3257,6 @@
     "start_year":1480
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.952845,
     "medium_m2m":[
       "Panel painting"
@@ -3555,9 +3294,6 @@
     "start_year":1350
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.3157196,
     "medium_m2m":[
       "Monumental art"
@@ -3605,9 +3341,6 @@
     "start_year":1380
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":48.6935949326,
     "medium_m2m":[
       "Panel painting"
@@ -3644,9 +3377,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":20.2659536,
     "medium_m2m":[
       "Monumental art"
@@ -3691,9 +3421,6 @@
     "start_year":1340
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.2098214,
     "medium_m2m":[
       "Metalwork",
@@ -3755,9 +3482,6 @@
     "start_year":1300
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.91,
     "medium_m2m":[
       "Panel painting"
@@ -3791,9 +3515,6 @@
     "start_year":1680
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":38.5674859,
     "medium_m2m":[
       "Monumental art"
@@ -3845,9 +3566,6 @@
     "start_year":1490
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.9444191,
     "medium_m2m":[
       "Textile"
@@ -3893,9 +3611,6 @@
     "start_year":1280
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.9546086,
     "medium_m2m":[
       "Monumental art"
@@ -3947,9 +3662,6 @@
     "start_year":1290
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":26.1025384,
     "medium_m2m":[
       "Panel painting"
@@ -4005,9 +3717,6 @@
     "start_year":1490
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.8497177,
     "medium_m2m":[
       "Monumental art"
@@ -4059,9 +3768,6 @@
     "start_year":1080
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":21.5533795,
     "medium_m2m":[
       "Monumental art"
@@ -4113,9 +3819,6 @@
     "start_year":1340
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.4106293,
     "medium_m2m":[
       "Monumental art"
@@ -4188,9 +3891,6 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":28.9395999,
     "medium_m2m":[
       "Monumental art"
@@ -4223,9 +3923,6 @@
     "start_year":1070
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":21.193494,
     "medium_m2m":[
       "Monumental art"
@@ -4281,9 +3978,6 @@
     "start_year":1320
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":19.0528645469,
     "medium_m2m":[
 
@@ -4316,9 +4010,6 @@
     "start_year":1401
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":16.2107421875,
     "medium_m2m":[
 
@@ -4351,9 +4042,6 @@
     "start_year":1301
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":17.4378743125,
     "medium_m2m":[
 
@@ -4386,9 +4074,6 @@
     "start_year":1301
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":25.230431875,
     "medium_m2m":[
 
@@ -4421,9 +4106,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":19.1890813125,
     "medium_m2m":[
 
@@ -4456,9 +4138,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":23.0990842187,
     "medium_m2m":[
 
@@ -4491,9 +4170,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":14.4529296875,
     "medium_m2m":[
 
@@ -4526,9 +4202,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.2802730625,
     "medium_m2m":[
 
@@ -4561,9 +4234,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":18.4563132,
     "medium_m2m":[
 
@@ -4596,9 +4266,6 @@
     "start_year":1401
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":21.193494,
     "medium_m2m":[
 
@@ -4631,9 +4298,6 @@
     "start_year":1300
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.23632775,
     "medium_m2m":[
 
@@ -4666,9 +4330,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":22.5439449375,
     "medium_m2m":[
 
@@ -4701,9 +4362,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":24.2152731,
     "medium_m2m":[
 
@@ -4736,9 +4394,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":21.824312,
     "medium_m2m":[
 
@@ -4771,9 +4426,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":27.508947,
     "medium_m2m":[
 
@@ -4806,9 +4458,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":23.3544823437,
     "medium_m2m":[
 
@@ -4841,9 +4490,6 @@
     "start_year":1301
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":21.824312,
     "medium_m2m":[
 
@@ -4876,9 +4522,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":25.2661034375,
     "medium_m2m":[
 
@@ -4911,9 +4554,6 @@
     "start_year":800
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.3437046,
     "medium_m2m":[
       "Panel painting"
@@ -4959,9 +4599,6 @@
     "start_year":1490
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":25.48583,
     "medium_m2m":[
 
@@ -5009,9 +4646,6 @@
     "start_year":1204
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":24.96676,
     "medium_m2m":[
       "Monumental art"
@@ -5051,9 +4685,6 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.5908578,
     "medium_m2m":[
       "Monumental art"
@@ -5129,9 +4760,6 @@
     "start_year":1370
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.6753724,
     "medium_m2m":[
       "Monumental art"
@@ -5195,9 +4823,6 @@
     "start_year":1510
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":19.232532,
     "medium_m2m":[
       "Monumental art"
@@ -5249,9 +4874,6 @@
     "start_year":1300
   },
   {
-    "category_m2m":[
-      "videos"
-    ],
     "longitude":24.6685182,
     "medium_m2m":[
       "Monumental art"
@@ -5284,15 +4906,12 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.2282922,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/lesnovo1.jpg",
@@ -5330,15 +4949,12 @@
     "start_year":1330
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.3831114,
     "medium_m2m":[
       "Sculpture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Fig._2_cvcnfwN.jpg",
@@ -5376,15 +4992,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":26.1931241,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Patrauti_Fig._1.jpg",
@@ -5430,15 +5043,12 @@
     "start_year":1480
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":20.9917453,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/001.JPG",
@@ -5489,15 +5099,12 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":26.1025384,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -5524,15 +5131,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "videos"
-    ],
     "longitude":25.571138,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"videos",
     "slider_images":[
 
     ],
@@ -5559,15 +5163,12 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":21.9067379063,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"historical-overviews",
     "slider_images":[
       {
         "url":"/assets/media/items/1._King_Milutin_and_Simonis--1313-4.jpeg",
@@ -5614,15 +5215,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":26.1025384,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
 
     ],
@@ -5650,15 +5248,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.2098214,
     "medium_m2m":[
       "Textile"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Podea_b_tgGGTRj.jpg",
@@ -5697,15 +5292,12 @@
     "start_year":1600
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":19.0379763,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"historical-overviews",
     "slider_images":[
       {
         "url":"/assets/media/items/Picture_2.jpg",
@@ -5755,15 +5347,12 @@
     "start_year":1228
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":30.5234,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"ongoing-projects",
     "slider_images":[
       {
         "url":"/assets/media/items/OngoingProject.png",
@@ -5794,15 +5383,12 @@
     "start_year":1000
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":22.6610632625,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"ongoing-projects",
     "slider_images":[
       {
         "url":"/assets/media/items/Mapping_EE_-_Ongoing_Projects_-_MAP_gw3zLcV.jpg",
@@ -5839,15 +5425,12 @@
     "start_year":1301
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":17.0308331,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/02.1.jpg",
@@ -5893,15 +5476,12 @@
     "start_year":1230
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":21.18612,
     "medium_m2m":[
       "Sculpture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/3._Exterior_southern_facade.JPG",
@@ -5955,15 +5535,12 @@
     "start_year":1290
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":16.3491667,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Strzegom_03_copy.jpg",
@@ -6009,15 +5586,12 @@
     "start_year":1388
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":17.0440788,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Wroclaw_04.JPG",
@@ -6064,15 +5638,12 @@
     "start_year":1288
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":21.0862622,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/02_AGNmSFQ.jpg",
@@ -6111,15 +5682,12 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":20.5316786,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Photo_2.jpg",
@@ -6162,15 +5730,12 @@
     "start_year":1313
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":19.9449799,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"historical-overviews",
     "slider_images":[
       {
         "url":"/assets/media/items/charter_krakow_1257.jpg",
@@ -6214,15 +5779,12 @@
     "start_year":1200
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":14.8029971,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"historical-overviews",
     "slider_images":[
       {
         "url":"/assets/media/items/Codex_Manesse_Heinrich_von_Breslau.jpg",
@@ -6266,15 +5828,12 @@
     "start_year":1200
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":21.5533795,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
       {
         "url":"/assets/media/items/img437.jpg",
@@ -6348,15 +5907,12 @@
     "start_year":1280
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6383,15 +5939,12 @@
     "start_year":1095
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6418,15 +5971,12 @@
     "start_year":1180
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6453,15 +6003,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":11.5885529,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6488,15 +6035,12 @@
     "start_year":1256
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6523,15 +6067,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6559,15 +6100,12 @@
     "start_year":700
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":11.1133627,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6594,15 +6132,12 @@
     "start_year":1174
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":19.040235,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6632,15 +6167,12 @@
     "start_year":1100
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6667,15 +6199,12 @@
     "start_year":1100
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":20.71664015,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6707,15 +6236,12 @@
     "start_year":500
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6743,15 +6269,12 @@
     "start_year":600
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6778,15 +6301,12 @@
     "start_year":950
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":19.040235,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6815,15 +6335,12 @@
     "start_year":1000
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6850,15 +6367,12 @@
     "start_year":600
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":14.4378005,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6885,15 +6399,12 @@
     "start_year":1345
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":13.404954,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6920,15 +6431,12 @@
     "start_year":1100
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":12.4740104479,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6957,15 +6465,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":26.0091666979,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -6995,15 +6500,12 @@
     "start_year":1000
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7032,15 +6534,12 @@
     "start_year":1000
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7068,15 +6567,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":14.4378005,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7104,15 +6600,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7140,15 +6633,12 @@
     "start_year":1204
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":25.2796514,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7180,15 +6670,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7221,15 +6708,12 @@
     "start_year":200
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":21.7904166979,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7263,15 +6747,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":14.0560416979,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7299,15 +6780,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":11.9466666979,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7334,15 +6812,12 @@
     "start_year":1346
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":14.4378005,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7370,15 +6845,12 @@
     "start_year":1402
   },
   {
-    "category_m2m":[
-      "book-reviews"
-    ],
     "longitude":11.6131432067,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"book-reviews",
     "slider_images":[
 
     ],
@@ -7405,15 +6877,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":26.107607,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/002.jpg",
@@ -7539,15 +7008,12 @@
     "start_year":1577
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":23.3915096,
     "medium_m2m":[
       "Metalwork"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Fig._2_Nc4lf4K.jpg",
@@ -7577,15 +7043,12 @@
     "start_year":1270
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.7665148,
     "medium_m2m":[
       "Tempera on wood"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
 
     ],
@@ -7614,15 +7077,12 @@
     "start_year":1450
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":37.6173,
     "medium_m2m":[
       "Manuscript"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/2_image_ms_429.jpg",
@@ -7665,16 +7125,13 @@
     "start_year":1300
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":21.4094525,
     "medium_m2m":[
       "Manuscript",
       "Wall painting"
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
       {
         "url":"/assets/media/items/Markov2.jpg",
@@ -7722,15 +7179,12 @@
     "start_year":1261
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.0344435,
     "medium_m2m":[
       "Tempera on wood"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Lviv_Iconostasis_2.jpg",
@@ -7760,15 +7214,12 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":23.3244345,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Image_2..JPG",
@@ -7806,15 +7257,12 @@
     "start_year":1300
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":21.3496389,
     "medium_m2m":[
       "Wall painting"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/1A_copy.jpg",
@@ -7860,15 +7308,12 @@
     "start_year":1360
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":16.7924852,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Ieremias_Pallads_Sinai.JPG",
@@ -7898,15 +7343,12 @@
     "start_year":1300
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":20.9876839,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"historical-overviews",
     "slider_images":[
       {
         "url":"/assets/media/items/Michael_II_Komnenos_Doukas.jpg",
@@ -7948,15 +7390,12 @@
     "start_year":1204
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":23.7269395,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"ongoing-projects",
     "slider_images":[
       {
         "url":"/assets/media/items/Fig._21.jpg",
@@ -7994,15 +7433,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":37.6208639,
     "medium_m2m":[
       "Panel painting"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/2_KU2xSWG.jpg",
@@ -8048,15 +7484,12 @@
     "start_year":1130
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":25.48583,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
       {
         "url":"/assets/media/items/FIG_2._Byzantine_Empire_Map_ECOZONES-credits_Nikolaos_Thymakis_G0j7UGk.jpg",
@@ -8096,16 +7529,13 @@
     "start_year":1261
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":27.8428651,
     "medium_m2m":[
       "Monumental art",
       "Wall painting"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/02_dTsIYadG_Q3zOKCi.jpg",
@@ -8151,15 +7581,12 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":27.8428651,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/02_pxP3nv0m.jpg",
@@ -8205,16 +7632,13 @@
     "start_year":1308
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":19.9400407,
     "medium_m2m":[
       "Wall painting",
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/21_mTPGXw6.jpg",
@@ -8260,15 +7684,12 @@
     "start_year":1440
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":26.7200625,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Screen_Shot_2022-09-23_at_2.09.09_PM.png",
@@ -8302,15 +7723,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "historical-overviews"
-    ],
     "longitude":28.980175,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"historical-overviews",
     "slider_images":[
       {
         "url":"/assets/media/items/02_aQgtgOm.jpg",
@@ -8364,16 +7782,13 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":38.1290911,
     "medium_m2m":[
       "Metalwork",
       "Sculpture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/paraskeva_tri.jpg",
@@ -8413,16 +7828,13 @@
     "start_year":1456
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.1729151,
     "medium_m2m":[
       "Metalwork",
       "Casting"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/unnamed2.jpg",
@@ -8456,16 +7868,13 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":12.196123,
     "medium_m2m":[
       "Architecture",
       "Terracotta"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/21_5DGz86W.jpg",
@@ -8511,15 +7920,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.8767591,
     "medium_m2m":[
       "Tempera on wood"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/2_fragm.jpg",
@@ -8562,15 +7968,12 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.0710324,
     "medium_m2m":[
       "Textile"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/2_Fragm.jpg",
@@ -8612,9 +8015,6 @@
     "start_year":1399
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":24.0282978,
     "medium_m2m":[
       "Textile"
@@ -8668,9 +8068,6 @@
     "start_year":1299
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":23.9696468179,
     "medium_m2m":[
       "Monumental art",
@@ -8678,7 +8075,7 @@
       "Woodwork"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/il_2_2.jpg",
@@ -8725,15 +8122,12 @@
     "start_year":1690
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":24.0279416,
     "medium_m2m":[
       "Panel painting"
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
       {
         "url":"/assets/media/items/il_2_3.jpg",
@@ -8780,15 +8174,12 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":33.8077393,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/2_2UgTAyp.jpg",
@@ -8832,15 +8223,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":30.5572558,
     "medium_m2m":[
       "Panel painting"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
 
     ],
@@ -8867,15 +8255,12 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":24.3157196,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/1280px-2006_0610CoziaExterior20565.jpg",
@@ -8909,15 +8294,12 @@
     "start_year":1350
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":35.622811,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
       {
         "url":"/assets/media/items/2BurialClose.png",
@@ -8975,16 +8357,13 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":28.9783589,
     "medium_m2m":[
       "Manuscript",
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
       {
         "url":"/assets/media/items/Picture5_pbo7z5e.jpg",
@@ -9026,16 +8405,13 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":20.46123,
     "medium_m2m":[
       "Monumental art",
       "Textile"
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
       {
         "url":"/assets/media/items/2._Voivoda_Jovan_Oliver_Lesnovo.jpg",
@@ -9081,15 +8457,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":14.4186049,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
 
     ],
@@ -9116,15 +8489,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":14.4174435,
     "medium_m2m":[
       "Monumental art"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
 
     ],
@@ -9151,15 +8521,12 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":19.9485937,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
 
     ],
@@ -9186,15 +8553,12 @@
     "start_year":1450
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":26.0971943,
     "medium_m2m":[
       "Manuscript"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/2._Coat_of_Arms.jpg",
@@ -9245,16 +8609,13 @@
     "start_year":1670
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":26.0938898,
     "medium_m2m":[
       "Monumental art",
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/A.1._St_Antim_Monastery_-_The_Church_View_from_the_Courtyard_-_West_Side.jpeg",
@@ -9368,15 +8729,12 @@
     "start_year":1650
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":26.088911,
     "medium_m2m":[
       "Manuscript"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/2._Leitourgikon_of_Macarie_-_Beginning_of_the_Taxis_of_the_Liturgical_Service.jpg",
@@ -9426,15 +8784,12 @@
     "start_year":1500
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":25.8641666,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/3._Voronet_Monastery_-_Last_Judgment.JPG",
@@ -9496,15 +8851,12 @@
     "start_year":1457
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":24.9317177125,
     "medium_m2m":[
       "Textile"
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
       {
         "url":"/assets/media/items/1._The_Antimension_of_Luke.jpg",
@@ -9564,15 +8916,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "ongoing-projects"
-    ],
     "longitude":26.0899957,
     "medium_m2m":[
 
     ],
     "subject":null,
-    "category":null,
+    "category":"ongoing-projects",
     "slider_images":[
       {
         "url":"/assets/media/items/002_TYPARABIC_-_Info_Banner.jpg",
@@ -9630,15 +8979,12 @@
     "start_year":1700
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":30.35068,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Bilhorod-Akkerman_2.jpg",
@@ -9682,15 +9028,12 @@
     "start_year":1400
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":29.2684585039,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Kiliia_1.jpg",
@@ -9729,15 +9072,12 @@
     "start_year":1201
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":20.9667833,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Tetovo_Fig_2.JPG",
@@ -9780,15 +9120,12 @@
     "start_year":1430
   },
   {
-    "category_m2m":[
-      "thematic-overview"
-    ],
     "longitude":18.4130763,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"thematic-overview",
     "slider_images":[
       {
         "url":"/assets/media/items/Ott_Mosques_BIH-Fig_1_Ali_Pasha_mosque_Sarajevo.jpg",
@@ -9843,15 +9180,12 @@
     "start_year":1460
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":22.9495923357,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/1..png",
@@ -9898,15 +9232,12 @@
     "start_year":1485
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":25.4019655684,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/2_BUnMRmi.jpg",
@@ -9949,15 +9280,12 @@
     "start_year":1360
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":23.5594355489,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/1.png",
@@ -10004,15 +9332,12 @@
     "start_year":1490
   },
   {
-    "category_m2m":[
-      "case-studies"
-    ],
     "longitude":21.2279370444,
     "medium_m2m":[
       "Architecture"
     ],
     "subject":null,
-    "category":null,
+    "category":"case-studies",
     "slider_images":[
       {
         "url":"/assets/media/items/Fig._3_bJ8yhlG.jpg",
