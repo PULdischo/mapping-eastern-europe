@@ -123,7 +123,10 @@
     document.addEventListener('DOMContentLoaded', () => {
       window.demo = new Demo(document.getElementById('grid'));
       let elements = [];
-      collection.slice(0,10).forEach((item) => {
+      // randomize the collection
+      collection = collection.sort(() => Math.random() - 0.5);
+      
+      collection.forEach((item, index) => {
           const element = document.createElement('figure');
           element.style.paddingRight = '10px';
           element.classList.add('rounded', 'js-item', 'img-item', 'col-4@sm', 'col-4@xs');
@@ -131,22 +134,45 @@
           element.setAttribute('data-groups', item.groups);
           element.setAttribute('data-title', item.title);
           element.setAttribute('data-author', item.author);
-          
-          let element_string = `
+
+          if (index <= 10) {
+            let element_string = `
               
                           <div>
                             <div>
                               <a href="/item/${ item.slug }/" target="_blank" rel="noopener"
                                   title="${ item.title }">
-                                  <img src="${ item.item_image }" alt="${ item.title }" />
+                                  <img src="${ item.item_image }" alt="${ item.title }"  />
                               </a>
                             </div>
                           </div>
-                          <figcaption class="picture-item__title" name="${ item.title } ${ item.author}  ${ item.subject_names } ${ item.location_names}"><a href="${ item.slug }" target="_blank">${ item.title }</a></figcaption>
-              
+                          <figcaption class="picture-item__title" name="${ item.title } ${ item.author}  ${ item.subject_names } ${ item.location_names}"><a href="${ item.slug }" target="_blank">${ item.title }</a></figcaption>  
+
+      
             `;
+          element.innerHTML = element_string;  
+          elements.push(element);
+          }
+          else {
+              let element_string = `
+                  
+                              <div>
+                                <div>
+                                  <a href="/item/${ item.slug }/" target="_blank" rel="noopener"
+                                      title="${ item.title }">
+                                      <img class="d-none" src="${ item.item_image }" alt="${ item.title }"  />
+                                  </a>
+                                </div>
+                              </div>
+                              <figcaption class="d-none picture-item__title" name="${ item.title } ${ item.author}  ${ item.subject_names } ${ item.location_names}"><a href="${ item.slug }" target="_blank">${ item.title }</a></figcaption>
+                  
+                `;
         element.innerHTML = element_string;  
         elements.push(element);
+              }
+          
+          
+        
       });
           
       elements.forEach((element) => {
@@ -154,8 +180,20 @@
       });
       demo.shuffle.add(elements);
       demo.shuffle.enable();
+      
+      
+      Array.from(demo.shuffle.element.children).forEach((child) => {
+        const img = child.querySelector('img.d-none');
+        const caption = child.querySelector('.picture-item__title.d-none');
+        if (img) {
+          img.classList.remove('d-none');
+        }
+        if (caption) {
+          caption.classList.remove('d-none');
+        }
+      }); 
+      
     });
-
 
   </script>
   {% endblock %}
