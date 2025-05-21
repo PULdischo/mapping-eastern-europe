@@ -5,6 +5,9 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPassthroughCopy("admin");
   
   let items = require('./_data/items.json');
+  eleventyConfig.addCollection('all', collection => {
+    return items;
+  });
   eleventyConfig.addCollection('thematic-overview', collection => {
     return items.filter(item => item.category === 'thematic-overview');
   });
