@@ -28,6 +28,9 @@
             
                
               </div>
+              <div class="text-center" style="margin-top: 20px;">
+                <button id="load-more-btn" class="btn btn-primary">Load More</button>
+              </div>
             </div>
 
 
@@ -86,12 +89,10 @@
       addShuffleEventListeners() {
     
         this.shuffle.on(Shuffle.EventType.LAYOUT, (data) => {
-          // add the collection to the shuffle instance
-          
-
-          
-          //this.shuffle.layout();
-          
+          // console.log('layout. shuffle.js', data);
+        });
+        this.shuffle.on(Shuffle.EventType.REMOVED, (data) => {
+          // console.log('removed. shuffle.js', data);
         });
       };
 
@@ -181,17 +182,46 @@
       demo.shuffle.add(elements);
       demo.shuffle.enable();
       
-      
-      Array.from(demo.shuffle.element.children).forEach((child) => {
-        const img = child.querySelector('img.d-none');
-        const caption = child.querySelector('.picture-item__title.d-none');
-        if (img) {
-          img.classList.remove('d-none');
+      // Array.from(demo.shuffle.element.children).forEach((child) => {
+      //   const img = child.querySelector('img.d-none');
+      //   const caption = child.querySelector('.picture-item__title.d-none');
+      //   if (img) {
+      //     img.classList.remove('d-none');
+      //   }
+      //   if (caption) {
+      //     caption.classList.remove('d-none');
+      //   }
+      // }); 
+
+      const loadMoreButton = document.getElementById('load-more-btn');
+      let itemsToShow = 10; // Number of items to show per click
+      let initialVisibleItems = 11; // Already visible items
+
+      loadMoreButton.addEventListener('click', () => {
+        const hiddenItems = Array.from(demo.shuffle.element.querySelectorAll('.js-item img.d-none'));
+        const itemsToReveal = hiddenItems.slice(0, itemsToShow);
+
+        itemsToReveal.forEach(itemElement => {
+          // Find the parent figure element to get both img and figcaption
+          const figureElement = itemElement.closest('.js-item');
+          if (figureElement) {
+            const img = figureElement.querySelector('img.d-none');
+            const caption = figureElement.querySelector('.picture-item__title.d-none');
+            if (img) {
+              img.classList.remove('d-none');
+            }
+            if (caption) {
+              caption.classList.remove('d-none');
+            }
+          }
+        });
+
+        demo.shuffle.update();
+
+        if (hiddenItems.length <= itemsToShow) {
+          loadMoreButton.style.display = 'none'; // Hide button if no more items
         }
-        if (caption) {
-          caption.classList.remove('d-none');
-        }
-      }); 
+      });
       
     });
 
