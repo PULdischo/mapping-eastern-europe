@@ -912,30 +912,70 @@ var items = {"type": "FeatureCollection", "crs": {"type": "link", "properties": 
 </script>
 <!-- SELECT2 SECTION -->
 <script>
+  // Extract unique values for dropdown filters
+  const uniqueCategories = [];
+  const uniqueSubjects = [];
+  const uniqueLocations = [];
+  const uniqueAuthors = [];
+
+  const categoryIds = new Set();
+  const subjectIds = new Set();
+  const locationIds = new Set();
+  const authorNames = new Set();
+
+  items.features.forEach(feature => {
+    // Categories
+    if (feature.properties.categories && Array.isArray(feature.properties.categories)) {
+      feature.properties.categories.forEach(catId => {
+        if (catId !== null && !categoryIds.has(catId.toString())) {
+          categoryIds.add(catId.toString());
+          uniqueCategories.push({ id: catId.toString(), text: catId.toString() });
+        }
+      });
+    }
+
+    // Subjects
+    if (feature.properties.subjects && Array.isArray(feature.properties.subjects)) {
+      feature.properties.subjects.forEach(subId => {
+        if (subId !== null && !subjectIds.has(subId.toString())) {
+          subjectIds.add(subId.toString());
+          uniqueSubjects.push({ id: subId.toString(), text: subId.toString() });
+        }
+      });
+    }
+
+    // Locations
+    if (feature.properties.locations && Array.isArray(feature.properties.locations)) {
+      feature.properties.locations.forEach(locId => {
+        if (locId !== null && !locationIds.has(locId.toString())) {
+          locationIds.add(locId.toString());
+          uniqueLocations.push({ id: locId.toString(), text: locId.toString() });
+        }
+      });
+    }
+
+    // Authors
+    if (feature.properties.authors && typeof feature.properties.authors === 'string') {
+      const authorName = feature.properties.authors.trim();
+      if (authorName && !authorNames.has(authorName)) {
+        authorNames.add(authorName);
+        uniqueAuthors.push({ id: authorName, text: authorName });
+      }
+    }
+  });
  
   $('.select2-type').select2({
-    ajax: {
-      url: '/category-autocomplete.json',
-      dataType: 'json',
-      theme: 'bootstrap4',
-    }
+    data: uniqueCategories,
+    theme: 'bootstrap4',
   });
 
   $('.select2-subject').select2({
-    ajax: {
-      //url: '/subject-autocomplete/',
-      url: 'https://mapping.apjan.co/subject-autocomplete',
-      dataType: 'json',
-      theme: 'bootstrap4',
-    }
+    data: uniqueSubjects,
+    theme: 'bootstrap4',
   });
   $('.select2-location').select2({
-    ajax: {
-      //url: '/location-autocomplete/',
-      url: 'https://mapping.apjan.co/location-autocomplete',
-      dataType: 'json',
-      theme: 'bootstrap4',
-    }
+    data: uniqueLocations,
+    theme: 'bootstrap4',
   });
   $('.select2-medium').select2({
     ajax: {
@@ -954,11 +994,8 @@ var items = {"type": "FeatureCollection", "crs": {"type": "link", "properties": 
     }
   });
   $('.select2-author').select2({
-    ajax: {
-      url: 'https://mapping.apjan.co/author-autocomplete',
-      dataType: 'json',
-      theme: 'bootstrap4',
-    }
+    data: uniqueAuthors,
+    theme: 'bootstrap4',
   });
 
   $('.select2-author').on('select2:select', function (e) {
