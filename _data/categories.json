@@ -1,0 +1,44 @@
+[
+  {
+    "marker_image":"/assets/media/icons/noun_looking_for_663971.png",
+    "marker_shadow":"/assets/media/icons/noun_looking_for_663971.png",
+    "slug":"historical-overviews",
+    "name":"Historical Overviews"
+  },
+  {
+    "marker_image":"/assets/media/icons/noun_Museum_3477668.png",
+    "marker_shadow":"/assets/media/icons/noun_Museum_3477668.png",
+    "slug":"case-studies",
+    "name":"Case-Studies"
+  },
+  {
+    "marker_image":"/assets/media/icons/noun_book_setting_3987934_1.png",
+    "marker_shadow":"/assets/media/icons/noun_book_setting_3987934_1.png",
+    "slug":"book-reviews",
+    "name":"Book Reviews"
+  },
+  {
+    "marker_image":"/assets/media/icons/noun_Light_Bulb_3975159.png",
+    "marker_shadow":"/assets/media/icons/noun_Light_Bulb_3975159.png",
+    "slug":"ongoing-projects",
+    "name":"Ongoing Projects"
+  },
+  {
+    "marker_image":"/assets/media/icons/noun_Art_331992_1.png",
+    "marker_shadow":"/assets/media/icons/noun_Art_331992_1.png",
+    "slug":"thematic-overview",
+    "name":"Thematic Overview"
+  },
+  {
+    "marker_image":"/assets/media/icons/noun_Video_2292469.png",
+    "marker_shadow":"/assets/media/icons/noun_Video_2292469.png",
+    "slug":"videos",
+    "name":"Videos"
+  },
+  {
+    "marker_image":"/assets/media/icons/exhibit.png",
+    "marker_shadow":"/assets/media/icons/exhibit_6Y1Lz2s.png",
+    "slug":"exhibition-reviews",
+    "name":"Exhibition Reviews"
+  }
+]
