@@ -904,23 +904,32 @@ let items = {{ collections.FeatureCollection | dump | safe }};
   const uniqueSubjects = [];
   const uniqueLocations = [];
   const uniqueAuthors = [];
+  const uniqueMedium = [];
 
   const categoryIds = new Set();
   const subjectIds = new Set();
   const locationIds = new Set();
   const authorNames = new Set();
+  const mediumTypes = new Set();
 
   items.features.forEach(feature => {
     // Categories
-    if (feature.properties.categories && Array.isArray(feature.properties.categories)) {
-      feature.properties.categories.forEach(catId => {
-        if (catId !== null && !categoryIds.has(catId.toString())) {
-          categoryIds.add(catId.toString());
-          uniqueCategories.push({ id: catId.toString(), text: catId.toString() });
+    if (feature.properties.category) {
+      const catId = feature.properties.category.toString();
+      if (catId && !categoryIds.has(catId)) {
+        categoryIds.add(catId);
+        uniqueCategories.push({ id: catId, text: catId });
+      }
+    }
+    // Medium 
+    if (feature.properties.medium && Array.isArray(feature.properties.medium)) {
+      feature.properties.medium.forEach(medium => {
+        if (medium !== null && !mediumTypes.has(medium.toString())) {
+          mediumTypes.add(medium.toString());
+          uniqueMedium.push({ id: medium.toString(), text: medium.toString() });
         }
       });
     }
-
     // Subjects
     if (feature.properties.subjects && Array.isArray(feature.properties.subjects)) {
       feature.properties.subjects.forEach(subId => {
@@ -965,12 +974,8 @@ let items = {{ collections.FeatureCollection | dump | safe }};
     theme: 'bootstrap4',
   });
   $('.select2-medium').select2({
-    ajax: {
-      //url: '/medium-autocomplete/',
-      url: 'https://mapping.apjan.co/medium-autocomplete',
-      dataType: 'json',
-      theme: 'bootstrap4',
-    }
+    data: uniqueMedium,
+    theme: 'bootstrap4',
   });
   $('.select2-keywords').select2({
     ajax: {
@@ -1089,7 +1094,7 @@ let items = {{ collections.FeatureCollection | dump | safe }};
 
 
   // call make map for initial state before filters and search
-  make_map();
+  reset_map();
 </script>
 {% endblock %}
 
