@@ -22,7 +22,7 @@ module.exports = eleventyConfig => {
           category: item.category || null,
           location: item.location || null,
           locations: item.location_m2m || [],
-          medium: item.medium_m2m || [],
+          medium_m2m: item.medium_m2m || [],
           start_year: item.start_year || null,
           end_year: item.end_year || null,
           // locations: item.location_m2m || [],

@@ -926,9 +926,9 @@ let items = {{ collections.FeatureCollection | dump | safe }};
         uniqueCategories.push({ id: catId, text: catId });
       }
     }
-    // Medium 
-    if (feature.properties.medium && Array.isArray(feature.properties.medium)) {
-      feature.properties.medium.forEach(medium => {
+    // Medium
+    if (feature.properties.medium_m2m && Array.isArray(feature.properties.medium_m2m)) {
+      feature.properties.medium_m2m.forEach(medium => {
         if (medium !== null && !mediumTypes.has(medium.toString())) {
           mediumTypes.add(medium.toString());
           uniqueMedium.push({ id: medium.toString(), text: medium.toString() });
