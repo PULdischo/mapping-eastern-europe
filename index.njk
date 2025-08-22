@@ -195,18 +195,29 @@ let items = {{ collections.FeatureCollection | dump | safe }};
         }
       };
 
-      //Entry 
+      //Entry / Category 
+      //"category":"case-studies",
       if (type.length > 0) {
-        let matches = items.features[i].properties.categories.filter(value => type.includes(value.toString()));
+        let matches = type.filter(value => items.features[i].properties.category === value.toString());
+        console.log('matches: ', matches);
         if (matches.length ==  0) {
           drop_items.push(items.features[i].id)
         } 
       };
       
-      
-      //if (subjects.length == 0) {
-       // drop_items.push(items.features[i].id) 
-      //};
+      // Medium / Type
+      //"medium_m2m":[
+      // "Wall painting",
+      // "Architecture"
+      //  ],
+      if (medium.length > 0) {
+        let matches = items.features[i].properties.medium_m2m.filter(value => medium.includes(value.toString()));
+        if (matches.length ==  0) {
+          drop_items.push(items.features[i].id)
+        } 
+      };
+
+
       if (subjects.length > 0) {
         let matches = items.features[i].properties.subjects.filter(value => subjects.includes(value.toString()));
         if (matches.length ==  0) {
@@ -242,13 +253,7 @@ let items = {{ collections.FeatureCollection | dump | safe }};
 
       //TODO only works as an if else condition, why doesn't !medium work?
     
-      if (medium.length > 0) {
-        let matches = items.features[i].properties.types.filter(value => medium.includes(value.toString()));
-        if (matches.length == 0) {
-          drop_items.push(items.features[i].id)
-        } 
-      };
-      
+
 
       // helper functions to calculate intersection of date ranges
       // https://stackoverflow.com/questions/41378372/compare-two-numeric-range-in-javascript
