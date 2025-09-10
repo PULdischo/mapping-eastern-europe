@@ -1,43 +1,43 @@
 [
   {
-    "marker_image":"/assets/media/icons/noun_looking_for_663971.png",
-    "marker_shadow":"/assets/media/icons/noun_looking_for_663971.png",
+    "marker_image":"/assets/media/icons/overviews-icon.png",
+    "marker_shadow":"/assets/media/icons/overviews-icon.png",
     "slug":"historical-overviews",
     "name":"Historical Overviews"
   },
   {
-    "marker_image":"/assets/media/icons/noun_Museum_3477668.png",
-    "marker_shadow":"/assets/media/icons/noun_Museum_3477668.png",
+    "marker_image":"/assets/media/icons/case-studies-icon.png",
+    "marker_shadow":"/assets/media/icons/case-studies-icon.png",
     "slug":"case-studies",
     "name":"Case-Studies"
   },
   {
-    "marker_image":"/assets/media/icons/noun_book_setting_3987934_1.png",
-    "marker_shadow":"/assets/media/icons/noun_book_setting_3987934_1.png",
+    "marker_image":"/assets/media/icons/book-reviews-icon.png",
+    "marker_shadow":"/assets/media/icons/book-reviews-icon.png",
     "slug":"book-reviews",
     "name":"Book Reviews"
   },
   {
-    "marker_image":"/assets/media/icons/noun_Light_Bulb_3975159.png",
-    "marker_shadow":"/assets/media/icons/noun_Light_Bulb_3975159.png",
+    "marker_image":"/assets/media/icons/ongoing-projects-icon.png",
+    "marker_shadow":"/assets/media/icons/ongoing-projects-icon.png",
     "slug":"ongoing-projects",
     "name":"Ongoing Projects"
   },
   {
-    "marker_image":"/assets/media/icons/noun_Art_331992_1.png",
-    "marker_shadow":"/assets/media/icons/noun_Art_331992_1.png",
+    "marker_image":"/assets/media/icons/thematic-overview-icon.png",
+    "marker_shadow":"/assets/media/icons/thematic-overview-icon.png",
     "slug":"thematic-overview",
     "name":"Thematic Overview"
   },
   {
-    "marker_image":"/assets/media/icons/noun_Video_2292469.png",
-    "marker_shadow":"/assets/media/icons/noun_Video_2292469.png",
+    "marker_image":"/assets/media/icons/videos-icon.png",
+    "marker_shadow":"/assets/media/icons/videos-icon.png",
     "slug":"videos",
     "name":"Videos"
   },
   {
-    "marker_image":"/assets/media/icons/exhibit.png",
-    "marker_shadow":"/assets/media/icons/exhibit_6Y1Lz2s.png",
+    "marker_image":"/assets/media/icons/exhibition-reviews-icon.png",
+    "marker_shadow":"/assets/media/icons/exhibition-reviews-icon.png",
     "slug":"exhibition-reviews",
     "name":"Exhibition Reviews"
   }

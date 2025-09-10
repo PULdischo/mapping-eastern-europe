@@ -14,14 +14,36 @@ local_backend: true
 collections:
   - name: "items"
     label: "Items"
-    folder: "_data/items"
     create: true
     slug: "{{slug}}"
+    folder: "items"
     fields:
+      - { label: "ID", name: "id", widget: "number" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Affiliation", name: "affiliation", widget: "string" }
+      - { label: "Latitude", name: "latitude", widget: "number" }
+      - { label: "Longitude", name: "longitude", widget: "number" }
+      - { label: "Category", name: "category", widget: "select", options: [
+          { label: "Ongoing Projects", value: "ongoing-projects" },
+          { label: "Completed Projects", value: "completed-projects" },
+          { label: "Exhibitions", value: "exhibitions" },
+          { label: "Publications", value: "publications" },
+          { label: "Conferences", value: "conferences" },
+          { label: "Workshops", value: "workshops" },
+          { label: "Lectures", value: "lectures" },
+          { label: "Other", value: "other" }
+        ] }
+      - { label: "Make Public", name: "make_public", widget: "boolean", default: true }
+      - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
+      
+      - { label: "Subject", name: "subject_m2m", widget: "relation", collection: 'subject', search_fields: ['title'], value_field: 'id', display_fields: ['title'] }
       - { label: "Location", name: "location", widget: "string" }
-      - { label: "Medium", name: "medium_m2m", widget: "relation", collection: 'medium', search_fields: ['title'], value_field: 'id', display_fields: ['title'] }
+      - { label: "Location (Multiple)", name: "location_m2m", widget: "relation", collection: 'location', search_fields: ['title'], value_field: 'id', display_fields: ['title'] }
+      - { label: "Medium (Multiple)", name: "medium_m2m", widget: "relation", collection: 'medium', search_fields: ['title'], value_field: 'id', display_fields: ['title'] }
       - { label: "Start Year", name: "start_year", widget: "number" }
-      - { label: "End Year", name: "end_year", widget: "number" } 
+      - { label: "End Year", name: "end_year", widget: "number" }
+      - { label: "Content", name: "content", widget: "markdown" }
+
+
