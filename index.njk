@@ -958,7 +958,12 @@ let items = {{ collections.FeatureCollection | dump | safe }};
     // Authors
     if (feature.properties.authors && typeof feature.properties.authors === 'string') {
       const authorName = feature.properties.authors.trim();
-      if (authorName && !authorNames.has(authorName)) {
+      const excludedCategories = ["book-reviews", "exhibitions", "ongoing-projects"];
+      if (
+        authorName &&
+        !authorNames.has(authorName) &&
+        !excludedCategories.includes(feature.properties.category)
+      ) {
         authorNames.add(authorName);
         uniqueAuthors.push({ id: authorName, text: authorName });
       }
