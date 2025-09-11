@@ -196,13 +196,19 @@ let items = {{ collections.FeatureCollection | dump | safe }};
       };
 
       //Entry / Category 
-      //"category":"case-studies",
+      //"category":"case-studies",['case-studies', 'historical-overviews', 'thematic-overview', 'videos']
       if (type.length > 0) {
         let matches = type.filter(value => items.features[i].properties.category === value.toString());
         console.log('matches: ', matches);
         if (matches.length ==  0) {
           drop_items.push(items.features[i].id)
         } 
+      } else {
+        // if no type is selected, show all matches with ['case-studies', 'historical-overviews', 'thematic-overview', 'videos']
+        let matches = ['case-studies', 'historical-overviews', 'thematic-overviews', 'videos'].filter(value => items.features[i].properties.category === value.toString());
+        if (matches.length ==  0) {
+          drop_items.push(items.features[i].id)
+        }
       };
       
       // Medium / Type
@@ -1105,6 +1111,7 @@ let items = {{ collections.FeatureCollection | dump | safe }};
 
   // call make map for initial state before filters and search
   reset_map();
+ 
 </script>
 {% endblock %}
 
