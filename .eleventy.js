@@ -46,7 +46,9 @@ module.exports = eleventyConfig => {
   eleventyConfig.addCollection('book-reviews', collection => {
     return items.filter(item => item.category === 'book-reviews');
   });
-
+  eleventyConfig.addCollection('exhibits', collection => {
+    return items.filter(item => item.category === 'exhibits');
+  });
   //eleventyConfig.on('eleventy.after', () => {
   //  execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
   //});

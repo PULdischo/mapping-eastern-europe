@@ -1,0 +1,38 @@
+{% extends 'base.njk' %}
+{% block extra_css %}
+{% endblock%}
+
+{% block content %}
+
+<div class="container my-auto">
+    <section>
+        <div class="container">
+
+            {% for item in collections[listCollection] %}
+            <div class="row">
+                <div class="col-6 mx-auto">  
+          
+                    <a href="{{ item.title_link }}"><h3>{{ item.title | safe }}</h3></a>
+                    
+                </div>
+                <div class="col-6 mx-auto">  
+          
+                    
+                         <img src="{{ item.item_image }}" alt="{{ item.title | safe }}" class="img-fluid">
+                    
+                </div>    
+
+            </div>
+          {% endfor %}
+
+        </div>
+      </div>
+  </section>
+</div>
+
+
+
+{% endblock %}
+
+{% block extra_js %}
+{% endblock %}

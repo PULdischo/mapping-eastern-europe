@@ -1,5 +1,5 @@
 ---
-layout: grid.njk
+layout: exhibits.njk
 title: Exhibitions
-listCollection: 'exhibition-reviews'
+listCollection: 'exhibits'
 ---
