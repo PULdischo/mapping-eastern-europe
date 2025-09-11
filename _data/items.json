@@ -32,7 +32,8 @@
     "location":"Romania",
     "slug":"neagoe-basarab-of-wallachia-and-his-family",
     "item_image":"/assets/media/items/Fig._2_-_Neagoe_Basarab_and_Family_SUrQtK6.jpg",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/Fig._2_-_Neagoe_Basarab_and_Family_SUrQtK6.jpg"
   },
   {
     "longitude":20.4489216,
@@ -64,7 +65,8 @@
     "location":"Serbia",
     "slug":"review-of-j-erdeljan-ichosen-places-construct",
     "item_image":"/assets/media/items/1._Sullian_Erdeljan_fCw6ONC.jpg",
-    "start_year":450
+    "start_year":450,
+    "thumbnail":"/assets/thumbnail/1._Sullian_Erdeljan_fCw6ONC.jpg"
   },
   {
     "longitude":19.040235,
@@ -96,7 +98,8 @@
     "location":"Hungary",
     "slug":"review-of-m-craciun-and-e-fulton-eds-icommu",
     "item_image":"/assets/media/items/2._Hammerling_Craciun-Fulton_VdFcih5.jpg",
-    "start_year":1450
+    "start_year":1450,
+    "thumbnail":"/assets/thumbnail/2._Hammerling_Craciun-Fulton_VdFcih5.jpg"
   },
   {
     "longitude":30.5234,
@@ -151,7 +154,8 @@
     "location":"Ukraine",
     "slug":"rus-a-brief-overview",
     "item_image":"/assets/media/items/Copy_of_Icon_of_St_George_and_the_Dragon_-_BM.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/Copy_of_Icon_of_St_George_and_the_Dragon_-_BM.jpg"
   },
   {
     "longitude":21.8957589,
@@ -186,7 +190,8 @@
     "location":"Serbia",
     "slug":"historiographies-of-early-modern-southeast-europe",
     "item_image":"/assets/media/items/1_-_short_notice_image.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/1_-_short_notice_image.jpg"
   },
   {
     "longitude":38.5114203495,
@@ -221,7 +226,8 @@
     "location":"Russia",
     "slug":"performing-early-modern-russia",
     "item_image":"/assets/media/items/2_-_short_notice_image.JPG",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/2_-_short_notice_image.JPG"
   },
   {
     "longitude":22.9444191,
@@ -256,7 +262,8 @@
     "location":"Greece",
     "slug":"ideology-as-narrative-worldmaking-subjects-and-sp",
     "item_image":"/assets/media/items/Ohrid_Lake.jpg",
-    "start_year":1204
+    "start_year":1204,
+    "thumbnail":"/assets/thumbnail/Ohrid_Lake.jpg"
   },
   {
     "longitude":25.5960889,
@@ -291,7 +298,8 @@
     "location":"Romania",
     "slug":"the-wooden-sacristy-chest-of-putna-monastery",
     "item_image":"/assets/media/items/1_-_Wooden_Sacristy_Box_-_Putna.jpg",
-    "start_year":1401
+    "start_year":1401,
+    "thumbnail":"/assets/thumbnail/1_-_Wooden_Sacristy_Box_-_Putna.jpg"
   },
   {
     "longitude":25.5982871929,
@@ -323,7 +331,8 @@
     "location":"Romania",
     "slug":"the-burial-cover-of-maria-of-mangup",
     "item_image":"/assets/media/items/Burial_Cover_of_Maria_of_Mangup_MXCJK5Q.jpg",
-    "start_year":1450
+    "start_year":1450,
+    "thumbnail":"/assets/thumbnail/Burial_Cover_of_Maria_of_Mangup_MXCJK5Q.jpg"
   },
   {
     "longitude":18.774561882,
@@ -378,7 +387,8 @@
     "location":"Montenegro",
     "slug":"the-reliquary-casket-of-st-tryphon-kotor",
     "item_image":"/assets/media/items/01casket.jpg",
-    "start_year":1539
+    "start_year":1539,
+    "thumbnail":"/assets/thumbnail/01casket.jpg"
   },
   {
     "longitude":22.3901363438,
@@ -410,7 +420,8 @@
     "location":"Serbia",
     "slug":"review-of-s-curcic-iarchitecture-in-the-balkan",
     "item_image":"/assets/media/items/3._Marinis_Curcic.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/3._Marinis_Curcic.jpg"
   },
   {
     "longitude":28.369885,
@@ -442,7 +453,8 @@
     "location":"Republic of Moldova",
     "slug":"review-of-i-stamati-ithe-slavic-dossier-medie",
     "item_image":"/assets/media/items/4._Cusco_Stamati.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/4._Cusco_Stamati.jpg"
   },
   {
     "longitude":29.3707953495,
@@ -474,7 +486,8 @@
     "location":"Ukraine",
     "slug":"review-of-c-raffensperger-ithe-kingdom-of-rus",
     "item_image":"/assets/media/items/5._Coman_Raffensperger.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/5._Coman_Raffensperger.jpg"
   },
   {
     "longitude":22.0166011875,
@@ -506,7 +519,8 @@
     "location":"Serbia",
     "slug":"review-of-v-stankovic-ed-ithe-balkans-and-th",
     "item_image":"/assets/media/items/6._Johnson_Stankovic.jpg",
-    "start_year":1204
+    "start_year":1204,
+    "thumbnail":"/assets/thumbnail/6._Johnson_Stankovic.jpg"
   },
   {
     "longitude":20.2301703495,
@@ -538,7 +552,8 @@
     "location":"Serbia",
     "slug":"review-of-l-maksimovic-j-trivan-d-popovic-a",
     "item_image":"/assets/media/items/7._Bogdanovic_Popovic-Vojvodic.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/7._Bogdanovic_Popovic-Vojvodic.png"
   },
   {
     "longitude":43.9606390995,
@@ -570,7 +585,8 @@
     "location":"Russia",
     "slug":"review-of-a-sulikowska-ithe-icon-debate-relig",
     "item_image":"/assets/media/items/8._Olchawa_Sulikowska.jpg",
-    "start_year":1401
+    "start_year":1401,
+    "thumbnail":"/assets/thumbnail/8._Olchawa_Sulikowska.jpg"
   },
   {
     "longitude":23.2843695683,
@@ -602,7 +618,8 @@
     "location":"Bulgaria",
     "slug":"review-of-a-strezova-ihesychasm-and-art-the-a",
     "item_image":"/assets/media/items/9._Lazar_Strezova.jpg",
-    "start_year":1301
+    "start_year":1301,
+    "thumbnail":"/assets/thumbnail/9._Lazar_Strezova.jpg"
   },
   {
     "longitude":23.7444220585,
@@ -634,7 +651,8 @@
     "location":"Greece",
     "slug":"review-of-a-kaldellis-ilaonikos-chalkokondyles",
     "item_image":"/assets/media/items/10._Wright_Kaldellis.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/10._Wright_Kaldellis.jpg"
   },
   {
     "longitude":32.4469672245,
@@ -666,7 +684,8 @@
     "location":"Ukraine",
     "slug":"review-of-c-raffensperger-ireimagining-europe",
     "item_image":"/assets/media/items/11.Levin_Raffensperger.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/11.Levin_Raffensperger.jpg"
   },
   {
     "longitude":27.129584412,
@@ -698,7 +717,8 @@
     "location":"Romania",
     "slug":"review-of-l-pilat-and-o-cristea-ithe-ottoman",
     "item_image":"/assets/media/items/12._Bontea_Pilat-Cristea.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/12._Bontea_Pilat-Cristea.jpg"
   },
   {
     "longitude":28.9643012089,
@@ -730,7 +750,8 @@
     "location":"Turkey",
     "slug":"review-of-r-g-ousterhout-ieastern-medieval-ar",
     "item_image":"/assets/media/items/13._Mathiesen_Ousterhout.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/13._Mathiesen_Ousterhout.jpg"
   },
   {
     "longitude":24.9213324589,
@@ -762,7 +783,8 @@
     "location":"Bulgaria",
     "slug":"review-of-e-bakalova-m-dimitrova-and-m-a-joh",
     "item_image":"/assets/media/items/14._Sullivan_Bakalova-Dimitrova-Johnson.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/14._Sullivan_Bakalova-Dimitrova-Johnson.png"
   },
   {
     "longitude":28.9176093143,
@@ -794,7 +816,8 @@
     "location":"Turkey",
     "slug":"review-of-c-j-hilsdale-ibyzantine-art-and-dip",
     "item_image":"/assets/media/items/15._Corrie_Hilsdale.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/15._Corrie_Hilsdale.jpg"
   },
   {
     "longitude":22.4494086308,
@@ -826,7 +849,8 @@
     "location":"Poland",
     "slug":"review-of-j-gerhard-s-katalin-imedieval-east",
     "item_image":"/assets/media/items/16._Muhle_Gerhard.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/16._Muhle_Gerhard.jpg"
   },
   {
     "longitude":22.6691351933,
@@ -858,7 +882,8 @@
     "location":"Bulgaria",
     "slug":"review-of-m-j-johnson-r-g-ousterhout-and-a",
     "item_image":"/assets/media/items/17._Marinis_Johnson.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/17._Marinis_Johnson.png"
   },
   {
     "longitude":24.229193787,
@@ -890,7 +915,8 @@
     "location":"Greece",
     "slug":"review-of-n-k-moran-isingers-in-late-byzantin",
     "item_image":"/assets/media/items/18._Galavaris_Moran.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/18._Galavaris_Moran.jpg"
   },
   {
     "longitude":22.4274359745,
@@ -922,7 +948,8 @@
     "location":"Serbia",
     "slug":"review-of-p-stephenson-ibyzantiums-balkan-fro",
     "item_image":"/assets/media/items/19._Holmes_Stephenson.jpg",
-    "start_year":900
+    "start_year":900,
+    "thumbnail":"/assets/thumbnail/19._Holmes_Stephenson.jpg"
   },
   {
     "longitude":21.9879828495,
@@ -954,7 +981,8 @@
     "location":"Slovakia",
     "slug":"review-of-t-dacosta-kaufmann-icourt-cloister",
     "item_image":"/assets/media/items/20._Harries_Kaufmann.png",
-    "start_year":1450
+    "start_year":1450,
+    "thumbnail":"/assets/thumbnail/20._Harries_Kaufmann.png"
   },
   {
     "longitude":28.9424664,
@@ -993,7 +1021,8 @@
     "location":"Turkey",
     "slug":"the-bogdan-saray-istanbul",
     "item_image":"/assets/media/items/MelvaniBogdan3.jpg",
-    "start_year":1301
+    "start_year":1301,
+    "thumbnail":"/assets/thumbnail/MelvaniBogdan3.jpg"
   },
   {
     "longitude":22.7646184529,
@@ -1048,7 +1077,8 @@
     "location":"Romania",
     "slug":"the-st-nicholas-church-in-ribita-hunedoara-count",
     "item_image":"/assets/media/items/Fig._1_fW5k25Q.jpg",
-    "start_year":1350
+    "start_year":1350,
+    "thumbnail":"/assets/thumbnail/Fig._1_fW5k25Q.jpg"
   },
   {
     "longitude":21.4022408,
@@ -1107,7 +1137,8 @@
     "location":"Republic of North Macedonia",
     "slug":"the-church-of-st-demetrios-markov-monastery",
     "item_image":"/assets/media/items/Fig._1.JPG",
-    "start_year":1350
+    "start_year":1350,
+    "thumbnail":"/assets/thumbnail/Fig._1.JPG"
   },
   {
     "longitude":20.6460501,
@@ -1158,7 +1189,8 @@
     "location":"Serbia",
     "slug":"the-ascension-church-zica-monastery",
     "item_image":"/assets/media/items/Fig._1_BmEgrKg.jpg",
-    "start_year":1207
+    "start_year":1207,
+    "thumbnail":"/assets/thumbnail/Fig._1_BmEgrKg.jpg"
   },
   {
     "longitude":22.7413333,
@@ -1194,7 +1226,8 @@
     "location":"Greece",
     "slug":"the-gospel-lectionary-cover-by-dimos",
     "item_image":"/assets/media/items/GospelBook_Cover_-_Dimos_-_1673_-front.JPG",
-    "start_year":1673
+    "start_year":1673,
+    "thumbnail":"/assets/thumbnail/GospelBook_Cover_-_Dimos_-_1673_-front.JPG"
   },
   {
     "longitude":18.550769,
@@ -1234,7 +1267,8 @@
     "location":"Montenegro",
     "slug":"the-icon-of-our-lady-skopiotissa-savina-monastery",
     "item_image":"/assets/media/items/Savina1.jpeg",
-    "start_year":1647
+    "start_year":1647,
+    "thumbnail":"/assets/thumbnail/Savina1.jpeg"
   },
   {
     "longitude":31.2954591,
@@ -1289,7 +1323,8 @@
     "location":"Russia",
     "slug":"the-church-of-the-transfiguration-of-our-savior-on",
     "item_image":"/assets/media/items/Image_1_Transfiguration_Church_Novgorod.jpg",
-    "start_year":1301
+    "start_year":1301,
+    "thumbnail":"/assets/thumbnail/Image_1_Transfiguration_Church_Novgorod.jpg"
   },
   {
     "longitude":28.9783589,
@@ -1324,7 +1359,8 @@
     "location":"Turkey",
     "slug":"the-codex-oxoniensis-barocc-gr-87",
     "item_image":"/assets/media/items/Fig._1.png",
-    "start_year":1401
+    "start_year":1401,
+    "thumbnail":"/assets/thumbnail/Fig._1.png"
   },
   {
     "longitude":26.088911,
@@ -1375,7 +1411,8 @@
     "location":"Romania",
     "slug":"the-genealogical-chronicle-roll-of-the-bible",
     "item_image":"/assets/media/items/03_Flor.jpg",
-    "start_year":1740
+    "start_year":1740,
+    "thumbnail":"/assets/thumbnail/03_Flor.jpg"
   },
   {
     "longitude":25.6286522656,
@@ -1422,7 +1459,8 @@
     "location":"Bulgaria",
     "slug":"the-gospels-manuscript-of-tsar-ivan-alexander-of-b",
     "item_image":"/assets/media/items/TetraevangeliaOfIvanAlexanderFol212v.jpg",
-    "start_year":1350
+    "start_year":1350,
+    "thumbnail":"/assets/thumbnail/TetraevangeliaOfIvanAlexanderFol212v.jpg"
   },
   {
     "longitude":40.4109426,
@@ -1489,7 +1527,8 @@
     "location":"Russia",
     "slug":"the-cathedral-of-st-demetrios-vladimir",
     "item_image":"/assets/media/items/1-St_Demetrios-wikipedia.jpg",
-    "start_year":1193
+    "start_year":1193,
+    "thumbnail":"/assets/thumbnail/1-St_Demetrios-wikipedia.jpg"
   },
   {
     "longitude":22.9268401,
@@ -1536,7 +1575,8 @@
     "location":"Romania",
     "slug":"the-kivotion-of-tismana-monastery",
     "item_image":"/assets/media/items/1_kivotion.jpg",
-    "start_year":1650
+    "start_year":1650,
+    "thumbnail":"/assets/thumbnail/1_kivotion.jpg"
   },
   {
     "longitude":20.2653426,
@@ -1583,7 +1623,8 @@
     "location":"Kosovo",
     "slug":"the-church-of-the-mother-of-god-hodegetria-patria",
     "item_image":"/assets/media/items/682px-Patriarchate_of_Pe%C4%87_09_2010_2.jpg",
-    "start_year":1301
+    "start_year":1301,
+    "thumbnail":"/assets/thumbnail/682px-Patriarchate_of_Pe%C4%87_09_2010_2.jpg"
   },
   {
     "longitude":18.0096334,
@@ -1638,7 +1679,8 @@
     "location":"Croatia",
     "slug":"the-church-of-st-nicholas-island-of-kolocep",
     "item_image":"/assets/media/items/Picture1.jpg",
-    "start_year":1150
+    "start_year":1150,
+    "thumbnail":"/assets/thumbnail/Picture1.jpg"
   },
   {
     "longitude":20.5213617,
@@ -1673,7 +1715,8 @@
     "location":"Serbia",
     "slug":"gold-in-medieval-serbian-painting",
     "item_image":"/assets/media/items/St._Stephen_Mileseva.jpg",
-    "start_year":1208
+    "start_year":1208,
+    "thumbnail":"/assets/thumbnail/St._Stephen_Mileseva.jpg"
   },
   {
     "longitude":25.6171514,
@@ -1705,7 +1748,8 @@
     "location":"Bulgaria",
     "slug":"orthodox-slavic-polemical-writings-in-the-middle-a",
     "item_image":"/assets/media/items/MappingEE1.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/MappingEE1.png"
   },
   {
     "longitude":25.4460586514,
@@ -1737,7 +1781,8 @@
     "location":"Bulgaria",
     "slug":"dualist-heresies-in-the-history-of-south-east-euro",
     "item_image":"/assets/media/items/MappingEE2.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/MappingEE2.png"
   },
   {
     "longitude":28.9496619457,
@@ -1769,7 +1814,8 @@
     "location":"Turkey",
     "slug":"muhammad-and-the-origin-of-islam-stereotypes-kn",
     "item_image":"/assets/media/items/MappingEE2_HH6wZUx.png",
-    "start_year":1150
+    "start_year":1150,
+    "thumbnail":"/assets/thumbnail/MappingEE2_HH6wZUx.png"
   },
   {
     "longitude":31.1342137759,
@@ -1808,7 +1854,8 @@
     "location":"Russia",
     "slug":"the-novgorod-first-chronicle-polish-translation",
     "item_image":"/assets/media/items/P5200243.JPG",
-    "start_year":1150
+    "start_year":1150,
+    "thumbnail":"/assets/thumbnail/P5200243.JPG"
   },
   {
     "longitude":23.3218675,
@@ -1840,7 +1887,8 @@
     "location":"Bulgaria",
     "slug":"from-incunabula-to-first-grammars-contexts-of-the",
     "item_image":"/assets/media/items/MappingEE5.png",
-    "start_year":1470
+    "start_year":1470,
+    "thumbnail":"/assets/thumbnail/MappingEE5.png"
   },
   {
     "longitude":19.8335496,
@@ -1872,7 +1920,8 @@
     "location":"Serbia",
     "slug":"the-cultural-implications-of-the-migrations-of-ser",
     "item_image":"/assets/media/items/MappingEE6.png",
-    "start_year":1689
+    "start_year":1689,
+    "thumbnail":"/assets/thumbnail/MappingEE6.png"
   },
   {
     "longitude":20.5316786,
@@ -1915,7 +1964,8 @@
     "location":"Serbia",
     "slug":"study-studenica-parametric-and-reverse-architectu",
     "item_image":"/assets/media/items/Screen_Shot_2020-10-06_at_7.39.46_PM.png",
-    "start_year":1208
+    "start_year":1208,
+    "thumbnail":"/assets/thumbnail/Screen_Shot_2020-10-06_at_7.39.46_PM.png"
   },
   {
     "longitude":28.8944701309,
@@ -1962,7 +2012,8 @@
     "location":"Turkey",
     "slug":"luxury-fashion-and-social-status-in-early-modern",
     "item_image":"/assets/media/items/4._Helene_Soutzou.jpeg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/4._Helene_Soutzou.jpeg"
   },
   {
     "longitude":24.96676,
@@ -2013,7 +2064,8 @@
     "location":"Romania",
     "slug":"romania-a-brief-overview",
     "item_image":"/assets/media/items/Rom1856-1859.png",
-    "start_year":1200
+    "start_year":1200,
+    "thumbnail":"/assets/thumbnail/Rom1856-1859.png"
   },
   {
     "longitude":21.8280364,
@@ -2061,7 +2113,8 @@
     "location":"Republic of North Macedonia",
     "slug":"the-church-of-st-george-at-staro-nagoricino",
     "item_image":"/assets/media/items/Church_of_Saint_George_in_Staro_Nagorichino_frescos_on_the_northern_wall.jpg",
-    "start_year":1312
+    "start_year":1312,
+    "thumbnail":"/assets/thumbnail/Church_of_Saint_George_in_Staro_Nagorichino_frescos_on_the_northern_wall.jpg"
   },
   {
     "longitude":23.881275,
@@ -2093,7 +2146,8 @@
     "location":"Lithuania",
     "slug":"the-routledge-handbook-of-east-central-and-eastern",
     "item_image":"/assets/media/items/Routledge_Handbook.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/Routledge_Handbook.jpg"
   },
   {
     "longitude":23.881275,
@@ -2125,7 +2179,8 @@
     "location":"Lithuania",
     "slug":"bibliography-of-the-history-and-archaeology-of-eas",
     "item_image":"/assets/media/items/MappingEE_Curta_vYfWaqc.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/MappingEE_Curta_vYfWaqc.png"
   },
   {
     "longitude":28.9373774285,
@@ -2160,7 +2215,8 @@
     "location":"Turkey",
     "slug":"gold-embroideries-from-constantinople-15th19th-c",
     "item_image":"/assets/media/items/Screen_Shot_2020-10-09_at_6.05.05_PM.png",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/Screen_Shot_2020-10-09_at_6.05.05_PM.png"
   },
   {
     "longitude":24.6686898614,
@@ -2192,7 +2248,8 @@
     "location":"Romania",
     "slug":"review-of-m-d-grigore-ineagoe-basarab-princ",
     "item_image":"/assets/media/items/21._Bruning_Grigore.jpg",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/21._Bruning_Grigore.jpg"
   },
   {
     "longitude":23.6620995312,
@@ -2224,7 +2281,8 @@
     "location":"Bulgaria",
     "slug":"review-of-e-n-boeck-iimagining-the-byzantine",
     "item_image":"/assets/media/items/22.Anderson_Boeck.jpg",
-    "start_year":500
+    "start_year":500,
+    "thumbnail":"/assets/thumbnail/22.Anderson_Boeck.jpg"
   },
   {
     "longitude":25.8017209375,
@@ -2256,7 +2314,8 @@
     "location":null,
     "slug":"review-of-t-m-bohn-a-gheorghe-and-a-weber-e",
     "item_image":"/assets/media/items/23._Gezer_BohnGhergheWeber.jpg",
-    "start_year":1450
+    "start_year":1450,
+    "thumbnail":"/assets/thumbnail/23._Gezer_BohnGhergheWeber.jpg"
   },
   {
     "longitude":26.188955,
@@ -2288,7 +2347,8 @@
     "location":null,
     "slug":"review-of-r-browning-ibyzantium-and-bulgaria",
     "item_image":"/assets/media/items/24._Nicol_Browning.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/24._Nicol_Browning.jpg"
   },
   {
     "longitude":22.6538082188,
@@ -2320,7 +2380,8 @@
     "location":"Bulgaria",
     "slug":"review-of-e-davidova-ed-iwealth-in-the-ottom",
     "item_image":"/assets/media/items/25._%C3%87ak%C4%B1ro%C4%9Flu_Davidova.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/25._%C3%87ak%C4%B1ro%C4%9Flu_Davidova.jpg"
   },
   {
     "longitude":26.5707639062,
@@ -2352,7 +2413,8 @@
     "location":"Romania",
     "slug":"review-of-j-eagles-istephen-the-great-and-balk",
     "item_image":"/assets/media/items/26._Cristea_Eagles.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/26._Cristea_Eagles.jpg"
   },
   {
     "longitude":28.8053337188,
@@ -2384,7 +2446,8 @@
     "location":"Turkey",
     "slug":"review-of-h-c-evans-and-w-d-wixom-eds-ith",
     "item_image":"/assets/media/items/27._Buckton_Evans.jpg",
-    "start_year":1200
+    "start_year":1200,
+    "thumbnail":"/assets/thumbnail/27._Buckton_Evans.jpg"
   },
   {
     "longitude":22.0528921875,
@@ -2416,7 +2479,8 @@
     "location":"Republic of North Macedonia",
     "slug":"review-of-rf-hoddinott-iearly-churches-in-mac",
     "item_image":"/assets/media/items/28._Harris_Hoddinott.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/28._Harris_Hoddinott.jpg"
   },
   {
     "longitude":26.8783810937,
@@ -2448,7 +2512,8 @@
     "location":"Romania",
     "slug":"review-of-j-p-himka-ilast-judgment-iconograph",
     "item_image":"/assets/media/items/30._Pevny_Himka.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/30._Pevny_Himka.jpg"
   },
   {
     "longitude":24.1212945,
@@ -2480,7 +2545,8 @@
     "location":"Romania",
     "slug":"review-of-d-m-istrate-m-constantinescu-and-a",
     "item_image":"/assets/media/items/31._Pluskowski_IstrateConstantinescuSoficaru.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/31._Pluskowski_IstrateConstantinescuSoficaru.png"
   },
   {
     "longitude":24.1317990625,
@@ -2512,7 +2578,8 @@
     "location":"Romania",
     "slug":"review-of-i-keul-iearly-modern-religious-commu",
     "item_image":"/assets/media/items/32._Staab_Keul.jpg",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/32._Staab_Keul.jpg"
   },
   {
     "longitude":26.1532834375,
@@ -2544,7 +2611,8 @@
     "location":"Romania",
     "slug":"review-of-a-pippidi-ibyzantins-ottomans-roum",
     "item_image":"/assets/media/items/35._Timotin_Pippidi.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/35._Timotin_Pippidi.jpg"
   },
   {
     "longitude":37.09566625,
@@ -2576,7 +2644,8 @@
     "location":"Russia",
     "slug":"review-of-j-shepard-ed-ithe-expansion-of-ort",
     "item_image":"/assets/media/items/36._Rady_Shepard.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/36._Rady_Shepard.jpg"
   },
   {
     "longitude":21.3744837,
@@ -2608,7 +2677,8 @@
     "location":"Republic of North Macedonia",
     "slug":"review-of-i-sinkevic-ithe-church-of-st-pantel",
     "item_image":"/assets/media/items/37._Hadermann-MisguichVanderheye_Sinkevic.jpg",
-    "start_year":1160
+    "start_year":1160,
+    "thumbnail":"/assets/thumbnail/37._Hadermann-MisguichVanderheye_Sinkevic.jpg"
   },
   {
     "longitude":20.0526205063,
@@ -2640,7 +2710,8 @@
     "location":"Hungary",
     "slug":"review-of-e-fugedi-icastle-and-society-in-medi",
     "item_image":"/assets/media/items/39._Rady_F%C3%BCgedi.jpg",
-    "start_year":1000
+    "start_year":1000,
+    "thumbnail":"/assets/thumbnail/39._Rady_F%C3%BCgedi.jpg"
   },
   {
     "longitude":28.9550224395,
@@ -2672,7 +2743,8 @@
     "location":"Turkey",
     "slug":"review-of-h-c-evans-ed-ibyzantium-faith-and",
     "item_image":"/assets/media/items/40._Parani_Evans.jpg",
-    "start_year":1250
+    "start_year":1250,
+    "thumbnail":"/assets/thumbnail/40._Parani_Evans.jpg"
   },
   {
     "longitude":19.1077962875,
@@ -2704,7 +2776,8 @@
     "location":"Slovakia",
     "slug":"review-of-n-berend-p-urbanczyk-and-p-wiszewsk",
     "item_image":"/assets/media/items/41._Curta_Bernerd_ONnKO4o.jpg",
-    "start_year":1000
+    "start_year":1000,
+    "thumbnail":"/assets/thumbnail/41._Curta_Bernerd_ONnKO4o.jpg"
   },
   {
     "longitude":24.4080464,
@@ -2736,7 +2809,8 @@
     "location":"Greece",
     "slug":"review-of-d-krueger-and-r-s-nelson-eds-ith",
     "item_image":"/assets/media/items/42._Krause_Kreuger.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/42._Krause_Kreuger.jpg"
   },
   {
     "longitude":24.10946825,
@@ -2768,7 +2842,8 @@
     "location":"Greece",
     "slug":"review-of-b-kuhnel-g-noga-banai-and-h-vorholt",
     "item_image":"/assets/media/items/43._Lapina_Kuhnel.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/43._Lapina_Kuhnel.jpg"
   },
   {
     "longitude":30.9600740378,
@@ -2800,7 +2875,8 @@
     "location":"Russia",
     "slug":"sophia-wisdom-of-god-personified-history-of-per",
     "item_image":"/assets/media/items/MappingEE_Zofia.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/MappingEE_Zofia.png"
   },
   {
     "longitude":21.3966415924,
@@ -2836,7 +2912,8 @@
     "location":"Romania",
     "slug":"routledge-handbook-of-byzantium-and-the-danube-reg",
     "item_image":"/assets/media/items/MappingEE_Rossi_Sullivan.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/MappingEE_Rossi_Sullivan.png"
   },
   {
     "longitude":24.3157196,
@@ -2880,7 +2957,8 @@
     "location":"Romania",
     "slug":"the-epitaphios-of-cozia-monastery",
     "item_image":"/assets/media/items/_DSC3842.jpg",
-    "start_year":1350
+    "start_year":1350,
+    "thumbnail":"/assets/thumbnail/_DSC3842.jpg"
   },
   {
     "longitude":22.8835409487,
@@ -2912,7 +2990,8 @@
     "location":"Greece",
     "slug":"the-evolution-of-the-byzantine-embroidery-traditio",
     "item_image":"/assets/media/items/couv1.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/couv1.jpg"
   },
   {
     "longitude":20.7954559,
@@ -2976,7 +3055,8 @@
     "location":"Republic of North Macedonia",
     "slug":"the-icon-of-the-virgin-and-child-ohrid",
     "item_image":"/assets/media/items/4_2.jpg",
-    "start_year":1300
+    "start_year":1300,
+    "thumbnail":"/assets/thumbnail/4_2.jpg"
   },
   {
     "longitude":20.2659536,
@@ -3027,7 +3107,8 @@
     "location":"Kosovo",
     "slug":"the-christ-pantokrator-church-decani-monastery",
     "item_image":"/assets/media/items/decani.jpg",
-    "start_year":1327
+    "start_year":1327,
+    "thumbnail":"/assets/thumbnail/decani.jpg"
   },
   {
     "longitude":26.1025384,
@@ -3062,7 +3143,8 @@
     "location":"Romania",
     "slug":"on-the-origins-of-the-book-printing-in-the-ottoman",
     "item_image":"/assets/media/items/Leber.jpg",
-    "start_year":1480
+    "start_year":1480,
+    "thumbnail":"/assets/thumbnail/Leber.jpg"
   },
   {
     "longitude":26.084574,
@@ -3101,7 +3183,8 @@
     "location":"Turkey",
     "slug":"ainos-and-selymbria-historical-evolution-urban-p",
     "item_image":"/assets/media/items/1._%CE%99._%CE%9C._%CE%A0%CE%95%CE%A1%CE%A1%CE%91%CE%9A%CE%97%CE%A3_DSCN8306_29.07.2015.JPG",
-    "start_year":1150
+    "start_year":1150,
+    "thumbnail":"/assets/thumbnail/1._%CE%99._%CE%9C._%CE%A0%CE%95%CE%A1%CE%A1%CE%91%CE%9A%CE%97%CE%A3_DSCN8306_29.07.2015.JPG"
   },
   {
     "longitude":21.6842793988,
@@ -3140,7 +3223,8 @@
     "location":"Republic of North Macedonia",
     "slug":"maps-of-power-historical-atlas-of-places-borderz",
     "item_image":"/assets/media/items/01.png",
-    "start_year":1150
+    "start_year":1150,
+    "thumbnail":"/assets/thumbnail/01.png"
   },
   {
     "longitude":24.2152731,
@@ -3191,7 +3275,8 @@
     "location":"Greece",
     "slug":"mount-athos-a-brief-overview",
     "item_image":"/assets/media/items/Map_of_Mount_Athos.jpg",
-    "start_year":1150
+    "start_year":1150,
+    "thumbnail":"/assets/thumbnail/Map_of_Mount_Athos.jpg"
   },
   {
     "longitude":26.2095764,
@@ -3254,7 +3339,8 @@
     "location":"Romania",
     "slug":"the-imperial-deesis-mural-at-the-church-of-st-eli",
     "item_image":"/assets/media/items/1.JPG",
-    "start_year":1480
+    "start_year":1480,
+    "thumbnail":"/assets/thumbnail/1.JPG"
   },
   {
     "longitude":22.952845,
@@ -3291,7 +3377,8 @@
     "location":"Greece",
     "slug":"the-bilateral-icon-of-blatadon-monastery",
     "item_image":"/assets/media/items/Crucifixion_15th_C_Bilateral.JPG",
-    "start_year":1350
+    "start_year":1350,
+    "thumbnail":"/assets/thumbnail/Crucifixion_15th_C_Bilateral.JPG"
   },
   {
     "longitude":24.3157196,
@@ -3338,7 +3425,8 @@
     "location":"Romania",
     "slug":"the-holy-trinity-church-cozia-monastery",
     "item_image":"/assets/media/items/Bogdanovic_Fig_1_Cozia-from_the_river.jpg",
-    "start_year":1380
+    "start_year":1380,
+    "thumbnail":"/assets/thumbnail/Bogdanovic_Fig_1_Cozia-from_the_river.jpg"
   },
   {
     "longitude":48.6935949326,
@@ -3374,7 +3462,8 @@
     "location":"Russia",
     "slug":"the-zyrianskaia-trinity-icon",
     "item_image":"/assets/media/items/zyrianskaia_troitsa_after_cleaning.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/zyrianskaia_troitsa_after_cleaning.jpg"
   },
   {
     "longitude":20.2659536,
@@ -3418,7 +3507,8 @@
     "location":"Serbia",
     "slug":"the-genealogical-tree-of-the-nemanjic-dynasty-dec",
     "item_image":"/assets/media/items/01_NemanjicFamilyTree_IMG_7862.JPG",
-    "start_year":1340
+    "start_year":1340,
+    "thumbnail":"/assets/thumbnail/01_NemanjicFamilyTree_IMG_7862.JPG"
   },
   {
     "longitude":24.2098214,
@@ -3479,7 +3569,8 @@
     "location":"Greece",
     "slug":"the-panagiaria-of-vatopedi-monastery-mount-athos",
     "item_image":"/assets/media/items/Fig._1_YRRQJ81.JPG",
-    "start_year":1300
+    "start_year":1300,
+    "thumbnail":"/assets/thumbnail/Fig._1_YRRQJ81.JPG"
   },
   {
     "longitude":24.91,
@@ -3512,7 +3603,8 @@
     "location":"Greece",
     "slug":"death-and-the-archangel-an-icon-at-yale",
     "item_image":"/assets/media/items/CaseStudy_Parpulov.jpg",
-    "start_year":1680
+    "start_year":1680,
+    "thumbnail":"/assets/thumbnail/CaseStudy_Parpulov.jpg"
   },
   {
     "longitude":38.5674859,
@@ -3563,7 +3655,8 @@
     "location":"Russia",
     "slug":"the-church-of-the-nativity-of-the-mother-of-god-f",
     "item_image":"/assets/media/items/Shevelkina_Image_1_Zo5Euya.jpeg",
-    "start_year":1490
+    "start_year":1490,
+    "thumbnail":"/assets/thumbnail/Shevelkina_Image_1_Zo5Euya.jpeg"
   },
   {
     "longitude":22.9444191,
@@ -3608,7 +3701,8 @@
     "location":"Greece",
     "slug":"the-thessaloniki-epitaphios",
     "item_image":"/assets/media/items/threnos.jpg",
-    "start_year":1280
+    "start_year":1280,
+    "thumbnail":"/assets/thumbnail/threnos.jpg"
   },
   {
     "longitude":22.9546086,
@@ -3659,7 +3753,8 @@
     "location":"Greece",
     "slug":"the-church-of-taxiarches-thessaloniki-upper-town",
     "item_image":"/assets/media/items/Taxiarches2.jpeg",
-    "start_year":1290
+    "start_year":1290,
+    "thumbnail":"/assets/thumbnail/Taxiarches2.jpeg"
   },
   {
     "longitude":26.1025384,
@@ -3714,7 +3809,8 @@
     "location":"Romania",
     "slug":"the-early-iconostasis-in-wallachia",
     "item_image":"/assets/media/items/02.a.JPG",
-    "start_year":1490
+    "start_year":1490,
+    "thumbnail":"/assets/thumbnail/02.a.JPG"
   },
   {
     "longitude":24.8497177,
@@ -3765,7 +3861,8 @@
     "location":"Bulgaria",
     "slug":"the-ossuary-of-the-bachkovo-monastery",
     "item_image":"/assets/media/items/Fig._6_xxRXL0s.jpg",
-    "start_year":1080
+    "start_year":1080,
+    "thumbnail":"/assets/thumbnail/Fig._6_xxRXL0s.jpg"
   },
   {
     "longitude":21.5533795,
@@ -3816,7 +3913,8 @@
     "location":"Republic of North Macedonia",
     "slug":"the-church-of-the-dormition-of-the-mother-of-god",
     "item_image":"/assets/media/items/1.jpg",
-    "start_year":1340
+    "start_year":1340,
+    "thumbnail":"/assets/thumbnail/1.jpg"
   },
   {
     "longitude":24.4106293,
@@ -3888,7 +3986,8 @@
     "location":"Romania",
     "slug":"the-man-of-sorrows-in-the-chancel-of-the-fortified",
     "item_image":"/assets/media/items/3_1.JPG",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/3_1.JPG"
   },
   {
     "longitude":28.9395999,
@@ -3920,7 +4019,8 @@
     "location":"Turkey",
     "slug":"the-monastery-of-st-john-of-petra-istanbul",
     "item_image":"/assets/media/items/Kesmekaya.jpg",
-    "start_year":1070
+    "start_year":1070,
+    "thumbnail":"/assets/thumbnail/Kesmekaya.jpg"
   },
   {
     "longitude":21.193494,
@@ -3975,7 +4075,8 @@
     "location":"Kosovo",
     "slug":"gracanica-monastery",
     "item_image":"/assets/media/items/3._Gracanica_Interior_view_from_the_narthex_to_the_altar.jpg",
-    "start_year":1320
+    "start_year":1320,
+    "thumbnail":"/assets/thumbnail/3._Gracanica_Interior_view_from_the_narthex_to_the_altar.jpg"
   },
   {
     "longitude":19.0528645469,
@@ -4007,7 +4108,8 @@
     "location":"Hungary",
     "slug":"review-of-jan-biaostocki-ithe-art-of-the-renai",
     "item_image":"/assets/media/items/44._Pospisil_Bialostocki.jpg",
-    "start_year":1401
+    "start_year":1401,
+    "thumbnail":"/assets/thumbnail/44._Pospisil_Bialostocki.jpg"
   },
   {
     "longitude":16.2107421875,
@@ -4039,7 +4141,8 @@
     "location":"Croatia",
     "slug":"review-of-julia-verkholantsev-ithe-slavic-lette",
     "item_image":"/assets/media/items/45._Caudano_Verkholantsev.jpg",
-    "start_year":1301
+    "start_year":1301,
+    "thumbnail":"/assets/thumbnail/45._Caudano_Verkholantsev.jpg"
   },
   {
     "longitude":17.4378743125,
@@ -4071,7 +4174,8 @@
     "location":"Hungary",
     "slug":"review-of-sandra-baragli-ieuropean-art-of-the-f",
     "item_image":"/assets/media/items/46._Szakacs_Baragli.jpeg",
-    "start_year":1301
+    "start_year":1301,
+    "thumbnail":"/assets/thumbnail/46._Szakacs_Baragli.jpeg"
   },
   {
     "longitude":25.230431875,
@@ -4103,7 +4207,8 @@
     "location":"Romania",
     "slug":"review-of-laurentiu-radvan-iat-europes-borders",
     "item_image":"/assets/media/items/47._Grzesik_Radvan.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/47._Grzesik_Radvan.jpg"
   },
   {
     "longitude":19.1890813125,
@@ -4135,7 +4240,8 @@
     "location":"Poland",
     "slug":"review-of-emilia-jamroziak-and-karen-stober-eds",
     "item_image":"/assets/media/items/48._Howe_Jamroziak-Stober.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/48._Howe_Jamroziak-Stober.jpg"
   },
   {
     "longitude":23.0990842187,
@@ -4167,7 +4273,8 @@
     "location":"Romania",
     "slug":"review-of-duncan-berryman-and-sarah-kerr-eds-i",
     "item_image":"/assets/media/items/49._Hutterer_Berryman-Kerr.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/49._Hutterer_Berryman-Kerr.jpg"
   },
   {
     "longitude":14.4529296875,
@@ -4199,7 +4306,8 @@
     "location":"Croatia",
     "slug":"review-of-cordelia-beattie-anna-maslakovic-and-s",
     "item_image":"/assets/media/items/50._Jordan_Beattie-Maslakovic-Jones.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/50._Jordan_Beattie-Maslakovic-Jones.jpg"
   },
   {
     "longitude":22.2802730625,
@@ -4231,7 +4339,8 @@
     "location":"Serbia",
     "slug":"review-of-mark-c-bartusis-iland-and-privilege",
     "item_image":"/assets/media/items/51._Kaegi_Bartusis.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/51._Kaegi_Bartusis.jpg"
   },
   {
     "longitude":18.4563132,
@@ -4263,7 +4372,8 @@
     "location":"Poland",
     "slug":"review-of-robert-maniura-ipilgrimage-to-images",
     "item_image":"/assets/media/items/52._Kabala_Maniura.jpg",
-    "start_year":1401
+    "start_year":1401,
+    "thumbnail":"/assets/thumbnail/52._Kabala_Maniura.jpg"
   },
   {
     "longitude":21.193494,
@@ -4295,7 +4405,8 @@
     "location":"Kosovo",
     "slug":"review-of-slobodan-curcic-igracanica-king-milu",
     "item_image":"/assets/media/items/53._Epstein_Curcic.jpg",
-    "start_year":1300
+    "start_year":1300,
+    "thumbnail":"/assets/thumbnail/53._Epstein_Curcic.jpg"
   },
   {
     "longitude":22.23632775,
@@ -4327,7 +4438,8 @@
     "location":"Serbia",
     "slug":"review-of-john-va-fine-ithe-early-medieval-ba",
     "item_image":"/assets/media/items/55._Ho_Fine.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/55._Ho_Fine.jpg"
   },
   {
     "longitude":22.5439449375,
@@ -4359,7 +4471,8 @@
     "location":"Serbia",
     "slug":"review-of-mark-j-johnson-robert-ousterhout-and",
     "item_image":"/assets/media/items/56._Teteriatnikov_Johnson-Ousterhout-Papalexandrou.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/56._Teteriatnikov_Johnson-Ousterhout-Papalexandrou.jpg"
   },
   {
     "longitude":24.2152731,
@@ -4391,7 +4504,8 @@
     "location":"Greece",
     "slug":"review-of-alice-mary-talbot-richard-greenfield-a",
     "item_image":"/assets/media/items/57._Marinides_Talbot-Greenfield-Alexakis-McGrath.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/57._Marinides_Talbot-Greenfield-Alexakis-McGrath.jpg"
   },
   {
     "longitude":21.824312,
@@ -4423,7 +4537,8 @@
     "location":"Greece",
     "slug":"review-of-nicholas-melvani-ilate-byzantine-scul",
     "item_image":"/assets/media/items/60._Vanderheyde_Melvani.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/60._Vanderheyde_Melvani.jpg"
   },
   {
     "longitude":27.508947,
@@ -4455,7 +4570,8 @@
     "location":"Turkey",
     "slug":"review-of-jerold-c-frakes-icontextualizing-the",
     "item_image":"/assets/media/items/62._Cuffel_Frakes.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/62._Cuffel_Frakes.jpg"
   },
   {
     "longitude":23.3544823437,
@@ -4487,7 +4603,8 @@
     "location":"Bulgaria",
     "slug":"review-of-ekaterina-dimitrova-ithe-gospels-of-t",
     "item_image":"/assets/media/items/63.Milner-Gulland_Dimitrova.jpg",
-    "start_year":1301
+    "start_year":1301,
+    "thumbnail":"/assets/thumbnail/63.Milner-Gulland_Dimitrova.jpg"
   },
   {
     "longitude":21.824312,
@@ -4519,7 +4636,8 @@
     "location":"Greece",
     "slug":"review-of-judith-herrin-and-guillaume-saint-guilla",
     "item_image":"/assets/media/items/64.Page_Herrin__Saint-Guillain.tif",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/64.Page_Herrin__Saint-Guillain.tif"
   },
   {
     "longitude":25.2661034375,
@@ -4551,7 +4669,8 @@
     "location":"Bulgaria",
     "slug":"review-of-panos-sophoulis-ibyzantium-and-bulgar",
     "item_image":"/assets/media/items/65._Mladjov_Sophoulis.jpg",
-    "start_year":800
+    "start_year":800,
+    "thumbnail":"/assets/thumbnail/65._Mladjov_Sophoulis.jpg"
   },
   {
     "longitude":24.3437046,
@@ -4596,7 +4715,8 @@
     "location":"Romania",
     "slug":"the-pieta-icon-ostrov-monastery",
     "item_image":"/assets/media/items/01.jpg",
-    "start_year":1490
+    "start_year":1490,
+    "thumbnail":"/assets/thumbnail/01.jpg"
   },
   {
     "longitude":25.48583,
@@ -4643,7 +4763,8 @@
     "location":"Bulgaria",
     "slug":"byzantine-bulgarian-relations-1204-1261-a-histor",
     "item_image":"/assets/media/items/GrantPicture1.jpg",
-    "start_year":1204
+    "start_year":1204,
+    "thumbnail":"/assets/thumbnail/GrantPicture1.jpg"
   },
   {
     "longitude":24.96676,
@@ -4682,7 +4803,8 @@
     "location":"Romania",
     "slug":"light-in-churches-in-byzantium-and-beyond",
     "item_image":"/assets/media/items/3.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/3.jpg"
   },
   {
     "longitude":22.5908578,
@@ -4757,7 +4879,8 @@
     "location":"Romania",
     "slug":"the-church-of-the-dormition-of-the-virgin-at-halma",
     "item_image":"/assets/media/items/HALMAGIU_fig04.JPG",
-    "start_year":1370
+    "start_year":1370,
+    "thumbnail":"/assets/thumbnail/HALMAGIU_fig04.JPG"
   },
   {
     "longitude":24.6753724,
@@ -4820,7 +4943,8 @@
     "location":"Romania",
     "slug":"the-episcopal-church-of-the-former-monastery-of-cu",
     "item_image":"/assets/media/items/CdA_Picture.jpeg",
-    "start_year":1510
+    "start_year":1510,
+    "thumbnail":"/assets/thumbnail/CdA_Picture.jpeg"
   },
   {
     "longitude":19.232532,
@@ -4871,7 +4995,8 @@
     "location":"Serbia",
     "slug":"the-franciscan-monastery-of-blessed-virgin-mary-b",
     "item_image":"/assets/media/items/Franjevacki_samostan_u_Bacu.jpeg",
-    "start_year":1300
+    "start_year":1300,
+    "thumbnail":"/assets/thumbnail/Franjevacki_samostan_u_Bacu.jpeg"
   },
   {
     "longitude":24.6685182,
@@ -4903,7 +5028,8 @@
     "location":"Romania",
     "slug":"the-portrait-of-a-16th-century-wallachian-princess",
     "item_image":"/assets/media/items/Roxanda_bluDUg6.jpg",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/Roxanda_bluDUg6.jpg"
   },
   {
     "longitude":22.2282922,
@@ -4946,7 +5072,8 @@
     "location":null,
     "slug":"lesnovo-monastery",
     "item_image":"/assets/media/items/lesnovo2.jpg",
-    "start_year":1330
+    "start_year":1330,
+    "thumbnail":"/assets/thumbnail/lesnovo2.jpg"
   },
   {
     "longitude":24.3831114,
@@ -4989,7 +5116,8 @@
     "location":null,
     "slug":"the-phiale-of-the-great-lavra-monastery-mount-ath",
     "item_image":"/assets/media/items/Fig._1_0QWQ2OM.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/Fig._1_0QWQ2OM.jpg"
   },
   {
     "longitude":26.1931241,
@@ -5040,7 +5168,8 @@
     "location":null,
     "slug":"the-church-of-the-holy-cross-patrauti-monastery",
     "item_image":"/assets/media/items/Patrauti_Fig._3.jpg",
-    "start_year":1480
+    "start_year":1480,
+    "thumbnail":"/assets/thumbnail/Patrauti_Fig._3.jpg"
   },
   {
     "longitude":20.9917453,
@@ -5096,7 +5225,8 @@
     "location":null,
     "slug":"kalenic-monastery",
     "item_image":"/assets/media/items/004.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/004.jpg"
   },
   {
     "longitude":26.1025384,
@@ -5128,7 +5258,8 @@
     "location":null,
     "slug":"review-of-lucian-boia-ihistory-and-myth-in-roma",
     "item_image":"/assets/media/items/67._Roman_Boia.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/67._Roman_Boia.jpg"
   },
   {
     "longitude":25.571138,
@@ -5160,7 +5291,8 @@
     "location":null,
     "slug":"the-siege-of-constantinople-at-moldovita-monastery",
     "item_image":"/assets/media/items/Sullivan_6_-_The_Siege_at_Moldovita_left_side_detail.JPG",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/Sullivan_6_-_The_Siege_at_Moldovita_left_side_detail.JPG"
   },
   {
     "longitude":21.9067379063,
@@ -5212,7 +5344,8 @@
     "location":null,
     "slug":"the-byzantine-and-post-byzantine-world-in-the-balk",
     "item_image":"/assets/media/items/2._John_II_Asen_Emperor_of_the_Bulgarians_and_Romans.jpeg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/2._John_II_Asen_Emperor_of_the_Bulgarians_and_Romans.jpeg"
   },
   {
     "longitude":26.1025384,
@@ -5245,7 +5378,8 @@
     "location":null,
     "slug":"byzance-apres-byzance-nicolae-iorgas-paradigm",
     "item_image":"/assets/media/items/Nicolae_Iorga_-_Byzance_apres_Byzance_-_1935_0000.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/Nicolae_Iorga_-_Byzance_apres_Byzance_-_1935_0000.jpg"
   },
   {
     "longitude":24.2098214,
@@ -5289,7 +5423,8 @@
     "location":null,
     "slug":"moldavian-podeai-at-vatopedi-monastery",
     "item_image":"/assets/media/items/Podea_a.jpg",
-    "start_year":1600
+    "start_year":1600,
+    "thumbnail":"/assets/thumbnail/Podea_a.jpg"
   },
   {
     "longitude":19.0379763,
@@ -5344,7 +5479,8 @@
     "location":null,
     "slug":"the-teutonic-ordensstaat",
     "item_image":"/assets/media/items/Picture_1.jpg",
-    "start_year":1228
+    "start_year":1228,
+    "thumbnail":"/assets/thumbnail/Picture_1.jpg"
   },
   {
     "longitude":30.5234,
@@ -5380,7 +5516,8 @@
     "location":null,
     "slug":"royal-women-cultural-exchanges-and-rus-ecumenic",
     "item_image":"/assets/media/items/Picture_7.jpg",
-    "start_year":1000
+    "start_year":1000,
+    "thumbnail":"/assets/thumbnail/Picture_7.jpg"
   },
   {
     "longitude":22.6610632625,
@@ -5422,7 +5559,8 @@
     "location":null,
     "slug":"eclecticism-in-late-medieval-visual-culture-at-the",
     "item_image":"/assets/media/items/cov_9783110693164_Rossi_SMM-6_RZ_dpm_v1-page-001.jpg",
-    "start_year":1301
+    "start_year":1301,
+    "thumbnail":"/assets/thumbnail/cov_9783110693164_Rossi_SMM-6_RZ_dpm_v1-page-001.jpg"
   },
   {
     "longitude":17.0308331,
@@ -5473,7 +5611,8 @@
     "location":null,
     "slug":"the-church-of-st-elizabeth-in-wrocaw-breslau",
     "item_image":"/assets/media/items/01.1.jpg",
-    "start_year":1230
+    "start_year":1230,
+    "thumbnail":"/assets/thumbnail/01.1.jpg"
   },
   {
     "longitude":21.18612,
@@ -5532,7 +5671,8 @@
     "location":null,
     "slug":"the-stucco-templon-of-the-kokkini-ekklisia-in-boul",
     "item_image":"/assets/media/items/2._Exterior_FNYxCAs.JPG",
-    "start_year":1290
+    "start_year":1290,
+    "thumbnail":"/assets/thumbnail/2._Exterior_FNYxCAs.JPG"
   },
   {
     "longitude":16.3491667,
@@ -5583,7 +5723,8 @@
     "location":null,
     "slug":"the-parish-church-of-sts-peter-and-paul-strzegom",
     "item_image":"/assets/media/items/Strzegom_02_f9detT7.jpg",
-    "start_year":1388
+    "start_year":1388,
+    "thumbnail":"/assets/thumbnail/Strzegom_02_f9detT7.jpg"
   },
   {
     "longitude":17.0440788,
@@ -5635,7 +5776,8 @@
     "location":null,
     "slug":"the-collegiate-church-of-the-holy-cross-wrocaw",
     "item_image":"/assets/media/items/Wroclaw_02_Qkg5nRI.JPG",
-    "start_year":1288
+    "start_year":1288,
+    "thumbnail":"/assets/thumbnail/Wroclaw_02_Qkg5nRI.JPG"
   },
   {
     "longitude":21.0862622,
@@ -5679,7 +5821,8 @@
     "location":null,
     "slug":"the-representation-of-rudenica-monastery-in-the-kt",
     "item_image":"/assets/media/items/01_IpOK7Gv.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/01_IpOK7Gv.jpg"
   },
   {
     "longitude":20.5316786,
@@ -5727,7 +5870,8 @@
     "location":null,
     "slug":"st-george-in-kings-church-at-studenica-monastery",
     "item_image":"/assets/media/items/Photo_1.jpg",
-    "start_year":1313
+    "start_year":1313,
+    "thumbnail":"/assets/thumbnail/Photo_1.jpg"
   },
   {
     "longitude":19.9449799,
@@ -5776,7 +5920,8 @@
     "location":null,
     "slug":"poland-a-brief-overview",
     "item_image":"/assets/media/items/Psalterz_Florianski_18r_3.png",
-    "start_year":1200
+    "start_year":1200,
+    "thumbnail":"/assets/thumbnail/Psalterz_Florianski_18r_3.png"
   },
   {
     "longitude":14.8029971,
@@ -5825,7 +5970,8 @@
     "location":null,
     "slug":"silesia-a-brief-overview",
     "item_image":"/assets/media/items/Hedwig_and_Trzebnica_2.jpg",
-    "start_year":1200
+    "start_year":1200,
+    "thumbnail":"/assets/thumbnail/Hedwig_and_Trzebnica_2.jpg"
   },
   {
     "longitude":21.5533795,
@@ -5904,7 +6050,8 @@
     "location":null,
     "slug":"endangered-cultural-heritage-mateic-monastery",
     "item_image":"/assets/media/items/img433.jpg",
-    "start_year":1280
+    "start_year":1280,
+    "thumbnail":"/assets/thumbnail/img433.jpg"
   },
   {
     "longitude":28.9783589,
@@ -5936,7 +6083,8 @@
     "location":null,
     "slug":"review-of-michael-s-fulton-isiege-warfare-duri",
     "item_image":"/assets/media/items/1_Fulton_Siege.jpg",
-    "start_year":1095
+    "start_year":1095,
+    "thumbnail":"/assets/thumbnail/1_Fulton_Siege.jpg"
   },
   {
     "longitude":28.9783589,
@@ -5968,7 +6116,8 @@
     "location":null,
     "slug":"review-of-john-tztezes-adam-j-goldwyn-and-dimitr",
     "item_image":"/assets/media/items/2_Tztetzes_Allegories.jpg",
-    "start_year":1180
+    "start_year":1180,
+    "thumbnail":"/assets/thumbnail/2_Tztetzes_Allegories.jpg"
   },
   {
     "longitude":28.9783589,
@@ -6000,7 +6149,8 @@
     "location":null,
     "slug":"review-of-buket-kitapc-bayr-iwarriors-martyr",
     "item_image":"/assets/media/items/3_Bayri_Warriors_Matryrs.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/3_Bayri_Warriors_Matryrs.jpg"
   },
   {
     "longitude":11.5885529,
@@ -6032,7 +6182,8 @@
     "location":null,
     "slug":"review-of-alexandra-barratt-trans-and-ed-and-ger",
     "item_image":"/assets/media/items/4_Barratt_Gertrude_Herald.png",
-    "start_year":1256
+    "start_year":1256,
+    "thumbnail":"/assets/thumbnail/4_Barratt_Gertrude_Herald.png"
   },
   {
     "longitude":28.9783589,
@@ -6064,7 +6215,8 @@
     "location":null,
     "slug":"review-of-maria-alessia-rossi-and-alice-isabella-s",
     "item_image":"/assets/media/items/5_Rossi_Sullivan_Byzantium.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/5_Rossi_Sullivan_Byzantium.jpg"
   },
   {
     "longitude":28.9783589,
@@ -6097,7 +6249,8 @@
     "location":null,
     "slug":"review-of-clara-almagro-vidal-jessica-tearney-pea",
     "item_image":"/assets/media/items/6_Vidal_Tearney-Pearce_Yarbrough_Minorities.jpg",
-    "start_year":700
+    "start_year":700,
+    "thumbnail":"/assets/thumbnail/6_Vidal_Tearney-Pearce_Yarbrough_Minorities.jpg"
   },
   {
     "longitude":11.1133627,
@@ -6129,7 +6282,8 @@
     "location":null,
     "slug":"review-of-martha-g-newman-icistercian-stories",
     "item_image":"/assets/media/items/7_Newman_Cistercian.jpg",
-    "start_year":1174
+    "start_year":1174,
+    "thumbnail":"/assets/thumbnail/7_Newman_Cistercian.jpg"
   },
   {
     "longitude":19.040235,
@@ -6164,7 +6318,8 @@
     "location":null,
     "slug":"review-of-tracy-chapman-hamilton-and-mariah-procto",
     "item_image":"/assets/media/items/8_Hamilton_Proctor-Tiffany_Moving.jpg",
-    "start_year":1100
+    "start_year":1100,
+    "thumbnail":"/assets/thumbnail/8_Hamilton_Proctor-Tiffany_Moving.jpg"
   },
   {
     "longitude":28.9783589,
@@ -6196,7 +6351,8 @@
     "location":null,
     "slug":"review-of-laura-whatley-ed-ia-companion-to-sea",
     "item_image":"/assets/media/items/9_Whatley_A_Companion.jpg",
-    "start_year":1100
+    "start_year":1100,
+    "thumbnail":"/assets/thumbnail/9_Whatley_A_Companion.jpg"
   },
   {
     "longitude":20.71664015,
@@ -6233,7 +6389,8 @@
     "location":null,
     "slug":"review-of-maths-bertell-frog-and-kendra-willson",
     "item_image":"/assets/media/items/10_Bertell_Frog_Willson_Contacts.jpg",
-    "start_year":500
+    "start_year":500,
+    "thumbnail":"/assets/thumbnail/10_Bertell_Frog_Willson_Contacts.jpg"
   },
   {
     "longitude":28.9783589,
@@ -6266,7 +6423,8 @@
     "location":null,
     "slug":"review-of-stella-panayotova-ed-ithe-art-sci",
     "item_image":"/assets/media/items/11_Panayotova_The_Art.jpg",
-    "start_year":600
+    "start_year":600,
+    "thumbnail":"/assets/thumbnail/11_Panayotova_The_Art.jpg"
   },
   {
     "longitude":28.9783589,
@@ -6298,7 +6456,8 @@
     "location":null,
     "slug":"review-of-nathan-leidholm-ielite-byzantine-kins",
     "item_image":"/assets/media/items/12_Leidholm_Elite.jpg",
-    "start_year":950
+    "start_year":950,
+    "thumbnail":"/assets/thumbnail/12_Leidholm_Elite.jpg"
   },
   {
     "longitude":19.040235,
@@ -6332,7 +6491,8 @@
     "location":null,
     "slug":"review-of-thomas-w-smith-iauthority-and-power",
     "item_image":"/assets/media/items/13_Smith_Authority.jpg",
-    "start_year":1000
+    "start_year":1000,
+    "thumbnail":"/assets/thumbnail/13_Smith_Authority.jpg"
   },
   {
     "longitude":28.9783589,
@@ -6364,7 +6524,8 @@
     "location":null,
     "slug":"review-of-christian-raffensperger-and-david-olster",
     "item_image":"/assets/media/items/14_Raffensperger_Olster_Radicaljpg.jpg",
-    "start_year":600
+    "start_year":600,
+    "thumbnail":"/assets/thumbnail/14_Raffensperger_Olster_Radicaljpg.jpg"
   },
   {
     "longitude":14.4378005,
@@ -6396,7 +6557,8 @@
     "location":null,
     "slug":"review-of-ondrej-schmidt-ijohn-of-moravia-betwe",
     "item_image":"/assets/media/items/15_Schmidt_John.jpg",
-    "start_year":1345
+    "start_year":1345,
+    "thumbnail":"/assets/thumbnail/15_Schmidt_John.jpg"
   },
   {
     "longitude":13.404954,
@@ -6428,7 +6590,8 @@
     "location":null,
     "slug":"review-of-carole-rawcliffe-and-claire-weeda-eds",
     "item_image":"/assets/media/items/16_Rawcliffe_Weeda_Policing.jpg",
-    "start_year":1100
+    "start_year":1100,
+    "thumbnail":"/assets/thumbnail/16_Rawcliffe_Weeda_Policing.jpg"
   },
   {
     "longitude":12.4740104479,
@@ -6462,7 +6625,8 @@
     "location":null,
     "slug":"review-of-andrew-albin-mary-c-erler-thomas-odo",
     "item_image":"/assets/media/items/17_Albin_et_all_Whose.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/17_Albin_et_all_Whose.png"
   },
   {
     "longitude":26.0091666979,
@@ -6497,7 +6661,8 @@
     "location":null,
     "slug":"review-of-robert-e-bjork-ed-icatastrophes-and",
     "item_image":"/assets/media/items/18_Bjork_Catastrophes.png",
-    "start_year":1000
+    "start_year":1000,
+    "thumbnail":"/assets/thumbnail/18_Bjork_Catastrophes.png"
   },
   {
     "longitude":28.9783589,
@@ -6531,7 +6696,8 @@
     "location":null,
     "slug":"nikolaos-chrissis-athina-kolia-dermtizaki-and-an",
     "item_image":"/assets/media/items/19_Chrissis_Kolia-Dermtizaki_Papageorgiou_Byzantium.jpg",
-    "start_year":1000
+    "start_year":1000,
+    "thumbnail":"/assets/thumbnail/19_Chrissis_Kolia-Dermtizaki_Papageorgiou_Byzantium.jpg"
   },
   {
     "longitude":28.9783589,
@@ -6564,7 +6730,8 @@
     "location":null,
     "slug":"review-of-bryan-c-keene-itoward-a-global-middl",
     "item_image":"/assets/media/items/20_Keene_Toward.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/20_Keene_Toward.jpg"
   },
   {
     "longitude":14.4378005,
@@ -6597,7 +6764,8 @@
     "location":null,
     "slug":"review-of-joan-a-holladay-igenealogy-and-the-p",
     "item_image":"/assets/media/items/21_Holladay_Genealogy.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/21_Holladay_Genealogy.png"
   },
   {
     "longitude":28.9783589,
@@ -6630,7 +6798,8 @@
     "location":null,
     "slug":"review-of-george-e-demacopoulos-icolonizing-ch",
     "item_image":"/assets/media/items/22_Demacopoulos_Colonizing.png",
-    "start_year":1204
+    "start_year":1204,
+    "thumbnail":"/assets/thumbnail/22_Demacopoulos_Colonizing.png"
   },
   {
     "longitude":25.2796514,
@@ -6667,7 +6836,8 @@
     "location":null,
     "slug":"review-of-aleksander-pluskowski-ed-iecologies",
     "item_image":"/assets/media/items/23_Pluskowski_Ecologies.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/23_Pluskowski_Ecologies.png"
   },
   {
     "longitude":28.9783589,
@@ -6705,7 +6875,8 @@
     "location":null,
     "slug":"review-of-anthony-kaldellis-iromanland-ethnici",
     "item_image":"/assets/media/items/24_Kaldellis_Romanland.jpg",
-    "start_year":200
+    "start_year":200,
+    "thumbnail":"/assets/thumbnail/24_Kaldellis_Romanland.jpg"
   },
   {
     "longitude":21.7904166979,
@@ -6744,7 +6915,8 @@
     "location":null,
     "slug":"review-of-christopher-tyerman-ithe-world-of-the",
     "item_image":"/assets/media/items/25_Tyerman_The_World.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/25_Tyerman_The_World.png"
   },
   {
     "longitude":14.0560416979,
@@ -6777,7 +6949,8 @@
     "location":null,
     "slug":"review-of-ivan-g-marcus-isefer-hasidim-and-t",
     "item_image":"/assets/media/items/26_Marcus_Sefer.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/26_Marcus_Sefer.png"
   },
   {
     "longitude":11.9466666979,
@@ -6809,7 +6982,8 @@
     "location":null,
     "slug":"review-of-duncan-hardy-iassociative-political-c",
     "item_image":"/assets/media/items/27_Hardy_Associative.png",
-    "start_year":1346
+    "start_year":1346,
+    "thumbnail":"/assets/thumbnail/27_Hardy_Associative.png"
   },
   {
     "longitude":14.4378005,
@@ -6842,7 +7016,8 @@
     "location":null,
     "slug":"review-of-marcela-k-perett-ipreachers-partisa",
     "item_image":"/assets/media/items/28_Perett_Preachers.jpg",
-    "start_year":1402
+    "start_year":1402,
+    "thumbnail":"/assets/thumbnail/28_Perett_Preachers.jpg"
   },
   {
     "longitude":11.6131432067,
@@ -6874,7 +7049,8 @@
     "location":null,
     "slug":"review-of-richard-utz-imedievalism-a-manifesto",
     "item_image":"/assets/media/items/29_Utz_Medievalism.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/29_Utz_Medievalism.jpg"
   },
   {
     "longitude":26.107607,
@@ -7005,7 +7181,8 @@
     "location":null,
     "slug":"the-radu-voda-monastery",
     "item_image":"/assets/media/items/001.jpg",
-    "start_year":1577
+    "start_year":1577,
+    "thumbnail":"/assets/thumbnail/001.jpg"
   },
   {
     "longitude":23.3915096,
@@ -7040,7 +7217,8 @@
     "location":null,
     "slug":"the-bell-of-hieromonk-theodosios",
     "item_image":"/assets/media/items/Fig._1.jpeg",
-    "start_year":1270
+    "start_year":1270,
+    "thumbnail":"/assets/thumbnail/Fig._1.jpeg"
   },
   {
     "longitude":22.7665148,
@@ -7074,7 +7252,8 @@
     "location":null,
     "slug":"a-ruthenian-icon-in-london",
     "item_image":"/assets/media/items/Parpulov.jpg",
-    "start_year":1450
+    "start_year":1450,
+    "thumbnail":"/assets/thumbnail/Parpulov.jpg"
   },
   {
     "longitude":37.6173,
@@ -7122,7 +7301,8 @@
     "location":null,
     "slug":"the-moscow-manuscript-with-the-akathistos-hymn-gi",
     "item_image":"/assets/media/items/1_image_ms_429.jpeg",
-    "start_year":1300
+    "start_year":1300,
+    "thumbnail":"/assets/thumbnail/1_image_ms_429.jpeg"
   },
   {
     "longitude":21.4094525,
@@ -7176,7 +7356,8 @@
     "location":null,
     "slug":"akathistos-cycles-in-post-byzantine-art",
     "item_image":"/assets/media/items/Markov1.jpg",
-    "start_year":1261
+    "start_year":1261,
+    "thumbnail":"/assets/thumbnail/Markov1.jpg"
   },
   {
     "longitude":24.0344435,
@@ -7211,7 +7392,8 @@
     "location":null,
     "slug":"the-17th-century-iconostasis-from-the-church-of-th",
     "item_image":"/assets/media/items/Lviv_Iconostasis.JPG",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/Lviv_Iconostasis.JPG"
   },
   {
     "longitude":23.3244345,
@@ -7254,7 +7436,8 @@
     "location":null,
     "slug":"the-icon-from-poganovo-monastery",
     "item_image":"/assets/media/items/Image_1..JPG",
-    "start_year":1300
+    "start_year":1300,
+    "thumbnail":"/assets/thumbnail/Image_1..JPG"
   },
   {
     "longitude":21.3496389,
@@ -7305,7 +7488,8 @@
     "location":null,
     "slug":"the-transfiguration-fresco-at-zrze-monastery",
     "item_image":"/assets/media/items/1_kobvAb7.jpg",
-    "start_year":1360
+    "start_year":1360,
+    "thumbnail":"/assets/thumbnail/1_kobvAb7.jpg"
   },
   {
     "longitude":16.7924852,
@@ -7340,7 +7524,8 @@
     "location":null,
     "slug":"the-large-crucifix-from-the-icon-museum-of-korcula",
     "item_image":"/assets/media/items/P3120089_LM0yt6m.JPG",
-    "start_year":1300
+    "start_year":1300,
+    "thumbnail":"/assets/thumbnail/P3120089_LM0yt6m.JPG"
   },
   {
     "longitude":20.9876839,
@@ -7387,7 +7572,8 @@
     "location":null,
     "slug":"the-despotate-of-epirus-a-brief-overview",
     "item_image":"/assets/media/items/Screen_Shot_2022-08-10_at_3.53.10_PM.png",
-    "start_year":1204
+    "start_year":1204,
+    "thumbnail":"/assets/thumbnail/Screen_Shot_2022-08-10_at_3.53.10_PM.png"
   },
   {
     "longitude":23.7269395,
@@ -7430,7 +7616,8 @@
     "location":null,
     "slug":"inhabiting-byzantine-athens",
     "item_image":"/assets/media/items/Fig.1_bIp2CS4.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/Fig.1_bIp2CS4.jpg"
   },
   {
     "longitude":37.6208639,
@@ -7481,7 +7668,8 @@
     "location":null,
     "slug":"the-virgin-of-vladimir-icon",
     "item_image":"/assets/media/items/11_XjiWlYx.jpg",
-    "start_year":1130
+    "start_year":1130,
+    "thumbnail":"/assets/thumbnail/11_XjiWlYx.jpg"
   },
   {
     "longitude":25.48583,
@@ -7526,7 +7714,8 @@
     "location":null,
     "slug":"the-monastic-byzantine-garden-as-a-form-of-ecologi",
     "item_image":"/assets/media/items/Byzantine_garden.jpg",
-    "start_year":1261
+    "start_year":1261,
+    "thumbnail":"/assets/thumbnail/Byzantine_garden.jpg"
   },
   {
     "longitude":27.8428651,
@@ -7578,7 +7767,8 @@
     "location":null,
     "slug":"the-post-byzantine-frescoes-of-symi-16th17th-cen",
     "item_image":"/assets/media/items/01_ibClQvgZ.jpg",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/01_ibClQvgZ.jpg"
   },
   {
     "longitude":27.8428651,
@@ -7629,7 +7819,8 @@
     "location":null,
     "slug":"the-late-byzantine-frescoes-of-symi",
     "item_image":"/assets/media/items/01_S6rytPFB.jpg",
-    "start_year":1308
+    "start_year":1308,
+    "thumbnail":"/assets/thumbnail/01_S6rytPFB.jpg"
   },
   {
     "longitude":19.9400407,
@@ -7681,7 +7872,8 @@
     "location":null,
     "slug":"the-monastery-of-krusedol",
     "item_image":"/assets/media/items/Krusedol_05.jpg",
-    "start_year":1440
+    "start_year":1440,
+    "thumbnail":"/assets/thumbnail/Krusedol_05.jpg"
   },
   {
     "longitude":26.7200625,
@@ -7720,7 +7912,8 @@
     "location":null,
     "slug":"st-johns-church-in-tartu",
     "item_image":"/assets/media/items/Screen_Shot_2022-09-23_at_2.08.56_PM.png",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/Screen_Shot_2022-09-23_at_2.08.56_PM.png"
   },
   {
     "longitude":28.980175,
@@ -7779,7 +7972,8 @@
     "location":null,
     "slug":"the-ecumenical-patriarchate-of-constantinople-13t",
     "item_image":"/assets/media/items/01_uCtqtNm.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/01_uCtqtNm.jpg"
   },
   {
     "longitude":38.1290911,
@@ -7825,7 +8019,8 @@
     "location":null,
     "slug":"icon-folder-of-ambrose-1456",
     "item_image":"/assets/media/items/12.jpg",
-    "start_year":1456
+    "start_year":1456,
+    "thumbnail":"/assets/thumbnail/12.jpg"
   },
   {
     "longitude":24.1729151,
@@ -7865,7 +8060,8 @@
     "location":null,
     "slug":"the-bell-of-anastasie-crimca",
     "item_image":"/assets/media/items/unnamed1.jpg",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/unnamed1.jpg"
   },
   {
     "longitude":12.196123,
@@ -7917,7 +8113,8 @@
     "location":null,
     "slug":"terracotta-decorations-in-the-north-adriatic",
     "item_image":"/assets/media/items/1.JPEG",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/1.JPEG"
   },
   {
     "longitude":24.8767591,
@@ -7965,7 +8162,8 @@
     "location":null,
     "slug":"the-protection-of-the-theotokos-icon-from-cheremos",
     "item_image":"/assets/media/items/1_fj2btH8.jpg",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/1_fj2btH8.jpg"
   },
   {
     "longitude":24.0710324,
@@ -8012,7 +8210,8 @@
     "location":null,
     "slug":"the-zhyrivka-epitaphios",
     "item_image":"/assets/media/items/1_.jpg",
-    "start_year":1399
+    "start_year":1399,
+    "thumbnail":"/assets/thumbnail/1_.jpg"
   },
   {
     "longitude":24.0282978,
@@ -8065,7 +8264,8 @@
     "location":null,
     "slug":"hurch-textiles-in-the-andrei-sheptytskyi-national",
     "item_image":"/assets/media/items/il_5_1.jpg",
-    "start_year":1299
+    "start_year":1299,
+    "thumbnail":"/assets/thumbnail/il_5_1.jpg"
   },
   {
     "longitude":23.9696468179,
@@ -8119,7 +8319,8 @@
     "location":null,
     "slug":"the-zhovkva-iconostasis-by-ivan-rutkovych",
     "item_image":"/assets/media/items/il_1_2.jpg",
-    "start_year":1690
+    "start_year":1690,
+    "thumbnail":"/assets/thumbnail/il_1_2.jpg"
   },
   {
     "longitude":24.0279416,
@@ -8171,7 +8372,8 @@
     "location":null,
     "slug":"the-icon-collection-of-the-andrei-sheptytskyi-nati",
     "item_image":"/assets/media/items/Il_1_3.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/Il_1_3.jpg"
   },
   {
     "longitude":33.8077393,
@@ -8220,7 +8422,8 @@
     "location":null,
     "slug":"the-fortress-of-mangup-kale",
     "item_image":"/assets/media/items/1_8uj996L.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/1_8uj996L.jpg"
   },
   {
     "longitude":30.5572558,
@@ -8252,7 +8455,8 @@
     "location":null,
     "slug":"the-icon-of-christ-in-glory",
     "item_image":"/assets/media/items/01_f43nHBQ.jpg",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/01_f43nHBQ.jpg"
   },
   {
     "longitude":24.3157196,
@@ -8291,7 +8495,8 @@
     "location":null,
     "slug":"the-iconography-of-heretics-at-cozia-monastery",
     "item_image":"/assets/media/items/Picture2_sC21b1f.jpg",
-    "start_year":1350
+    "start_year":1350,
+    "thumbnail":"/assets/thumbnail/Picture2_sC21b1f.jpg"
   },
   {
     "longitude":35.622811,
@@ -8354,7 +8559,8 @@
     "location":null,
     "slug":"the-chungul-kurgan-elite-burial",
     "item_image":"/assets/media/items/1helmet.tiff",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/1helmet.tiff"
   },
   {
     "longitude":28.9783589,
@@ -8402,7 +8608,8 @@
     "location":null,
     "slug":"heretics-in-byzantine-and-post-byzantine-art",
     "item_image":"/assets/media/items/Poulakis_Theodoros_-_St_Spyridon_and_scenes_from_his_life_-_Google_Art_Project.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/Poulakis_Theodoros_-_St_Spyridon_and_scenes_from_his_life_-_Google_Art_Project.jpg"
   },
   {
     "longitude":20.46123,
@@ -8454,7 +8661,8 @@
     "location":null,
     "slug":"the-caftan-in-late-medieval-serbia",
     "item_image":"/assets/media/items/1._Prince_Paskac_and_grandson_Ugljesa_Psaca.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/1._Prince_Paskac_and_grandson_Ugljesa_Psaca.jpg"
   },
   {
     "longitude":14.4186049,
@@ -8486,7 +8694,8 @@
     "location":null,
     "slug":"altneushul-old-new-synagogue-in-prague",
     "item_image":"/assets/media/items/Prague_Praha_2014_Holmstad_Den_gammelnye_synagogen.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/Prague_Praha_2014_Holmstad_Den_gammelnye_synagogen.jpg"
   },
   {
     "longitude":14.4174435,
@@ -8518,7 +8727,8 @@
     "location":null,
     "slug":"the-old-jewish-cemetery-in-prague",
     "item_image":"/assets/media/items/768px-Old_Jewish_Cemetery_Prague_047.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/768px-Old_Jewish_Cemetery_Prague_047.jpg"
   },
   {
     "longitude":19.9485937,
@@ -8550,7 +8760,8 @@
     "location":null,
     "slug":"the-old-synagogue-in-krakow",
     "item_image":"/assets/media/items/1280px-Krakow_Old_Synagogue_G20.jpg",
-    "start_year":1450
+    "start_year":1450,
+    "thumbnail":"/assets/thumbnail/1280px-Krakow_Old_Synagogue_G20.jpg"
   },
   {
     "longitude":26.0971943,
@@ -8606,7 +8817,8 @@
     "location":null,
     "slug":"the-bible-of-bucharest-1688",
     "item_image":"/assets/media/items/1._Title_Page.jpg",
-    "start_year":1670
+    "start_year":1670,
+    "thumbnail":"/assets/thumbnail/1._Title_Page.jpg"
   },
   {
     "longitude":26.0938898,
@@ -8726,7 +8938,8 @@
     "location":null,
     "slug":"st-antim-monastery-in-bucharest",
     "item_image":"/assets/media/items/A.3._St_Antim_Monastery_-_The_Church_The_Entrance.jpeg",
-    "start_year":1650
+    "start_year":1650,
+    "thumbnail":"/assets/thumbnail/A.3._St_Antim_Monastery_-_The_Church_The_Entrance.jpeg"
   },
   {
     "longitude":26.088911,
@@ -8781,7 +8994,8 @@
     "location":null,
     "slug":"the-slavonic-leitourgikon-of-macarie-1508",
     "item_image":"/assets/media/items/1._Leitourgikon_of_Macarie_-_Beginning_of_Basil_the_Great._Teaching_for_the_Priest.jpg",
-    "start_year":1500
+    "start_year":1500,
+    "thumbnail":"/assets/thumbnail/1._Leitourgikon_of_Macarie_-_Beginning_of_Basil_the_Great._Teaching_for_the_Priest.jpg"
   },
   {
     "longitude":25.8641666,
@@ -8848,7 +9062,8 @@
     "location":null,
     "slug":"voronet-monastery",
     "item_image":"/assets/media/items/1._Voronet_Monastery_-_The_Church_-_View_from_the_Southeast.JPG",
-    "start_year":1457
+    "start_year":1457,
+    "thumbnail":"/assets/thumbnail/1._Voronet_Monastery_-_The_Church_-_View_from_the_Southeast.JPG"
   },
   {
     "longitude":24.9317177125,
@@ -8913,7 +9128,8 @@
     "location":null,
     "slug":"antimensia-in-the-danubian-principalities",
     "item_image":"/assets/media/items/6._The_Antimension_of_Pachomios_of_Gledin.jpeg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/6._The_Antimension_of_Pachomios_of_Gledin.jpeg"
   },
   {
     "longitude":26.0899957,
@@ -8976,7 +9192,8 @@
     "location":null,
     "slug":"early-arabic-printing-for-the-arab-christians-cul",
     "item_image":"/assets/media/items/001_TYPARABIC_-_Logo.png",
-    "start_year":1700
+    "start_year":1700,
+    "thumbnail":"/assets/thumbnail/001_TYPARABIC_-_Logo.png"
   },
   {
     "longitude":30.35068,
@@ -9025,7 +9242,8 @@
     "location":null,
     "slug":"bilhorod-dnistrovskyi-akkerman-fortress",
     "item_image":"/assets/media/items/Bilhorod-Akkerman_1.jpg",
-    "start_year":1400
+    "start_year":1400,
+    "thumbnail":"/assets/thumbnail/Bilhorod-Akkerman_1.jpg"
   },
   {
     "longitude":29.2684585039,
@@ -9069,7 +9287,8 @@
     "location":null,
     "slug":"kiliia-fortress",
     "item_image":"/assets/media/items/Kiliia_2.jpg",
-    "start_year":1201
+    "start_year":1201,
+    "thumbnail":"/assets/thumbnail/Kiliia_2.jpg"
   },
   {
     "longitude":20.9667833,
@@ -9117,7 +9336,8 @@
     "location":null,
     "slug":"colored-mosque-of-tetovoa",
     "item_image":"/assets/media/items/Tetovo_Fig_3.JPG",
-    "start_year":1430
+    "start_year":1430,
+    "thumbnail":"/assets/thumbnail/Tetovo_Fig_3.JPG"
   },
   {
     "longitude":18.4130763,
@@ -9177,7 +9397,8 @@
     "location":null,
     "slug":"ottoman-mosques-in-bosnia-herzegovina",
     "item_image":"/assets/media/items/Ott_mosques_BIH_Fig_5_Pocitelj_Ali_mosque.jpg",
-    "start_year":1460
+    "start_year":1460,
+    "thumbnail":"/assets/thumbnail/Ott_mosques_BIH_Fig_5_Pocitelj_Ali_mosque.jpg"
   },
   {
     "longitude":22.9495923357,
@@ -9229,7 +9450,8 @@
     "location":null,
     "slug":"the-alaca-imaret-of-thessaloniki",
     "item_image":"/assets/media/items/2_1a6CUz6.jpg",
-    "start_year":1485
+    "start_year":1485,
+    "thumbnail":"/assets/thumbnail/2_1a6CUz6.jpg"
   },
   {
     "longitude":25.4019655684,
@@ -9277,7 +9499,8 @@
     "location":null,
     "slug":"the-evrenos-bey-imaret-of-komotini",
     "item_image":"/assets/media/items/3_GGDJzRU.jpg",
-    "start_year":1360
+    "start_year":1360,
+    "thumbnail":"/assets/thumbnail/3_GGDJzRU.jpg"
   },
   {
     "longitude":23.5594355489,
@@ -9329,7 +9552,8 @@
     "location":null,
     "slug":"he-mehmet-bey-cami-of-serres",
     "item_image":"/assets/media/items/1254px-20111029_Ahmet_Pasha_Mosque_Mehmet_Bey_Serres_Greece_2.jpg",
-    "start_year":1490
+    "start_year":1490,
+    "thumbnail":"/assets/thumbnail/1254px-20111029_Ahmet_Pasha_Mosque_Mehmet_Bey_Serres_Greece_2.jpg"
   },
   {
     "longitude":21.2279370444,
@@ -9377,6 +9601,7 @@
     "location":null,
     "slug":"ali-bey-mosque-in-timisoara",
     "item_image":"/assets/media/items/Fig._1_VPZNAXj.jpg",
-    "start_year":1540
+    "start_year":1540,
+    "thumbnail":"/assets/thumbnail/Fig._1_VPZNAXj.jpg"
   }
 ]

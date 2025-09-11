@@ -52,6 +52,7 @@
           slug: "{{ item.slug }}",
           title: "{{ item.title|safe }}",
           item_image: "{{ item.item_image }}",
+          thumbnail: "{{ item.thumbnail }}",
           author: "{{ item.author }}",
           subject_names: "{{ item.subject_names }}",
           location_names: "{{ item.location_names }}",
@@ -143,7 +144,7 @@
                             <div>
                               <a href="/item/${ item.slug }/" target="_blank" rel="noopener"
                                   title="${ item.title }">
-                                  <img src="${ item.item_image }" alt="${ item.title }"  />
+                                  <img src="${ item.thumbnail }" alt="${ item.title }"  />
                               </a>
                             </div>
                           </div>
