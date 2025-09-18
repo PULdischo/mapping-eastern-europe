@@ -1,0 +1,305 @@
+---
+title: 'Poland: A Brief Overview'
+title_link: ''
+item_image: /assets/media/items/Psalterz_Florianski_18r_3.png
+item_image_caption: <p>Marginalia and illuminated initial from the Psalter of Saint
+  Florian. This trilingual psalter (in Latin, German, and Polish) is believed to have
+  been made in the scriptorium of the Augustinian canons in Kłodzko, Silesia, in the
+  late 14th century, possibly for Queen Jadwiga. The Polish translation of the Psalms
+  is one of the oldest texts written in Polish. Warsaw, Biblioteka Narodowa, Rps 8002
+  III, fol. 18r (detail).</p>
+slider_images:
+- slider_image: /assets/media/items/charter_krakow_1257.jpg
+  caption: '<p style="line-height:1.7999999999999998; text-align:justify; margin-bottom:11px"><span
+    style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:''Times
+    New Roman''"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:italic"><span
+    style="text-decoration:none">Locatio</span></span></span></span></span></span><span
+    style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:''Times
+    New Roman''"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span
+    style="text-decoration:none"> charter of Boleslaus V the Chaste for Krak&oacute;w,
+    1257. Source: public domain</span></span></span></span></span></span><span style="font-size:12pt;
+    font-variant:normal; white-space:pre-wrap"><span style="font-family:''Times New
+    Roman''"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span
+    style="text-decoration:none"> https://mykrak.typepad.com/blog/2018/04/akt-lokacyjny-miasta-krakowa-1257.html</span></span></span></span></span></span></p>'
+- slider_image: /assets/media/items/Wawel_hill.jpg
+  caption: '<p style="line-height:1.7999999999999998; text-align:justify; margin-bottom:11px"><span
+    style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:''Times
+    New Roman''"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span
+    style="text-decoration:none">Wawel Castle, Krak&oacute;w. Source: Wikipedia Commons
+    </span></span></span></span></span></span></p>'
+- slider_image: /assets/media/items/Poland_Map_1.png
+  caption: '<p style="line-height:1.7999999999999998; text-align:justify; margin-bottom:11px"><span
+    style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:''Times
+    New Roman''"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span
+    style="text-decoration:none">Map of Poland during the reign of Mesco I (c. 960-992)&nbsp;Source:
+    Wikipedia Commons </span></span></span></span></span></span></p>'
+- slider_image: /assets/media/items/Poland_Map_2.png
+  caption: '<p style="line-height:1.7999999999999998; text-align:justify; margin-bottom:11px"><span
+    style="font-size:12pt; font-variant:normal; white-space:pre-wrap"><span style="font-family:''Times
+    New Roman''"><span style="color:#000000"><span style="font-weight:400"><span style="font-style:normal"><span
+    style="text-decoration:none">Map of Poland and Lithuania under Ladislaus II Jagiellon
+    (1386-1434)&nbsp;Source: Wikipedia Commons </span></span></span></span></span></span></p>'
+start_year: 1200
+end_year: 1600
+text: "<p><em>By S&eacute;bastien Rossignol | Memorial University of Newfoundland\
+  \ and Labrador</em></p>\r\n\r\n<p><strong>Historical Overview</strong><br />\r\n\
+  Medieval Poland encompassed a vast area between the Baltic Sea in the north and\
+  \ the Carpathian Mountains in the south, bordered by the valley of the Odra in the\
+  \ west and that of the Vistula in the east. It comprised several distinct regions:\
+  \ Greater Poland, around Gniezno, evolved on the shores of the Warta; Silesia was\
+  \ located along the upper course of the Odra; Lesser Poland included the lands of\
+  \ Krak&oacute;w and Sandomierz, on the upper Vistula; Mazovia was a region of plains\
+  \ on the middle course of the Vistula; and Kuyavia played the role of a buffer zone\
+  \ between Greater Poland and Prussia. Eastern Pomerania, which had connected Poland\
+  \ with the Baltic Sea in the 12th and 13th centuries, belonged to the state of the\
+  \ Teutonic Order since 1309. These geographically diverse lands were populated by\
+  \ speakers of a western Slavic language that, already in the Middle Ages, was identified\
+  \ as Polish.<br />\r\nPoland appeared in the historical record in the late 10th\
+  \ century as the land ruled by the Piasts who, starting from Greater Poland, expanded\
+  \ over much of the historical territory of the country. Poland became, alongside\
+  \ Bohemia and Hungary, an important regional power in Central Europe. Boleslaus\
+  \ I the Brave (r. 992&ndash;1025) and some of his successors might have been crowned\
+  \ in Gniezno, but the Polish royal title had ceased to be used by the end of the\
+  \ 11th century.<br />\r\nThe 1138 statute of succession of Duke Boleslaus III the\
+  \ Wry-Mouth was a turning point in the history of Poland. Boleslaus intended for\
+  \ each of his sons to inherit a province of the kingdom, while they would all acknowledge\
+  \ the leading position of the senior prince ruling in Krak&oacute;w. The seniorate\
+  \ system, however, resulted in constant rivalry between the ruling dukes. By 1202,\
+  \ the title of senior prince had been abandoned, and the kingdom of Poland had become\
+  \ a series of <em>de facto</em> independent principalities. The territorial integrity\
+  \ of the kingdom was not fully forgotten: all provinces were ruled by Piasts, and\
+  \ the territory corresponded to the Church province of the archbishopric of Gniezno.<br\
+  \ />\r\nIn Poland, the 13th century was, as was the case for the rest of East Central\
+  \ Europe, a period of profound transformations spearheaded by the rulers. These\
+  \ transformations included an influx of foreign peasants, townspeople, and Jews,\
+  \ mostly from the German lands; the introduction of the German law and of the law\
+  \ of Magdeburg in villages and towns; and the adaptation of many new technologies.\
+  \ These measures led to expanded woodland clearings and demographic growth, and\
+  \ intensified the market orientation of the economy. Regions of Poland were affected\
+  \ by these transformations at various levels, with Silesia being the most profoundly\
+  \ changed, and Mazovia the least.<br />\r\nAll attempts at reuniting the kingdom\
+  \ through a coronation in Krak&oacute;w or Gniezno failed to achieve lasting success\
+  \ until the reign of Ladislaus the Short (also called Łokietek, or the Elbow-High,\
+  \ r. 1320&ndash;33). This Piast duke of Kuyavia succeeded in bringing under his\
+  \ authority most of the historical territory of Poland &ndash; with the notable\
+  \ exceptions of Silesia and Mazovia &ndash; and was crowned in Krak&oacute;w. His\
+  \ successor, Casimir III the Great (r. 1333&ndash;70), consolidated the kingdom,\
+  \ making Krak&oacute;w his residence and seat of government. Casimir expanded the\
+  \ borders of the kingdom by conquering Red Ruthenia, lands that historically had\
+  \ belonged to Rus. Polish settlers moved in, creating a diverse society of Catholic\
+  \ Poles and Orthodox Rus.<br />\r\nCasimir the Great was the last Piast king of\
+  \ Poland. He was succeeded by his nephew, Louis of Anjou, king of Hungary, who ruled\
+  \ both kingdoms until his death in 1382. Louis&rsquo;s daughter Jadwiga was crowned\
+  \ in 1384 at the age of eleven. In 1386, Jadwiga married the grand duke of Lithuania,\
+  \ Jogaila, who had just been baptized in the Latin rite on time for the wedding.\
+  \ As Ladislaus II Jagiellon, Jadwiga&rsquo;s husband ruled as king consort until\
+  \ her death in 1399. From then on, and through various arrangements, the Jagiellons\
+  \ reigned over both Poland and Lithuania.<br />\r\nPoland and Lithuania were, in\
+  \ the 15th century, ruled separately. Lithuania was a partly pagan, partly Orthodox\
+  \ composite country that comprised the former lands of Rus and was ruled by the\
+  \ Lithuanian nobility. The separate rule evolved into a personal union that was\
+  \ formalized with the treaty of Lublin (1569), which saw the creation of the Commonwealth\
+  \ of the Two Nations. The Polish-Lithuanian &ldquo;republic of the nobles&rdquo;\
+  \ was characterized by the vast prerogatives enjoyed by the nobility. In the 15th\
+  \ century, the university of Krak&oacute;w had become an important centre of culture\
+  \ and learning in East-Central Europe. Renaissance culture flourished in the 16th\
+  \ century, and in the age of the Reformation and religious wars Poland was known\
+  \ for its unusual toleration of religious diversity.<br />\r\nLate medieval Poland\
+  \ was a linguistically and religiously diverse country. German was spoken in the\
+  \ larger cities. In 1454, responding to a petition from nobles and merchants seeking\
+  \ his protection, King Casimir IV took over from the Teutonic Order territories\
+  \ of Prussia and Eastern Pomerania that became known as Royal Prussia. These had\
+  \ a mostly German-speaking population and included wealthy merchant cities such\
+  \ as Gdańsk (German: Danzig). The power of the Teutonic knights, who had suffered\
+  \ a crushing blow at the battle of Grunwald (German: Tannenberg; Lithuanian: Žalgiris),\
+  \ where they were defeated by a Polish-Lithuanian army, was clearly in decline.\
+  \ Jews are also known to have lived in Poland since the 10th century. Their numbers\
+  \ rose in the 13th century when Jews moved to Poland alongside German settlers,\
+  \ expanding the Ashkenazi world to include Poland. In contrast to the German lands\
+  \ and Silesia, the Jews of Poland did not experience mass expulsions in the late\
+  \ Middle Ages, as they remained under the protection of the king.<br />\r\nMedieval\
+  \ Poland&rsquo;s place on the map of East-Central Europe was truly at the crossroads\
+  \ of East and West. Social and cultural influences from Western Europe intensified\
+  \ in the 13th century in the age of migrations and great transformations. Contacts\
+  \ with the East Slavic and Orthodox cultural sphere, however, had grown in prominence\
+  \ since the mid 14th century. With the incorporation of Red Ruthenia and the union\
+  \ with Lithuania, Polish kings ruled over vast expanses of the former Rus lands.\
+  \ Oscar Halecki considered late medieval Poland-Lithuania to be a region on its\
+  \ own, between Germany and Muscovy.<br />\r\nThere are many and varied primary sources\
+  \ available for the study of medieval Poland. Charters are published primarily on\
+  \ a regional basis in various charter books. Chronicles, annals, saints&rsquo; lives\
+  \ and other narrative sources are available primarily in the <em>Monumenta Poloniae\
+  \ Historica</em>, a still-ongoing series of source editions published since the\
+  \ 19th century. The sources of medieval Poland are mostly in Latin. Texts in German\
+  \ are principally from urban milieus. Polish did not become a fully formed written\
+  \ literary language until the 16th century, when it was finally used for administrative\
+  \ texts such as land surveys and tax registers.</p>\r\n\r\n<p><strong>Key Issues\
+  \ and Debates</strong><br />\r\nCharters and other documents make up a significant\
+  \ part of the primary sources available for the study of medieval Poland. Research\
+  \ in the auxiliary sciences of history, and especially diplomatics, is strong in\
+  \ Poland, resulting from widely available training in this field at Polish universities.\
+  \ Edition projects are regularly carried out at the Polish Academy of Sciences and\
+  \ various university institutes. Research projects on specific chanceries or centers\
+  \ of writing are also common. Polish scholarship does not, however, restrict itself\
+  \ to the &ldquo;practical&rdquo; aspects of reading and understanding documents\
+  \ and manuscripts; it has also made significant contributions to innovative approaches\
+  \ to the study of medieval charters and their cultural and historical significance.\
+  \ The role of chanceries has been the subject of many debates about the definition\
+  \ of this institution and its social role (see, in particular, the research of Maria\
+  \ Bielińska). Stanisław Kuraś and Anna Adamska have explored the literary value\
+  \ of the texts of charters. Polish scholars are also well-represented in research\
+  \ on pragmatic literacy and communication, as is attested through numerous monographs\
+  \ and contributions to collective volumes in the Utrecht Studies in Medieval Literacy\
+  \ published by Brepols.<br />\r\nThe roles and functions of rulers in the history\
+  \ of medieval Poland have always been, and continue to be, popular subjects of study.\
+  \ Key moments that have repeatedly attracted attention in research are Boleslaus\
+  \ the Wry-Mouth&rsquo;s 1138 statute, and the various attempts at restoring the\
+  \ monarchy in the 13th and early 14th centuries. More recently, Eduard M&uuml;hle\
+  \ has studied the place of the Piasts in medieval history and in Polish historical\
+  \ consciousness, while Grischa Vercamer has used a comparative approach to study\
+  \ the depiction of Piast rulers in Polish chronicles in a wider European perspective.\
+  \ Female rulers, in contrast, have attracted only limited attention. Maciej Michalski\
+  \ investigated the hagiography of female saints from ruling families, while Agnieszka\
+  \ Teterycz-Puzio studied female rulers who acted as regents of underage sons.<br\
+  \ />\r\nThe transformations of the 13th century have, unsurprisingly, been the subject\
+  \ of much discussion in scholarship on medieval Poland, as has been the case for\
+  \ this period in East-Central Europe more generally. In Poland, the meaning of the\
+  \ <em>iura ducalia</em> documented in 13th-century sources has been a particular\
+  \ bone of contention. Whereas scholars such as Karol Modzelewski postulated a continuity\
+  \ of ducal rights evolving from the 11th and the 12th centuries in an administrative\
+  \ structure built around castellanies, Sławomir Gawlas has argued that a radical\
+  \ break occurred in the 13th century, as entirely new methods of administration\
+  \ were introduced under influence from the German lands and based on an imported\
+  \ territorial approach to rulership.<br />\r\nThe significance of <em>locatio</em>\
+  \ charters, the documents establishing the introduction of German law in villages\
+  \ and towns, has been the subject of abundant research, especially in the context\
+  \ of urbanization. Archaeological research has enabled a more holistic understanding\
+  \ of the process of changes that affected towns in the 13th century. The research\
+  \ of Marian Rębkowski (for Pomerania) and Jerzy Piekalski (for Wrocław and Krak&oacute;w)\
+  \ has significantly advanced the state of knowledge. It is now generally accepted\
+  \ that towns founded <em>a crudo radice</em>, without preceding settlement, were\
+  \ the exception. Most towns of the 13th century were in continuity with earlier\
+  \ settlements but were radically transformed in their topography and appearance\
+  \ in the course of the 13th century. Changes were generally not sudden but were\
+  \ implemented in several steps; the granting of <em>locatio</em> rights was only\
+  \ one aspect of this process of transformation.<br />\r\nRelations between Poland\
+  \ and the German lands or the Holy Roman Empire have always been of great importance\
+  \ in the history of medieval Poland. The role of German migrants in Poland and the\
+  \ building of antagonisms and stereotypes have, in particular, long been intensively\
+  \ scrutinized. Research from the first half of the 20th century too often tended\
+  \ to project modern national conceptions and prejudices onto the past and to consider\
+  \ national differences as primary factors in historical developments. Scholarship\
+  \ has, fortunately, long moved away from such conceptions. The social and cultural\
+  \ roles of national sentiments in medieval societies have, nonetheless, continued\
+  \ to be subjects of great interest. Benedykt Zientara has been interested in specifically\
+  \ medieval conceptions of national consciousness. Sławomir Gawlas has paid closer\
+  \ attention to the contexts of expressions of national antagonisms and has uncovered\
+  \ various underlying motivations and processes. Andrzej Pleszczyński studied the\
+  \ development of stereotypes in the discourse on Poland of early German writings.<br\
+  \ />\r\nThe origins of the Jews of medieval Poland have long been debated. Whereas\
+  \ it is undisputed that Jews moved to Poland in significant numbers from the German\
+  \ lands in the 13th century, the origins of earlier Jewish communities, and the\
+  \ extent of their continuity with the high and late medieval communities, are still\
+  \ disputed. Other subjects of particular interest are the legal statutes that regulated\
+  \ Jewish communities, the contribution of Jews to medieval economy, pogroms and\
+  \ persecutions, and the reasons for the success of the Krak&oacute;w community in\
+  \ the late Middle Ages.<br />\r\nThe place of Poland in the context of medieval\
+  \ Europe has often been studied in parallel with the history of the other two main\
+  \ Central European kingdoms, Bohemia and Hungary, which shared many common features\
+  \ in the Middle Ages. Occasionally, comparisons have been made with the evolution\
+  \ of the Scandinavian kingdoms. Comparative history, and the history of contacts\
+  \ and transfers with other parts of Europe are much rarer, but would enrich our\
+  \ understanding of the place of Poland in European history.</p>\r\n\r\n<p><strong>Further\
+  \ Reading</strong><br />\r\nFrost, Robert. <em>The Oxford History of Poland-Lithuania,\
+  \ Vol. 1: The Making of the Polish-Lithuanian Union, 1385-1569</em>. Oxford: Oxford\
+  \ University Press, 2015.</p><p style=\"margin-left: 40px;\">Robert Frost&rsquo;s\
+  \ book primarily discusses the political history of the union between Poland and\
+  \ Lithuania in its geographical, social, and cultural complexity. Volume 2, which\
+  \ is in preparation, is expected to examine in more detail the cultural and social\
+  \ history of the Commonwealth.</p><p>Jurek, Tomasz. <em>Dyplomatyka staropolska</em>.\
+  \ Warsaw: DiG, 2015.</p><p style=\"margin-left: 40px;\">Although it is entirely\
+  \ in Polish, the collective volume published by Tomasz Jurek needs to be mentioned\
+  \ here. The book provides a comprehensive overview of charter studies for all territories\
+  \ in the current borders of Poland for the Middle Ages and the early modern period.</p><p>Knoll,\
+  \ Paul W. <em>The Rise of the Polish Monarchy: Piast Poland in East Central Europe</em>.\
+  \ Chicago-London: University of Chicago Press, 1972.</p><p style=\"margin-left:\
+  \ 40px;\">Paul Knoll&rsquo;s book is a classic study of the political history of\
+  \ the kingdom of Poland during the reigns of Ladislaus the Short and Casimir the\
+  \ Great. It is also a perfect introduction to the history of Poland in the 14th\
+  \ century.</p><p>Moździoch, Sławomir, and Przemysław Wiszewski, eds. <em>Consensus\
+  \ or Violence? Cohesive Forces in Early and High Medieval Societies (9th-14th C.)</em>.\
+  \ Interdisciplinary Medieval Studies 1. Wrocław: Institute of Archaeology and Ethnology\
+  \ of the Polish Academy of Sciences and Institute of History at the University of\
+  \ Wrocław, 2013.</p><p style=\"margin-left: 40px;\">This collection of articles\
+  \ in English offers insights into key aspects of the history of Poland between the\
+  \ 9th and 14th centuries, based on research in both history and archaeology, and\
+  \ from a European perspective.</p><p>M&uuml;hle, Eduard. <em>Die Piasten: Polen\
+  \ im Mittelalter</em>, Wissen. Munich: C.H. Beck, 2011.</p><p style=\"margin-left:\
+  \ 40px;\">Eduard M&uuml;hle&rsquo;s book provides a concise introduction to the\
+  \ history of Poland in the Piast era.</p><p>Pleszczyński, Andrzej, and Grischa Vercamer.\
+  \ <em>Germans and Poles in the Middle Ages: The Perception of the &lsquo;Other&rsquo;\
+  \ and the Presence of Mutual Ethnic Stereotypes in Medieval Narrative Sources</em>.\
+  \ Explorations in Medieval Culture 16. Leiden: Brill, 2021.</p><p style=\"margin-left:\
+  \ 40px;\">This collective volume provides convenient access to the various subjects\
+  \ discussed in research on the relationship between Poland and the German lands\
+  \ in the Middle Ages.</p><p>Rossignol, S&eacute;bastien, and Anna Adamska, eds.\
+  \ <em>Urkundenformeln im Kontext: Formen der Schriftkultur im Ostmitteleuropa des\
+  \ Mittelalters (13.-14. Jahrhundert)</em>. Ver&ouml;ffentlichungen des Instituts\
+  \ f&uuml;r &Ouml;sterreichische Geschichtsforschung 65. Wien: B&ouml;hlau, 2016.</p><p\
+  \ style=\"margin-left: 40px;\">This volume directed by S&eacute;bastien Rossignol\
+  \ and Anna Adamska is composed of case studies and historiographical essays in German\
+  \ and English that provide glimpses into research with Polish medieval documents.</p><p>W&uuml;nsch,\
+  \ Thomas, and Andrzej Janeczek, eds. <em>On the Frontier of Latin Europe: Integration\
+  \ and Segregation in Red Ruthenia, 1350-1600</em>. An der Grenze des lateinischen\
+  \ Europa: Integration und Segregation in Rotreu&szlig;en, 1350-1600. Warsaw: Institute\
+  \ of Archaeology and Ethnology of the Polish Academy of Sciences, 2004.</p><p style=\"\
+  margin-left: 40px;\">This volume provides a rare synthesis of research on medieval\
+  \ Red Ruthenia, the eastern region of Poland, formerly part of Rus, that was conquered\
+  \ by Casimir the Great. Articles in German and English illuminate the complex diversity\
+  \ of the society of the region in the late Middle Ages.</p><p>Zaremska, Hanna. <em>Juden\
+  \ im mittelalterlichen Polen und die Krakauer Judengemeinde</em>, trans. Heidemarie\
+  \ Petersen, Klio in Polen 17. Osnabr&uuml;ck: Fibre, 2013.</p><p style=\"margin-left:\
+  \ 40px;\">Hanna Zaremska&rsquo;s book is a fundamental synthesis of the history\
+  \ of Jews in medieval Poland. This is the place to start for anyone interested in\
+  \ the subject.</p><p>The most useful bibliographical database for the history of\
+  \ Poland is the Herder-Institut&rsquo;s Bibliographieportal, which is available\
+  \ in open-access (<u><strong><a href=\"https://hds.hebis.de/herder/index.php\">https://hds.hebis.de/herder/index.php</a></strong></u>).</p><p\
+  \ style=\"margin-left: 40px;\">See also the article &ldquo;<u><a href=\"https://mappingeasterneurope.princeton.edu/item/silesia-a-brief-overview.html\"\
+  ><strong>Silesia: A Brief Overview</strong></a></u>.&rdquo;</p>"
+author: Sébastien Rossignol
+type: []
+locations:
+- Poland
+- Lithuania
+subjects:
+- Piast Dynasty
+- Jagiellon Dynasty
+map_point: '{"type":"Point","coordinates":[19.9449799,50.0646501]}'
+make_public: true
+---
+
+<p><em>By S&eacute;bastien Rossignol | Memorial University of Newfoundland and Labrador</em></p>
+
+<p><strong>Historical Overview</strong><br />
+Medieval Poland encompassed a vast area between the Baltic Sea in the north and the Carpathian Mountains in the south, bordered by the valley of the Odra in the west and that of the Vistula in the east. It comprised several distinct regions: Greater Poland, around Gniezno, evolved on the shores of the Warta; Silesia was located along the upper course of the Odra; Lesser Poland included the lands of Krak&oacute;w and Sandomierz, on the upper Vistula; Mazovia was a region of plains on the middle course of the Vistula; and Kuyavia played the role of a buffer zone between Greater Poland and Prussia. Eastern Pomerania, which had connected Poland with the Baltic Sea in the 12th and 13th centuries, belonged to the state of the Teutonic Order since 1309. These geographically diverse lands were populated by speakers of a western Slavic language that, already in the Middle Ages, was identified as Polish.<br />
+Poland appeared in the historical record in the late 10th century as the land ruled by the Piasts who, starting from Greater Poland, expanded over much of the historical territory of the country. Poland became, alongside Bohemia and Hungary, an important regional power in Central Europe. Boleslaus I the Brave (r. 992&ndash;1025) and some of his successors might have been crowned in Gniezno, but the Polish royal title had ceased to be used by the end of the 11th century.<br />
+The 1138 statute of succession of Duke Boleslaus III the Wry-Mouth was a turning point in the history of Poland. Boleslaus intended for each of his sons to inherit a province of the kingdom, while they would all acknowledge the leading position of the senior prince ruling in Krak&oacute;w. The seniorate system, however, resulted in constant rivalry between the ruling dukes. By 1202, the title of senior prince had been abandoned, and the kingdom of Poland had become a series of <em>de facto</em> independent principalities. The territorial integrity of the kingdom was not fully forgotten: all provinces were ruled by Piasts, and the territory corresponded to the Church province of the archbishopric of Gniezno.<br />
+In Poland, the 13th century was, as was the case for the rest of East Central Europe, a period of profound transformations spearheaded by the rulers. These transformations included an influx of foreign peasants, townspeople, and Jews, mostly from the German lands; the introduction of the German law and of the law of Magdeburg in villages and towns; and the adaptation of many new technologies. These measures led to expanded woodland clearings and demographic growth, and intensified the market orientation of the economy. Regions of Poland were affected by these transformations at various levels, with Silesia being the most profoundly changed, and Mazovia the least.<br />
+All attempts at reuniting the kingdom through a coronation in Krak&oacute;w or Gniezno failed to achieve lasting success until the reign of Ladislaus the Short (also called Łokietek, or the Elbow-High, r. 1320&ndash;33). This Piast duke of Kuyavia succeeded in bringing under his authority most of the historical territory of Poland &ndash; with the notable exceptions of Silesia and Mazovia &ndash; and was crowned in Krak&oacute;w. His successor, Casimir III the Great (r. 1333&ndash;70), consolidated the kingdom, making Krak&oacute;w his residence and seat of government. Casimir expanded the borders of the kingdom by conquering Red Ruthenia, lands that historically had belonged to Rus. Polish settlers moved in, creating a diverse society of Catholic Poles and Orthodox Rus.<br />
+Casimir the Great was the last Piast king of Poland. He was succeeded by his nephew, Louis of Anjou, king of Hungary, who ruled both kingdoms until his death in 1382. Louis&rsquo;s daughter Jadwiga was crowned in 1384 at the age of eleven. In 1386, Jadwiga married the grand duke of Lithuania, Jogaila, who had just been baptized in the Latin rite on time for the wedding. As Ladislaus II Jagiellon, Jadwiga&rsquo;s husband ruled as king consort until her death in 1399. From then on, and through various arrangements, the Jagiellons reigned over both Poland and Lithuania.<br />
+Poland and Lithuania were, in the 15th century, ruled separately. Lithuania was a partly pagan, partly Orthodox composite country that comprised the former lands of Rus and was ruled by the Lithuanian nobility. The separate rule evolved into a personal union that was formalized with the treaty of Lublin (1569), which saw the creation of the Commonwealth of the Two Nations. The Polish-Lithuanian &ldquo;republic of the nobles&rdquo; was characterized by the vast prerogatives enjoyed by the nobility. In the 15th century, the university of Krak&oacute;w had become an important centre of culture and learning in East-Central Europe. Renaissance culture flourished in the 16th century, and in the age of the Reformation and religious wars Poland was known for its unusual toleration of religious diversity.<br />
+Late medieval Poland was a linguistically and religiously diverse country. German was spoken in the larger cities. In 1454, responding to a petition from nobles and merchants seeking his protection, King Casimir IV took over from the Teutonic Order territories of Prussia and Eastern Pomerania that became known as Royal Prussia. These had a mostly German-speaking population and included wealthy merchant cities such as Gdańsk (German: Danzig). The power of the Teutonic knights, who had suffered a crushing blow at the battle of Grunwald (German: Tannenberg; Lithuanian: Žalgiris), where they were defeated by a Polish-Lithuanian army, was clearly in decline. Jews are also known to have lived in Poland since the 10th century. Their numbers rose in the 13th century when Jews moved to Poland alongside German settlers, expanding the Ashkenazi world to include Poland. In contrast to the German lands and Silesia, the Jews of Poland did not experience mass expulsions in the late Middle Ages, as they remained under the protection of the king.<br />
+Medieval Poland&rsquo;s place on the map of East-Central Europe was truly at the crossroads of East and West. Social and cultural influences from Western Europe intensified in the 13th century in the age of migrations and great transformations. Contacts with the East Slavic and Orthodox cultural sphere, however, had grown in prominence since the mid 14th century. With the incorporation of Red Ruthenia and the union with Lithuania, Polish kings ruled over vast expanses of the former Rus lands. Oscar Halecki considered late medieval Poland-Lithuania to be a region on its own, between Germany and Muscovy.<br />
+There are many and varied primary sources available for the study of medieval Poland. Charters are published primarily on a regional basis in various charter books. Chronicles, annals, saints&rsquo; lives and other narrative sources are available primarily in the <em>Monumenta Poloniae Historica</em>, a still-ongoing series of source editions published since the 19th century. The sources of medieval Poland are mostly in Latin. Texts in German are principally from urban milieus. Polish did not become a fully formed written literary language until the 16th century, when it was finally used for administrative texts such as land surveys and tax registers.</p>
+
+<p><strong>Key Issues and Debates</strong><br />
+Charters and other documents make up a significant part of the primary sources available for the study of medieval Poland. Research in the auxiliary sciences of history, and especially diplomatics, is strong in Poland, resulting from widely available training in this field at Polish universities. Edition projects are regularly carried out at the Polish Academy of Sciences and various university institutes. Research projects on specific chanceries or centers of writing are also common. Polish scholarship does not, however, restrict itself to the &ldquo;practical&rdquo; aspects of reading and understanding documents and manuscripts; it has also made significant contributions to innovative approaches to the study of medieval charters and their cultural and historical significance. The role of chanceries has been the subject of many debates about the definition of this institution and its social role (see, in particular, the research of Maria Bielińska). Stanisław Kuraś and Anna Adamska have explored the literary value of the texts of charters. Polish scholars are also well-represented in research on pragmatic literacy and communication, as is attested through numerous monographs and contributions to collective volumes in the Utrecht Studies in Medieval Literacy published by Brepols.<br />
+The roles and functions of rulers in the history of medieval Poland have always been, and continue to be, popular subjects of study. Key moments that have repeatedly attracted attention in research are Boleslaus the Wry-Mouth&rsquo;s 1138 statute, and the various attempts at restoring the monarchy in the 13th and early 14th centuries. More recently, Eduard M&uuml;hle has studied the place of the Piasts in medieval history and in Polish historical consciousness, while Grischa Vercamer has used a comparative approach to study the depiction of Piast rulers in Polish chronicles in a wider European perspective. Female rulers, in contrast, have attracted only limited attention. Maciej Michalski investigated the hagiography of female saints from ruling families, while Agnieszka Teterycz-Puzio studied female rulers who acted as regents of underage sons.<br />
+The transformations of the 13th century have, unsurprisingly, been the subject of much discussion in scholarship on medieval Poland, as has been the case for this period in East-Central Europe more generally. In Poland, the meaning of the <em>iura ducalia</em> documented in 13th-century sources has been a particular bone of contention. Whereas scholars such as Karol Modzelewski postulated a continuity of ducal rights evolving from the 11th and the 12th centuries in an administrative structure built around castellanies, Sławomir Gawlas has argued that a radical break occurred in the 13th century, as entirely new methods of administration were introduced under influence from the German lands and based on an imported territorial approach to rulership.<br />
+The significance of <em>locatio</em> charters, the documents establishing the introduction of German law in villages and towns, has been the subject of abundant research, especially in the context of urbanization. Archaeological research has enabled a more holistic understanding of the process of changes that affected towns in the 13th century. The research of Marian Rębkowski (for Pomerania) and Jerzy Piekalski (for Wrocław and Krak&oacute;w) has significantly advanced the state of knowledge. It is now generally accepted that towns founded <em>a crudo radice</em>, without preceding settlement, were the exception. Most towns of the 13th century were in continuity with earlier settlements but were radically transformed in their topography and appearance in the course of the 13th century. Changes were generally not sudden but were implemented in several steps; the granting of <em>locatio</em> rights was only one aspect of this process of transformation.<br />
+Relations between Poland and the German lands or the Holy Roman Empire have always been of great importance in the history of medieval Poland. The role of German migrants in Poland and the building of antagonisms and stereotypes have, in particular, long been intensively scrutinized. Research from the first half of the 20th century too often tended to project modern national conceptions and prejudices onto the past and to consider national differences as primary factors in historical developments. Scholarship has, fortunately, long moved away from such conceptions. The social and cultural roles of national sentiments in medieval societies have, nonetheless, continued to be subjects of great interest. Benedykt Zientara has been interested in specifically medieval conceptions of national consciousness. Sławomir Gawlas has paid closer attention to the contexts of expressions of national antagonisms and has uncovered various underlying motivations and processes. Andrzej Pleszczyński studied the development of stereotypes in the discourse on Poland of early German writings.<br />
+The origins of the Jews of medieval Poland have long been debated. Whereas it is undisputed that Jews moved to Poland in significant numbers from the German lands in the 13th century, the origins of earlier Jewish communities, and the extent of their continuity with the high and late medieval communities, are still disputed. Other subjects of particular interest are the legal statutes that regulated Jewish communities, the contribution of Jews to medieval economy, pogroms and persecutions, and the reasons for the success of the Krak&oacute;w community in the late Middle Ages.<br />
+The place of Poland in the context of medieval Europe has often been studied in parallel with the history of the other two main Central European kingdoms, Bohemia and Hungary, which shared many common features in the Middle Ages. Occasionally, comparisons have been made with the evolution of the Scandinavian kingdoms. Comparative history, and the history of contacts and transfers with other parts of Europe are much rarer, but would enrich our understanding of the place of Poland in European history.</p>
+
+<p><strong>Further Reading</strong><br />
+Frost, Robert. <em>The Oxford History of Poland-Lithuania, Vol. 1: The Making of the Polish-Lithuanian Union, 1385-1569</em>. Oxford: Oxford University Press, 2015.</p><p style="margin-left: 40px;">Robert Frost&rsquo;s book primarily discusses the political history of the union between Poland and Lithuania in its geographical, social, and cultural complexity. Volume 2, which is in preparation, is expected to examine in more detail the cultural and social history of the Commonwealth.</p><p>Jurek, Tomasz. <em>Dyplomatyka staropolska</em>. Warsaw: DiG, 2015.</p><p style="margin-left: 40px;">Although it is entirely in Polish, the collective volume published by Tomasz Jurek needs to be mentioned here. The book provides a comprehensive overview of charter studies for all territories in the current borders of Poland for the Middle Ages and the early modern period.</p><p>Knoll, Paul W. <em>The Rise of the Polish Monarchy: Piast Poland in East Central Europe</em>. Chicago-London: University of Chicago Press, 1972.</p><p style="margin-left: 40px;">Paul Knoll&rsquo;s book is a classic study of the political history of the kingdom of Poland during the reigns of Ladislaus the Short and Casimir the Great. It is also a perfect introduction to the history of Poland in the 14th century.</p><p>Moździoch, Sławomir, and Przemysław Wiszewski, eds. <em>Consensus or Violence? Cohesive Forces in Early and High Medieval Societies (9th-14th C.)</em>. Interdisciplinary Medieval Studies 1. Wrocław: Institute of Archaeology and Ethnology of the Polish Academy of Sciences and Institute of History at the University of Wrocław, 2013.</p><p style="margin-left: 40px;">This collection of articles in English offers insights into key aspects of the history of Poland between the 9th and 14th centuries, based on research in both history and archaeology, and from a European perspective.</p><p>M&uuml;hle, Eduard. <em>Die Piasten: Polen im Mittelalter</em>, Wissen. Munich: C.H. Beck, 2011.</p><p style="margin-left: 40px;">Eduard M&uuml;hle&rsquo;s book provides a concise introduction to the history of Poland in the Piast era.</p><p>Pleszczyński, Andrzej, and Grischa Vercamer. <em>Germans and Poles in the Middle Ages: The Perception of the &lsquo;Other&rsquo; and the Presence of Mutual Ethnic Stereotypes in Medieval Narrative Sources</em>. Explorations in Medieval Culture 16. Leiden: Brill, 2021.</p><p style="margin-left: 40px;">This collective volume provides convenient access to the various subjects discussed in research on the relationship between Poland and the German lands in the Middle Ages.</p><p>Rossignol, S&eacute;bastien, and Anna Adamska, eds. <em>Urkundenformeln im Kontext: Formen der Schriftkultur im Ostmitteleuropa des Mittelalters (13.-14. Jahrhundert)</em>. Ver&ouml;ffentlichungen des Instituts f&uuml;r &Ouml;sterreichische Geschichtsforschung 65. Wien: B&ouml;hlau, 2016.</p><p style="margin-left: 40px;">This volume directed by S&eacute;bastien Rossignol and Anna Adamska is composed of case studies and historiographical essays in German and English that provide glimpses into research with Polish medieval documents.</p><p>W&uuml;nsch, Thomas, and Andrzej Janeczek, eds. <em>On the Frontier of Latin Europe: Integration and Segregation in Red Ruthenia, 1350-1600</em>. An der Grenze des lateinischen Europa: Integration und Segregation in Rotreu&szlig;en, 1350-1600. Warsaw: Institute of Archaeology and Ethnology of the Polish Academy of Sciences, 2004.</p><p style="margin-left: 40px;">This volume provides a rare synthesis of research on medieval Red Ruthenia, the eastern region of Poland, formerly part of Rus, that was conquered by Casimir the Great. Articles in German and English illuminate the complex diversity of the society of the region in the late Middle Ages.</p><p>Zaremska, Hanna. <em>Juden im mittelalterlichen Polen und die Krakauer Judengemeinde</em>, trans. Heidemarie Petersen, Klio in Polen 17. Osnabr&uuml;ck: Fibre, 2013.</p><p style="margin-left: 40px;">Hanna Zaremska&rsquo;s book is a fundamental synthesis of the history of Jews in medieval Poland. This is the place to start for anyone interested in the subject.</p><p>The most useful bibliographical database for the history of Poland is the Herder-Institut&rsquo;s Bibliographieportal, which is available in open-access (<u><strong><a href="https://hds.hebis.de/herder/index.php">https://hds.hebis.de/herder/index.php</a></strong></u>).</p><p style="margin-left: 40px;">See also the article &ldquo;<u><a href="https://mappingeasterneurope.princeton.edu/item/silesia-a-brief-overview.html"><strong>Silesia: A Brief Overview</strong></a></u>.&rdquo;</p>

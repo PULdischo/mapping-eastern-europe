@@ -1,0 +1,22 @@
+---
+title: 'Review of Mark J. Johnson, Robert Ousterhout, and Amy Papalexandrou, eds.,
+  <i>Approaches to Byzantine Architecture and Its Decoration: Studies in Honor of
+  Slobodan Ćurčić</i> (Farnham: Ashgate, 2012), in <i>Mediaevistik</i> 25 (2012):
+  304-306. [N. Teteriatnikov]'
+title_link: https://www.jstor.org/stable/42587494
+item_image: /assets/media/items/56._Teteriatnikov_Johnson-Ousterhout-Papalexandrou.jpg
+item_image_caption: ''
+slider_images: []
+start_year: 1201
+end_year: 1500
+text: <p>.</p>
+author: ''
+type: []
+locations:
+- Serbia
+subjects: []
+map_point: '{"type":"Point","coordinates":[22.5439449375,43.1090036752]}'
+make_public: true
+---
+
+<p>.</p>
