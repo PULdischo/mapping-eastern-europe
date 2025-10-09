@@ -1,0 +1,7 @@
+{
+    "layout": "item.njk",
+    "permalink": "/book-reviews/{{ page.fileSlug }}/",
+    "tags": [
+        "book-reviews"
+    ]
+}

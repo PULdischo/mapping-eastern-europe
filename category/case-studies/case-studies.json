@@ -1,0 +1,7 @@
+{
+    "layout": "item.njk",
+    "permalink": "/case-studies/{{ page.fileSlug }}/",
+    "tags": [
+        "case-studies"
+    ]
+}
