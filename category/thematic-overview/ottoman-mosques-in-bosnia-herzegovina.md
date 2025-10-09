@@ -1,247 +1,34 @@
 ---
-title: Ottoman Mosques in Bosnia-Herzegovina
+title: Ottoman Mosques in Bosnia\-Herzegovina
 title_link: ''
 item_image: /assets/media/items/Ott_mosques_BIH_Fig_5_Pocitelj_Ali_mosque.jpg
-item_image_caption: '<p>Architectural structure with minaret and entrance portal of
-  the Hajji Ali Mosque in Počitelj, Bosnia-Herzegovina. (source: Ana Marija Grbanovic)</p>'
+item_image_caption: 'Architectural structure with minaret and entrance portal of the
+  Hajji Ali Mosque in Počitelj, Bosnia\-Herzegovina. (source: Ana Marija Grbanovic)'
 slider_images:
 - slider_image: /assets/media/items/Ott_Mosques_BIH-Fig_1_Ali_Pasha_mosque_Sarajevo.jpg
   caption: 'View of the architectural structure and entrance portal of the Ali Pasha
-    Mosque in Sarajevo, Bosnia-Herzegovina. (source: Ana Marija Grbanovic)'
+    Mosque in Sarajevo, Bosnia\-Herzegovina. (source: Ana Marija Grbanovic)'
 - slider_image: /assets/media/items/Ott_mosques_BIH_Fig_2_Bascarsijska_mosque_Sarajevo_3RJXkCo.jpg
   caption: 'View of the central market square and the Baščaršijska Mosque in Sarajevo,
-    Bosnia-Herzegovina. (source: Ana Marija Grbanovic)'
+    Bosnia\-Herzegovina. (source: Ana Marija Grbanovic)'
 - slider_image: /assets/media/items/Ott_mosques_BIH_Fig_3_Karadzozbey_mosque_Mostar.jpg
   caption: 'Structure, entrance portal and minaret of the Karađozbey Mosque in Mostar,
-    Bosnia-Herzegovina. (source: Ana Marija Grbanovic)'
+    Bosnia\-Herzegovina. (source: Ana Marija Grbanovic)'
 - slider_image: /assets/media/items/Ott_mosques_BIH_Fig_4_Koski_Mehmet_Pasha_mosque_Mostar.jpg
   caption: 'Ablution fountain and architectural structure of the Koski Mehmet Pasha
-    Mosque in Mostar, Bosnia-Herzegovina. (source: Ana Marija Grbanovic)'
+    Mosque in Mostar, Bosnia\-Herzegovina. (source: Ana Marija Grbanovic)'
 - slider_image: /assets/media/items/Ott_mosuqes_BIH-Fig_6_Pocitelj_Herzegovina.jpg
   caption: 'View of the Počitelj town with its congregational mosque, urban center
-    and fortress, Bosnia-Herzegovina. (source: Ana Marija Grbanovic)'
+    and fortress, Bosnia\-Herzegovina. (source: Ana Marija Grbanovic)'
 - slider_image: /assets/media/items/7_2k8yDXY.jpg
   caption: 'Interior of the prayer hall with wall painting decorations of the Colored
     Mosque of Travnik (prior to the latest conservation interventions). (source: Ana
     Marija Grbanovic)'
 - slider_image: /assets/media/items/8.jpg
-  caption: 'View of the interior of the multi-spaced prayer hall of the Ghazi Husrev
+  caption: 'View of the interior of the multi\-spaced prayer hall of the Ghazi Husrev
     Bey Mosque in Sarajevo. (source: Ana Marija Grbanovic)'
 start_year: 1460
 end_year: 1700
-text: "<p><em>By Ana Marija Grbanovic | Centre for Heritage Conservation Studies and\
-  \ Technologies (KDWT), University of Bamberg</em><br />\r\n<strong>Overview</strong><br\
-  \ />\r\nBosnia-Herzegovina owes its architectural heritage, which formed during\
-  \ more than four centuries of Ottoman rule (1463&ndash;1878), to several distinguishable\
-  \ factors: its specific geographical location, the legacy of the Byzantine architecture,\
-  \ particular skills of the local builders and artisans, and the pre-existing artistic\
-  \ and architectural heritage in the area. Mosques are arguably the most representative\
-  \ type of Ottoman architectural heritage; they are the most widespread and the most\
-  \ documented structures, and they present the focus of Muslim communities&rsquo;\
-  \ religious, social, educational, and political activities. Moreover, they functioned\
-  \ as landmarks of Ottoman sovereignty in the region. Mosques also served as the\
-  \ means for organized urbanization in direct connection to the Islamization process\
-  \ of the Ottoman Empire&rsquo;s newly dominated areas.<br />\r\nThe Balkan Peninsula\
-  \ was conquered by the Ottomans in two main waves: the first one between 1352 and\
-  \ 1402 and the second one between 1415 and 1467. The Bosnian campaign, undertaken\
-  \ by the sultan Mehmed II (r. 1444&ndash;46, 1451&ndash;81) in 1463, is a key moment\
-  \ in history, which brought about the definitive Ottoman conquest of the majority\
-  \ of the territory of Bosnia-Herzegovina. At the time of its conquest, Bosnia-Herzegovina\
-  \ was divided into two parts; Bosnia and Herzegovina. The Ottomans maintained the\
-  \ same territorial division. The area of the modern Bosnia-Herzegovina was initially\
-  \ part of the Ottoman Rumelia province and it was divided between three <em>sancaks\
-  \ </em>(Ottoman administrative units): the Sancak of Bosnia (Bosna), the Sancak\
-  \ of Herzegovina (Hersek) and the Sancak of Zvornik (Izvornik). Around 1525, the\
-  \ Ottomans created Elayet of Bosnia (<em>beylerbeylik</em>; large administrative\
-  \ entity), which was subdivided into the Sancak of Bosnia, the Sancak of Herzegovina,\
-  \ the Sancak of Vičitrina, the Sancak of Prizren, the Sancak of Klis, the Sancak\
-  \ of Krka, and the Sancak of Pakrac. The borders of the <em>sancaks </em>and of\
-  \ the <em>eyalet</em> continued to change through time. Bosnian territory firstly\
-  \ bordered the Hungarian kingdom and the Venetian Republic and later the Hapsburg\
-  \ Empire, the Venetian Republic and the Dubrovnik Republic (Ragusa). It accordingly\
-  \ played an important role as the furthest oriental outpost in Europe, an important\
-  \ military area and a landmark of the Ottoman territory.<br />\r\nWith the arrival\
-  \ of the Ottomans in the Balkans, the process of Islamization started. Bosnia-Herzegovina\
-  \ seems to be a particular case because of the considerably high percentage of converts,\
-  \ in comparison to the other areas of the Ottoman Balkans. In Bosnia-Herzegovina\
-  \ in just nine decades after the Ottoman conquest, roughly speaking, approximately\
-  \ 46% of the population was listed as Muslims. Following the conquest, there was\
-  \ a need to stabilize the Ottoman sovereignty in the Balkans, not only through the\
-  \ administration system, but also by visual means. This was performed through urbanization,\
-  \ which was closely linked to the process of Islamization of the new territories.\
-  \ New types of buildings appeared in this geographical area in response to the arrival\
-  \ of Islam, which strongly impacted the public and private lives of worshippers.<br\
-  \ />\r\nThe 16th century is the moment when the Ottoman architecture reached its\
-  \ peak under the rule of the sultan Sulayman the Magnificent. Above all, during\
-  \ his rule, in the Empire&#39;s capital, Istanbul (and later in the city of Edirne),\
-  \ Sinan&rsquo;s indisputably creative and unmatchable architectural masterpieces\
-  \ were constructed. Because of the stability of the Empire and general welfare during\
-  \ that time, this period corresponds to the peak of architectural production also\
-  \ in Bosnia-Herzegovina. In the 17th century, the power, integrity, and stability\
-  \ of the Ottoman Empire were partially halted. Nonetheless, some historic events\
-  \ (for example, the Siege of Vienna in 1683) show that the power of the Empire was\
-  \ not yet in decline. Due to several unsuccessful attempts of expansion of the Empire\
-  \ and uprisings of peasants in the borderlands, the Ottoman architectural production\
-  \ in Bosnia-Herzegovina had partially started to halt.<br />\r\nAccording to the\
-  \ 1933 census, there were 1,120 mosques in Bosnia-Herzegovina, out of these, 70%\
-  \ featured a wooden, rather than a stone minaret. Regional differences can be observed\
-  \ in this respect: in Bosnia region 81% mosques featured a wooden minaret and in\
-  \ Herzegovina region wooden minarets amounted to only 13%. Among these, a total\
-  \ of 36 historical mosques featured monumental architectural form with a stone minaret\
-  \ and prayer hall covered by an external monumental dome. Out of these 36 mosques,\
-  \ 28 mosques were constructed in the 16th century, while others were built between\
-  \ the 17th and the 18th century. The majority of these mosques were badly damaged\
-  \ or entirely destroyed during the Yugoslav dissolution war in Bosnia-Herzegovina\
-  \ (1992&ndash;96) and they were rebuilt afterwards.<br />\r\nMonumental domed mosques\
-  \ can be further divided between mosques with single-space prayer halls and mosques\
-  \ with the main prayer hall consisting of several architectural spaces. Ground plans\
-  \ for these monuments were fully defined in the center of the Ottoman Empire and\
-  \ subsequently transmitted into the south-eastern European space, likely via plans\
-  \ and by mosque construction supervisors sent from the center of the Empire. Minarets\
-  \ of mosques in south-eastern Europe assume considerable heights and feature a masterly\
-  \ level of stonemasonry. It has been proposed that special groups of minaret builders\
-  \ were mobile across the Balkan Peninsula for minaret construction, but this hypothesis\
-  \ would require further evidence. For Bosnia-Herzegovina, especially the Herzegovina\
-  \ region, archives of Dubrovnik hold extensive evidence of Dubrovnik stonemasons\
-  \ being mobilized for church and mosque construction in the Herzegovinian <em>sancak</em>.<br\
-  \ />\r\nThe classical Ottoman architectural activities in Bosnia-Herzegovina lasted\
-  \ between approximately the 1540s until the late 16th century. They were marked\
-  \ by the adoption of the domed single-spaced mosque with an adjacent exterior porch\
-  \ and the minaret as the main type of structure for monumental patronage. One of\
-  \ the best-known monuments of Bosnia-Herzegovina, destroyed in the armed conflict,\
-  \ and recently reconstructed through rebuilding, was the Alaca mosque in Foča (1550&ndash;51);\
-  \ it featured structure consisting of square prayer hall flanked by entrance portal\
-  \ and minaret, but its unique feature were wall painting decorations on the portal\
-  \ and in the interior of the prayer hall. Perhaps the most monumental of the mosques\
-  \ in Bosnia-Herzegovina is the Ghazi Husrev Bey mosque in Sarajevo (1530&ndash;31).\
-  \ It features a tripartite monumental prayer hall preceded by a monumental portal\
-  \ and flanked by one of the largest minarets. Recent research of the mosque uncovered\
-  \ several layers of wall paintings in its interior spaces. Further significant mosques\
-  \ of the given mosque type comprise: the Karadzozbeg mosque in Mostar (1557&ndash;58),\
-  \ the Ali Pasha mosque in Sarajevo (1560&ndash;61), the Ferhad Pasha mosque in Sarajevo\
-  \ (1561&ndash;62), and the Hajji Ali mosque in Počitelj (1557&ndash;58). Other domed\
-  \ mosques constructed in Bosnia-Herzegovina, even the ones built later than the\
-  \ 16th century, share similar characteristics and dispositions of the floor plan,\
-  \ but are slightly different in their cross-section plan, execution and lesser harmony\
-  \ of proportions. This may be considered an argument suggesting that Ottoman architects\
-  \ from the center of the Empire were not present at mosque construction sites, but\
-  \ rather, local master builders and master stonemasons built mosques according to\
-  \ plans and instructions as well as existing structural models. Some examples comprise\
-  \ the Balagu&scaron;a mosque in Livno (constructed no later than 1586), the Sultan\
-  \ S&uuml;leyman mosque in Blagaj (1520&ndash;21), the Čekrekčija Mosque (1526) and\
-  \ the Ba&scaron;čar&scaron;ijska Mosque (1528) in Sarajevo.<br />\r\nThe period\
-  \ from around the late 16th century until the middle of the 18th century is marked\
-  \ by a considerably less monumental architectural production in Bosnia-Herzegovina.\
-  \ However, it has been shown that some larger complexes were still constructed in\
-  \ that period. For example, the Mehmed Pasha Kukavica complex (1751/1752) in Foča,\
-  \ the Koski Mehmed Pasha mosque (1612&ndash;18) in Mostar, the Tekijska (1579) mosque\
-  \ in Konjic, the Esme Sultanije mosque (1749/1750) in Jajce, the Kur&scaron;umlija\
-  \ mosque (1560, construction date disputed) in Maglaj and the Colored Mosque (present\
-  \ day structure is from 1757) in Travnik. One of the most striking mosques is the\
-  \ Colored (&Scaron;arena) Mosque in Travnik which features a monumental wall painting\
-  \ repertoire comparable to that of the Et&rsquo;hem Bay Mosque in Tirana (construction\
-  \ started in 1793<span style=\"font-size:12.0pt\"><span style=\"line-height:107%\"\
-  ><span style=\"font-family:&quot;Times New Roman&quot;,serif\">&ndash;</span></span></span>94\
-  \ and concluded in 1822<span style=\"font-size:12.0pt\"><span style=\"line-height:107%\"\
-  ><span style=\"font-family:&quot;Times New Roman&quot;,serif\">&ndash;</span></span></span>23)\
-  \ and the Colored (&Scaron;arena) Mosque (first structure from 1495, present day\
-  \ structure from 1785 and 1833&ndash;34) in Tetovo/a. Further Ottoman structures\
-  \ erected in Bosnia-Herzegovina which display comparable construction technology\
-  \ and are indisputable architectural masterpieces, are the Vi&scaron;egrad Mehmed\
-  \ Pasha Sokolović bridge built between 1571&ndash;77 and designed by Sinan himself,\
-  \ and the Mostar Old Bridge (Stari most) constructed in &ndash;53 (subsequently\
-  \ destroyed and rebuilt).</p>\r\n\r\n<p><strong>Key Issues and Debates</strong><br\
-  \ />\r\nOttoman architecture in Bosnia-Herzegovina and the broader Balkans tends\
-  \ to be frequently considered of provincial nature. Accordingly, Ottoman architectural\
-  \ heritage is often misunderstood as simple identity markers not worthy of closer\
-  \ attention and analysis of their artistic and architectural value. Within the Ottoman\
-  \ Empire, Bosnia-Herzegovina was always a borderland; initially, it had an important\
-  \ role as a stronghold for further expansion of the Empire towards the West and\
-  \ in the later period, it assumed its significance as a fortification to defend\
-  \ the imperial territories. In Bosnia-Herzegovina, Eastern and Western cultural\
-  \ and religious influences met the rich local tradition, interacted, coexisted in\
-  \ symbiosis and catalyzed the transformation and development of a complex and multicultural\
-  \ society. Even if this architectural production can be simply labeled as a provincial\
-  \ attempt to imitate the capital&rsquo;s larger and more elaborate prototypes, the\
-  \ so-called creativity of this interpretation should not be devalued. The local\
-  \ society did not only gradually adapt to the new religion, lifestyle and material\
-  \ culture, but above all adapted the new culture to their needs and tastes. The\
-  \ following results from this relationship: differences in style, scale, function,\
-  \ type of patronage and execution of structures.<br />\r\nIn respect to the rest\
-  \ of the Ottoman Balkan lands, Ottoman mosques in Bosnia-Herzegovina were conditioned\
-  \ by the pre-existing architecture, their role as landmarks, regional characteristics\
-  \ and skills of local builders. This group of mosques is rather varied and has diverging\
-  \ characteristics. However, when compared to the rest of the Balkans, extraordinary\
-  \ regionalization of architectural production is the first visible characteristic.\
-  \ Moreover, the local, rather liberal interpretation brought more diversity when\
-  \ compared to the rest of the Balkan mosques. It can also be suggested that in the\
-  \ interpretation and execution of mosques, the domestic component in all three styles\
-  \ of mosques was stronger than the Ottoman component.<br />\r\nRegional differences\
-  \ between mosques, evident mainly in the construction material and building techniques,\
-  \ result in distinct architectural styles and consequently in overall appearance\
-  \ of the mosques. Differences can be observed in monumental domed mosques but they\
-  \ are even more striking and evident on mid-sized and small mosques. One quarter\
-  \ of mosques built in Bosnia-Herzegovina are mosques with a four-sloped roof and\
-  \ a stone minaret, while 70% of all mosques built (before 1933) in Bosnia-Herzegovina\
-  \ are four-sloped mosques with a wooden minaret. The founders of these structures\
-  \ were mainly locals. Therefore, no guidelines or surveillance could have been implied\
-  \ on these endowments from the center of the Empire. These regional differences\
-  \ are the most pronounced in the roof form, application of different kinds of roof\
-  \ coverings and minaret designs. The four-sloped roof mosque with a wooden minaret\
-  \ can be considered as showing the highest level of the creativity, skill and invention\
-  \ of local builders. The major absence of the dome, the presence of the wooden interior\
-  \ dome, the high frequency of wooden minarets and a four-sloped roof are some of\
-  \ the striking outcomes that manifest it.<br />\r\nThe significance of Bosnian Ottoman\
-  \ mosques and their strong symbolic value for the Bosniak community also manifested\
-  \ itself during the dissolution of Yugoslavia. On the basis of ethnic conflicts\
-  \ between Bosnian Croats, Serbs and Bosniaks (Bosnian Muslims), the Yugoslav dissolution\
-  \ wars manifested themselves as a war on culture. During the war in Bosnia-Herzegovina\
-  \ (1992&ndash;96) Muslim, Christian and Jewish architectural religious heritage\
-  \ played a significant role as markers of religious and ethnic identities, and it\
-  \ was systematically destroyed. This systematic destruction of religious structures\
-  \ can be linked to war crimes and ethnical cleansing. A survey, conducted for the\
-  \ Cultural Heritage Division of the Council of Europe, provides an independent assessment\
-  \ of the state of cultural heritage after the Bosnian War in the year 2002; it reports\
-  \ that a total of 332 Muslim sites, 277 of which were mosques, have been documented\
-  \ in the territory of Bosnia-Herzegovina, and out of these 60% of monuments (161\
-  \ sites) were mosques, out of which 136 mosques were almost entirely destroyed.\
-  \ In the post-war reconciliation process, these mosques &ndash; markers of Muslim\
-  \ presence - assumed further importance. The question of the reconstruction of mosques\
-  \ proved to be a sensitive issue. In the past, locating and constructing a mosque\
-  \ was largely a political act and currently, reconstruction interventions on these\
-  \ monuments, or their denial, are also politically charged.</p>\r\n\r\n<p><strong>Further\
-  \ Reading</strong><br />\r\nAndrejević, Andrej. <em>Islamska Monumentalna Umetnost\
-  \ XVI Veka u Jugoslaviji. Kupolne Đamije</em>&nbsp;[The 16th century monumental\
-  \ architecture in Yugoslavia. Domed mosques]. Belgrade: Institut za istoriju umetnosti\
-  \ Filozofskog Fakulteta, 1984.</p><p style=\"margin-left:40px;\">Pioneering publication\
-  \ on the subject of monumental Ottoman domed mosques in Western Balkans.</p><p>Bećirbegović,\
-  \ Madžida. <em>Džamije sa Drvenom Munarom u Bosni i Hercegovini </em>[Mosques with\
-  \ Wooden Minarets in Bosnia-Herzegovina]. Sarajevo: Sarajevo-Publishing, [1931],\
-  \ 1999.</p><p style=\"margin-left:40px;\">Monograph on medium and small dimension\
-  \ mosques in Bosnia-Herzegovina, with discussion of 1933 mosque census.</p><p>Hartmuth,\
-  \ Maximilian, ed. <em>Centres and Peripheries in Ottoman Architecture: Rediscovering\
-  \ a Balkan Heritage </em>[Centri i periferije u osmanskoj arhitekturi: Ponovno otkrivanje\
-  \ balkanskog naslijeđa]. Sarajevo: CHwB, report series 9/2010, 2010.</p><p style=\"\
-  margin-left:40px;\">Edited volume collecting contributions discussing the center-periphery\
-  \ relation between the core of the Ottoman Empire and the Balkans, from the material\
-  \ culture perspective.</p><p>Inalcık, Halil. <em>An Economic and Social History\
-  \ of the Ottoman Empire. Volume one, 1300-1600</em>. Cambridge: Cambridge University\
-  \ Press, [1994], 1997.</p><p style=\"margin-left:40px;\">Landmark publication on\
-  \ economic and social history of the Ottoman Empire, with a section concerning Balkans.</p><p>Pa&scaron;ić,\
-  \ Amir.<em> Islamic Architecture in Bosnia and Herzegovina, Studies on the History\
-  \ and Culture of Bosnia and Hercegovina 2</em>. Istanbul: Organisation of the Islamic\
-  \ Conference, Research Centre for Islamic History, Art, and Culture, 1994.</p><p\
-  \ style=\"margin-left:40px;\">Monograph providing discussion of Ottoman architectural\
-  \ heritage in Bosnia-Herzegovina with the overview of the most significant monuments\
-  \ (translated to English).</p><p>Redžić, Husref.<em> Islamska Umjetnost</em>&nbsp;[Islamic\
-  \ art]. Belgrade: I. Z. Jugoslavija, 1967.</p><p style=\"margin-left:40px;\">Monograph\
-  \ on Islamic art and architecture, with focus on Balkans, in Serbo-Croatian language.</p><p>Riedlmayer,\
-  \ Andr&aacute;s J. &ldquo;Destruction of Cultural Heritage in Bosnia-Herzegovina,\
-  \ 1992&ndash;1996: a Post-war Survey of Selected Municipalities.&rdquo; Expert Report\
-  \ commissioned by the International Criminal Tribunal for the Former Yugoslavia,\
-  \ 2002.</p><p style=\"margin-left:40px;\">Independent report concerning destruction\
-  \ of Bosnian Muslim, Christian and Jewish architectural heritage during the dissolution\
-  \ of former Yugoslavia.</p>\r\n\r\n<p>&nbsp;</p>"
 author: Ana Marija Grbanovic
 type:
 - Architecture
@@ -250,28 +37,55 @@ locations:
 subjects:
 - mosque
 - Ottoman
-map_point: '{"type":"Point","coordinates":[18.4130763,43.8562586]}'
+latitude: 43.8562586
+longitude: 18.4130763
 make_public: true
 ---
 
-<p><em>By Ana Marija Grbanovic | Centre for Heritage Conservation Studies and Technologies (KDWT), University of Bamberg</em><br />
-<strong>Overview</strong><br />
-Bosnia-Herzegovina owes its architectural heritage, which formed during more than four centuries of Ottoman rule (1463&ndash;1878), to several distinguishable factors: its specific geographical location, the legacy of the Byzantine architecture, particular skills of the local builders and artisans, and the pre-existing artistic and architectural heritage in the area. Mosques are arguably the most representative type of Ottoman architectural heritage; they are the most widespread and the most documented structures, and they present the focus of Muslim communities&rsquo; religious, social, educational, and political activities. Moreover, they functioned as landmarks of Ottoman sovereignty in the region. Mosques also served as the means for organized urbanization in direct connection to the Islamization process of the Ottoman Empire&rsquo;s newly dominated areas.<br />
-The Balkan Peninsula was conquered by the Ottomans in two main waves: the first one between 1352 and 1402 and the second one between 1415 and 1467. The Bosnian campaign, undertaken by the sultan Mehmed II (r. 1444&ndash;46, 1451&ndash;81) in 1463, is a key moment in history, which brought about the definitive Ottoman conquest of the majority of the territory of Bosnia-Herzegovina. At the time of its conquest, Bosnia-Herzegovina was divided into two parts; Bosnia and Herzegovina. The Ottomans maintained the same territorial division. The area of the modern Bosnia-Herzegovina was initially part of the Ottoman Rumelia province and it was divided between three <em>sancaks </em>(Ottoman administrative units): the Sancak of Bosnia (Bosna), the Sancak of Herzegovina (Hersek) and the Sancak of Zvornik (Izvornik). Around 1525, the Ottomans created Elayet of Bosnia (<em>beylerbeylik</em>; large administrative entity), which was subdivided into the Sancak of Bosnia, the Sancak of Herzegovina, the Sancak of Vičitrina, the Sancak of Prizren, the Sancak of Klis, the Sancak of Krka, and the Sancak of Pakrac. The borders of the <em>sancaks </em>and of the <em>eyalet</em> continued to change through time. Bosnian territory firstly bordered the Hungarian kingdom and the Venetian Republic and later the Hapsburg Empire, the Venetian Republic and the Dubrovnik Republic (Ragusa). It accordingly played an important role as the furthest oriental outpost in Europe, an important military area and a landmark of the Ottoman territory.<br />
-With the arrival of the Ottomans in the Balkans, the process of Islamization started. Bosnia-Herzegovina seems to be a particular case because of the considerably high percentage of converts, in comparison to the other areas of the Ottoman Balkans. In Bosnia-Herzegovina in just nine decades after the Ottoman conquest, roughly speaking, approximately 46% of the population was listed as Muslims. Following the conquest, there was a need to stabilize the Ottoman sovereignty in the Balkans, not only through the administration system, but also by visual means. This was performed through urbanization, which was closely linked to the process of Islamization of the new territories. New types of buildings appeared in this geographical area in response to the arrival of Islam, which strongly impacted the public and private lives of worshippers.<br />
-The 16th century is the moment when the Ottoman architecture reached its peak under the rule of the sultan Sulayman the Magnificent. Above all, during his rule, in the Empire&#39;s capital, Istanbul (and later in the city of Edirne), Sinan&rsquo;s indisputably creative and unmatchable architectural masterpieces were constructed. Because of the stability of the Empire and general welfare during that time, this period corresponds to the peak of architectural production also in Bosnia-Herzegovina. In the 17th century, the power, integrity, and stability of the Ottoman Empire were partially halted. Nonetheless, some historic events (for example, the Siege of Vienna in 1683) show that the power of the Empire was not yet in decline. Due to several unsuccessful attempts of expansion of the Empire and uprisings of peasants in the borderlands, the Ottoman architectural production in Bosnia-Herzegovina had partially started to halt.<br />
-According to the 1933 census, there were 1,120 mosques in Bosnia-Herzegovina, out of these, 70% featured a wooden, rather than a stone minaret. Regional differences can be observed in this respect: in Bosnia region 81% mosques featured a wooden minaret and in Herzegovina region wooden minarets amounted to only 13%. Among these, a total of 36 historical mosques featured monumental architectural form with a stone minaret and prayer hall covered by an external monumental dome. Out of these 36 mosques, 28 mosques were constructed in the 16th century, while others were built between the 17th and the 18th century. The majority of these mosques were badly damaged or entirely destroyed during the Yugoslav dissolution war in Bosnia-Herzegovina (1992&ndash;96) and they were rebuilt afterwards.<br />
-Monumental domed mosques can be further divided between mosques with single-space prayer halls and mosques with the main prayer hall consisting of several architectural spaces. Ground plans for these monuments were fully defined in the center of the Ottoman Empire and subsequently transmitted into the south-eastern European space, likely via plans and by mosque construction supervisors sent from the center of the Empire. Minarets of mosques in south-eastern Europe assume considerable heights and feature a masterly level of stonemasonry. It has been proposed that special groups of minaret builders were mobile across the Balkan Peninsula for minaret construction, but this hypothesis would require further evidence. For Bosnia-Herzegovina, especially the Herzegovina region, archives of Dubrovnik hold extensive evidence of Dubrovnik stonemasons being mobilized for church and mosque construction in the Herzegovinian <em>sancak</em>.<br />
-The classical Ottoman architectural activities in Bosnia-Herzegovina lasted between approximately the 1540s until the late 16th century. They were marked by the adoption of the domed single-spaced mosque with an adjacent exterior porch and the minaret as the main type of structure for monumental patronage. One of the best-known monuments of Bosnia-Herzegovina, destroyed in the armed conflict, and recently reconstructed through rebuilding, was the Alaca mosque in Foča (1550&ndash;51); it featured structure consisting of square prayer hall flanked by entrance portal and minaret, but its unique feature were wall painting decorations on the portal and in the interior of the prayer hall. Perhaps the most monumental of the mosques in Bosnia-Herzegovina is the Ghazi Husrev Bey mosque in Sarajevo (1530&ndash;31). It features a tripartite monumental prayer hall preceded by a monumental portal and flanked by one of the largest minarets. Recent research of the mosque uncovered several layers of wall paintings in its interior spaces. Further significant mosques of the given mosque type comprise: the Karadzozbeg mosque in Mostar (1557&ndash;58), the Ali Pasha mosque in Sarajevo (1560&ndash;61), the Ferhad Pasha mosque in Sarajevo (1561&ndash;62), and the Hajji Ali mosque in Počitelj (1557&ndash;58). Other domed mosques constructed in Bosnia-Herzegovina, even the ones built later than the 16th century, share similar characteristics and dispositions of the floor plan, but are slightly different in their cross-section plan, execution and lesser harmony of proportions. This may be considered an argument suggesting that Ottoman architects from the center of the Empire were not present at mosque construction sites, but rather, local master builders and master stonemasons built mosques according to plans and instructions as well as existing structural models. Some examples comprise the Balagu&scaron;a mosque in Livno (constructed no later than 1586), the Sultan S&uuml;leyman mosque in Blagaj (1520&ndash;21), the Čekrekčija Mosque (1526) and the Ba&scaron;čar&scaron;ijska Mosque (1528) in Sarajevo.<br />
-The period from around the late 16th century until the middle of the 18th century is marked by a considerably less monumental architectural production in Bosnia-Herzegovina. However, it has been shown that some larger complexes were still constructed in that period. For example, the Mehmed Pasha Kukavica complex (1751/1752) in Foča, the Koski Mehmed Pasha mosque (1612&ndash;18) in Mostar, the Tekijska (1579) mosque in Konjic, the Esme Sultanije mosque (1749/1750) in Jajce, the Kur&scaron;umlija mosque (1560, construction date disputed) in Maglaj and the Colored Mosque (present day structure is from 1757) in Travnik. One of the most striking mosques is the Colored (&Scaron;arena) Mosque in Travnik which features a monumental wall painting repertoire comparable to that of the Et&rsquo;hem Bay Mosque in Tirana (construction started in 1793<span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif">&ndash;</span></span></span>94 and concluded in 1822<span style="font-size:12.0pt"><span style="line-height:107%"><span style="font-family:&quot;Times New Roman&quot;,serif">&ndash;</span></span></span>23) and the Colored (&Scaron;arena) Mosque (first structure from 1495, present day structure from 1785 and 1833&ndash;34) in Tetovo/a. Further Ottoman structures erected in Bosnia-Herzegovina which display comparable construction technology and are indisputable architectural masterpieces, are the Vi&scaron;egrad Mehmed Pasha Sokolović bridge built between 1571&ndash;77 and designed by Sinan himself, and the Mostar Old Bridge (Stari most) constructed in &ndash;53 (subsequently destroyed and rebuilt).</p>
+*By Ana Marija Grbanovic \| Centre for Heritage Conservation Studies and Technologies (KDWT), University of Bamberg*  
+**Overview** 
+Bosnia\-Herzegovina owes its architectural heritage, which formed during more than four centuries of Ottoman rule (1463–1878\), to several distinguishable factors: its specific geographical location, the legacy of the Byzantine architecture, particular skills of the local builders and artisans, and the pre\-existing artistic and architectural heritage in the area. Mosques are arguably the most representative type of Ottoman architectural heritage; they are the most widespread and the most documented structures, and they present the focus of Muslim communities’ religious, social, educational, and political activities. Moreover, they functioned as landmarks of Ottoman sovereignty in the region. Mosques also served as the means for organized urbanization in direct connection to the Islamization process of the Ottoman Empire’s newly dominated areas.  
+The Balkan Peninsula was conquered by the Ottomans in two main waves: the first one between 1352 and 1402 and the second one between 1415 and 1467\. The Bosnian campaign, undertaken by the sultan Mehmed II (r. 1444–46, 1451–81\) in 1463, is a key moment in history, which brought about the definitive Ottoman conquest of the majority of the territory of Bosnia\-Herzegovina. At the time of its conquest, Bosnia\-Herzegovina was divided into two parts; Bosnia and Herzegovina. The Ottomans maintained the same territorial division. The area of the modern Bosnia\-Herzegovina was initially part of the Ottoman Rumelia province and it was divided between three *sancaks* (Ottoman administrative units): the Sancak of Bosnia (Bosna), the Sancak of Herzegovina (Hersek) and the Sancak of Zvornik (Izvornik). Around 1525, the Ottomans created Elayet of Bosnia (*beylerbeylik*; large administrative entity), which was subdivided into the Sancak of Bosnia, the Sancak of Herzegovina, the Sancak of Vičitrina, the Sancak of Prizren, the Sancak of Klis, the Sancak of Krka, and the Sancak of Pakrac. The borders of the *sancaks* and of the *eyalet* continued to change through time. Bosnian territory firstly bordered the Hungarian kingdom and the Venetian Republic and later the Hapsburg Empire, the Venetian Republic and the Dubrovnik Republic (Ragusa). It accordingly played an important role as the furthest oriental outpost in Europe, an important military area and a landmark of the Ottoman territory.  
+With the arrival of the Ottomans in the Balkans, the process of Islamization started. Bosnia\-Herzegovina seems to be a particular case because of the considerably high percentage of converts, in comparison to the other areas of the Ottoman Balkans. In Bosnia\-Herzegovina in just nine decades after the Ottoman conquest, roughly speaking, approximately 46% of the population was listed as Muslims. Following the conquest, there was a need to stabilize the Ottoman sovereignty in the Balkans, not only through the administration system, but also by visual means. This was performed through urbanization, which was closely linked to the process of Islamization of the new territories. New types of buildings appeared in this geographical area in response to the arrival of Islam, which strongly impacted the public and private lives of worshippers.  
+The 16th century is the moment when the Ottoman architecture reached its peak under the rule of the sultan Sulayman the Magnificent. Above all, during his rule, in the Empire's capital, Istanbul (and later in the city of Edirne), Sinan’s indisputably creative and unmatchable architectural masterpieces were constructed. Because of the stability of the Empire and general welfare during that time, this period corresponds to the peak of architectural production also in Bosnia\-Herzegovina. In the 17th century, the power, integrity, and stability of the Ottoman Empire were partially halted. Nonetheless, some historic events (for example, the Siege of Vienna in 1683\) show that the power of the Empire was not yet in decline. Due to several unsuccessful attempts of expansion of the Empire and uprisings of peasants in the borderlands, the Ottoman architectural production in Bosnia\-Herzegovina had partially started to halt.  
+According to the 1933 census, there were 1,120 mosques in Bosnia\-Herzegovina, out of these, 70% featured a wooden, rather than a stone minaret. Regional differences can be observed in this respect: in Bosnia region 81% mosques featured a wooden minaret and in Herzegovina region wooden minarets amounted to only 13%. Among these, a total of 36 historical mosques featured monumental architectural form with a stone minaret and prayer hall covered by an external monumental dome. Out of these 36 mosques, 28 mosques were constructed in the 16th century, while others were built between the 17th and the 18th century. The majority of these mosques were badly damaged or entirely destroyed during the Yugoslav dissolution war in Bosnia\-Herzegovina (1992–96\) and they were rebuilt afterwards.  
+Monumental domed mosques can be further divided between mosques with single\-space prayer halls and mosques with the main prayer hall consisting of several architectural spaces. Ground plans for these monuments were fully defined in the center of the Ottoman Empire and subsequently transmitted into the south\-eastern European space, likely via plans and by mosque construction supervisors sent from the center of the Empire. Minarets of mosques in south\-eastern Europe assume considerable heights and feature a masterly level of stonemasonry. It has been proposed that special groups of minaret builders were mobile across the Balkan Peninsula for minaret construction, but this hypothesis would require further evidence. For Bosnia\-Herzegovina, especially the Herzegovina region, archives of Dubrovnik hold extensive evidence of Dubrovnik stonemasons being mobilized for church and mosque construction in the Herzegovinian *sancak*.  
+The classical Ottoman architectural activities in Bosnia\-Herzegovina lasted between approximately the 1540s until the late 16th century. They were marked by the adoption of the domed single\-spaced mosque with an adjacent exterior porch and the minaret as the main type of structure for monumental patronage. One of the best\-known monuments of Bosnia\-Herzegovina, destroyed in the armed conflict, and recently reconstructed through rebuilding, was the Alaca mosque in Foča (1550–51\); it featured structure consisting of square prayer hall flanked by entrance portal and minaret, but its unique feature were wall painting decorations on the portal and in the interior of the prayer hall. Perhaps the most monumental of the mosques in Bosnia\-Herzegovina is the Ghazi Husrev Bey mosque in Sarajevo (1530–31\). It features a tripartite monumental prayer hall preceded by a monumental portal and flanked by one of the largest minarets. Recent research of the mosque uncovered several layers of wall paintings in its interior spaces. Further significant mosques of the given mosque type comprise: the Karadzozbeg mosque in Mostar (1557–58\), the Ali Pasha mosque in Sarajevo (1560–61\), the Ferhad Pasha mosque in Sarajevo (1561–62\), and the Hajji Ali mosque in Počitelj (1557–58\). Other domed mosques constructed in Bosnia\-Herzegovina, even the ones built later than the 16th century, share similar characteristics and dispositions of the floor plan, but are slightly different in their cross\-section plan, execution and lesser harmony of proportions. This may be considered an argument suggesting that Ottoman architects from the center of the Empire were not present at mosque construction sites, but rather, local master builders and master stonemasons built mosques according to plans and instructions as well as existing structural models. Some examples comprise the Balaguša mosque in Livno (constructed no later than 1586\), the Sultan Süleyman mosque in Blagaj (1520–21\), the Čekrekčija Mosque (1526\) and the Baščaršijska Mosque (1528\) in Sarajevo.  
+The period from around the late 16th century until the middle of the 18th century is marked by a considerably less monumental architectural production in Bosnia\-Herzegovina. However, it has been shown that some larger complexes were still constructed in that period. For example, the Mehmed Pasha Kukavica complex (1751/1752\) in Foča, the Koski Mehmed Pasha mosque (1612–18\) in Mostar, the Tekijska (1579\) mosque in Konjic, the Esme Sultanije mosque (1749/1750\) in Jajce, the Kuršumlija mosque (1560, construction date disputed) in Maglaj and the Colored Mosque (present day structure is from 1757\) in Travnik. One of the most striking mosques is the Colored (Šarena) Mosque in Travnik which features a monumental wall painting repertoire comparable to that of the Et’hem Bay Mosque in Tirana (construction started in 1793–94 and concluded in 1822–23\) and the Colored (Šarena) Mosque (first structure from 1495, present day structure from 1785 and 1833–34\) in Tetovo/a. Further Ottoman structures erected in Bosnia\-Herzegovina which display comparable construction technology and are indisputable architectural masterpieces, are the Višegrad Mehmed Pasha Sokolović bridge built between 1571–77 and designed by Sinan himself, and the Mostar Old Bridge (Stari most) constructed in –53 (subsequently destroyed and rebuilt).
 
-<p><strong>Key Issues and Debates</strong><br />
-Ottoman architecture in Bosnia-Herzegovina and the broader Balkans tends to be frequently considered of provincial nature. Accordingly, Ottoman architectural heritage is often misunderstood as simple identity markers not worthy of closer attention and analysis of their artistic and architectural value. Within the Ottoman Empire, Bosnia-Herzegovina was always a borderland; initially, it had an important role as a stronghold for further expansion of the Empire towards the West and in the later period, it assumed its significance as a fortification to defend the imperial territories. In Bosnia-Herzegovina, Eastern and Western cultural and religious influences met the rich local tradition, interacted, coexisted in symbiosis and catalyzed the transformation and development of a complex and multicultural society. Even if this architectural production can be simply labeled as a provincial attempt to imitate the capital&rsquo;s larger and more elaborate prototypes, the so-called creativity of this interpretation should not be devalued. The local society did not only gradually adapt to the new religion, lifestyle and material culture, but above all adapted the new culture to their needs and tastes. The following results from this relationship: differences in style, scale, function, type of patronage and execution of structures.<br />
-In respect to the rest of the Ottoman Balkan lands, Ottoman mosques in Bosnia-Herzegovina were conditioned by the pre-existing architecture, their role as landmarks, regional characteristics and skills of local builders. This group of mosques is rather varied and has diverging characteristics. However, when compared to the rest of the Balkans, extraordinary regionalization of architectural production is the first visible characteristic. Moreover, the local, rather liberal interpretation brought more diversity when compared to the rest of the Balkan mosques. It can also be suggested that in the interpretation and execution of mosques, the domestic component in all three styles of mosques was stronger than the Ottoman component.<br />
-Regional differences between mosques, evident mainly in the construction material and building techniques, result in distinct architectural styles and consequently in overall appearance of the mosques. Differences can be observed in monumental domed mosques but they are even more striking and evident on mid-sized and small mosques. One quarter of mosques built in Bosnia-Herzegovina are mosques with a four-sloped roof and a stone minaret, while 70% of all mosques built (before 1933) in Bosnia-Herzegovina are four-sloped mosques with a wooden minaret. The founders of these structures were mainly locals. Therefore, no guidelines or surveillance could have been implied on these endowments from the center of the Empire. These regional differences are the most pronounced in the roof form, application of different kinds of roof coverings and minaret designs. The four-sloped roof mosque with a wooden minaret can be considered as showing the highest level of the creativity, skill and invention of local builders. The major absence of the dome, the presence of the wooden interior dome, the high frequency of wooden minarets and a four-sloped roof are some of the striking outcomes that manifest it.<br />
-The significance of Bosnian Ottoman mosques and their strong symbolic value for the Bosniak community also manifested itself during the dissolution of Yugoslavia. On the basis of ethnic conflicts between Bosnian Croats, Serbs and Bosniaks (Bosnian Muslims), the Yugoslav dissolution wars manifested themselves as a war on culture. During the war in Bosnia-Herzegovina (1992&ndash;96) Muslim, Christian and Jewish architectural religious heritage played a significant role as markers of religious and ethnic identities, and it was systematically destroyed. This systematic destruction of religious structures can be linked to war crimes and ethnical cleansing. A survey, conducted for the Cultural Heritage Division of the Council of Europe, provides an independent assessment of the state of cultural heritage after the Bosnian War in the year 2002; it reports that a total of 332 Muslim sites, 277 of which were mosques, have been documented in the territory of Bosnia-Herzegovina, and out of these 60% of monuments (161 sites) were mosques, out of which 136 mosques were almost entirely destroyed. In the post-war reconciliation process, these mosques &ndash; markers of Muslim presence - assumed further importance. The question of the reconstruction of mosques proved to be a sensitive issue. In the past, locating and constructing a mosque was largely a political act and currently, reconstruction interventions on these monuments, or their denial, are also politically charged.</p>
+**Key Issues and Debates** 
+Ottoman architecture in Bosnia\-Herzegovina and the broader Balkans tends to be frequently considered of provincial nature. Accordingly, Ottoman architectural heritage is often misunderstood as simple identity markers not worthy of closer attention and analysis of their artistic and architectural value. Within the Ottoman Empire, Bosnia\-Herzegovina was always a borderland; initially, it had an important role as a stronghold for further expansion of the Empire towards the West and in the later period, it assumed its significance as a fortification to defend the imperial territories. In Bosnia\-Herzegovina, Eastern and Western cultural and religious influences met the rich local tradition, interacted, coexisted in symbiosis and catalyzed the transformation and development of a complex and multicultural society. Even if this architectural production can be simply labeled as a provincial attempt to imitate the capital’s larger and more elaborate prototypes, the so\-called creativity of this interpretation should not be devalued. The local society did not only gradually adapt to the new religion, lifestyle and material culture, but above all adapted the new culture to their needs and tastes. The following results from this relationship: differences in style, scale, function, type of patronage and execution of structures.  
+In respect to the rest of the Ottoman Balkan lands, Ottoman mosques in Bosnia\-Herzegovina were conditioned by the pre\-existing architecture, their role as landmarks, regional characteristics and skills of local builders. This group of mosques is rather varied and has diverging characteristics. However, when compared to the rest of the Balkans, extraordinary regionalization of architectural production is the first visible characteristic. Moreover, the local, rather liberal interpretation brought more diversity when compared to the rest of the Balkan mosques. It can also be suggested that in the interpretation and execution of mosques, the domestic component in all three styles of mosques was stronger than the Ottoman component.  
+Regional differences between mosques, evident mainly in the construction material and building techniques, result in distinct architectural styles and consequently in overall appearance of the mosques. Differences can be observed in monumental domed mosques but they are even more striking and evident on mid\-sized and small mosques. One quarter of mosques built in Bosnia\-Herzegovina are mosques with a four\-sloped roof and a stone minaret, while 70% of all mosques built (before 1933\) in Bosnia\-Herzegovina are four\-sloped mosques with a wooden minaret. The founders of these structures were mainly locals. Therefore, no guidelines or surveillance could have been implied on these endowments from the center of the Empire. These regional differences are the most pronounced in the roof form, application of different kinds of roof coverings and minaret designs. The four\-sloped roof mosque with a wooden minaret can be considered as showing the highest level of the creativity, skill and invention of local builders. The major absence of the dome, the presence of the wooden interior dome, the high frequency of wooden minarets and a four\-sloped roof are some of the striking outcomes that manifest it.  
+The significance of Bosnian Ottoman mosques and their strong symbolic value for the Bosniak community also manifested itself during the dissolution of Yugoslavia. On the basis of ethnic conflicts between Bosnian Croats, Serbs and Bosniaks (Bosnian Muslims), the Yugoslav dissolution wars manifested themselves as a war on culture. During the war in Bosnia\-Herzegovina (1992–96\) Muslim, Christian and Jewish architectural religious heritage played a significant role as markers of religious and ethnic identities, and it was systematically destroyed. This systematic destruction of religious structures can be linked to war crimes and ethnical cleansing. A survey, conducted for the Cultural Heritage Division of the Council of Europe, provides an independent assessment of the state of cultural heritage after the Bosnian War in the year 2002; it reports that a total of 332 Muslim sites, 277 of which were mosques, have been documented in the territory of Bosnia\-Herzegovina, and out of these 60% of monuments (161 sites) were mosques, out of which 136 mosques were almost entirely destroyed. In the post\-war reconciliation process, these mosques – markers of Muslim presence \- assumed further importance. The question of the reconstruction of mosques proved to be a sensitive issue. In the past, locating and constructing a mosque was largely a political act and currently, reconstruction interventions on these monuments, or their denial, are also politically charged.
 
-<p><strong>Further Reading</strong><br />
-Andrejević, Andrej. <em>Islamska Monumentalna Umetnost XVI Veka u Jugoslaviji. Kupolne Đamije</em>&nbsp;[The 16th century monumental architecture in Yugoslavia. Domed mosques]. Belgrade: Institut za istoriju umetnosti Filozofskog Fakulteta, 1984.</p><p style="margin-left:40px;">Pioneering publication on the subject of monumental Ottoman domed mosques in Western Balkans.</p><p>Bećirbegović, Madžida. <em>Džamije sa Drvenom Munarom u Bosni i Hercegovini </em>[Mosques with Wooden Minarets in Bosnia-Herzegovina]. Sarajevo: Sarajevo-Publishing, [1931], 1999.</p><p style="margin-left:40px;">Monograph on medium and small dimension mosques in Bosnia-Herzegovina, with discussion of 1933 mosque census.</p><p>Hartmuth, Maximilian, ed. <em>Centres and Peripheries in Ottoman Architecture: Rediscovering a Balkan Heritage </em>[Centri i periferije u osmanskoj arhitekturi: Ponovno otkrivanje balkanskog naslijeđa]. Sarajevo: CHwB, report series 9/2010, 2010.</p><p style="margin-left:40px;">Edited volume collecting contributions discussing the center-periphery relation between the core of the Ottoman Empire and the Balkans, from the material culture perspective.</p><p>Inalcık, Halil. <em>An Economic and Social History of the Ottoman Empire. Volume one, 1300-1600</em>. Cambridge: Cambridge University Press, [1994], 1997.</p><p style="margin-left:40px;">Landmark publication on economic and social history of the Ottoman Empire, with a section concerning Balkans.</p><p>Pa&scaron;ić, Amir.<em> Islamic Architecture in Bosnia and Herzegovina, Studies on the History and Culture of Bosnia and Hercegovina 2</em>. Istanbul: Organisation of the Islamic Conference, Research Centre for Islamic History, Art, and Culture, 1994.</p><p style="margin-left:40px;">Monograph providing discussion of Ottoman architectural heritage in Bosnia-Herzegovina with the overview of the most significant monuments (translated to English).</p><p>Redžić, Husref.<em> Islamska Umjetnost</em>&nbsp;[Islamic art]. Belgrade: I. Z. Jugoslavija, 1967.</p><p style="margin-left:40px;">Monograph on Islamic art and architecture, with focus on Balkans, in Serbo-Croatian language.</p><p>Riedlmayer, Andr&aacute;s J. &ldquo;Destruction of Cultural Heritage in Bosnia-Herzegovina, 1992&ndash;1996: a Post-war Survey of Selected Municipalities.&rdquo; Expert Report commissioned by the International Criminal Tribunal for the Former Yugoslavia, 2002.</p><p style="margin-left:40px;">Independent report concerning destruction of Bosnian Muslim, Christian and Jewish architectural heritage during the dissolution of former Yugoslavia.</p>
+**Further Reading** 
+Andrejević, Andrej. *Islamska Monumentalna Umetnost XVI Veka u Jugoslaviji. Kupolne Đamije*\[The 16th century monumental architecture in Yugoslavia. Domed mosques]. Belgrade: Institut za istoriju umetnosti Filozofskog Fakulteta, 1984\.
 
-<p>&nbsp;</p>
+Pioneering publication on the subject of monumental Ottoman domed mosques in Western Balkans.
+
+Bećirbegović, Madžida. *Džamije sa Drvenom Munarom u Bosni i Hercegovini* \[Mosques with Wooden Minarets in Bosnia\-Herzegovina]. Sarajevo: Sarajevo\-Publishing, \[1931], 1999\.
+
+Monograph on medium and small dimension mosques in Bosnia\-Herzegovina, with discussion of 1933 mosque census.
+
+Hartmuth, Maximilian, ed. *Centres and Peripheries in Ottoman Architecture: Rediscovering a Balkan Heritage* \[Centri i periferije u osmanskoj arhitekturi: Ponovno otkrivanje balkanskog naslijeđa]. Sarajevo: CHwB, report series 9/2010, 2010\.
+
+Edited volume collecting contributions discussing the center\-periphery relation between the core of the Ottoman Empire and the Balkans, from the material culture perspective.
+
+Inalcık, Halil. *An Economic and Social History of the Ottoman Empire. Volume one, 1300\-1600*. Cambridge: Cambridge University Press, \[1994], 1997\.
+
+Landmark publication on economic and social history of the Ottoman Empire, with a section concerning Balkans.
+
+Pašić, Amir. *Islamic Architecture in Bosnia and Herzegovina, Studies on the History and Culture of Bosnia and Hercegovina 2*. Istanbul: Organisation of the Islamic Conference, Research Centre for Islamic History, Art, and Culture, 1994\.
+
+Monograph providing discussion of Ottoman architectural heritage in Bosnia\-Herzegovina with the overview of the most significant monuments (translated to English).
+
+Redžić, Husref. *Islamska Umjetnost*\[Islamic art]. Belgrade: I. Z. Jugoslavija, 1967\.
+
+Monograph on Islamic art and architecture, with focus on Balkans, in Serbo\-Croatian language.
+
+Riedlmayer, András J. “Destruction of Cultural Heritage in Bosnia\-Herzegovina, 1992–1996: a Post\-war Survey of Selected Municipalities.” Expert Report commissioned by the International Criminal Tribunal for the Former Yugoslavia, 2002\.
+
+Independent report concerning destruction of Bosnian Muslim, Christian and Jewish architectural heritage during the dissolution of former Yugoslavia.
+
+

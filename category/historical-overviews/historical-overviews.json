@@ -1,0 +1,8 @@
+{
+    "layout": "item.njk",
+    "permalink": "/historical-overviews/{{ page.fileSlug }}/",
+    "category": "historical-overviews",
+    "tags": [
+        "historical-overviews"
+    ]
+}

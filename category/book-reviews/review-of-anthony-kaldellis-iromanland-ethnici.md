@@ -1,14 +1,13 @@
 ---
-title: 'Review of Anthony Kaldellis, <i>Romanland: Ethnicity and Empire in Byzantium</i>
-  (Cambridge: Harvard University Press, 2019), in <i>The Medieval Review</i> (2020).
-  [A. Beihammer]'
+title: 'Review of Anthony Kaldellis, *Romanland: Ethnicity and Empire in Byzantium*
+  (Cambridge: Harvard University Press, 2019\), in *The Medieval Review* (2020\).
+  \[A. Beihammer]'
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/30773/35121
 item_image: /assets/media/items/24_Kaldellis_Romanland.jpg
 item_image_caption: ''
 slider_images: []
 start_year: 200
 end_year: 1204
-text: <p>.</p>
 author: ''
 type: []
 locations:
@@ -20,8 +19,11 @@ locations:
 - Latvia
 - Estonia
 subjects: []
-map_point: '{"type":"Point","coordinates":[28.9783589,41.0082376]}'
+latitude: 41.0082376
+longitude: 28.9783589
 make_public: true
 ---
 
-<p>.</p>
+.
+
+
