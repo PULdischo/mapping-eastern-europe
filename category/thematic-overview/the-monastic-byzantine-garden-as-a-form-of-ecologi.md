@@ -1,5 +1,6 @@
 ---
 title: The Monastic Byzantine Garden as a form of Ecological Worship in the Balkans
+slug: the-monastic-byzantine-garden-as-a-form-of-ecologi
 title_link: ''
 item_image: /assets/media/items/Byzantine_garden.jpg
 item_image_caption: 'The garden in relation to the Byzantine church (source: N. Thymakis)'

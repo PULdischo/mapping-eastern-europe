@@ -2,6 +2,7 @@
 title: 'Review of E. Fügedi, *Castle and Society in Medieval Hungary (1000\-1437\)*
   (Budapest: Akadémiai Kiadó, 1986\), in *The Slavonic and East European Review* 65,
   no. 2 (1987\): 280\-281\. \[M. Rady]'
+slug: review-of-e-fugedi-icastle-and-society-in-medi
 title_link: https://www.jstor.org/stable/4209500
 item_image: /assets/media/items/39._Rady_F%C3%BCgedi.jpg
 item_image_caption: ''

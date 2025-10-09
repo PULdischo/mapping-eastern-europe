@@ -1,5 +1,6 @@
 ---
 title: The Radu Vodă Monastery
+slug: the-radu-voda-monastery
 title_link: ''
 item_image: /assets/media/items/001.jpg
 item_image_caption: The church of the monastery (view from the south\-east side)

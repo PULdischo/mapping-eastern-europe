@@ -1,5 +1,6 @@
 ---
 title: Akathistos Cycles in (post\-)Byzantine Art
+slug: akathistos-cycles-in-post-byzantine-art
 title_link: ''
 item_image: /assets/media/items/Markov1.jpg
 item_image_caption: Stropes 24, 1 and 2 of the Akathsistos cycle, 1376–1381, wall

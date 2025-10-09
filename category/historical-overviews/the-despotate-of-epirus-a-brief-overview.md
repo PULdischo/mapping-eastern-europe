@@ -1,5 +1,6 @@
 ---
 title: 'The Despotate of Epirus: A Brief Overview'
+slug: the-despotate-of-epirus-a-brief-overview
 title_link: ''
 item_image: /assets/media/items/Screen_Shot_2022-08-10_at_3.53.10_PM.png
 item_image_caption: Map of Epirus, 1205\-1230\. Cplakidas, CC BY\-SA 4\.0 \<[https://creativecommons.org/licenses/by\-sa/4\.0](https://upload.wikimedia.org/wikipedia/commons/c/c5/Epirus_1205-1230-en.svg)\>,

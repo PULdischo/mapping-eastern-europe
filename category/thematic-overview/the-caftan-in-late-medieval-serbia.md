@@ -1,5 +1,6 @@
 ---
 title: The Caftan in Late Medieval Serbia
+slug: the-caftan-in-late-medieval-serbia
 title_link: ''
 item_image: /assets/media/items/1._Prince_Paskac_and_grandson_Ugljesa_Psaca.jpg
 item_image_caption: 'Donor Prince Paskač and his grandson Uglješa wearing the kavadi,

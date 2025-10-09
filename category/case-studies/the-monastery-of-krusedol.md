@@ -1,5 +1,6 @@
 ---
 title: The Monastery of Krušedol
+slug: the-monastery-of-krusedol
 title_link: ''
 item_image: /assets/media/items/Krusedol_05.jpg
 item_image_caption: 'Monastery of Krušedol (source: Wikimedia Commons)'

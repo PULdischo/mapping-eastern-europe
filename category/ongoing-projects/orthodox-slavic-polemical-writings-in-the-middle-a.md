@@ -1,5 +1,6 @@
 ---
 title: Orthodox Slavic Polemical Writings in the Middle Ages
+slug: orthodox-slavic-polemical-writings-in-the-middle-a
 title_link: ''
 item_image: /assets/media/items/MappingEE1.png
 item_image_caption: Geographical Area of the Project

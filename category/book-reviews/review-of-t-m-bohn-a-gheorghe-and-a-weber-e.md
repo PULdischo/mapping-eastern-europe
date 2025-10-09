@@ -3,6 +3,7 @@ title: 'Review of T. M. Bohn, A. Gheorghe, and A. Weber, ed., *Corpus Draculianu
   Dokumente und Chroniken zum walachischen Fürsten Vlad dem Pfähler, 1448\-1650*
   (Wiesbaden: Harrassowitz Verlag, 2013 \- ), in *Turkbilig/Turkoloji Arastirmalari
   Dergisi* 34 (2017\): 271\-273\. \[Ö. Gezer]'
+slug: review-of-t-m-bohn-a-gheorghe-and-a-weber-e
 title_link: https://dergipark.org.tr/tr/pub/turkbilig/issue/52832
 item_image: /assets/media/items/23._Gezer_BohnGhergheWeber.jpg
 item_image_caption: ''

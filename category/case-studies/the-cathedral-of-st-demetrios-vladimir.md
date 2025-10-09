@@ -1,5 +1,6 @@
 ---
 title: The Cathedral of St. Demetrios, Vladimir
+slug: the-cathedral-of-st-demetrios-vladimir
 title_link: ''
 item_image: /assets/media/items/1-St_Demetrios-wikipedia.jpg
 item_image_caption: 'The Cathedral of St. Demetrios, 1193\-97, view of south facade,

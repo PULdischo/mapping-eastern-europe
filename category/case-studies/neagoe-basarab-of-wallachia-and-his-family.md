@@ -1,5 +1,6 @@
 ---
 title: Neagoe Basarab of Wallachia and His Family
+slug: neagoe-basarab-of-wallachia-and-his-family
 title_link: ''
 item_image: /assets/media/items/Fig._2_-_Neagoe_Basarab_and_Family_SUrQtK6.jpg
 item_image_caption: 'Neagoe Basarab, Milica Despina and their children, interior mural,

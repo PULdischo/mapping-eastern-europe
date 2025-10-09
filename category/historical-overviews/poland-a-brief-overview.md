@@ -1,5 +1,6 @@
 ---
 title: 'Poland: A Brief Overview'
+slug: poland-a-brief-overview
 title_link: ''
 item_image: /assets/media/items/Psalterz_Florianski_18r_3.png
 item_image_caption: Marginalia and illuminated initial from the Psalter of Saint Florian.

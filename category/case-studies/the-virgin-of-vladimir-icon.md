@@ -1,5 +1,6 @@
 ---
 title: The Virgin of Vladimir Icon
+slug: the-virgin-of-vladimir-icon
 title_link: ''
 item_image: /assets/media/items/11_XjiWlYx.jpg
 item_image_caption: 'Icon of the Virgin of Vladimir, tempera on panel, Kyivan Rus,

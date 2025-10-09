@@ -1,5 +1,6 @@
 ---
 title: Light in Churches in Byzantium and Beyond
+slug: light-in-churches-in-byzantium-and-beyond
 title_link: ''
 item_image: /assets/media/items/3.jpg
 item_image_caption: 'Church of Christ Pantkorator, Dečani Monastery, 1327–35, sanctuary

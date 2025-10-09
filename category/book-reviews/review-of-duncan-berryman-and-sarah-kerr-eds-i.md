@@ -2,6 +2,7 @@
 title: 'Review of Duncan Berryman and Sarah Kerr, eds., *Buildings of Medieval Europe:
   Studies in Social and Landscape Contexts of Medieval Buildings* (Oxford: Oxbow Books,
   2018\), in *The Medieval Review* (2019\). \[M. Hutterer]'
+slug: review-of-duncan-berryman-and-sarah-kerr-eds-i
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/27044
 item_image: /assets/media/items/49._Hutterer_Berryman-Kerr.jpg
 item_image_caption: ''

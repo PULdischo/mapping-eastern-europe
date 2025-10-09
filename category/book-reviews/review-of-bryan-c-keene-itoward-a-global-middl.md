@@ -2,6 +2,7 @@
 title: 'Review of Bryan C. Keene, *Toward a Global Middle Ages: Encountering the World
   through Illuminated Manuscripts* (Los Angeles: J. Paul Getty Museum, 2019\), in
   *The Medieval Review* (2020\). \[L. Ransom]'
+slug: review-of-bryan-c-keene-itoward-a-global-middl
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/31434/35539
 item_image: /assets/media/items/20_Keene_Toward.jpg
 item_image_caption: ''

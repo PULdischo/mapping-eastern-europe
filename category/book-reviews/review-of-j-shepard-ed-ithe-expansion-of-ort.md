@@ -2,6 +2,7 @@
 title: 'Review of J. Shepard, ed., *The Expansion of Orthodox Europe: Byzantium, the
   Balkans and Russia* (Burlington: Ashgate Variorum, 2007\), in *The Slavonic and
   East European Review* 88, no. 3 (2010\): 546\. \[M. Rady]'
+slug: review-of-j-shepard-ed-ithe-expansion-of-ort
 title_link: https://www-jstor-org.proxy.lib.umich.edu/stable/20780445?seq=1#metadata_info_tab_contents
 item_image: /assets/media/items/36._Rady_Shepard.jpg
 item_image_caption: ''

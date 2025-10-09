@@ -1,5 +1,6 @@
 ---
 title: The Epitaphios of Cozia Monastery
+slug: the-epitaphios-of-cozia-monastery
 title_link: ''
 item_image: /assets/media/items/_DSC3842.jpg
 item_image_caption: 'Epitaphios, 1396, embroidery, Cozia Monastery, Romania, now in

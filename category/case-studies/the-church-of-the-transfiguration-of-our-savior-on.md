@@ -1,5 +1,6 @@
 ---
 title: The Church of the Transfiguration of Our Savior on Ilyina Street, Veliky Novgorod
+slug: the-church-of-the-transfiguration-of-our-savior-on
 title_link: ''
 item_image: /assets/media/items/Image_1_Transfiguration_Church_Novgorod.jpg
 item_image_caption: 'Church of the Transfiguration of Our Savior on Ilyina Street,

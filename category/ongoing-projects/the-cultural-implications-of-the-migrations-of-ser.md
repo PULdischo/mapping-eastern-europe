@@ -1,5 +1,6 @@
 ---
 title: The Cultural Implications of the Migrations of Serbs in the Early Modern Era
+slug: the-cultural-implications-of-the-migrations-of-ser
 title_link: ''
 item_image: /assets/media/items/MappingEE6.png
 item_image_caption: Geographical Area of the Project

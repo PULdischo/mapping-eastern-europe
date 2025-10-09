@@ -1,5 +1,6 @@
 ---
 title: The St. Nicholas Church in Ribița, Hunedoara County
+slug: the-st-nicholas-church-in-ribita-hunedoara-count
 title_link: ''
 item_image: /assets/media/items/Fig._1_fW5k25Q.jpg
 item_image_caption: 'View from the south\-west of Church of St. Nicholas, second half

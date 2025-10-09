@@ -1,5 +1,6 @@
 ---
 title: Сhurch Textiles in the Andrei Sheptytskyi National Museum in Lviv
+slug: hurch-textiles-in-the-andrei-sheptytskyi-national
 title_link: ''
 item_image: /assets/media/items/il_5_1.jpg
 item_image_caption: 'Liturgical veil for the chalice. Provenance unknown. Kyiv workshop.

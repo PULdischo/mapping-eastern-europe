@@ -1,5 +1,6 @@
 ---
 title: The Representation of Rudenica Monastery in the Ktetorial Image
+slug: the-representation-of-rudenica-monastery-in-the-kt
 title_link: ''
 item_image: /assets/media/items/01_IpOK7Gv.jpg
 item_image_caption: 'Ktetor Vukašin and his wife Vukosava, ca. 1403–05, the southern

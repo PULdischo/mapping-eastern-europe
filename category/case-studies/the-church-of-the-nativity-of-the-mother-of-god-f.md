@@ -1,6 +1,7 @@
 ---
 title: The Church of the Nativity of the Mother of God, Ferapontovo Monastery, Vologdskaya
   Oblast’
+slug: the-church-of-the-nativity-of-the-mother-of-god-f
 title_link: ''
 item_image: /assets/media/items/Shevelkina_Image_1_Zo5Euya.jpeg
 item_image_caption: 'Monuments of the Ferapontovo Monastery: (left to right) Church

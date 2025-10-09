@@ -1,5 +1,6 @@
 ---
 title: The Church of St. Elizabeth in Wrocław (Breslau), Poland
+slug: the-church-of-st-elizabeth-in-wrocaw-breslau
 title_link: ''
 item_image: /assets/media/items/01.1.jpg
 item_image_caption: 'St. Elisabeth’s Church, 1300–1482, Wrocław, Poland (source: Wikimedia

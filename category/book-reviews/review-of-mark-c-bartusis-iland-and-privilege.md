@@ -2,6 +2,7 @@
 title: 'Review of Mark C. Bartusis, *Land and Privilege in Byzantium: The Institution
   of Pronoia* (Cambridge: Cambridge University Press, 2013\), in *The Medieval Review*
   (2014\). \[W. E. Kaegi]'
+slug: review-of-mark-c-bartusis-iland-and-privilege
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/18564
 item_image: /assets/media/items/51._Kaegi_Bartusis.jpg
 item_image_caption: ''

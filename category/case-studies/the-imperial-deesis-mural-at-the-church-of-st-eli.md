@@ -1,5 +1,6 @@
 ---
 title: The Imperial Deësis Mural at the Church of St. Elijah, Suceava
+slug: the-imperial-deesis-mural-at-the-church-of-st-eli
 title_link: ''
 item_image: /assets/media/items/1.JPG
 item_image_caption: 'The Imperial *Deësis*, naos, northern wall, the church of the

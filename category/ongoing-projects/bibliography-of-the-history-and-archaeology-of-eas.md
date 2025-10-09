@@ -1,6 +1,7 @@
 ---
 title: Bibliography of the History and Archaeology of Eastern Europe in the Middle
   Ages
+slug: bibliography-of-the-history-and-archaeology-of-eas
 title_link: ''
 item_image: /assets/media/items/MappingEE_Curta_vYfWaqc.png
 item_image_caption: Geographical Area of the Project

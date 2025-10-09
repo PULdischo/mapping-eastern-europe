@@ -1,5 +1,6 @@
 ---
 title: The Icon of Our Lady Skopiotissa, Savina Monastery
+slug: the-icon-of-our-lady-skopiotissa-savina-monastery
 title_link: ''
 item_image: /assets/media/items/Savina1.jpeg
 item_image_caption: 'Icon of Our Lady Skopiotissa, after 1647, tempera on wooden panel,

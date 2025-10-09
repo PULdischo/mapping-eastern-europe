@@ -2,6 +2,7 @@
 title: 'Review of Anthony Kaldellis, *Romanland: Ethnicity and Empire in Byzantium*
   (Cambridge: Harvard University Press, 2019\), in *The Medieval Review* (2020\).
   \[A. Beihammer]'
+slug: review-of-anthony-kaldellis-iromanland-ethnici
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/30773/35121
 item_image: /assets/media/items/24_Kaldellis_Romanland.jpg
 item_image_caption: ''

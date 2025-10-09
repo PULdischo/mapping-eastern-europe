@@ -1,6 +1,7 @@
 ---
 title: The Routledge Handbook of East Central and Eastern Europe in the Middle Ages,
   500\-1300
+slug: the-routledge-handbook-of-east-central-and-eastern
 title_link: ''
 item_image: /assets/media/items/Routledge_Handbook.jpg
 item_image_caption: Book cover

@@ -1,6 +1,7 @@
 ---
 title: 'Sophia – Wisdom of God Personified: History of Perceptions in the Byzantine\-Slavic
   Culture'
+slug: sophia-wisdom-of-god-personified-history-of-per
 title_link: ''
 item_image: /assets/media/items/MappingEE_Zofia.png
 item_image_caption: Geographical Area of the Project

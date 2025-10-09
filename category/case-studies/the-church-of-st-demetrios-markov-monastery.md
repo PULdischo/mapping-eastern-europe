@@ -1,5 +1,6 @@
 ---
 title: The Church of St. Demetrios, Markov Monastery
+slug: the-church-of-st-demetrios-markov-monastery
 title_link: ''
 item_image: /assets/media/items/Fig._1.JPG
 item_image_caption: 'Southeast view, Church of St. Demetrios, Markov Monastery, 1365/6\-71,

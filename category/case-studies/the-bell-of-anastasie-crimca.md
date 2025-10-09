@@ -1,5 +1,6 @@
 ---
 title: The Bell of Anastasie Crimca
+slug: the-bell-of-anastasie-crimca
 title_link: ''
 item_image: /assets/media/items/unnamed1.jpg
 item_image_caption: 'Bell of Archbishop Anastasie Crimca, 1614, cast in bronze, Dochiariou

@@ -1,5 +1,6 @@
 ---
 title: The Icon of Christ in Glory
+slug: the-icon-of-christ-in-glory
 title_link: ''
 item_image: /assets/media/items/01_f43nHBQ.jpg
 item_image_caption: 'Christ in Glory icon, middle to the 2nd half of the 16th century,

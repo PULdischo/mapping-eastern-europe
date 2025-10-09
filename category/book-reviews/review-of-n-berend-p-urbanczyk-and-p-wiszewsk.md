@@ -2,6 +2,7 @@
 title: 'Review of N. Berend, P. Urbańczyk, and P. Wiszewski, *Central Europe in the
   High Middle Ages: Bohemia, Hungary, and Poland, c. 900\-c. 1300* (Cambridge: Cambridge
   University Press, 2013\), in *The Medieval Review* (2015\): 15\.04\.19\. \[F. Curta]'
+slug: review-of-n-berend-p-urbanczyk-and-p-wiszewsk
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/18870
 item_image: /assets/media/items/41._Curta_Bernerd_ONnKO4o.jpg
 item_image_caption: ''

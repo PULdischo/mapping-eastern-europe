@@ -1,5 +1,6 @@
 ---
 title: The Slavonic Leitourgikon of Macarie (1508\)
+slug: the-slavonic-leitourgikon-of-macarie-1508
 title_link: ''
 item_image: /assets/media/items/1._Leitourgikon_of_Macarie_-_Beginning_of_Basil_the_Great._Teaching_for_the_Priest.jpg
 item_image_caption: 'The Leitourgikon of Macarie \- The Beginning of Basil the Great’s

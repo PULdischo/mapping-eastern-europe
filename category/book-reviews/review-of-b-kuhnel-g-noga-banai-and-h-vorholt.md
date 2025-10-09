@@ -2,6 +2,7 @@
 title: 'Review of B. Kühnel, G. Noga\-Banai, and H. Vorholt, eds., *Visual Constructs
   of Jerusalem* (Turnhout: Brepols, 2014\), in *The Medieval Review* (2015\): 15\.10\.04\.
   \[E. Lapina]'
+slug: review-of-b-kuhnel-g-noga-banai-and-h-vorholt
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/20082
 item_image: /assets/media/items/43._Lapina_Kuhnel.jpg
 item_image_caption: ''

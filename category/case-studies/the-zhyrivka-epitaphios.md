@@ -1,5 +1,6 @@
 ---
 title: The Zhyrivka Epitaphios
+slug: the-zhyrivka-epitaphios
 title_link: ''
 item_image: /assets/media/items/1_.jpg
 item_image_caption: 'The Zhyrivka epitaphios (Lviv region, Ukraine). 15th century.

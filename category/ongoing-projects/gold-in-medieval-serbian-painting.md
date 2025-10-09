@@ -1,5 +1,6 @@
 ---
 title: Gold in Medieval Serbian Painting
+slug: gold-in-medieval-serbian-painting
 title_link: ''
 item_image: /assets/media/items/St._Stephen_Mileseva.jpg
 item_image_caption: St. Stephen, shortly before 1227, Church of the Ascension, Mileševa,

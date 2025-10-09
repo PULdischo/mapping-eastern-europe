@@ -1,5 +1,6 @@
 ---
 title: Gračanica Monastery
+slug: gracanica-monastery
 title_link: ''
 item_image: /assets/media/items/3._Gracanica_Interior_view_from_the_narthex_to_the_altar.jpg
 item_image_caption: 'Interior view from the narthex to the altar of the Dormition

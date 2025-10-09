@@ -1,5 +1,6 @@
 ---
 title: Lesnovo Monastery
+slug: lesnovo-monastery
 title_link: ''
 item_image: /assets/media/items/lesnovo2.jpg
 item_image_caption: 'St. Michael Archangel katholikon of Lesnovo Monastery, the view

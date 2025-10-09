@@ -1,5 +1,6 @@
 ---
 title: The Large Crucifix from the Icon Museum of Korčula
+slug: the-large-crucifix-from-the-icon-museum-of-korcula
 title_link: ''
 item_image: /assets/media/items/P3120089_LM0yt6m.JPG
 item_image_caption: 'Ieremias Palladas (attrib.), Crux Magna, early 17th c., egg tempera

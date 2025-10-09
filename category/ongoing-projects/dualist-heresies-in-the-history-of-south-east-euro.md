@@ -1,5 +1,6 @@
 ---
 title: Dualist Heresies in the History of South\-East Europe (9th–15th century)
+slug: dualist-heresies-in-the-history-of-south-east-euro
 title_link: ''
 item_image: /assets/media/items/MappingEE2.png
 item_image_caption: Geographical Area of the Project

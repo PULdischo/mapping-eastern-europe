@@ -1,5 +1,6 @@
 ---
 title: The Zhovkva Iconostasis by Ivan Rutkovych
+slug: the-zhovkva-iconostasis-by-ivan-rutkovych
 title_link: ''
 item_image: /assets/media/items/il_1_2.jpg
 item_image_caption: 'Ivan Rutkovych (icons). Zhovkva iconostasis. 1697–99\. Reconstruction

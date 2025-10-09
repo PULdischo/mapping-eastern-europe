@@ -1,6 +1,7 @@
 ---
 title: 'Ideology as Narrative Worldmaking: Subjects and Space in Roman and Serbian
   Lands after 1204'
+slug: ideology-as-narrative-worldmaking-subjects-and-sp
 title_link: ''
 item_image: /assets/media/items/Ohrid_Lake.jpg
 item_image_caption: 'Church of Saint John of Kaneo and the Ohrid Lake, source: Wikimedia'

@@ -1,5 +1,6 @@
 ---
 title: The Church of the Mother of God Hodegetria, Patriarchate of Peć
+slug: the-church-of-the-mother-of-god-hodegetria-patria
 title_link: ''
 item_image: /assets/media/items/682px-Patriarchate_of_Pe%C4%87_09_2010_2.jpg
 item_image_caption: 'Church of the Mother of God Hodegetria, ca. 1330, Patriarchate

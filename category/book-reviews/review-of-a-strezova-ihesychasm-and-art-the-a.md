@@ -3,6 +3,7 @@ title: 'Review of A. Strezova, *Hesychasm and Art: The Appearance of New Iconogr
   Trends in Byzantine and Slavic Lands in the 14th and 15th Centuries* (Canberra:
   ANU Press, 201\), in *International Journal of Orthodox Theology* 5, no. 4 (2014\):
   239\-243\. \[C. Lazar]'
+slug: review-of-a-strezova-ihesychasm-and-art-the-a
 title_link: https://www.orthodox-theology.com/media/PDF/IJOT4.2014/Lazar.pdf
 item_image: /assets/media/items/9._Lazar_Strezova.jpg
 item_image_caption: ''

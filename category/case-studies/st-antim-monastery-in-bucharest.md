@@ -1,5 +1,6 @@
 ---
 title: St. Antim Monastery in Bucharest
+slug: st-antim-monastery-in-bucharest
 title_link: ''
 item_image: /assets/media/items/A.3._St_Antim_Monastery_-_The_Church_The_Entrance.jpeg
 item_image_caption: 'St Antim Monastery \- The Church (The Entrance). (source: Octavian\-Adrian

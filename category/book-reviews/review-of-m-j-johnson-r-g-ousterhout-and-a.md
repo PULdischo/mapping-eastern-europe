@@ -3,6 +3,7 @@ title: 'Review of M. J. Johnson, R. G. Ousterhout, and A. Papalexandrou, *Approa
   to Byzantine Architecture and its Decoration: Studies in Honor of Slobodan Ćurčić*
   (Farnham; Burlington, VT: Ashgate, 2012\), in *Bryn Mawr Classical Review* (2012\).
   \[V. Marinis]'
+slug: review-of-m-j-johnson-r-g-ousterhout-and-a
 title_link: https://bmcr.brynmawr.edu/2012/2012.10.24/
 item_image: /assets/media/items/17._Marinis_Johnson.png
 item_image_caption: ''

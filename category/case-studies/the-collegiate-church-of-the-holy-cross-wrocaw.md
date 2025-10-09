@@ -1,5 +1,6 @@
 ---
 title: The Collegiate Church of the Holy Cross, Wrocław
+slug: the-collegiate-church-of-the-holy-cross-wrocaw
 title_link: ''
 item_image: /assets/media/items/Wroclaw_02_Qkg5nRI.JPG
 item_image_caption: 'Wrocław, the Collegiate Church of the Holy Cross, 1290–c. 1380,

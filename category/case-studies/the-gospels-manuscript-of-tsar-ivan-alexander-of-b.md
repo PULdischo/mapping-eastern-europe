@@ -1,5 +1,6 @@
 ---
 title: The Gospels Manuscript of Tsar Ivan Alexander of Bulgaria
+slug: the-gospels-manuscript-of-tsar-ivan-alexander-of-b
 title_link: ''
 item_image: /assets/media/items/TetraevangeliaOfIvanAlexanderFol212v.jpg
 item_image_caption: 'The ruler receives the blessing of the evangelist Luke, fol.

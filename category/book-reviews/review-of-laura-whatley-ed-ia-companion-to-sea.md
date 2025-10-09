@@ -1,6 +1,7 @@
 ---
 title: 'Review of Laura Whatley, ed, *A Companion to Seals in the Middle Ages* (Leiden:
   Brill, 2019\), in *The Medieval Review* (2021\). \[C. Konshuh]'
+slug: review-of-laura-whatley-ed-ia-companion-to-sea
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/33486/37030
 item_image: /assets/media/items/9_Whatley_A_Companion.jpg
 item_image_caption: ''

@@ -1,5 +1,6 @@
 ---
 title: The Church of St. Nicholas, Island of Koločep
+slug: the-church-of-st-nicholas-island-of-kolocep
 title_link: ''
 item_image: /assets/media/items/Picture1.jpg
 item_image_caption: Exterior view, Church of St. Nicholas, Koločep

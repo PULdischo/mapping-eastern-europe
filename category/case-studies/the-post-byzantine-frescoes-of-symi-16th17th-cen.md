@@ -1,5 +1,6 @@
 ---
 title: The Post\-Byzantine Frescoes of Symi (16th–17th century)
+slug: the-post-byzantine-frescoes-of-symi-16th17th-cen
 title_link: ''
 item_image: /assets/media/items/01_ibClQvgZ.jpg
 item_image_caption: 'Exterior, view from south\-west, St. Dimitrios tou Ambeliou,

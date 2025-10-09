@@ -16,8 +16,10 @@ collections:
     create: true
     slug: "{{slug}}"
     folder: "category/book-reviews"
+    identifier_field: "slug"
     fields:
       - { label: "Title", name: "title", widget: "markdown" }
+      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Title Link", name: "title_link", widget: "string", required: false }
       - { label: "Item Image", name: "item_image", widget: "image", choose_url: true, default: "/assets/img/byzantine1.png", media_library: { config: { multiple: false } } }
       - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
@@ -42,8 +44,10 @@ collections:
     create: true
     slug: "{{slug}}"
     folder: "category/case-studies"
+    identifier_field: "slug"
     fields:
       - { label: "Title", name: "title", widget: "markdown" }
+      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Item Image", name: "item_image", widget: "image", choose_url: true, default: "/assets/img/byzantine1.png", media_library: { config: { multiple: false } } }
       - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
       - label: "Slider Images"
@@ -68,8 +72,10 @@ collections:
     create: true
     slug: "{{slug}}"
     folder: "category/exhibits"
+    identifier_field: "slug"
     fields:
       - { label: "Title", name: "title", widget: "markdown" }
+      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Title Link", name: "title_link", widget: "string", required: false }
       - { label: "Item Image", name: "item_image", widget: "image", choose_url: true, default: "/assets/img/byzantine1.png", media_library: { config: { multiple: false } } }
       - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
@@ -94,8 +100,10 @@ collections:
     create: true
     slug: "{{slug}}"
     folder: "category/historical-overviews"
+    identifier_field: "slug"
     fields:
       - { label: "Title", name: "title", widget: "markdown" }
+      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Item Image", name: "item_image", widget: "image", choose_url: true, default: "/assets/img/byzantine1.png", media_library: { config: { multiple: false } } }
       - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
       - label: "Slider Images"
@@ -120,8 +128,10 @@ collections:
     create: true
     slug: "{{slug}}"
     folder: "category/ongoing-projects"
+    identifier_field: "slug"
     fields:
       - { label: "Title", name: "title", widget: "markdown" }
+      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Item Image", name: "item_image", widget: "image", choose_url: true, default: "/assets/img/byzantine1.png", media_library: { config: { multiple: false } } }
       - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
       - label: "Slider Images"
@@ -146,8 +156,10 @@ collections:
     create: true
     slug: "{{slug}}"
     folder: "category/thematic-overview"
+    identifier_field: "slug"
     fields:
       - { label: "Title", name: "title", widget: "markdown" }
+      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Item Image", name: "item_image", widget: "image", choose_url: true, default: "/assets/img/byzantine1.png", media_library: { config: { multiple: false } } }
       - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
       - label: "Slider Images"
@@ -172,8 +184,10 @@ collections:
     create: true
     slug: "{{slug}}"
     folder: "category/videos"
+    identifier_field: "slug"
     fields:
       - { label: "Title", name: "title", widget: "markdown" }
+      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Item Image", name: "item_image", widget: "image", choose_url: true, default: "/assets/img/byzantine1.png", media_library: { config: { multiple: false } } }
       - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
       - label: "Slider Images"

@@ -1,5 +1,6 @@
 ---
 title: Τhe Mehmet Bey Cami of Serres
+slug: he-mehmet-bey-cami-of-serres
 title_link: ''
 item_image: /assets/media/items/1254px-20111029_Ahmet_Pasha_Mosque_Mehmet_Bey_Serres_Greece_2.jpg
 item_image_caption: 'The Mehmet Bey Cami of Serres (1492\-93\) (source: Wikimedia

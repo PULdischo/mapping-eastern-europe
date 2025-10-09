@@ -1,6 +1,7 @@
 ---
 title: 'Early Arabic Printing for the Arab Christians: Cultural Transfers between
   Eastern Europe and the Ottoman Near\-East in the 18th Century (TYPARABIC)'
+slug: early-arabic-printing-for-the-arab-christians-cul
 title_link: ''
 item_image: /assets/media/items/001_TYPARABIC_-_Logo.png
 item_image_caption: Project logo

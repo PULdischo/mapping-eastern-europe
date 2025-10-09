@@ -1,5 +1,6 @@
 ---
 title: The Siege of Constantinople at Moldovița Monastery
+slug: the-siege-of-constantinople-at-moldovita-monastery
 title_link: ''
 item_image: /assets/media/items/Sullivan_6_-_The_Siege_at_Moldovita_left_side_detail.JPG
 item_image_caption: 'Detail of the Siege of Constantinople, mural, painted 1537, south

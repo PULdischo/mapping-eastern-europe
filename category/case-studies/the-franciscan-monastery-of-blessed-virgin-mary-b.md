@@ -1,5 +1,6 @@
 ---
 title: The Franciscan monastery of Blessed Virgin Mary, Bač
+slug: the-franciscan-monastery-of-blessed-virgin-mary-b
 title_link: ''
 item_image: /assets/media/items/Franjevacki_samostan_u_Bacu.jpeg
 item_image_caption: 'Church of the Assumption of the Blessed Virgin Mary in Bač, view

@@ -1,5 +1,6 @@
 ---
 title: The Old Jewish Cemetery in Prague
+slug: the-old-jewish-cemetery-in-prague
 title_link: ''
 item_image: /assets/media/items/768px-Old_Jewish_Cemetery_Prague_047.jpg
 item_image_caption: 'The Old Jewish Cemetery in Prague (source: Wikimedia Commons)'

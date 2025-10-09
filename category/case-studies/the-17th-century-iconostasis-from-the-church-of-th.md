@@ -1,6 +1,7 @@
 ---
 title: The 17th\-Century Iconostasis from the Church of the Dormition of the Mother
   of God in Lviv
+slug: the-17th-century-iconostasis-from-the-church-of-th
 title_link: ''
 item_image: /assets/media/items/Lviv_Iconostasis.JPG
 item_image_caption: The iconostasis from the Dormition of the Mother of God Church

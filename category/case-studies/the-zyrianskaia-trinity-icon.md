@@ -1,5 +1,6 @@
 ---
 title: The Zyrianskaia Trinity Icon
+slug: the-zyrianskaia-trinity-icon
 title_link: ''
 item_image: /assets/media/items/zyrianskaia_troitsa_after_cleaning.jpg
 item_image_caption: Zyrianskaia Trinity Icon, 119\.3 x 73\.7 cm, late 14th century,

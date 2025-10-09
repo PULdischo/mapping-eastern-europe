@@ -10,6 +10,7 @@ def to_frontmatter(item):
     # Build frontmatter dict
     fm = {
         'title': convert_to_markdown(item.get('title', '')),
+        'slug': item.get('slug', ''),
         'title_link': item.get('title_link', ''),
         'item_image': item.get('item_image', ''),
         'item_image_caption': convert_to_markdown(item.get('item_image_caption', '')).strip() if item.get('item_image_caption', '') else '',

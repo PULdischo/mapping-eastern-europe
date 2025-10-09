@@ -2,6 +2,7 @@
 title: 'Review of Duncan Hardy, *Associative Political Culture in the Holy Roman Empire:
   Upper Germany, 1346\-1521, Oxford Historical Monographs* (Oxford: Oxford University
   Press, (OUP), 2018\), in *The Medieval Review* (2020\). \[S. Mossman]'
+slug: review-of-duncan-hardy-iassociative-political-c
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/30398/34792
 item_image: /assets/media/items/27_Hardy_Associative.png
 item_image_caption: ''

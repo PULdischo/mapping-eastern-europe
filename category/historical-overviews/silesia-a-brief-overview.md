@@ -1,5 +1,6 @@
 ---
 title: 'Silesia: A Brief Overview'
+slug: silesia-a-brief-overview
 title_link: ''
 item_image: /assets/media/items/Hedwig_and_Trzebnica_2.jpg
 item_image_caption: Hedwig of Andechs, duchess of Silesia, and the building of Trzebnica

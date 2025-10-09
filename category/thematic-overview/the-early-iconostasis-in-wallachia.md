@@ -1,5 +1,6 @@
 ---
 title: The Early Iconostasis in Wallachia
+slug: the-early-iconostasis-in-wallachia
 title_link: ''
 item_image: /assets/media/items/02.a.JPG
 item_image_caption: 'Icon from the *Deësis* iconostasis row of Krušedol Monastery

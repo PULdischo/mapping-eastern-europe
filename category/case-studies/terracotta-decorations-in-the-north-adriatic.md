@@ -1,5 +1,6 @@
 ---
 title: Terracotta Decorations in the North Adriatic
+slug: terracotta-decorations-in-the-north-adriatic
 title_link: ''
 item_image: /assets/media/items/1.JPEG
 item_image_caption: 'Ravenna, National Museum, the terracotta decorations in the lapidary

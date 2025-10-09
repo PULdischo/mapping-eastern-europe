@@ -1,5 +1,6 @@
 ---
 title: The Gospel Lectionary Cover by Dimos
+slug: the-gospel-lectionary-cover-by-dimos
 title_link: ''
 item_image: /assets/media/items/GospelBook_Cover_-_Dimos_-_1673_-front.JPG
 item_image_caption: 'Front cover of Gospel book by the goldsmith Dimos, 1673, front

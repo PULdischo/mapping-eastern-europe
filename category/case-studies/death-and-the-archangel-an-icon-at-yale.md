@@ -1,5 +1,6 @@
 ---
 title: 'Death and the Archangel: An Icon at Yale'
+slug: death-and-the-archangel-an-icon-at-yale
 title_link: ''
 item_image: /assets/media/items/CaseStudy_Parpulov.jpg
 item_image_caption: 'Icon, Saint Michael Weighing a Soul, ca. 1700, tempera on wood,

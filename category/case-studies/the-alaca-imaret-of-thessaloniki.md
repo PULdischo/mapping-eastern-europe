@@ -1,5 +1,6 @@
 ---
 title: The Alaca Imaret of Thessaloniki
+slug: the-alaca-imaret-of-thessaloniki
 title_link: ''
 item_image: /assets/media/items/2_1a6CUz6.jpg
 item_image_caption: 'The Alaca Imaret of Thessaloniki (1485\), aerial photo (source:

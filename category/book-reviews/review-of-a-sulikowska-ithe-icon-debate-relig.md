@@ -2,6 +2,7 @@
 title: 'Review of A. Sulikowska, *The Icon Debate: Religious Images in Russia in the
   15th and 16th Centuries* (New York: Peter Lang, 2016\), in *Zeitschrift für Ostmitteleuropa\-Forschung*
   67, no. 2 (2018\): 261\-262\. \[J. Olchawa]'
+slug: review-of-a-sulikowska-ithe-icon-debate-relig
 title_link: https://www.ceeol.com/search/article-detail?id=859425
 item_image: /assets/media/items/8._Olchawa_Sulikowska.jpg
 item_image_caption: ''

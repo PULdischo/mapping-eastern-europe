@@ -2,6 +2,7 @@
 title: 'Review of Ekaterina Dimitrova, *The Gospels of Tsar Ivan Alexander* (London:
   The British Library, 1994\), in *The Slavonic and East European Review* 74, no.
   2 (1996\): 302\-304\. \[R. R. Milner\-Gulland]'
+slug: review-of-ekaterina-dimitrova-ithe-gospels-of-t
 title_link: https://www.jstor.org/stable/4212075
 item_image: /assets/media/items/63.Milner-Gulland_Dimitrova.jpg
 item_image_caption: ''

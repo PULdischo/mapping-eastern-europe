@@ -3,6 +3,7 @@ title: 'Review of Julia Verkholantsev, *The Slavic Letters of St. Jerome: The Hi
   of the Legend and Its Legacy, or, How the Translator of the Vulgate Became an Apostle
   of the Slavs* (Dekalb: NIU Press, 2014\), in *The Medieval Review* (2015\). \[A.\-L.
   Caudano]'
+slug: review-of-julia-verkholantsev-ithe-slavic-lette
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/20396
 item_image: /assets/media/items/45._Caudano_Verkholantsev.jpg
 item_image_caption: ''

@@ -1,6 +1,7 @@
 ---
 title: Eclecticism in Late Medieval Visual Culture at the Crossroads of the Latin,
   Greek, and Slavic Traditions
+slug: eclecticism-in-late-medieval-visual-culture-at-the
 title_link: ''
 item_image: /assets/media/items/cov_9783110693164_Rossi_SMM-6_RZ_dpm_v1-page-001.jpg
 item_image_caption: Book cover

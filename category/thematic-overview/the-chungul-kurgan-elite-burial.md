@@ -1,5 +1,6 @@
 ---
 title: The Chungul Kurgan Elite Burial
+slug: the-chungul-kurgan-elite-burial
 title_link: ''
 item_image: /assets/media/items/1helmet.tiff
 item_image_caption: 'Gilded helmet of the Kıpçak chieftain from the burial in Chungul

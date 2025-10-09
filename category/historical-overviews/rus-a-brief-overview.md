@@ -1,5 +1,6 @@
 ---
 title: 'Rus: A Brief Overview'
+slug: rus-a-brief-overview
 title_link: ''
 item_image: /assets/media/items/Copy_of_Icon_of_St_George_and_the_Dragon_-_BM.jpg
 item_image_caption: Icon of St. George and the Dragon 1400–50 Wood, gesso, gold Novgorod

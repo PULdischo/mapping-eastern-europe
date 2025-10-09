@@ -2,6 +2,7 @@
 title: 'Review of M. Crăciun and E. Fulton, eds., *Communities of Devotion: Religious
   Orders and Society in East Central Europe, 1450\-1800* (Farnham: Ashgate, 2011\),
   in *Church History* 81, no. 4 (2012\): 974\-977\. \[R. Hammerling]'
+slug: review-of-m-craciun-and-e-fulton-eds-icommu
 title_link: https://www.jstor.org/stable/23358701?seq=1
 item_image: /assets/media/items/2._Hammerling_Craciun-Fulton_VdFcih5.jpg
 item_image_caption: ''

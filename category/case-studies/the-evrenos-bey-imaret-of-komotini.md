@@ -1,5 +1,6 @@
 ---
 title: The Evrenos Bey Imaret of Komotini
+slug: the-evrenos-bey-imaret-of-komotini
 title_link: ''
 item_image: /assets/media/items/3_GGDJzRU.jpg
 item_image_caption: 'The Evrenos Imaret of Komotini (1364/65\-1382/83\), view of the

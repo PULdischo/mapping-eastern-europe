@@ -1,5 +1,6 @@
 ---
 title: 'Study Studenica: Parametric and Reverse Architectural Design'
+slug: study-studenica-parametric-and-reverse-architectu
 title_link: ''
 item_image: /assets/media/items/Screen_Shot_2020-10-06_at_7.39.46_PM.png
 item_image_caption: The light core of the Studenica church based on a point cloud

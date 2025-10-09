@@ -1,5 +1,6 @@
 ---
 title: The Genealogical Chronicle Roll of the Bible
+slug: the-genealogical-chronicle-roll-of-the-bible
 title_link: ''
 item_image: /assets/media/items/03_Flor.jpg
 item_image_caption: 'Popa Flor, Genealogical Chronicle Roll of the Bible, mid\-18th

@@ -2,6 +2,7 @@
 title: 'Review of A. Pippidi, *Byzantins, Ottomans, Roumains: le sud\-est européen
   entre l’héritage impérial et les influences occidentales* (Paris: Honoré, 2006\),
   in *Byzantion* 79 (2009\): 613\-616\. \[A. Timotin]'
+slug: review-of-a-pippidi-ibyzantins-ottomans-roum
 title_link: https://www.jstor.org/stable/44173191?seq=1
 item_image: /assets/media/items/35._Timotin_Pippidi.jpg
 item_image_caption: ''

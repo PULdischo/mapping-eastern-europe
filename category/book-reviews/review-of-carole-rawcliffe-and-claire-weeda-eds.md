@@ -2,6 +2,7 @@
 title: 'Review of Carole Rawcliffe and Claire Weeda, eds., *Policing the Urban Environment
   in Premodern Europe* (Amsterdam: Amsterdam University Press, 2019\), in *The Medieval
   Review* (2021\). \[R. Magnusson]'
+slug: review-of-carole-rawcliffe-and-claire-weeda-eds
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/32637/36403
 item_image: /assets/media/items/16_Rawcliffe_Weeda_Policing.jpg
 item_image_caption: ''

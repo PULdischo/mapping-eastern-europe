@@ -3,6 +3,7 @@ title: 'Review of D. M. Istrate, M. Constantinescu, and A. Soficaru, *The Mediev
   Cemetery from Sibiu (Hermannstadt) Huet Square: Archaeology, Anthropology, History*
   (Büchenbach: Dr. Faustus, 2015\), in *Speculum* 93, no. 2 (2018\): 520\-522\. \[A.
   Pluskowski]'
+slug: review-of-d-m-istrate-m-constantinescu-and-a
 title_link: https://www.journals.uchicago.edu/doi/10.1086/696943
 item_image: /assets/media/items/31._Pluskowski_IstrateConstantinescuSoficaru.png
 item_image_caption: ''

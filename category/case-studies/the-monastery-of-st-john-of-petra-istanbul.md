@@ -1,5 +1,6 @@
 ---
 title: The Monastery of St. John of Petra, Istanbul
+slug: the-monastery-of-st-john-of-petra-istanbul
 title_link: ''
 item_image: /assets/media/items/Kesmekaya.jpg
 item_image_caption: 'Istanbul, the area of Kesmekaya (source: Barsanti, “Una ricerca

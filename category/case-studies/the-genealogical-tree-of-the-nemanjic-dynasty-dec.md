@@ -1,5 +1,6 @@
 ---
 title: The Genealogical Tree of the Nemanjić Dynasty, Dečani Monastery
+slug: the-genealogical-tree-of-the-nemanjic-dynasty-dec
 title_link: ''
 item_image: /assets/media/items/01_NemanjicFamilyTree_IMG_7862.JPG
 item_image_caption: 'Nemanjić Genealogy, Narthex, Dečani Monastery, ca. 1346–48, Fresco,

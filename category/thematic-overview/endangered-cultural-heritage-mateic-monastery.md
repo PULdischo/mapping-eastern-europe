@@ -1,5 +1,6 @@
 ---
 title: 'Endangered Cultural Heritage: Mateič Monastery'
+slug: endangered-cultural-heritage-mateic-monastery
 title_link: ''
 item_image: /assets/media/items/img433.jpg
 item_image_caption: 'Photograph of Mateič Monastery from 1934 by architect Đurđe Bošković

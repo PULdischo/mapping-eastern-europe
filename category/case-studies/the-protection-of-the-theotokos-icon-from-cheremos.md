@@ -1,5 +1,6 @@
 ---
 title: The Protection of the Theotokos Icon from Cheremoshnia
+slug: the-protection-of-the-theotokos-icon-from-cheremos
 title_link: ''
 item_image: /assets/media/items/1_fj2btH8.jpg
 item_image_caption: 'Icon “The Protection of the Theotokos with Sts. Anthony and Theodosios

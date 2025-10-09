@@ -1,5 +1,6 @@
 ---
 title: The Bilateral Icon of Blatadon Monastery
+slug: the-bilateral-icon-of-blatadon-monastery
 title_link: ''
 item_image: /assets/media/items/Crucifixion_15th_C_Bilateral.JPG
 item_image_caption: 'Bilateral icon, late 15th century, inlaid icon, mid 14th century,

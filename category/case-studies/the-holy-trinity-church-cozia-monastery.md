@@ -1,5 +1,6 @@
 ---
 title: The Holy Trinity Church, Cozia Monastery
+slug: the-holy-trinity-church-cozia-monastery
 title_link: ''
 item_image: /assets/media/items/Bogdanovic_Fig_1_Cozia-from_the_river.jpg
 item_image_caption: 'Cozia Monastery, exterior, Wallachia, 1390s and later (source:

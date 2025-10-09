@@ -1,5 +1,6 @@
 ---
 title: Altneushul (Old\-New Synagogue) in Prague
+slug: altneushul-old-new-synagogue-in-prague
 title_link: ''
 item_image: /assets/media/items/Prague_Praha_2014_Holmstad_Den_gammelnye_synagogen.jpg
 item_image_caption: 'Altneushul (Old\-New Synagogue) in Prague (source: Øyvind Holmstad

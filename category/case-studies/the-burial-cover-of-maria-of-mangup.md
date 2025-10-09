@@ -1,5 +1,6 @@
 ---
 title: The Burial Cover of Maria of Mangup
+slug: the-burial-cover-of-maria-of-mangup
 title_link: ''
 item_image: /assets/media/items/Burial_Cover_of_Maria_of_Mangup_MXCJK5Q.jpg
 item_image_caption: 'Burial cover of Maria of Mangup, ca. 1477, embroidery with gold

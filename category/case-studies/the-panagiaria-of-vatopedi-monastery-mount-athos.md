@@ -1,5 +1,6 @@
 ---
 title: The Panagiaria of Vatopedi Monastery, Mount Athos (14th–16th centuries)
+slug: the-panagiaria-of-vatopedi-monastery-mount-athos
 title_link: ''
 item_image: /assets/media/items/Fig._1_YRRQJ81.JPG
 item_image_caption: Mount Athos, Monastery of Vatopedi, Panagiario, second half of

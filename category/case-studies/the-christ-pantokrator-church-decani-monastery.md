@@ -1,5 +1,6 @@
 ---
 title: The Christ Pantokrator Church, Dečani Monastery
+slug: the-christ-pantokrator-church-decani-monastery
 title_link: ''
 item_image: /assets/media/items/decani.jpg
 item_image_caption: 'Eastern\-view of the interior, Church of Christ Pantkorator,

@@ -1,5 +1,6 @@
 ---
 title: The Ossuary of the Bachkovo Monastery
+slug: the-ossuary-of-the-bachkovo-monastery
 title_link: ''
 item_image: /assets/media/items/Fig._6_xxRXL0s.jpg
 item_image_caption: 'Apostles approaching the Gate of Paradise, the 12th century,

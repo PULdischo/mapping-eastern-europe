@@ -1,5 +1,6 @@
 ---
 title: 'Mount Athos: A Brief Overview'
+slug: mount-athos-a-brief-overview
 title_link: ''
 item_image: /assets/media/items/Map_of_Mount_Athos.jpg
 item_image_caption: 'Map of Mount Athos by Gerasimos Smyrnakis (source: Archive of

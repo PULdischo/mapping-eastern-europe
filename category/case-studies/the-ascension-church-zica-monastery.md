@@ -1,5 +1,6 @@
 ---
 title: The Ascension Church, Žiča Monastery
+slug: the-ascension-church-zica-monastery
 title_link: ''
 item_image: /assets/media/items/Fig._1_BmEgrKg.jpg
 item_image_caption: 'View from the southeast, Ascension Church, Žiča Monastery (source:

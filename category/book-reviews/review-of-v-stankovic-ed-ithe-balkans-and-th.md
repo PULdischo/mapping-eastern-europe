@@ -2,6 +2,7 @@
 title: 'Review of V. Stanković, ed., *The Balkans and the Byzantine World before and
   after the Captures of Constantinople, 1204 and 1453* (Lanham: Lexington Books, 2016\),
   in *Parergon* 35, no. 2 (2018\): 235\-236\. \[J. H. Johnson]'
+slug: review-of-v-stankovic-ed-ithe-balkans-and-th
 title_link: https://muse.jhu.edu/article/708067
 item_image: /assets/media/items/6._Johnson_Stankovic.jpg
 item_image_caption: ''

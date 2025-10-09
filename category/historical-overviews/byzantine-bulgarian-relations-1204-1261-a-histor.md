@@ -1,5 +1,6 @@
 ---
 title: 'Byzantine\-Bulgarian Relations, 1204\-1261: A Historical Overview'
+slug: byzantine-bulgarian-relations-1204-1261-a-histor
 title_link: ''
 item_image: /assets/media/items/GrantPicture1.jpg
 item_image_caption: Map showing Second Bulgarian Empire under Boril and the expansion

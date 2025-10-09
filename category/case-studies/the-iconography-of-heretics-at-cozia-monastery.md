@@ -1,5 +1,6 @@
 ---
 title: The Iconography of Heretics at Cozia Monastery
+slug: the-iconography-of-heretics-at-cozia-monastery
 title_link: ''
 item_image: /assets/media/items/Picture2_sC21b1f.jpg
 item_image_caption: 'Last Judgment, 1390–91, exonarthex, Church of the Holy Cross,

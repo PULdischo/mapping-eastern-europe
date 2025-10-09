@@ -2,6 +2,7 @@
 title: 'Review of Stella Panayotova, ed., *The Art \& Science of Illuminated Manuscripts:
   A Handbook* (Turnhout: Brepols, 2020\), in *The Medieval Review* (2021\). \[R.K.
   Emmerson]'
+slug: review-of-stella-panayotova-ed-ithe-art-sci
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/33373/36961
 item_image: /assets/media/items/11_Panayotova_The_Art.jpg
 item_image_caption: ''

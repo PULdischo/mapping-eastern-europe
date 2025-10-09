@@ -2,6 +2,7 @@
 title: 'Review of Slobodan Ćurčić, *Gračanica: King Milutin''s Church and Its Place
   in Late Byzantine Architecture* (University Park: Pennsylvania State University
   Press, 1979\), in *Speculum* 56, no. 2 (1981\): 374\-376\. \[A. W. Epstein]'
+slug: review-of-slobodan-curcic-igracanica-king-milu
 title_link: https://doi.org/10.2307/2846955
 item_image: /assets/media/items/53._Epstein_Curcic.jpg
 item_image_caption: ''

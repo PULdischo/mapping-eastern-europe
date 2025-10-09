@@ -1,5 +1,6 @@
 ---
 title: Bilhorod\-Dnistrovskyi (Akkerman) Fortress
+slug: bilhorod-dnistrovskyi-akkerman-fortress
 title_link: ''
 item_image: /assets/media/items/Bilhorod-Akkerman_1.jpg
 item_image_caption: 'View of the Bilhorod\-Dnistrovskyi (Akkerman) fortress from the

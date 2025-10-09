@@ -1,5 +1,6 @@
 ---
 title: The Icon of the Virgin and Child, Ohrid
+slug: the-icon-of-the-virgin-and-child-ohrid
 title_link: ''
 item_image: /assets/media/items/4_2.jpg
 item_image_caption: 'Icon (no. 81\), 1343/4,Ohrid Gallery of Icons (source: S. Filipova)'

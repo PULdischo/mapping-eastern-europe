@@ -2,6 +2,7 @@
 title: 'Review of Ivan G. Marcus, *“Sefer Hasidim” and the Ashkenazic Book in Medieval
   Europe, Jewish Culture and Contexts* (Philadelphia: University of Pennsylvania Press,
   2018\), in *The Medieval Review* (2020\). \[A. Gvaryahu]'
+slug: review-of-ivan-g-marcus-isefer-hasidim-and-t
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/30700/35061
 item_image: /assets/media/items/26_Marcus_Sefer.png
 item_image_caption: ''

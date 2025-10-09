@@ -1,5 +1,6 @@
 ---
 title: 'Byzance après Byzance: Nicolae Iorga’s Paradigm'
+slug: byzance-apres-byzance-nicolae-iorgas-paradigm
 title_link: ''
 item_image: /assets/media/items/Nicolae_Iorga_-_Byzance_apres_Byzance_-_1935_0000.jpg
 item_image_caption: 'Nicolae Iorga’s Byzance après Byzance (1935\) – title page (source:

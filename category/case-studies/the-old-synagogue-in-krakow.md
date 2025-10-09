@@ -1,5 +1,6 @@
 ---
 title: The Old Synagogue in Krakow
+slug: the-old-synagogue-in-krakow
 title_link: ''
 item_image: /assets/media/items/1280px-Krakow_Old_Synagogue_G20.jpg
 item_image_caption: 'The Old Synagogue in Krakow (source: Wikimedia Commons)'

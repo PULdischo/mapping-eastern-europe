@@ -1,5 +1,6 @@
 ---
 title: Icon\-folder of Ambrose (1456\)
+slug: icon-folder-of-ambrose-1456
 title_link: ''
 item_image: /assets/media/items/12.jpg
 item_image_caption: Icon\-folder, Ambrose, 1456, walnut, gold (The Sergiev\-Posad

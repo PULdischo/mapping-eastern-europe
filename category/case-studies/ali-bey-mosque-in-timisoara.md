@@ -1,5 +1,6 @@
 ---
 title: Ali Bey Mosque in Timișoara
+slug: ali-bey-mosque-in-timisoara
 title_link: ''
 item_image: /assets/media/items/Fig._1_VPZNAXj.jpg
 item_image_caption: 'Ali Bey Mosque (red arrow) on the plan of Timișoara made by François

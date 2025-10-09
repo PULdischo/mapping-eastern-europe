@@ -3,6 +3,7 @@ title: 'Review of R.F. Hoddinott, *Early Churches in Macedonia and Southern Serb
   A Study of the Origins and the Initial Development of East Christian Art* (London:
   Macmillan, 1963\), in *American Journal of Archaeology* 69, no. 1 (1965\): 86\-87\.
   \[J. M. Harris]'
+slug: review-of-rf-hoddinott-iearly-churches-in-mac
 title_link: https://www.jstor.org/stable/502277
 item_image: /assets/media/items/28._Harris_Hoddinott.jpg
 item_image_caption: ''

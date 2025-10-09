@@ -1,6 +1,7 @@
 ---
 title: Gold\-embroideries from Constantinople (15th–19th centuries) in the Byzantine
   \& Christian Museum Collection
+slug: gold-embroideries-from-constantinople-15th19th-c
 title_link: ''
 item_image: /assets/media/items/Screen_Shot_2020-10-09_at_6.05.05_PM.png
 item_image_caption: Epigonation BXM 1702, Christ in Majesty, by the embroidress Despineta,

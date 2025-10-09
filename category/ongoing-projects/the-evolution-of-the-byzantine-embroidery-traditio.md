@@ -1,6 +1,7 @@
 ---
 title: The Evolution of the Byzantine Embroidery Tradition in the Eastern Mediterranean
   and the Slavic World, 1200\-1800
+slug: the-evolution-of-the-byzantine-embroidery-traditio
 title_link: ''
 item_image: /assets/media/items/couv1.jpg
 item_image_caption: Journal cover

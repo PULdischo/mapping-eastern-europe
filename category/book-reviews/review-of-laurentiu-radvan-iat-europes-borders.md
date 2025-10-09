@@ -1,6 +1,7 @@
 ---
 title: 'Review of Laurenţiu Rǎdvan, *At Europe’s Borders: Medieval Towns in the Romanian
   Principalities* (Leiden: Brill, 2010\), in *The Medieval Review* (2011\). \[R. Grzesik]'
+slug: review-of-laurentiu-radvan-iat-europes-borders
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/17283
 item_image: /assets/media/items/47._Grzesik_Radvan.jpg
 item_image_caption: ''

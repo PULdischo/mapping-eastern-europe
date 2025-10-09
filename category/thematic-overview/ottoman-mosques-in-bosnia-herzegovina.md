@@ -1,5 +1,6 @@
 ---
 title: Ottoman Mosques in Bosnia\-Herzegovina
+slug: ottoman-mosques-in-bosnia-herzegovina
 title_link: ''
 item_image: /assets/media/items/Ott_mosques_BIH_Fig_5_Pocitelj_Ali_mosque.jpg
 item_image_caption: 'Architectural structure with minaret and entrance portal of the

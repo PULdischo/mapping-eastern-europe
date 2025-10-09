@@ -1,5 +1,6 @@
 ---
 title: Kalenić Monastery
+slug: kalenic-monastery
 title_link: ''
 item_image: /assets/media/items/004.jpg
 item_image_caption: 'Kalenić monastery, Church of the Presentation of Virgin, window

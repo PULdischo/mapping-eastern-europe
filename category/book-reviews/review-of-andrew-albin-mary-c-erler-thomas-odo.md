@@ -2,6 +2,7 @@
 title: 'Review of Andrew Albin, Mary C. Erler, Thomas O’Donnell, Nicholas L. Paul,
   Nina Rowe, eds, *Whose Middle Ages? Teachable Moments for an Ill\-Used Past* (New
   York: Fordham University Press, 2019\), in *The Medieval Review* (2021\). \[M. Vernon]'
+slug: review-of-andrew-albin-mary-c-erler-thomas-odo
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/32361/36176
 item_image: /assets/media/items/17_Albin_et_all_Whose.png
 item_image_caption: ''

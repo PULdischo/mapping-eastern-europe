@@ -1,5 +1,6 @@
 ---
 title: The Transfiguration Fresco at Zrze Monastery
+slug: the-transfiguration-fresco-at-zrze-monastery
 title_link: ''
 item_image: /assets/media/items/1_kobvAb7.jpg
 item_image_caption: 'Zrze Monastery, view from north (source: public domain)'

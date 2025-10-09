@@ -1,5 +1,6 @@
 ---
 title: The Wooden Sacristy Chest of Putna Monastery
+slug: the-wooden-sacristy-chest-of-putna-monastery
 title_link: ''
 item_image: /assets/media/items/1_-_Wooden_Sacristy_Box_-_Putna.jpg
 item_image_caption: 'Wooden Sacristy Chest with a central scene of the Crucifixion

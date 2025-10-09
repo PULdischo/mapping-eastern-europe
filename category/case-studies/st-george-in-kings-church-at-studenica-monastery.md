@@ -1,5 +1,6 @@
 ---
 title: St. George in King's Church at Studenica Monastery
+slug: st-george-in-kings-church-at-studenica-monastery
 title_link: ''
 item_image: /assets/media/items/Photo_1.jpg
 item_image_caption: 'St. George, ca. 1318–19, north wall, King’s Church, Studenica

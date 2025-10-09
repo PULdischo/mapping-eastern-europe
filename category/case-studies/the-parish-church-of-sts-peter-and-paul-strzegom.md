@@ -1,5 +1,6 @@
 ---
 title: The Parish Church of Sts. Peter and Paul, Strzegom
+slug: the-parish-church-of-sts-peter-and-paul-strzegom
 title_link: ''
 item_image: /assets/media/items/Strzegom_02_f9detT7.jpg
 item_image_caption: 'Strzegom, the Parish Church of Sts. Peter and Paul, c. 1350–1396,

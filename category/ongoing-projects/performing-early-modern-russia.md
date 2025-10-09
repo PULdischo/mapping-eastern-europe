@@ -1,5 +1,6 @@
 ---
 title: Performing Early\-Modern Russia
+slug: performing-early-modern-russia
 title_link: ''
 item_image: /assets/media/items/2_-_short_notice_image.JPG
 item_image_caption: Saint Basil's Cathedral, Interior.

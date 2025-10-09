@@ -1,5 +1,6 @@
 ---
 title: The Codex Oxoniensis Barocc. gr. 87
+slug: the-codex-oxoniensis-barocc-gr-87
 title_link: ''
 item_image: /assets/media/items/Fig._1.png
 item_image_caption: 'John Argyropoulos teaching at the Xenon of the Kral, Oxon. Barocci.

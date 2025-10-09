@@ -1,5 +1,6 @@
 ---
 title: The Teutonic Ordensstaat
+slug: the-teutonic-ordensstaat
 title_link: ''
 item_image: /assets/media/items/Picture_1.jpg
 item_image_caption: 'The Golden Gate, Malbork, Poland, ca. 1280, sculpted Limestone

@@ -3,6 +3,7 @@ title: 'Review of Aleksander Pluskowski, ed., *Ecologies of Crusading, Colonizat
   and Religious Conversion in the Medieval Baltic: Terra Sacra II, Environmental Histories
   of the North Atlantic World* (Turnhout: Brepols, 2019\), in *The Medieval Review*
   (2020\). \[W.L. Urban]'
+slug: review-of-aleksander-pluskowski-ed-iecologies
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/30586/34937
 item_image: /assets/media/items/23_Pluskowski_Ecologies.png
 item_image_caption: ''

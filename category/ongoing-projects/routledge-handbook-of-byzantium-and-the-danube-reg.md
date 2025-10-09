@@ -1,5 +1,6 @@
 ---
 title: Routledge Handbook of Byzantium and the Danube Regions (13th–16th centuries)
+slug: routledge-handbook-of-byzantium-and-the-danube-reg
 title_link: ''
 item_image: /assets/media/items/MappingEE_Rossi_Sullivan.png
 item_image_caption: Geographical Area of the Project

@@ -1,5 +1,6 @@
 ---
 title: Luxury, Fashion and Social Status in Early Modern South\-Eastern Europe (LuxFaSS)
+slug: luxury-fashion-and-social-status-in-early-modern
 title_link: ''
 item_image: /assets/media/items/4._Helene_Soutzou.jpeg
 item_image_caption: 'Princess Eleni Soutu (source: Manolis Vlachos, ed., Louis Dupré,

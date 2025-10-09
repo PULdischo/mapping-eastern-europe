@@ -1,5 +1,6 @@
 ---
 title: The Episcopal Church of the former Monastery of Curtea de Argeș
+slug: the-episcopal-church-of-the-former-monastery-of-cu
 title_link: ''
 item_image: /assets/media/items/CdA_Picture.jpeg
 item_image_caption: 'The church of Curtea de Argeș (source: C. Minea)'

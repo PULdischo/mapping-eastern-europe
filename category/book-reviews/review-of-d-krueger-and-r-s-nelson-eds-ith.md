@@ -2,6 +2,7 @@
 title: 'Review of D. Krueger and R. S. Nelson, eds., *The New Testament in Byzantium*
   (Washington, D.C.: Harvard University Press, 2016\), in *The Medieval Review* (2017\):
   17\.11\.14\. \[K. Krause]'
+slug: review-of-d-krueger-and-r-s-nelson-eds-ith
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/24194
 item_image: /assets/media/items/42._Krause_Kreuger.jpg
 item_image_caption: ''

@@ -2,6 +2,7 @@
 title: 'Review of A. Kaldellis, *Laonikos Chalkokondyles, The Histories* (2 vols.)
   (Cambridge and London: Harvard University Press, 2014\), in *Bryn Mawr Classical
   Review* (2015\). \[D. G. Wright]'
+slug: review-of-a-kaldellis-ilaonikos-chalkokondyles
 title_link: https://bmcr.brynmawr.edu/2015/2015.05.18/
 item_image: /assets/media/items/10._Wright_Kaldellis.jpg
 item_image_caption: ''

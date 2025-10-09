@@ -1,5 +1,6 @@
 ---
 title: The Icon from Poganovo Monastery
+slug: the-icon-from-poganovo-monastery
 title_link: ''
 item_image: /assets/media/items/Image_1..JPG
 item_image_caption: 'The Miracle of Latomos, church of Hosios David, Thessaloniki,

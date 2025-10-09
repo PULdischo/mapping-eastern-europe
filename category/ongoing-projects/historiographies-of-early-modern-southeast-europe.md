@@ -1,5 +1,6 @@
 ---
 title: Historiographies of Early Modern Southeast Europe (HEMSEE)
+slug: historiographies-of-early-modern-southeast-europe
 title_link: ''
 item_image: /assets/media/items/1_-_short_notice_image.jpg
 item_image_caption: Sultan Ibrāhīm. Engraving – Dimitrie Cantemir, *The History of

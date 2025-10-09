@@ -2,6 +2,7 @@
 title: 'Review of Robert Maniura, *Pilgrimage to Images in the Fifteenth Century:
   The Origins of the Cult of Our Lady of Częstochowa* (Woodbridge: The Boydell Press,
   2004\), in *The Medieval Review* (2007\). \[I. Kabala]'
+slug: review-of-robert-maniura-ipilgrimage-to-images
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/16289
 item_image: /assets/media/items/52._Kabala_Maniura.jpg
 item_image_caption: ''

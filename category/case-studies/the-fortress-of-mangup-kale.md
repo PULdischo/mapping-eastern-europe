@@ -1,5 +1,6 @@
 ---
 title: The Fortress of Mangup\-Kale
+slug: the-fortress-of-mangup-kale
 title_link: ''
 item_image: /assets/media/items/1_8uj996L.jpg
 item_image_caption: Reconstruction of the view of Mangup, 2019 (Drawn by Alexander

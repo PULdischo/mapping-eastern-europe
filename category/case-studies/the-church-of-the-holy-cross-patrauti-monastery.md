@@ -1,5 +1,6 @@
 ---
 title: The Church of the Holy Cross, Pătrăuți Monastery
+slug: the-church-of-the-holy-cross-patrauti-monastery
 title_link: ''
 item_image: /assets/media/items/Patrauti_Fig._3.jpg
 item_image_caption: 'Naos murals, view toward the west, church of the Holy Cross,

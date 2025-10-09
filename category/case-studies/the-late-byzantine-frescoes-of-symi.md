@@ -1,5 +1,6 @@
 ---
 title: The Late\-Byzantine Frescoes of Symi
+slug: the-late-byzantine-frescoes-of-symi
 title_link: ''
 item_image: /assets/media/items/01_S6rytPFB.jpg
 item_image_caption: 'Figures from the scene of the Betrayal of Jesus, north wall (naos),

@@ -1,5 +1,6 @@
 ---
 title: The Byzantine and Post\-Byzantine World in the Balkans, 13th–17th c.
+slug: the-byzantine-and-post-byzantine-world-in-the-balk
 title_link: ''
 item_image: /assets/media/items/2._John_II_Asen_Emperor_of_the_Bulgarians_and_Romans.jpeg
 item_image_caption: 'Golden seal of John II Asen, the emperor of the Bulgarians and

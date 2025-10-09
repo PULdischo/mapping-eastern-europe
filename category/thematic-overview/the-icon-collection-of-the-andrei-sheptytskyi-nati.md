@@ -1,5 +1,6 @@
 ---
 title: The Icon Collection of the Andrei Sheptytskyi National Museum in Lviv
+slug: the-icon-collection-of-the-andrei-sheptytskyi-nati
 title_link: ''
 item_image: /assets/media/items/Il_1_3.jpg
 item_image_caption: 'St. George the Dragon Slayer. Last quarter of the 14th (?) century.

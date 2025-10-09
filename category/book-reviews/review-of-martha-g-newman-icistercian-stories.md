@@ -2,6 +2,7 @@
 title: 'Review of Martha G. Newman, *Cistercian Stories for Nuns and Monks: The Sacramental
   Imagination of Engelhard of Langheim* (Philadelphia: University of Pennsylvania
   Press, 2020\), in *The Medieval Review* (2021\). \[K.A.M. Bugyis]'
+slug: review-of-martha-g-newman-icistercian-stories
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/33599/37137
 item_image: /assets/media/items/7_Newman_Cistercian.jpg
 item_image_caption: ''

@@ -1,5 +1,6 @@
 ---
 title: Royal Women, Cultural Exchanges, and Rus’ Ecumenical Marriages, circa 1000–1250
+slug: royal-women-cultural-exchanges-and-rus-ecumenic
 title_link: ''
 item_image: /assets/media/items/Picture_7.jpg
 item_image_caption: 'Queen Anna, the wife of King Henry, founded St. Vincent in Senlis,

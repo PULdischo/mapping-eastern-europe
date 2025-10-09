@@ -1,5 +1,6 @@
 ---
 title: The Pietà Icon, Ostrov Monastery
+slug: the-pieta-icon-ostrov-monastery
 title_link: ''
 item_image: /assets/media/items/01.jpg
 item_image_caption: 'Descent from the Cross/Pietà, ca. 1522, 67\.5 x 44\.5 cm, collection

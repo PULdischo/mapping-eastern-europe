@@ -1,5 +1,6 @@
 ---
 title: The Phiale of the Great Lavra Monastery, Mount Athos
+slug: the-phiale-of-the-great-lavra-monastery-mount-ath
 title_link: ''
 item_image: /assets/media/items/Fig._1_0QWQ2OM.jpg
 item_image_caption: 'The phiale of the katholikon of the monastery of Megisti Lavra,

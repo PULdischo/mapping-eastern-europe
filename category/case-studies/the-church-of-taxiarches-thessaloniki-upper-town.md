@@ -1,5 +1,6 @@
 ---
 title: The Church of Taxiarches, Thessaloniki Upper Town
+slug: the-church-of-taxiarches-thessaloniki-upper-town
 title_link: ''
 item_image: /assets/media/items/Taxiarches2.jpeg
 item_image_caption: 'Church of Taxiarches, beginning of the 14th century, view from

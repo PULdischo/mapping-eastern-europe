@@ -1,5 +1,6 @@
 ---
 title: The Thessaloniki Epitaphios
+slug: the-thessaloniki-epitaphios
 title_link: ''
 item_image: /assets/media/items/threnos.jpg
 item_image_caption: 'Thessaloniki Epitaphios, detail of the threnos, ca. 1300, embroidered

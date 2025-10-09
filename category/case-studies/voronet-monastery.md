@@ -1,5 +1,6 @@
 ---
 title: Voroneț Monastery
+slug: voronet-monastery
 title_link: ''
 item_image: /assets/media/items/1._Voronet_Monastery_-_The_Church_-_View_from_the_Southeast.JPG
 item_image_caption: 'Voronet Monastery \- The Church \- View from the Southeast. (source:

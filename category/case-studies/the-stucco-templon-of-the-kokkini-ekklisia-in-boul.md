@@ -1,5 +1,6 @@
 ---
 title: The Stucco Templon of the Kokkini Ekklisia in Boulgareli (Epiros)
+slug: the-stucco-templon-of-the-kokkini-ekklisia-in-boul
 title_link: ''
 item_image: /assets/media/items/2._Exterior_FNYxCAs.JPG
 item_image_caption: 'Exterior, view from south\-west, Kokkini Ekklisia, Voulgareli

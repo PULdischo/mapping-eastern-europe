@@ -1,6 +1,7 @@
 ---
 title: 'On the Origins of the Book Printing in the Ottoman Empire: The Role of Printed
   Books in the Transmission of Byzantine and Post\-Byzantine Knowledge'
+slug: on-the-origins-of-the-book-printing-in-the-ottoman
 title_link: ''
 item_image: /assets/media/items/Leber.jpg
 item_image_caption: The title page of the bilingual edition of the treatise by Meletios

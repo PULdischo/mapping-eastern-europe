@@ -1,5 +1,6 @@
 ---
 title: The Reliquary Casket of St. Tryphon, Kotor
+slug: the-reliquary-casket-of-st-tryphon-kotor
 title_link: ''
 item_image: /assets/media/items/01casket.jpg
 item_image_caption: 'Reliquary Casket of St. Tryphon, ca. 1539, Cathedral of St. Tryphon,

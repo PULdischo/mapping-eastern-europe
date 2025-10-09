@@ -1,5 +1,6 @@
 ---
 title: Inhabiting Byzantine Athens
+slug: inhabiting-byzantine-athens
 title_link: ''
 item_image: /assets/media/items/Fig.1_bIp2CS4.jpg
 item_image_caption: 'Aerial view of the Athenian Agora (source: American School of

@@ -1,5 +1,6 @@
 ---
 title: Kiliia Fortress
+slug: kiliia-fortress
 title_link: ''
 item_image: /assets/media/items/Kiliia_2.jpg
 item_image_caption: Ivanov Mikhail. Kiliia fortress walls and towers. Watercolor from

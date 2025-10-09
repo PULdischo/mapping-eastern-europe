@@ -1,6 +1,7 @@
 ---
 title: 'From Incunabula to First Grammars: Contexts of the Development of the Bulgarian
   Literary Language (late 15th – early 17th century)'
+slug: from-incunabula-to-first-grammars-contexts-of-the
 title_link: ''
 item_image: /assets/media/items/MappingEE5.png
 item_image_caption: Geographical Area of the Project

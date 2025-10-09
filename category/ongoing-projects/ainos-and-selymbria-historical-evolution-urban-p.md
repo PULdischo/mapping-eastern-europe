@@ -1,6 +1,7 @@
 ---
 title: 'Ainos and Selymbria: Historical Evolution, Urban Planning and Art of Two Important
   Greek Cities of Eastern Thrace'
+slug: ainos-and-selymbria-historical-evolution-urban-p
 title_link: ''
 item_image: /assets/media/items/1._%CE%99._%CE%9C._%CE%A0%CE%95%CE%A1%CE%A1%CE%91%CE%9A%CE%97%CE%A3_DSCN8306_29.07.2015.JPG
 item_image_caption: 'Ainos (Enez), View of the Byzantine citadel from the west (source:

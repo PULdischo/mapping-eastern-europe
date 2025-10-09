@@ -1,6 +1,7 @@
 ---
 title: 'Maps of Power: Historical Atlas of Places, Borderzones and Migration Dynamics
   in Byzantium'
+slug: maps-of-power-historical-atlas-of-places-borderz
 title_link: ''
 item_image: /assets/media/items/01.png
 item_image_caption: The Current State of the Project TIB

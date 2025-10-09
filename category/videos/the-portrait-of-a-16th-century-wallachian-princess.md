@@ -1,5 +1,6 @@
 ---
 title: 'The Portrait of a 16th\-century Wallachian Princess: Lady Roxanda'
+slug: the-portrait-of-a-16th-century-wallachian-princess
 title_link: ''
 item_image: /assets/media/items/Roxanda_bluDUg6.jpg
 item_image_caption: 'Portrait of Lady Roxanda, fragment from the princely church in

@@ -1,6 +1,7 @@
 ---
 title: Muhammad and the Origin of Islam – Stereotypes, Knowledge and Notions in the
   Byzantine\-Russian Culture
+slug: muhammad-and-the-origin-of-islam-stereotypes-kn
 title_link: ''
 item_image: /assets/media/items/MappingEE2_HH6wZUx.png
 item_image_caption: Geographical Area of the Project

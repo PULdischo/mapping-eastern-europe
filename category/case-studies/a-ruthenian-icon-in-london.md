@@ -1,5 +1,6 @@
 ---
 title: A Ruthenian Icon in London
+slug: a-ruthenian-icon-in-london
 title_link: ''
 item_image: /assets/media/items/Parpulov.jpg
 item_image_caption: 'Icon of the Virgin and Child with Archangels (Virgin Hodegetria),

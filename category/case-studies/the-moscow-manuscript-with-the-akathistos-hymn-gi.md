@@ -1,5 +1,6 @@
 ---
 title: The Moscow Manuscript with the Akathistos Hymn (GIM Syn. gr. 429\)
+slug: the-moscow-manuscript-with-the-akathistos-hymn-gi
 title_link: ''
 item_image: /assets/media/items/1_image_ms_429.jpeg
 item_image_caption: A sample book spread, Moscow, State Historical Museum, Synod.

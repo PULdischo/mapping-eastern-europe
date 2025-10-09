@@ -1,5 +1,6 @@
 ---
 title: Antimensia in the Danubian Principalities
+slug: antimensia-in-the-danubian-principalities
 title_link: ''
 item_image: /assets/media/items/6._The_Antimension_of_Pachomios_of_Gledin.jpeg
 item_image_caption: 'The antimension of Pachomios of Gledin (1714\). (source: Neamț

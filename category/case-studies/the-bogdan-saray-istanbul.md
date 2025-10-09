@@ -1,5 +1,6 @@
 ---
 title: The Bogdan Saray, Istanbul
+slug: the-bogdan-saray-istanbul
 title_link: ''
 item_image: /assets/media/items/MelvaniBogdan3.jpg
 item_image_caption: 'Drawing of the Bogdan Saray, Istanbul, view from northeast (source:

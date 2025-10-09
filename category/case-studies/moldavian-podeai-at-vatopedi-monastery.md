@@ -1,5 +1,6 @@
 ---
 title: Moldavian Podeai at Vatopedi Monastery
+slug: moldavian-podeai-at-vatopedi-monastery
 title_link: ''
 item_image: /assets/media/items/Podea_a.jpg
 item_image_caption: 'Podeai of Vasile Lupu, 1651–52, Vatopedi Monastery (source: N.

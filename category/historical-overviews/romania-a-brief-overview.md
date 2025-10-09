@@ -1,5 +1,6 @@
 ---
 title: 'Romania: A Brief Overview'
+slug: romania-a-brief-overview
 title_link: ''
 item_image: /assets/media/items/Rom1856-1859.png
 item_image_caption: 'The Romanian Principalities of Wallachia, Moldavia, and Transylvania

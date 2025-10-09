@@ -1,5 +1,6 @@
 ---
 title: St. John’s Church in Tartu
+slug: st-johns-church-in-tartu
 title_link: ''
 item_image: /assets/media/items/Screen_Shot_2022-09-23_at_2.08.56_PM.png
 item_image_caption: St. John’s church from the East, 14th century, Tartu (Photo by

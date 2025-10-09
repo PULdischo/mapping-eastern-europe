@@ -1,5 +1,6 @@
 ---
 title: The Ecumenical Patriarchate of Constantinople (13th–17th Centuries)
+slug: the-ecumenical-patriarchate-of-constantinople-13t
 title_link: ''
 item_image: /assets/media/items/01_uCtqtNm.jpg
 item_image_caption: 'Sultan Mehmet II and Patriarch Gennadios II Scholarios. Modern

@@ -2,6 +2,7 @@
 title: 'Review of Maria Alessia Rossi and Alice Isabella Sullivan, eds, *Byzantium
   in Eastern European Visual Culture in the Late Middle Ages* (Leiden: Brill, 2020\),
   in *The Medieval Review* (2021\). \[G. Jaritz]'
+slug: review-of-maria-alessia-rossi-and-alice-isabella-s
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/33635/37160
 item_image: /assets/media/items/5_Rossi_Sullivan_Byzantium.jpg
 item_image_caption: ''

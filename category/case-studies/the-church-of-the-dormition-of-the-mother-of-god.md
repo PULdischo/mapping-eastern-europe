@@ -1,5 +1,6 @@
 ---
 title: The Church of the Dormition of the Mother of God, Mateič
+slug: the-church-of-the-dormition-of-the-mother-of-god
 title_link: ''
 item_image: /assets/media/items/1.jpg
 item_image_caption: 'Church of the Dormition of the Mother of God, Mateič monastery,

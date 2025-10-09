@@ -1,5 +1,6 @@
 ---
 title: The Church of St. George at Staro Nagoričino
+slug: the-church-of-st-george-at-staro-nagoricino
 title_link: ''
 item_image: /assets/media/items/Church_of_Saint_George_in_Staro_Nagorichino_frescos_on_the_northern_wall.jpg
 item_image_caption: 'View of the interior north wall, Church of St. George at Staro

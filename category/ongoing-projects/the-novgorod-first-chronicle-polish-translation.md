@@ -1,6 +1,7 @@
 ---
 title: The Novgorod First Chronicle – Polish Translation and Scientific Account of
   the Oldest Chronicle of Novgorod the Great
+slug: the-novgorod-first-chronicle-polish-translation
 title_link: ''
 item_image: /assets/media/items/P5200243.JPG
 item_image_caption: Novgorod

@@ -1,5 +1,6 @@
 ---
 title: Heretics in Byzantine and Post\-Byzantine Art
+slug: heretics-in-byzantine-and-post-byzantine-art
 title_link: ''
 item_image: /assets/media/items/Poulakis_Theodoros_-_St_Spyridon_and_scenes_from_his_life_-_Google_Art_Project.jpg
 item_image_caption: 'Theodoros Poulakis, *Icon of St. Spyridon and Areios*, 1650–1699\.

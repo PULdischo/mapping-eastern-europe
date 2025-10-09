@@ -1,5 +1,6 @@
 ---
 title: The Bible of Bucharest (1688\)
+slug: the-bible-of-bucharest-1688
 title_link: ''
 item_image: /assets/media/items/1._Title_Page.jpg
 item_image_caption: 'The Bible, Title page. (source: Metropolitan Library, Bucharest)'

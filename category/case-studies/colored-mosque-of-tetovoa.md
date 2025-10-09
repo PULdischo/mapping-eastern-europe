@@ -1,5 +1,6 @@
 ---
 title: Colored Mosque of Tetovo/a
+slug: colored-mosque-of-tetovoa
 title_link: ''
 item_image: /assets/media/items/Tetovo_Fig_3.JPG
 item_image_caption: 'Tetovo/a colored Mosque. Interior of the prayer hall. Detail

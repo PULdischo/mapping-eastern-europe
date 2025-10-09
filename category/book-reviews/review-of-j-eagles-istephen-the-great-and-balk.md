@@ -2,6 +2,7 @@
 title: 'Review of J. Eagles, *Stephen the Great and Balkan Nationalism: Moldova and
   Eastern European History* (London: I.B. Tauris, 2014\), in *European History Quarterly*
   45, no. 4 (2015\): 762\-763\. \[O. Cristea]'
+slug: review-of-j-eagles-istephen-the-great-and-balk
 title_link: https://journals.sagepub.com/doi/full/10.1177/0265691415607130i
 item_image: /assets/media/items/26._Cristea_Eagles.jpg
 item_image_caption: ''

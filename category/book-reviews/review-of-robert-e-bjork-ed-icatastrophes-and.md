@@ -2,6 +2,7 @@
 title: 'Review of Robert E. Bjork, ed, *Catastrophes and the Apocalyptic in the Middle
   Ages and Renaissance* (Turnhout: Brepols, 2019\), in *The Medieval Review* (2021\).
   \[K. Petkov]'
+slug: review-of-robert-e-bjork-ed-icatastrophes-and
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/32216/36022
 item_image: /assets/media/items/18_Bjork_Catastrophes.png
 item_image_caption: ''

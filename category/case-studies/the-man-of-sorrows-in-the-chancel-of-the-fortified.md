@@ -1,5 +1,6 @@
 ---
 title: The Man of Sorrows in the Chancel of the Fortified Church at Dârlos
+slug: the-man-of-sorrows-in-the-chancel-of-the-fortified
 title_link: ''
 item_image: /assets/media/items/3_1.JPG
 item_image_caption: 'The iconography of the southern wall: Vir Dolorum, Sts. Stephen

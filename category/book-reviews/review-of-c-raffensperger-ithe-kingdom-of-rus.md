@@ -1,6 +1,7 @@
 ---
 title: 'Review of C. Raffensperger, *The Kingdom of Rus’* (Kalamazoo: ARC Humanities
   Press, 2017\), in *The Medieval Review* (2019\): 19\.09\.02\. \[M. Coman]'
+slug: review-of-c-raffensperger-ithe-kingdom-of-rus
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/28000
 item_image: /assets/media/items/5._Coman_Raffensperger.jpg
 item_image_caption: .

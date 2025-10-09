@@ -1,5 +1,6 @@
 ---
 title: The Bell of Hieromonk Theodosios
+slug: the-bell-of-hieromonk-theodosios
 title_link: ''
 item_image: /assets/media/items/Fig._1.jpeg
 item_image_caption: Bell of Hieromonk Theodosios, 1270, cast in bronze, National History

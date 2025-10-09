@@ -1,5 +1,6 @@
 ---
 title: The Kivotion of Tismana Monastery
+slug: the-kivotion-of-tismana-monastery
 title_link: ''
 item_image: /assets/media/items/1_kivotion.jpg
 item_image_caption: 'Kivotion of Tismana Monastery, 1671, silver, National Museum

@@ -2,6 +2,7 @@
 title: 'Review of Marcela K. Perett, *Preachers, Partisans, and Rebellious Religion:
   Vernacular Writing and the Hussite Movement, The Middle Ages* (Philadelphia: University
   of Pennsylvania Press, 2018\), in *The Medieval Review* (2020\). \[I. Forrest]'
+slug: review-of-marcela-k-perett-ipreachers-partisa
 title_link: https://scholarworks.iu.edu/journals/index.php/tmr/article/view/30015/34518
 item_image: /assets/media/items/28_Perett_Preachers.jpg
 item_image_caption: ''

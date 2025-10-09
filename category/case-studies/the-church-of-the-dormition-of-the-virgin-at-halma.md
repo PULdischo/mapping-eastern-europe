@@ -1,5 +1,6 @@
 ---
 title: The Church of the Dormition of the Virgin at Hălmagiu, Arad County
+slug: the-church-of-the-dormition-of-the-virgin-at-halma
 title_link: ''
 item_image: /assets/media/items/HALMAGIU_fig04.JPG
 item_image_caption: 'Christ on the vault of the sanctuary (source: E. D. Prioteasa)'
