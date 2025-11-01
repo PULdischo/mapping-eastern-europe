@@ -12,17 +12,33 @@ subjects:
   - Religious architecture
 latitude: 490855
 longitude: 24698028
-item_image: /assets/img/1.jpg
+item_image: /assets/img/21.jpg
 item_image_caption: >-
   
   Assumption church. Inscription, dedicated to Marko Shumlyanskyy. His coat of arms September 28, 2022. Krylos hillfort. Halych region. Ivano-Frankivsk (Source: Myroslav Voloshchuk)
 slider_images:
-  - slider_image: /assets/img/byzantine1.png
+  - slider_image: /assets/img/22.jpg
+    caption: "Assumption church. Northern side. September 28, 2022. Krylos hillfort.
+      Halych region. Ivano-Frankivsk. (Source: Myroslav Voloshchuk)"
+  - slider_image: /assets/img/23.jpg
+    caption: "Assumption church. Graffiti. Northern side. September 28, 2022. Krylos
+      hillfort. Halych region. Ivano-Frankivsk. (Source: Myroslav Voloshchuk)"
+  - slider_image: /assets/img/24.jpg
+    caption: "Assumption church. Entrance. Western side. September 28, 2022. Krylos
+      hillfort. Halych region. Ivano-Frankivsk. (Source: Myroslav Voloshchuk)"
+  - slider_image: /assets/img/25.jpg
+    caption: "Assumption church and rebuilt defensive towers and walls. September
+      28, 2022. Krylos hillfort. Halych region. Ivano-Frankivsk. (Source:
+      Myroslav Voloshchuk)"
+  - slider_image: /assets/img/26.jpg
+    caption: "Landscape in the northern direction from the Assumption church.
+      September 28, 2022. Krylos hillfort. Halych region. Ivano-Frankivsk.
+      (Source: Myroslav Voloshchuk)"
 start_year: 1150
 end_year: 1750
 make_public: false
 ---
-By Myroslav Voloshchuk | Vasyl Stefanyk Carpathian National University (Ivano-Frankivsk, Ukraine)
+*By Myroslav Voloshchuk | Vasyl Stefanyk Carpathian National University (Ivano-Frankivsk, Ukraine)*
 
 **Description** 
 
