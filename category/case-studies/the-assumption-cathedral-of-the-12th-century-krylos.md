@@ -13,32 +13,32 @@ subjects:
   - Burial
 latitude: 490855
 longitude: 2469028
-item_image: /assets/img/1.jpg
+item_image: /assets/img/11.jpg
 item_image_caption: "Assumption Cathedral. Fragments of the groundworks. Apses
   May 19, 2016. Krylos hillfort. Halych region. Ivano-Frankivsk (Source:
   Myroslav Voloshchuk)"
 slider_images:
-  - slider_image: /assets/img/2.jpg
+  - slider_image: /assets/img/12.jpg
     caption: "Assumption Cathedral. Chapel of St. Vasil 15th century on the
       groundworks of the cathedral. September 28, 2022. Krylos hillfort. Halych
       region. Ivano-Frankivsk (Source: Myroslav Voloshchuk)"
-  - slider_image: /assets/img/3.jpg
+  - slider_image: /assets/img/13.jpg
     caption: "Assumption Cathedral. Element of decoration. Dragon, 12th century.
       September 28, 2022. Krylos hillfort. Halych region. Ivano-Frankivsk
       (Source: Myroslav Voloshchuk)"
-  - slider_image: /assets/img/4.jpg
+  - slider_image: /assets/img/14.jpg
     caption: "Groundworks of Assumption Cathedral. Assumption church and chapel of
       St. Vasil. September 28, 2022. Krylos hillfort. Halych region.
       Ivano-Frankivsk (Source: Myroslav Voloshchuk)"
-  - slider_image: /assets/img/5.jpg
+  - slider_image: /assets/img/15.jpg
     caption: "Assumption Cathedral. Place where the sarcophagus affiliated with
       Prince Yaroslav Volodymyrkovych was found. September 16, 2006. Krylos
       hillfort. Halych region. Ivano-Frankivsk (Source: Myroslav Voloshchuk)"
-  - slider_image: /assets/img/6.jpg
+  - slider_image: /assets/img/16.jpg
     caption: "Assumption Cathedral. Fragments of the groundworks. Western side.
       September 28, 2022. Krylos hillfort. Halych region. Ivano-Frankivsk
       (Source: Myroslav Voloshchuk)"
-  - slider_image: /assets/img/7.jpg
+  - slider_image: /assets/img/17.jpg
     caption: "Museum of Ancient Halych. Architectural elements from the Assumption
       Cathedral. September 28, 2022. Krylos hillfort. Halych region.
       Ivano-Frankivsk (Source: Myroslav Voloshchuk)"
