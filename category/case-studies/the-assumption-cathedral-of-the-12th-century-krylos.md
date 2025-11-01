@@ -9,7 +9,8 @@ locations:
 subjects:
   - Halych
   - Krylos
-  - ""
+  - Religious architecture
+  - Burial
 latitude: 490855
 longitude: 2469028
 item_image: /assets/img/1.jpg
