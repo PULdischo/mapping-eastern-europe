@@ -1,32 +1,32 @@
 ---
 title: Kiliia Fortress
 slug: kiliia-fortress
-title_link: ''
-item_image: /assets/media/items/Kiliia_2.jpg
-item_image_caption: Ivanov Mikhail. Kiliia fortress walls and towers. Watercolor from
-  the State Russian Museum. Inv. No. r\-30142
-slider_images:
-- slider_image: /assets/media/items/Kiliia_1.jpg
-  caption: Kleeman N. View of the fortress and city of Kiliia in 1768\. Engraving
-    by I.K. Berndt
-- slider_image: /assets/media/items/Kiliia_3.jpg
-  caption: Prospekt\-perspective of the Kiliia fortress in 1770\. Image from the Russian
-    state military historical archive. F.349\. Op. 17\. Spr. 2283 Fig. 3
-- slider_image: /assets/media/items/Kiliia_4.jpg
-  caption: A fragment of the plan of the Kiliia fortress in 1794 drawn up by F. Kauffer.
-    Drawing from RDVIA F. 349\. Op. 17\. Case 2291 Fig. 13
-start_year: 1201
-end_year: 1700
-author: Viktor Filas
 type:
-- Architecture
+  - Architecture
 locations:
-- Ukraine
-subjects:
-- Fortress
-- Moldavia
+  - Ukraine
 latitude: 45.4349677496
 longitude: 29.2684585039
+item_image: /assets/media/items/Kiliia_2.jpg
+item_image_caption: Ivanov Mikhail. Kiliia fortress walls and towers. Watercolor
+  from the State Russian Museum. Inv. No. r\-30142
+slider_images:
+  - slider_image: /assets/media/items/Kiliia_1.jpg
+    caption: Kleeman N. View of the fortress and city of Kiliia in 1768\. Engraving
+      by I.K. Berndt
+  - slider_image: /assets/media/items/Kiliia_3.jpg
+    caption: Prospekt\-perspective of the Kiliia fortress in 1770\. Image from the
+      Russian state military historical archive. F.349\. Op. 17\. Spr. 2283 Fig.
+      3
+  - slider_image: /assets/media/items/Kiliia_4.jpg
+    caption: A fragment of the plan of the Kiliia fortress in 1794 drawn up by F.
+      Kauffer. Drawing from RDVIA F. 349\. Op. 17\. Case 2291 Fig. 13
+start_year: 1201
+end_year: 1700
+title_link: ""
+author: Viktor Filas
+subjects:
+  - Fortress
 make_public: true
 ---
 
