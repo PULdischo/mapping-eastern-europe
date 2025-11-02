@@ -5,6 +5,7 @@ type:
   - Architecture
 locations:
   - Ukraine
+  - Moldavia
 latitude: 45.4349677496
 longitude: 29.2684585039
 item_image: /assets/media/items/Kiliia_2.jpg
