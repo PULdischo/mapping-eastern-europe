@@ -18,7 +18,7 @@ item_image_caption: "Assumption Cathedral. Fragments of the groundworks. Apses
   May 19, 2016. Krylos hillfort. Halych region. Ivano-Frankivsk (Source:
   Myroslav Voloshchuk)"
 slider_images:
-  - slider_image: /assets/img/12.jpg
+  - slider_image: /assets/img/12-st-vasil-chapel.jpg
     caption: "Assumption Cathedral. Chapel of St. Vasil 15th century on the
       groundworks of the cathedral. September 28, 2022. Krylos hillfort. Halych
       region. Ivano-Frankivsk (Source: Myroslav Voloshchuk)"
