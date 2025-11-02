@@ -1,35 +1,40 @@
 ---
 title: Bilhorod\-Dnistrovskyi (Akkerman) Fortress
 slug: bilhorod-dnistrovskyi-akkerman-fortress
-title_link: ''
-item_image: /assets/media/items/Bilhorod-Akkerman_1.jpg
-item_image_caption: 'View of the Bilhorod\-Dnistrovskyi (Akkerman) fortress from the
-  Dnister estuary. (source: https://vidviday.ua/blog/ru/belgorod\-dnestrovskaya\-krepost\-fortyfykatsyonnaya\-zhemchuzhyna\-yuga\-ukrayny/\#images\-1\)'
-slider_images:
-- slider_image: /assets/media/items/Bilhorod-Akkerman_2.jpg
-  caption: 'Bird''s eye view of the Bilhorod\-Dnistrovskyi (Akkerman) fortress. (source:
-    https://vidviday.ua/blog/ru/belgorod\-dnestrovskaya\-krepost\-fortyfykatsyonnaya\-zhemchuzhyna\-yuga\-ukrayny/\#images\-3\)'
-- slider_image: /assets/media/items/Bilhorod-Akkerman_3.jpg
-  caption: 'Citadel of the Bilhorod\-Dnistrovskyi (Akkerman) fortress. (source: Denis
-    Polishuk)'
-- slider_image: /assets/media/items/Bilhorod-Akkerman_4.jpg
-  caption: 'Main Gate of the Bilhorod\-Dnistrovskyi (Akkerman) fortress. (source:
-    https://skorohod.pro/belgorod\-dnestrovskaya\-akkermanskaya\-krepost/)'
-- slider_image: /assets/media/items/Bilhorod-Akkerman_5.jpg
-  caption: 'Plan of Bilhorod\-Dnistrovskyi (Akkerman) fortress. (source: Andrii Krasnozhon)'
-start_year: 1400
-end_year: 1700
-author: Viktor Filas
 type:
-- Architecture
+  - Architecture
 locations:
-- Ukraine
-subjects:
-- Artistic eclecticism
-- Fortress
-- Moldavia
+  - Ukraine
+  - Moldavia
 latitude: 46.200496
 longitude: 30.35068
+item_image: /assets/media/items/Bilhorod-Akkerman_1.jpg
+item_image_caption: "View of the Bilhorod\\-Dnistrovskyi (Akkerman) fortress
+  from the Dnister estuary. (source:
+  https://vidviday.ua/blog/ru/belgorod\\-dnestrovskaya\\-krepost\\-fortyfykatsy\
+  onnaya\\-zhemchuzhyna\\-yuga\\-ukrayny/\\#images\\-1\\)"
+slider_images:
+  - slider_image: /assets/media/items/Bilhorod-Akkerman_2.jpg
+    caption: "Bird's eye view of the Bilhorod\\-Dnistrovskyi (Akkerman) fortress.
+      (source:
+      https://vidviday.ua/blog/ru/belgorod\\-dnestrovskaya\\-krepost\\-fortyfyk\
+      atsyonnaya\\-zhemchuzhyna\\-yuga\\-ukrayny/\\#images\\-3\\)"
+  - slider_image: /assets/media/items/Bilhorod-Akkerman_3.jpg
+    caption: "Citadel of the Bilhorod\\-Dnistrovskyi (Akkerman) fortress. (source:
+      Denis Polishuk)"
+  - slider_image: /assets/media/items/Bilhorod-Akkerman_4.jpg
+    caption: "Main Gate of the Bilhorod\\-Dnistrovskyi (Akkerman) fortress. (source:
+      https://skorohod.pro/belgorod\\-dnestrovskaya\\-akkermanskaya\\-krepost/)"
+  - slider_image: /assets/media/items/Bilhorod-Akkerman_5.jpg
+    caption: "Plan of Bilhorod\\-Dnistrovskyi (Akkerman) fortress. (source: Andrii
+      Krasnozhon)"
+start_year: 1400
+end_year: 1700
+title_link: ""
+author: Viktor Filas
+subjects:
+  - Artistic eclecticism
+  - Fortress
 make_public: true
 ---
 
