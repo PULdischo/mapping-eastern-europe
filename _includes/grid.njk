@@ -46,20 +46,20 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/Shuffle/5.2.3/shuffle.js"></script>
   <script>
     // create an array from the collection with item.slug, item.title, item.item_image, item.author, item.subject_names, item.location_names
+    {% set listCollection = listCollection | default("items") %}
+    console.log("Using collection: {{ listCollection }}");
     let collection = [  
       {% for item in collections[listCollection] %}
         {
-          slug: "{{ item.slug }}",
-          title: "{{ item.title|safe }}",
-          item_image: "{{ item.item_image }}",
-          thumbnail: "{{ item.thumbnail }}",
-          author: "{{ item.author }}",
-          subject_names: "{{ item.subject_names }}",
-          location_names: "{{ item.location_names }}",
-          groups: "{{ item.subject.name }}",
-          created: "{{ item.start_year }}"
+          slug: "{{ item.data.slug }}",
+          title: "{{ item.data.title|safe }}",
+          thumbnail: "{{ item.data.item_image }}",
+          subject_names: "{{ item.data.subject_names | join(", ") }}",
+          location_names: "{{ item.data.location_names | join(", ") }}",
+
+       
         },
-        {% endfor %}
+      {% endfor %}
       ];
     
     // create a smaller array from collection with 5 

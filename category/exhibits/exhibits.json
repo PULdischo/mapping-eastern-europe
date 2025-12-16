@@ -1,6 +1,6 @@
 {
     "layout": "item.njk",
-    "permalink": "/exhibits/{{ page.fileSlug }}/",
+    "permalink": "/category/exhibits/{{ page.fileSlug }}/",
     "tags": [
         "exhibits"
     ]

@@ -1,6 +1,6 @@
 {
     "layout": "item.njk",
-    "permalink": "/book-reviews/{{ page.fileSlug }}/",
+    "permalink": "/category/reviews/{{ page.fileSlug }}/",
     "tags": [
         "book-reviews"
     ]
