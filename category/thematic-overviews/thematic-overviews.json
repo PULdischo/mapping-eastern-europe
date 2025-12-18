@@ -3,6 +3,6 @@
     "permalink": "/category/thematic-overviews/{{ page.fileSlug }}/",
     "category": "thematic-overviews",
     "tags": [
-        "thematic-overview"
+        "thematic-overviews"
     ]
 }
