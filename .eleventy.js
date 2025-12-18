@@ -11,7 +11,7 @@ module.exports = eleventyConfig => {
   
     let all_items = [];
     //let categories = ['book-reviews','case-studies','exhibits','historical-overviews','ongoing-projects','thematic-overviews','videos'];
-    let categories = ['videos']
+    let categories = ['case-studies', 'historical-overviews', 'thematic-overviews', 'videos'];
     categories.forEach(cat => {
       collections.getFilteredByTag(cat).forEach(item => {
         item.data.category = cat;
@@ -19,12 +19,9 @@ module.exports = eleventyConfig => {
       });
     });
 
-    console.log(all_items);
     all_items.forEach(item => {
-      let geometry = {"type": "Point", "coordinates": [34.333, 70.344]};
-      if (item.data.map_point) {
-        geometry = JSON.parse(item.data.map_point);
-      }
+      let geometry = {"type": "Point", "coordinates": [item.data.longitude, item.data.latitude]};
+      
       geojson.features.push({
         type: "Feature",
         geometry: geometry,
