@@ -1,6 +1,6 @@
 {
     "layout": "item.njk",
-    "permalink": "/videos/{{ page.fileSlug }}/",
+    "permalink": "/category/videos/{{ page.fileSlug }}/",
     "category": "videos",
     "tags": [
         "videos"

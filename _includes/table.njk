@@ -13,6 +13,8 @@
                 <div class="col-xl-12 mx-auto">
 
                     <div class="cta-inner text-center rounded">
+                        <h3>{{ listCollection | replace("-", " ") | title }}</h3>
+
                         <a href="/"><img class="img-fluid" src="/assets/img/main_logo.png" alt="" /></a>
                         <table id="example" class="table display compact" style="width:100%">
                             <thead>
@@ -23,9 +25,11 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                {% for item in items %}
+                                {% set listCollection = listCollection | default("items") %}
+                                {% for item in collections[listCollection] %}
                                 <tr>
-                                    <td><a href="/item/{{item.slug }}">{{ item.title|safe }}</a></td>
+                                    
+                                    <td><a href="{{item.data.slug }}">{{ item.data.title|safe }}</a></td>
                                     
                                 </tr>
                                 {% endfor %}

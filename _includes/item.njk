@@ -1,7 +1,7 @@
 {% extends 'base.njk' %}
 
 {% block title %}
-    <title>{{ item.title }}</title>{% endblock%}
+    <title>{{ title }}</title>{% endblock%}
 
     {% block content %}
         <!-- image modal -->
@@ -10,7 +10,7 @@
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">{{ item.title|safe }}</h5>
+                        <h5 class="modal-title" id="exampleModalLabel">{{ title|safe }}</h5>
 
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
@@ -19,8 +19,8 @@
 
                     <div class="modal-body">
 
-                        <p id="modal_caption">{{ item.title|safe }}</p>
-                        <img id="modal_image" alt="{{ item.title|safe }}" style="width:100%">
+                        <p id="modal_caption">{{ title|safe }}</p>
+                        <img id="modal_image" alt="{{ title|safe }}" style="width:100%">
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -36,14 +36,14 @@
                 <div class="row">
                     <div class="col-lg-12 mx-auto cta-inner text-center">
 
-                        {% if item.title_link %}
+                        {% if title_link %}
                             <span id="met">
                                 <a
-            href="{{ item.title_link }}">{{ item.title|safe }}</a>
+            href="{{ title_link }}">{{ title|safe }}</a>
                             </span>
                         {% else %}
                             <span
-          id="met">{{ item.title|safe }}</span>{% endif %}
+          id="met">{{ title|safe }}</span>{% endif %}
                         <hr>
 
                         <div class="row">
@@ -54,7 +54,7 @@
                                     <ol class="carousel-indicators">
 
                                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                                        {% for image in item.slider_images %}
+                                        {% for image in slider_images %}
                                             <li data-target="#carouselExampleIndicators" data-slide-to=""></li>
                                         {% endfor %}
 
@@ -62,10 +62,10 @@
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
                                             <img class="d-block w-100 rounded" style="max-width: 400px;" onclick="open_modal(this);"
-                    src="{{ item.item_image }}" alt="{{ item.item_image_caption|safe }}">
+                    src="{{ item_image }}" alt="{{ item_image_caption|safe }}">
                                         </div>
 
-                                        {% for image in item.slider_images %}
+                                        {% for image in slider_images %}
 
                                             <div class="carousel-item">
                                                 <img class="d-block w-100 rounded" style="max-width: 400px;" onclick="open_modal(this);"
@@ -98,11 +98,11 @@
                         <div class="row">
                             <div class="col-lg-12 ml-auto ">
                                 <div id="item-text" style="margin-top: 20px;overflow: inherit;" class="text-left">
-                                    {{ item.text|safe }}
+                                    {{ content |safe }}
 
                                     <hr>
               Citation:<br>
-                                    <span id="citation">{{ item.author }}, "{{ item.title|safe }}," <i>Mapping Eastern Europe</i>,
+                                    <span id="citation">{{ author }}, "{{ title|safe }}," <i>Mapping Eastern Europe</i>,
               eds. M. A. Rossi and A. I. Sullivan, accessed <span id="today"></span> , https://mappingeasterneurope.princeton.edu{{ page.path }}.</span>
                                     <script> document.getElementById('today').textContent = new Date().toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }); </script>
                                     <button title="Copy to clipboard" class="btn btn-light" onclick="copyCitation()">
@@ -127,8 +127,8 @@
 
         <script>
             
-            let lat = {{ item.latitude }};
-            let long = {{ item.longitude }};
+            let lat = {{ latitude }};
+            let long = {{ longitude }};
             
             var map = L
                 .map('mapid', {

@@ -54,13 +54,12 @@
           slug: "{{ item.data.slug }}",
           title: "{{ item.data.title|safe }}",
           thumbnail: "{{ item.data.item_image }}",
-          subject_names: "{{ item.data.subject_names | join(", ") }}",
-          location_names: "{{ item.data.location_names | join(", ") }}",
-
-       
+          subject_names: "{{ (item.data.subject_names or []) | join(", ") }}",
+          location_names: "{{ (item.data.location_names or []) | join(", ") }}",
         },
       {% endfor %}
       ];
+     
     
     // create a smaller array from collection with 5 
     console.log(collection.length);
@@ -142,7 +141,7 @@
               
                           <div>
                             <div>
-                              <a href="/item/${ item.slug }/" target="_blank" rel="noopener"
+                              <a href="${ item.slug }" target="_blank" rel="noopener"
                                   title="${ item.title }">
                                   <img src="${ item.thumbnail }" alt="${ item.title }"  />
                               </a>
