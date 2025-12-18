@@ -135,29 +135,29 @@
 
     map.fitBounds(bounds, true);
     map.setMinZoom(map.getZoom());
-
-
   }
 
   let items = {{ collections.FeatureCollection | dump | safe }};
 
 
   //   hide the leaflet and esri label on the map
-  $('.leaflet-control-attribution').hide()
+  document.querySelectorAll('.leaflet-control-attribution').forEach(el => el.style.display = 'none');
 
   // initialize the date slider 
-  $("#slider").slider({
+  const sliderElement = document.getElementById('slider');
+  const amountElement = document.getElementById('amount');
+  
+  $(sliderElement).slider({
     range: true,
     min: 1150,
     max: 1750,
     values: [1150, 1750],
     slide: function (event, ui) {
-      $("#amount").val(ui.values[0] + " - " + ui.values[1]);
+      amountElement.value = ui.values[0] + " - " + ui.values[1];
       make_map();
     }
   });
-  $("#amount").val($("#slider").slider("values", 0) +
-    " - " + $("#slider").slider("values", 1));
+  amountElement.value = $(sliderElement).slider("values", 0) + " - " + $(sliderElement).slider("values", 1);
 </script>
 <!-- MAP FILTER AND SEARCH -->
 <script>
@@ -170,14 +170,16 @@ function make_map() {
   });
   
   // Collect search parameters
-  const query = $('#query').val();
-  const selectedTypes = $('.select2-type').val() || [];
-  const selectedSubjects = $('.select2-subject').val() || [];
-  const selectedLocations = $('.select2-location').val() || [];
-  const selectedMedium = $('.select2-medium').val() || [];
-  const selectedAuthor = $('.select2-author').val();
-  const startYear = $("#slider").slider("values", 0);
-  const endYear = $("#slider").slider("values", 1);
+  const query = document.getElementById('query').value;
+  const selectedTypes = Array.from(document.querySelector('.select2-type').selectedOptions || []).map(opt => opt.value);
+  const selectedSubjects = Array.from(document.querySelector('.select2-subject').selectedOptions || []).map(opt => opt.value);
+  const selectedLocations = Array.from(document.querySelector('.select2-location').selectedOptions || []).map(opt => opt.value);
+  const selectedMedium = Array.from(document.querySelector('.select2-medium').selectedOptions || []).map(opt => opt.value);
+  const selectedAuthorEl = document.querySelector('.select2-author');
+  const selectedAuthor = selectedAuthorEl ? selectedAuthorEl.value : null;
+  const startYear = $(sliderElement).slider("values", 0);
+  const endYear = $(sliderElement).slider("values", 1);
+
 
   // Helper function to check if a feature passes all filters
   function passesFilters(feature) {
@@ -462,17 +464,16 @@ function make_map() {
     make_map();
   });
 
-  $('#query').on('change keydown paste input', function (e) {
+  const queryInput = document.getElementById('query');
+  queryInput.addEventListener('input', function(e) {
     if (e.keyCode === 13) {
-      event.preventDefault();
+      e.preventDefault();
       make_map();
     }
     else {
       make_map();
     }
-
   });
-
 
   // helper function to remove value from array
   // https://stackoverflow.com/questions/3954438/how-to-remove-item-from-array-by-value
