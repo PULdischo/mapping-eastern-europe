@@ -1,14 +1,25 @@
 const { execSync } = require('child_process');
 const { types } = require('util');
+const markdownIt = require('markdown-it');
 
 module.exports = eleventyConfig => {
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("admin");
-  
+  // Add filter to render markdown as HTML
+  const md = new markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true
+  });
+
+  eleventyConfig.addFilter("markdownify", (content) => {
+    if (!content) return '';
+    return md.renderInline(content);
+  });
   eleventyConfig.addCollection('FeatureCollection', collections => {
     let geojson =  {"type": "FeatureCollection", "crs": {"type": "link", "properties": {"type": "proj4", "href": "http://spatialreference.org/ref/epsg/4326/"}}, "features": []};
     // Gather items from all collections
-  
+
     let all_items = [];
     //let categories = ['book-reviews','case-studies','exhibits','historical-overviews','ongoing-projects','thematic-overviews','videos'];
     let categories = ['case-studies', 'historical-overviews', 'thematic-overviews', 'videos'];

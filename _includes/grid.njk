@@ -52,7 +52,7 @@
       {% for item in collections[listCollection] %}
         {
           slug: "{{ item.data.slug }}",
-          title: "{{ item.data.title|safe }}",
+          title: "{{ item.data.title | markdownify | safe }}",
           thumbnail: "{{ item.data.item_image }}",
           subject_names: "{{ (item.data.subject_names or []) | join(", ") }}",
           location_names: "{{ (item.data.location_names or []) | join(", ") }}",

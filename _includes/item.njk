@@ -39,11 +39,11 @@
                         {% if title_link %}
                             <span id="met">
                                 <a
-            href="{{ title_link }}">{{ title|safe }}</a>
+            href="{{ title_link }}">{{ title | markdownify | safe }}</a>
                             </span>
                         {% else %}
                             <span
-          id="met">{{ title|safe }}</span>{% endif %}
+          id="met">{{ title | markdownify | safe }}</span>{% endif %}
                         <hr>
 
                         <div class="row">
