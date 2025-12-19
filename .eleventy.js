@@ -32,12 +32,11 @@ module.exports = eleventyConfig => {
 
     all_items.forEach(item => {
       let geometry = {"type": "Point", "coordinates": [item.data.longitude, item.data.latitude]};
-      
       geojson.features.push({
         type: "Feature",
         geometry: geometry,
         properties: {
-          popupcontent: `<img style="max-width:120px" src="${item.data.item_image}" /><br><strong><a href="${item.url}">${item.data.title}</a></strong><br>`,
+          popupcontent: `<img style="max-width:120px" src="${item.data.item_image}" /><br><strong><a href="${item.url}">${md.renderInline(item.data.title)}</a></strong><br>`,
           subjects: item.data.subjects || [],
           category: item.data.category || null,
           locations: item.data.locations || [],
