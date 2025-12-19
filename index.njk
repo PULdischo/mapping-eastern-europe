@@ -188,6 +188,7 @@ function make_map() {
     // Text search filter
     if (query) {
       const title = props.popupcontent
+        .replace(/<[^>]*>/g, '') // Remove HTML tags
         .normalize('NFD')
         .replace(/[\u0300-\u036f]/g, "")
         .toLowerCase();

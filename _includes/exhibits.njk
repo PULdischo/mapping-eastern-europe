@@ -6,22 +6,25 @@
 
 <div class="container my-auto">
     <section>
+            {% set listCollection = listCollection | default("items") %}
 
             {% for item in collections[listCollection] %}
             <div class="row">
                 <div class="col-6 mx-auto">  
           
-                    <a href="{{ item.title_link }}"><h3>{{ item.title | safe }}</h3></a>
-                    
+                    <a href="{{ item.data.title_link }}"><h3>{{ item.data.title | safe }}</h3></a>
+                    <p><em>{{ item.data.location }}</em></p>
+                    <p>{{ item.content | safe }}</p>
                 </div>
                 <div class="col-6 mx-auto">  
-          
                     
-                         <img src="{{ item.item_image }}" alt="{{ item.title | safe }}" class="img-fluid">
-                    
-                </div>    
+                         <img src="{{ item.data.item_image }}" alt="{{ item.data.item_image_caption }}" class="img-fluid">
+                        <p>{{ item.data.item_image_caption }}</p>
+                  </div>    
 
             </div>
+                          <hr>
+
           {% endfor %}
 
         </div>
