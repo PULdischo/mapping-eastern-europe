@@ -41,7 +41,7 @@ module.exports = eleventyConfig => {
           subjects: item.data.subjects || [],
           category: item.data.category || null,
           locations: item.data.locations || [],
-          medium_m2m: item.data.medium_m2m || [],
+          type: item.data.type || [],
           start_year: item.data.start_year || null,
           end_year: item.data.end_year || null,
           authors: item.data.author || null

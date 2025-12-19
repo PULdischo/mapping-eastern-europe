@@ -10,7 +10,7 @@
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <h5 class="modal-title" id="exampleModalLabel">{{ title|safe }}</h5>
+                        <h5 class="modal-title" id="exampleModalLabel">{{ title | markdownify | safe }}</h5>
 
                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                             <span aria-hidden="true">&times;</span>
@@ -19,8 +19,8 @@
 
                     <div class="modal-body">
 
-                        <p id="modal_caption">{{ title|safe }}</p>
-                        <img id="modal_image" alt="{{ title|safe }}" style="width:100%">
+                        <p id="modal_caption">{{ title | markdownify | safe }}</p>
+                        <img id="modal_image" alt="{{ title | markdownify | safe }}" style="width:100%">
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -102,7 +102,7 @@
 
                                     <hr>
               Citation:<br>
-                                    <span id="citation">{{ author }}, "{{ title|safe }}," <i>Mapping Eastern Europe</i>,
+                                    <span id="citation">{{ author }}, "{{ title | markdownify | safe }}," <i>Mapping Eastern Europe</i>,
               eds. M. A. Rossi and A. I. Sullivan, accessed <span id="today"></span> , https://mappingeasterneurope.princeton.edu{{ page.path }}.</span>
                                     <script> document.getElementById('today').textContent = new Date().toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }); </script>
                                     <button title="Copy to clipboard" class="btn btn-light" onclick="copyCitation()">

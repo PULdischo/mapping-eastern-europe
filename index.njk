@@ -58,7 +58,7 @@
             <select style="width: 100%;" class="select2-type" multiple="multiple"></select>
             <label for="medium">Type</label>
             <select style="width: 100%;" class="select2-medium" multiple="multiple"></select>
-            <label for="medium">Location</label>
+            <label for="location">Location</label>
             <select style="width: 100%;" class="select2-location" multiple="multiple"></select>
             <label for="subject">Subject</label>
             <select style="width: 100%;" class="select2-subject"  multiple="multiple"></select>
@@ -210,9 +210,9 @@ function make_map() {
       }
     }
     
-    // Medium filter
+    // Type/ Medium filter
     if (selectedMedium.length > 0) {
-      const itemMedium = props.medium_m2m || [];
+      const itemMedium = props.type || [];
       if (!itemMedium.some(m => selectedMedium.includes(m.toString()))) {
         return false;
       }
@@ -359,8 +359,8 @@ function make_map() {
       }
     }
     // Medium
-    if (feature.properties.medium_m2m && Array.isArray(feature.properties.medium_m2m)) {
-      feature.properties.medium_m2m.forEach(medium => {
+    if (feature.properties.type && Array.isArray(feature.properties.type)) {
+      feature.properties.type.forEach(medium => {
         if (medium !== null && !mediumTypes.has(medium.toString())) {
           mediumTypes.add(medium.toString());
           uniqueMedium.push({ id: medium.toString(), text: medium.toString() });

@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-6 mx-auto">  
           
-                    <h3>{{ item.data.title | safe }}</h3>
+                    <h3>{{ item.data.title | markdownify | safe }}</h3>
                     <p><em>{{ item.data.location }}</em></p>
                     <p>{{ item.content | safe }}</p>
                 </div>
