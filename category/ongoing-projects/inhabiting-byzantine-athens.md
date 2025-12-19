@@ -30,11 +30,15 @@ make_public: true
 ---
 
 *Research conducted by Fotini Kondyli* \| *University of Virginia under the auspices of the Athenian Agora Excavations, ASCSA* 
+
 **Overview** 
+
 Inhabiting Byzantine Athens is an archaeological project that explores the life of the city and its people from the ninth to the fifteenth centuries AD. It investigates how people lived and interacted with each other, how they organized their built environment and how they conveyed important information about themselves, their community, and the world around them through their material culture and architecture. Ordinary people are at the heart of this project; we seek to better understand their living conditions, activities, and roles as city makers. In doing so, we pay special attention to the biography of houses and trace changes in their architecture, size, activities, and spatial organization. We are also interested in spaces where people met, interacted, and exchanged ideas, such as in streets, churches, open spaces, public benches and wells, shops, and burial sites.  
+
 All archaeological and architectural evidence for this project comes from the Athenian Agora Excavations, a long\-standing archaeological project in the heart of modern Athens (**<http://agathe.gr/>**). The Athenian Agora’s archives provide a rich dataset including excavation notebooks, architectural plans, an extensive photographic record, and thousands of kept artifacts; we use this material to trace the history of Byzantine and Frankish Athens, reconstruct aspects of its built environment and explore the identities and socioeconomic and political activities of its citizens. We complement and enhance the existing archival records by reorganizing and reanalyzing information to serve this project’s research agenda and period\-specific focus, offering new interpretations and an overall new understanding of Byzantine Athens and its inhabitants. Furthermore, new data visualizations are supported by 3D modeling and Virtual Reality (VR) applications to share our results with different audiences in interactive and engaging ways.
 
 **Further Reading** 
+
 Bouras, Charalambos. *Byzantine Athens, 10th–12th Centuries*. London: Routledge, 2017\.
 
 Frantz, Alison. *Late Antiquity: AD. 267–700* (The Athenian Agora, vol. XXIV). Princeton, NJ: American School of Classical Studies at Athens, 1988\.
