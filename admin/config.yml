@@ -78,7 +78,6 @@ collections:
       - { label: "Title", name: "title", widget: "markdown" }
       - { label: "Summary", name: "body", widget: "markdown", required: false }
       - { label: "Slug", name: "slug", widget: "string" }
-      - { label: "Title Link", name: "title_link", widget: "string", required: false }
       - { label: "Item Image", name: "item_image", widget: "image", choose_url: true, default: "/assets/img/byzantine1.png", media_library: { config: { multiple: false } } }
       - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
       - { label: "Location", name: "location", widget: "string", required: false }

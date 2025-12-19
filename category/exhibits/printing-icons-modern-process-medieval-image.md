@@ -1,7 +1,6 @@
 ---
 title: "Printing Icons: Modern Process, Medieval Image"
 slug: printing-icons-modern-process-medieval-image
-title_link: https://www.iconmuseum.org/exhibition/printing-icons-modern-process-medieval-image-2/
 item_image: /assets/img/1.-nikodimos-saint-catherine-of-mount-sinai.jpg
 item_image_caption: "Nikodimos, Saint Catherine of Mount Sinai, 1698. Woodcut
   with hand coloring. The Printing Icons: Modern Process, Medieval Image
