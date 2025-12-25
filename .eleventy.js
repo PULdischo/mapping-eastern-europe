@@ -16,6 +16,19 @@ module.exports = eleventyConfig => {
     if (!content) return '';
     return md.renderInline(content);
   });
+  eleventyConfig.addCollection('Contributors', collections => {
+    let contributors = new Set();
+    collections.getAll().forEach(item => {
+      if (item.data.author) {
+        if (Array.isArray(item.data.author)) {
+          item.data.author.forEach(author => contributors.add(author));
+        } else {
+          contributors.add(item.data.author);
+        }
+      }
+    });
+    return Array.from(contributors).sort();
+  });
   eleventyConfig.addCollection('FeatureCollection', collections => {
     let geojson =  {"type": "FeatureCollection", "crs": {"type": "link", "properties": {"type": "proj4", "href": "http://spatialreference.org/ref/epsg/4326/"}}, "features": []};
     // Gather items from all collections
