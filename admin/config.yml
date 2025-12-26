@@ -194,3 +194,14 @@ collections:
       - { label: "Latitude", name: "latitude", widget: "number", default: 0, required: false }
       - { label: "Longitude", name: "longitude", widget: "number", default: 0, required: false }
       - { label: "Make Public", name: "make_public", widget: "boolean", default: false }
+
+  - name: "about"
+    label: "About Page"
+    create: false
+    slug: "about"
+    files:
+      - label: "About Page Content"
+        name: "about_page_content"
+        file: "about.md"
+        fields:
+          - { label: "Body", name: "body", widget: "markdown" }

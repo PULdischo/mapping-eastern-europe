@@ -6,28 +6,16 @@
     "name":"Historical Overviews"
   },
   {
-    "marker_image":"/assets/media/icons/case-studies-icon.png",
-    "marker_shadow":"/assets/media/icons/case-studies-icon.png",
-    "slug":"case-studies",
-    "name":"Case-Studies"
-  },
-  {
-    "marker_image":"/assets/media/icons/book-reviews-icon.png",
-    "marker_shadow":"/assets/media/icons/book-reviews-icon.png",
-    "slug":"book-reviews",
-    "name":"Book Reviews"
-  },
-  {
-    "marker_image":"/assets/media/icons/ongoing-projects-icon.png",
-    "marker_shadow":"/assets/media/icons/ongoing-projects-icon.png",
-    "slug":"ongoing-projects",
-    "name":"Ongoing Projects"
-  },
-  {
     "marker_image":"/assets/media/icons/thematic-overview-icon.png",
     "marker_shadow":"/assets/media/icons/thematic-overview-icon.png",
     "slug":"thematic-overview",
     "name":"Thematic Overview"
+  },
+  {
+    "marker_image":"/assets/media/icons/case-studies-icon.png",
+    "marker_shadow":"/assets/media/icons/case-studies-icon.png",
+    "slug":"case-studies",
+    "name":"Case-Studies"
   },
   {
     "marker_image":"/assets/media/icons/videos-icon.png",
@@ -36,9 +24,21 @@
     "name":"Videos"
   },
   {
+    "marker_image":"/assets/media/icons/ongoing-projects-icon.png",
+    "marker_shadow":"/assets/media/icons/ongoing-projects-icon.png",
+    "slug":"ongoing-projects",
+    "name":"Ongoing Projects"
+  },
+  {
+    "marker_image":"/assets/media/icons/book-reviews-icon.png",
+    "marker_shadow":"/assets/media/icons/book-reviews-icon.png",
+    "slug":"book-reviews",
+    "name":"Book Reviews"
+  },
+  {
     "marker_image":"/assets/media/icons/exhibition-reviews-icon.png",
     "marker_shadow":"/assets/media/icons/exhibition-reviews-icon.png",
-    "slug":"exhibition-reviews",
-    "name":"Exhibition Reviews"
+    "slug":"exhibitions",
+    "name":"Exhibitions"
   }
 ]

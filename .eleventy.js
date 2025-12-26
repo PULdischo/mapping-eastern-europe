@@ -30,19 +30,19 @@ module.exports = eleventyConfig => {
     return Array.from(contributors).sort();
   });
   eleventyConfig.addCollection('FeatureCollection', collections => {
+    // Create a GeoJSON FeatureCollection
     let geojson =  {"type": "FeatureCollection", "crs": {"type": "link", "properties": {"type": "proj4", "href": "http://spatialreference.org/ref/epsg/4326/"}}, "features": []};
-    // Gather items from all collections
-
+    
+    // Gather all items from specified categories
     let all_items = [];
-    //let categories = ['book-reviews','case-studies','exhibits','historical-overviews','ongoing-projects','thematic-overviews','videos'];
-    let categories = ['case-studies', 'historical-overviews', 'thematic-overviews', 'videos'];
+    let categories = ['book-reviews','case-studies','historical-overviews','ongoing-projects','thematic-overviews','videos'];
     categories.forEach(cat => {
       collections.getFilteredByTag(cat).forEach(item => {
         item.data.category = cat;
         all_items.push(item);
       });
     });
-
+    // For each item, create a GeoJSON feature if it has latitude and longitude
     all_items.forEach(item => {
       let geometry = {"type": "Point", "coordinates": [item.data.longitude, item.data.latitude]};
       geojson.features.push({
