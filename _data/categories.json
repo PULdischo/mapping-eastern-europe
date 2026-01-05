@@ -9,7 +9,7 @@
     "marker_image":"/assets/media/icons/thematic-overview-icon.png",
     "marker_shadow":"/assets/media/icons/thematic-overview-icon.png",
     "slug":"thematic-overview",
-    "name":"Thematic Overview"
+    "name":"Thematic Overviews"
   },
   {
     "marker_image":"/assets/media/icons/case-studies-icon.png",
@@ -34,11 +34,5 @@
     "marker_shadow":"/assets/media/icons/book-reviews-icon.png",
     "slug":"book-reviews",
     "name":"Book Reviews"
-  },
-  {
-    "marker_image":"/assets/media/icons/exhibition-reviews-icon.png",
-    "marker_shadow":"/assets/media/icons/exhibition-reviews-icon.png",
-    "slug":"exhibitions",
-    "name":"Exhibitions"
   }
 ]
