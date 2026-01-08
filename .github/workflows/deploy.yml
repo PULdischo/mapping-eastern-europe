@@ -31,6 +31,6 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./_site/  # your 11ty output directory
-          server-dir: /home/mappingee/public_html/  # adjust if needed
+          server-dir: ./public_html/  # adjust if needed
           protocol: ftps  
           security: loose  
