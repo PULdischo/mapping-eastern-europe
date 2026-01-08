@@ -32,3 +32,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./_site/  # your 11ty output directory
           server-dir: /home/mappingee/public_html/  # adjust if needed
+          protocol: ftps  
+          security: loose  
