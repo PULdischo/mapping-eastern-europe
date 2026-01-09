@@ -2,7 +2,7 @@
 title: |-
   
   The Ottoman Empire and the North-Danubian Principalities
-slug: ottoman-empire-north-danubian-principalities
+slug: ottoman-empire-and-north-danubian-principalities
 item_image: /assets/img/1.turcicii-imperii-descriptio-from-jodocus-hondius-gerardi-mercatoris-atlas-sive-cosmographicae-meditationes-de-fabrica-mundi-et-fabricati-figura-amsterdam-1606.jpg
 item_image_caption: >-
   
