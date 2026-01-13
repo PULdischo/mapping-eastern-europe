@@ -36,8 +36,8 @@ collections:
       - { label: "Type (Medium)", name: "type", widget: "list", required: false }
       - { label: "Locations", name: "locations", widget: "list", required: false }
       - { label: "Subjects", name: "subjects", widget: "list", required: false }
-      - { label: "Latitude", name: "latitude", widget: "number", default: 0, required: false }
-      - { label: "Longitude", name: "longitude", widget: "number", default: 0, required: false }
+      - { label: "Latitude", name: "latitude", widget: "number", value_type: "float", default: 0, required: false }
+      - { label: "Longitude", name: "longitude", widget: "number", value_type: "float", default: 0, required: false }
       - { label: "Make Public", name: "make_public", widget: "boolean", default: false }
 
   - name: "case-studies"
@@ -53,8 +53,8 @@ collections:
       - { label: "Type (Medium)", name: "type", widget: "list", required: false }
       - { label: "Locations", name: "locations", widget: "list", required: false }
       - { label: "Subjects", name: "subjects", widget: "list", required: false }
-      - { label: "Latitude", name: "latitude", widget: "number", default: 0, required: false }
-      - { label: "Longitude", name: "longitude", widget: "number", default: 0, required: false }      
+      - { label: "Latitude", name: "latitude", widget: "number", value_type: "float", default: 0, required: false }
+      - { label: "Longitude", name: "longitude", widget: "number", value_type: "float", default: 0, required: false }      
       - { label: "Item Image", name: "item_image", widget: "image", choose_url: true, default: "/assets/img/byzantine1.png", media_library: { config: { multiple: false } } }
       - { label: "Item Image Caption", name: "item_image_caption", widget: "markdown", required: false }
       - label: "Slider Images"
@@ -107,8 +107,8 @@ collections:
       - { label: "Type (Medium)", name: "type", widget: "list", required: false }
       - { label: "Locations", name: "locations", widget: "list", required: false }
       - { label: "Subjects", name: "subjects", widget: "list", required: false }
-      - { label: "Latitude", name: "latitude", widget: "number", default: 0, required: false }
-      - { label: "Longitude", name: "longitude", widget: "number", default: 0, required: false }
+      - { label: "Latitude", name: "latitude", widget: "number", value_type: "float", default: 0, required: false }
+      - { label: "Longitude", name: "longitude", widget: "number", value_type: "float", default: 0, required: false }
       - { label: "Make Public", name: "make_public", widget: "boolean", default: false }
   
   - name: "ongoing-projects"
@@ -135,8 +135,8 @@ collections:
       - { label: "Type (Medium)", name: "type", widget: "list", required: false }
       - { label: "Locations", name: "locations", widget: "list", required: false }
       - { label: "Subjects", name: "subjects", widget: "list", required: false }
-      - { label: "Latitude", name: "latitude", widget: "number", default: 0, required: false }
-      - { label: "Longitude", name: "longitude", widget: "number", default: 0, required: false }
+      - { label: "Latitude", name: "latitude", widget: "number", value_type: "float", default: 0, required: false }
+      - { label: "Longitude", name: "longitude", widget: "number", value_type: "float", default: 0, required: false }
       - { label: "Make Public", name: "make_public", widget: "boolean", default: false }
 
   - name: "thematic-overviews"
@@ -163,8 +163,8 @@ collections:
       - { label: "Type (Medium)", name: "type", widget: "list", required: false }
       - { label: "Locations", name: "locations", widget: "list", required: false }
       - { label: "Subjects", name: "subjects", widget: "list", required: false }
-      - { label: "Latitude", name: "latitude", widget: "number", default: 0, required: false }
-      - { label: "Longitude", name: "longitude", widget: "number", default: 0, required: false }
+      - { label: "Latitude", name: "latitude", widget: "number", value_type: "float", default: 0, required: false }
+      - { label: "Longitude", name: "longitude", widget: "number", value_type: "float", default: 0, required: false }
       - { label: "Make Public", name: "make_public", widget: "boolean", default: false }
   
   - name: "videos"
@@ -191,8 +191,8 @@ collections:
       - { label: "Type (Medium)", name: "type", widget: "list", required: false }
       - { label: "Locations", name: "locations", widget: "list", required: false }
       - { label: "Subjects", name: "subjects", widget: "list", required: false }
-      - { label: "Latitude", name: "latitude", widget: "number", default: 0, required: false }
-      - { label: "Longitude", name: "longitude", widget: "number", default: 0, required: false }
+      - { label: "Latitude", name: "latitude", widget: "number", value_type: "float", default: 0, required: false }
+      - { label: "Longitude", name: "longitude", widget: "number", value_type: "float", default: 0, required: false }
       - { label: "Make Public", name: "make_public", widget: "boolean", default: false }
 
   - name: "about"
