@@ -1,6 +1,6 @@
 {
     "layout": "item.njk",
-    "permalink": "/category/ongoing-projects/{{ page.fileSlug }}/",
+    "permalink": "/category/ongoing-projects/{{ slug }}/",
     "category": "ongoing-projects",
     "tags": [
         "ongoing-projects"

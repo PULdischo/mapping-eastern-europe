@@ -1,11 +1,8 @@
 ---
-title: |-
-  
-  The Ottoman Empire and the North-Danubian Principalities
+title: The Ottoman Empire and the North-Danubian Principalities
 slug: ottoman-empire-and-north-danubian-principalities
 item_image: /assets/img/1.turcicii-imperii-descriptio-from-jodocus-hondius-gerardi-mercatoris-atlas-sive-cosmographicae-meditationes-de-fabrica-mundi-et-fabricati-figura-amsterdam-1606.jpg
 item_image_caption: >-
-  
   *Turcicii Imperii Imago from Jodocus Hondius, Gerardi Mercatoris Atlas sive Cosmographicae Meditationes de Fabrica Mundi et Fabricati Figura,* Amsterdam, 1606
 slider_images:
   - slider_image: /assets/img/2.akkerman-white-fortress.jpeg
@@ -42,10 +39,11 @@ subjects:
   - Danube
   - Wallachia
   - Moldavia
-latitude: 4442677
-longitude: 2610254
+latitude: 44.42677
+longitude: 26.10254
 make_public: true
 ---
+
 *By Viorel Panaite | Institute for South-East European Studies of the Romanian Academy; University of Bucharest, Doctoral School of History*
 
 **Historical Overview**

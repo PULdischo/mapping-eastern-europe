@@ -1,6 +1,6 @@
 {
     "layout": "item.njk",
-    "permalink": "/category/historical-overviews/{{ page.fileSlug }}/",
+    "permalink": "/category/historical-overviews/{{ slug }}/",
     "category": "historical-overviews",
     "tags": [
         "historical-overviews"
