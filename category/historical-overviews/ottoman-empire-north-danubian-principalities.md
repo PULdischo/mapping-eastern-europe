@@ -44,7 +44,7 @@ subjects:
   - Moldavia
 latitude: 4442677
 longitude: 2610254
-make_public: false
+make_public: true
 ---
 *By Viorel Panaite | Institute for South-East European Studies of the Romanian Academy; University of Bucharest, Doctoral School of History*
 
