@@ -31,7 +31,7 @@ subjects:
     commerce and religion
 latitude: 40640063
 longitude: 22944419
-make_public: false
+make_public: true
 ---
 *By Dr. Melina Perdikopoulou Melpomeni | Centre for Byzantine Research, Aristotle University of Thessaloniki* 
 
