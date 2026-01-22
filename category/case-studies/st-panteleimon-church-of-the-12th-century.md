@@ -10,8 +10,8 @@ subjects:
   - Halych
   - Shevchenkove
   - Religious architecture
-latitude: 49133669
-longitude: 24694366
+latitude: 49.133669
+longitude: 24.694366
 item_image: /assets/img/61.jpg
 item_image_caption: "Fragment of the western portal of St. Panteleimon church.
   June 9, 2006. Shevchenkove village. Panteleimon hillfort. Halych region.
