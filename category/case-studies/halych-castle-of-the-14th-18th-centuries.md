@@ -37,7 +37,7 @@ slider_images:
       Castle. Halych. Ivano-Frankivsk. (Source: Myroslav Voloshchuk)"
 start_year: 1150
 end_year: 1750
-make_public: false
+make_public: true
 ---
 
 *By Myroslav Voloshchuk | Vasyl Stefanyk Carpathian National University (Ivano-Frankivsk, Ukraine)*
