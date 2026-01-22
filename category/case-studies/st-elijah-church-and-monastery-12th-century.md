@@ -10,8 +10,8 @@ subjects:
   - Halych
   - Krylos
   - Religious architecture
-latitude: 49083715
-longitude: 24705523
+latitude: ""
+longitude: ""
 item_image: /assets/img/31.jpg
 item_image_caption: >-
   
