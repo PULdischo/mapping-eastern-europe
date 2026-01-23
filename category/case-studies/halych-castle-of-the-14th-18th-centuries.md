@@ -10,8 +10,8 @@ subjects:
   - Halych
   - Castle
   - Religious architecture
-latitude: 49121667
-longitude: 24730278
+latitude: ""
+longitude: ""
 item_image: /assets/img/41.jpg
 item_image_caption: "Archaeological excavation, Season 2023. June 21, 2023.
   Halych Castle. Halych. Ivano-Frankivsk. (Source: Myroslav Voloshchuk)"
