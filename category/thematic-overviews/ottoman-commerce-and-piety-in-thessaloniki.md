@@ -29,8 +29,8 @@ locations:
 subjects:
   - Thessaloniki; Ottoman architecture; Bedesten; Caravanserai; Hamza Bey Camii;
     commerce and religion
-latitude: ""
-longitude: ""
+latitude: 40.6354428
+longitude: 22.9470448
 make_public: true
 ---
 *By Dr. Melina Perdikopoulou Melpomeni | Centre for Byzantine Research, Aristotle University of Thessaloniki* 
