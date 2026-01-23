@@ -11,8 +11,8 @@ subjects:
   - Krylos
   - Religious architecture
   - Burial
-latitude: 490855
-longitude: 2469028
+latitude: 49.0855
+longitude: 24.69028
 item_image: /assets/img/11.jpg
 item_image_caption: "Assumption Cathedral. Fragments of the groundworks. Apses
   May 19, 2016. Krylos hillfort. Halych region. Ivano-Frankivsk (Source:
