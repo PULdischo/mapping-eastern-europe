@@ -25,7 +25,7 @@ start_year: 1150
 end_year: 1750
 author: Melina Perdikopoulou Melpomeni
 locations:
-  - Thessaloniki
+  - Greece
 subjects:
   - Thessaloniki; Ottoman architecture; Bedesten; Caravanserai; Hamza Bey Camii;
     commerce and religion
