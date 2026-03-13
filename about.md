@@ -17,8 +17,10 @@ The project has also received support from Tufts University.
 
 *Mapping Eastern Europe* aims to make the material evidence known and accessible, and thereby help expand the temporal and geographic parameters of the study of medieval, early modern, Byzantine, and post-Byzantine art, architecture, and visual culture. The project stems from the [North of Byzantium](https://www.northofbyzantium.org/) initiative, which probes the history, art, and culture of the northern frontiers of the Byzantine Empire in Eastern Europe between the thirteenth and seventeenth centuries.
 
-## The Team  
-**Co-Founders and Editors:** Maria Alessia Rossi and Alice Isabella Sullivan  
-**Assistant Editor:** Rileigh Clarke (September 2021 – August 2023 ); Sarah Mathiesen (July 2020 – July 2021)  
-**Research Fellows:** Roksolana Kosiv (2023); Octavian-Adrian Negoiță (2024)  
-**Designer and developer:** Andrew Janco  
+## The Team
+
+
+**Co-Founders and Editors:** Maria Alessia Rossi and Alice Isabella Sullivan
+**Assistant Editor:** Sarah Mathiesen (July 2020–July 2021); Rileigh Clarke (September 2021–August 2023 ); Pauline Vasselle (September 2025–May 2026)
+**Research Fellows:** Roksolana Kosiv (2023); Octavian-Adrian Negoiță (2024); Myroslav Voloshchuk (2025)\
+**Designer and developer:** Andrew Janco
