@@ -1,6 +1,6 @@
 ---
 title: The Assumption Church of the 16th century, Krylos
-slug: the-assumption-church-of-the-16th-century-krylos
+slug: the-assumption-church--krylos
 author: Myroslav Voloshchuk
 type:
   - Architecture
