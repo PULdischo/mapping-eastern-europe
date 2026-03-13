@@ -1,6 +1,6 @@
 ---
 title: The Assumption Cathedral of the 12th century, Krylos
-slug: the-assumption-cathedral-of-the-12th-century-krylos
+slug: the-assumption-cathedral-krylos
 author: Myroslav Voloshchuk
 type:
   - Architecture
