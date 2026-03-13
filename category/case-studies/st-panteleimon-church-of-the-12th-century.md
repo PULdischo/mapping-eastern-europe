@@ -1,6 +1,6 @@
 ---
 title: St. Panteleimon Church of the 12th century
-slug: st-panteleimon-church-of-the-12th-century
+slug: st-panteleimon-church
 author: Myroslav Voloshchuk
 type:
   - Architecture
