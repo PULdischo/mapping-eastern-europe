@@ -19,8 +19,10 @@ The project has also received support from Tufts University.
 
 ## The Team
 
-
 **Co-Founders and Editors:** Maria Alessia Rossi and Alice Isabella Sullivan
+
 **Assistant Editor:** Sarah Mathiesen (July 2020–July 2021); Rileigh Clarke (September 2021–August 2023 ); Pauline Vasselle (September 2025–May 2026)
-**Research Fellows:** Roksolana Kosiv (2023); Octavian-Adrian Negoiță (2024); Myroslav Voloshchuk (2025)\
+
+**Research Fellows:** Roksolana Kosiv (2023); Octavian-Adrian Negoiță (2024); Myroslav Voloshchuk (2025)
+
 **Designer and developer:** Andrew Janco
