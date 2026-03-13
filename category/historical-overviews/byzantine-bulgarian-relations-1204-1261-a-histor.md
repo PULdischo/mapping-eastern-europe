@@ -1,32 +1,42 @@
 ---
-title: 'Byzantine\-Bulgarian Relations, 1204\-1261: A Historical Overview'
-slug: byzantine-bulgarian-relations-1204-1261-a-histor
-title_link: ''
-item_image: /assets/media/items/GrantPicture1.jpg
-item_image_caption: Map showing Second Bulgarian Empire under Boril and the expansion
-  of its territories under John Asen (source:[https://en.wikipedia.org/wiki/Second\_Bulgarian\_Empire\#/media/File:Campaigns\_of\_Ivan\_Assen\_II.png](https://en.wikipedia.org/wiki/Second_Bulgarian_Empire#/media/File:Campaigns_of_Ivan_Assen_II.png))
-slider_images:
-- slider_image: /assets/media/items/GrantPicture2.jpg
-  caption: 'Holy Forty Martyrs Church, Veliko Tarnovo. The church was commissioned
-    by Tsar John Asen II in 1230 to celebrate his victory at the Battle of Klokotnitsa
-    and houses the graves of Asen II, his wife Anna\-Maria as well as Tsar Johannitsa
-    (source: https://en.wikipedia.org/wiki/Holy\_Forty\_Martyrs\_Church,\_Veliko\_Tarnovo\#/media/File:Veliko\_Tarnovo)'
-- slider_image: /assets/media/items/GrantPicture3.jpg
-  caption: 'Tarnovo inscription celebrating John Asen II’s victory at the Battle of
-    Klokotnitsa, 1230, marble, Holy Martyrs Church in Veliko Tarnovo (source: [https://en.wikipedia.org/wiki/Battle\_of\_Klokotnitsa\#/media/File:Ivan\_Asen\_II\_of\_Bulgaria\_Column.jpg](https://en.wikipedia.org/wiki/Battle_of_Klokotnitsa#/media/File:Ivan_Asen_II_of_Bulgaria_Column.jpg))'
-- slider_image: /assets/media/items/GrantPicture4.jpg
-  caption: Tsarevets Hill fortress, with the Patriarchal Cathedral of the Holy Ascension
-    of the Lord in the background, Veliko Tarnovo, Tsarevets was the main fortress
-    of the Second Bulgarian Empire and housed the royal and patriarchal palaces (source:<http://www.velikoturnovo.info/en/info/i86/Tsarevets.html>)
-- slider_image: /assets/media/items/GrantPicture5.jpg
-  caption: 'Portrait of Kaloyan (Johannitsa) as sebastokrator and his wife Desislava,
-    ca. 1259, Boyana Church of St. Nicholas and St. Pantaleimon, Sofia (source: whc.unesco.org/en/documents/139735\)'
-start_year: 1204
 end_year: 1261
+title_link: ""
+title: "Byzantine\\-Bulgarian Relations, 1204\\-1261: A Historical Overview"
+slug: byzantine-bulgarian-relations-1204-1261
+item_image: /assets/media/items/GrantPicture1.jpg
+item_image_caption: Map showing Second Bulgarian Empire under Boril and the
+  expansion of its territories under John Asen
+  (source:[https://en.wikipedia.org/wiki/Second\_Bulgarian\_Empire\#/media/File:Campaigns\_of\_Ivan\_Assen\_II.png](https://en.wikipedia.org/wiki/Second_Bulgarian_Empire#/media/File:Campaigns_of_Ivan_Assen_II.png))
+slider_images:
+  - slider_image: /assets/media/items/GrantPicture2.jpg
+    caption: "Holy Forty Martyrs Church, Veliko Tarnovo. The church was commissioned
+      by Tsar John Asen II in 1230 to celebrate his victory at the Battle of
+      Klokotnitsa and houses the graves of Asen II, his wife Anna\\-Maria as
+      well as Tsar Johannitsa (source:
+      https://en.wikipedia.org/wiki/Holy\\_Forty\\_Martyrs\\_Church,\\_Veliko\\\
+      _Tarnovo\\#/media/File:Veliko\\_Tarnovo)"
+  - slider_image: /assets/media/items/GrantPicture3.jpg
+    caption: "Tarnovo inscription celebrating John Asen II’s victory at the Battle
+      of Klokotnitsa, 1230, marble, Holy Martyrs Church in Veliko Tarnovo
+      (source:
+      [https://en.wikipedia.org/wiki/Battle\\_of\\_Klokotnitsa\\#/media/File:Iv\
+      an\\_Asen\\_II\\_of\\_Bulgaria\\_Column.jpg](https://en.wikipedia.org/wik\
+      i/Battle_of_Klokotnitsa#/media/File:Ivan_Asen_II_of_Bulgaria_Column.jpg))"
+  - slider_image: /assets/media/items/GrantPicture4.jpg
+    caption: Tsarevets Hill fortress, with the Patriarchal Cathedral of the Holy
+      Ascension of the Lord in the background, Veliko Tarnovo, Tsarevets was the
+      main fortress of the Second Bulgarian Empire and housed the royal and
+      patriarchal palaces
+      (source:<http://www.velikoturnovo.info/en/info/i86/Tsarevets.html>)
+  - slider_image: /assets/media/items/GrantPicture5.jpg
+    caption: "Portrait of Kaloyan (Johannitsa) as sebastokrator and his wife
+      Desislava, ca. 1259, Boyana Church of St. Nicholas and St. Pantaleimon,
+      Sofia (source: whc.unesco.org/en/documents/139735\\)"
+start_year: 1204
 author: Grant Schrama
 type: []
 locations:
-- Bulgaria
+  - Bulgaria
 subjects: []
 latitude: 42.733883
 longitude: 25.48583
