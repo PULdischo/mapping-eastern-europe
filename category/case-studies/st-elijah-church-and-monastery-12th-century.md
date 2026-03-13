@@ -1,6 +1,6 @@
 ---
-title: St. Elijah Church and monastery of the 12th century
-slug: st-elijah-church-and-monastery-12th-century
+title: St. Elijah Church and Monastery of the 12th century
+slug: st-elijah-church-and-monastery
 author: Myroslav Voloshchuk
 type:
   - Architecture
