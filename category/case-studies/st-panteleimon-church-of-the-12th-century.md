@@ -41,7 +41,6 @@ start_year: 1150
 end_year: 1750
 make_public: true
 ---
-
 *By Myroslav Voloshchuk | Vasyl Stefanyk Carpathian National University (Ivano-Frankivsk, Ukraine)*
 
 **Description**
@@ -70,15 +69,15 @@ The last archaeological research of the temple and its surroundings continued on
 
 Томенчук Богдан. Археологія городищ Галицької землі. Галицько-Буковинське Прикарпаття. Матеріали досліджень 1976–2006 рр. Івано-Франківськ : Видавець Третяк І. Я., 2008. 532–610 \[Tomenchuk Bogdan. Archaeology of the Hillforts of the Halych Land. Halych-Bucovyna Subcarpathia. Materials of the Research of 1976–2006. Ivano-Frankivsk : Publisher Tretyak I. Y., 2008. 532–610].
 
-This part of the book is dedicated to the last results of the archaeological investigation on the Panteleimon hillfort, near the St. Panteleimon church, provided during 2000s
+This part of the book is dedicated to the last results of the archaeological investigation on the Panteleimon hillfort, near the St. Panteleimon church, provided during 2000s.
 
 Мнацаканян Піруз. Вірменські інскрипції з церкви Святого Пантелеймона в Галичі, *Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ: Лілея-НВ, 2017. 2. 80–85 [Mnatsakanyan Piruz. Armenian Inscriptions from the St. Panteleimon Church in Halych. In: *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2017. 2. 80–85].
 
-The article is devoted to the Armenian inscriptions from the walls of the St. Panteleimon church
+The article is devoted to the Armenian inscriptions from the walls of the St. Panteleimon church.
 
 Корнієнко В’ячеслав. Епіграфіка сакральних пам’яток Галича (ХІІ–ХІХ ст.). *Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ: Лілея-НВ, 2018. Серія 2. Вип. 3. 83–498 [Korniienko Viacheslav. Epigraphy of Sacred Monuments of Halych (12th–19th Centuries). *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2018. Series 2, Vol. 3. 83–498].
 
-Part of the book devoted to the monuments of the epigraphy from the walls of the St. Panteleimon church
+Part of the book devoted to the monuments of the epigraphy from the walls of the St. Panteleimon church.
 
 Пеленський Йосип. Галич в історії середньовічного мистецтва на основі археологічних досліджень і архівних джерел, *Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ : Лілея-НВ, 2018. Серія 2. Вип. 4. 9–103, 235–272 [Pelenskyy Joseph. Halych in the History of Medieval Art Based on Archaeological Research and Archival Sources. In: *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2018. Series II, Vol. 4. 9–103, 235–272].
 
@@ -86,4 +85,4 @@ The first book is mostly devoted to the St. Panteleimon church: location, archit
 
 Головко Олександр. Ще раз про час і обставини виникнення храму Святого Пантелеймона в Галичі. *Галич. Збірник наукових праць*, за ред. Андрія Стасюка. Івано-Франківськ: Лілея-НВ, 2023. 8. 68–104 [Holovko Oleksandr. Once Again About the Time and Circumstances of the Creation of the Church of St. Panteleimon in Halych. In: *Halych. Collection of Scientific Works*, ed. Andriy Stasyuk. Ivano-Frankivsk: Lileya-NV, 2023. 8. 68–104].
 
-This article is devoted to the time of the construction of the St. Panteleimon church and its founder
+This article is devoted to the time of the construction of the St. Panteleimon church and its founder.
