@@ -39,7 +39,6 @@ start_year: 1150
 end_year: 1750
 make_public: true
 ---
-
 *By Myroslav Voloshchuk | Vasyl Stefanyk Carpathian National University (Ivano-Frankivsk, Ukraine)*
 
 **Description** 
@@ -64,19 +63,19 @@ Currently, the archaeological excavations are going on, gradually transforming H
 
 Czołowski Aleksandr. Dawne zamki i twierdzie na Rusi Halickiej. Lwów, 1892. 18–20 \[Czołowski Aleksandr. Ancient Castles and Fortresses in the Halych Rus’. Lwów, 1892. 18–20]
 
-One of the first scientific notes about the castle of Halych
+One of the first scientific notes about the castle of Halych.
 
 Федорук Андрій. Облога Галича 1387 року у світлі вітчизняної історіографії. *Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ : Лілея-НВ, 2017. 2. 194–206 [Fedoruk Andrii. Siege of Halych in 1387 in the Light of Native Historiography. *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2017. 2. 194–206].
 
-The article is about the siege of Halych in 1387 in the Ukrainian historiography
+The article is about the siege of Halych in 1387 in the Ukrainian historiography.
 
 Волощук Мирослав, Федорук Андрій. Облога Галича 1387 р.: нарис зарубіжної історіографії. *Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ : Лілея-НВ, 2019. 4. 117–132 [Voloshchuk Myroslav, Fedoruk Andrii. Siege of Halych in 1387: an Outline of Foreign Historiography. *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2019. 4. 117–132].
 
-This article is devoted to the siege of Halych in 1387 in the foreign historiography (Russian, Polish, Hungarian etc.)
+This article is devoted to the siege of Halych in 1387 in the foreign historiography (Russian, Polish, Hungarian etc.).
 
 Федунків Зеновій. Оборонна архітектура Галича над Дністром. Івано-Франківськ : Лілея-НВ, 2020. 368 \[Fedunkiv Zenoviy. Defensive Architecture of Halych on the Dniester. Ivano-Frankivsk: Lileya-NV, 2020. 368].
 
-A comprehensive study about the Halych castle
+A comprehensive study about the Halych castle.
 
 Капраль Мирон, Стасюк Андрій. Інвентар Галицького замку 1582 р. *Галич. Збірник наукових праць*, за ред. Андрія Стасюка. Івано-Франківськ: Лілея-НВ, 2022. 7. 143–164 [Kapral Myron, Stasiuk Andrii. 1582 Inventory of the Halych Castle. *Halych. Collection of Scientific Works*, ed. Andrii Stasiuk. Ivano-Frankivsk: Lileya-NV, 2022. 7. 143–164].
 
