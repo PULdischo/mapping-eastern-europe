@@ -46,7 +46,6 @@ start_year: 1150
 end_year: 1750
 make_public: true
 ---
-
 *By Myroslav Voloshchuk | Vasyl Stefanyk Carpathian National University (Ivano-Frankivsk, Ukraine)*
 
 **Description**
@@ -71,20 +70,20 @@ Medieval sources attest that at the Cathedral there was a library and a workshop
 
 Бандрівський Микола, Лукомський Юрій, Сулик Роман. З історії дослідження Успенського собору в Галичі. (Відкриття поховання галицького князя Ярослава Осмомисла), *Записки Наукового Товариства імені Шевченка*, Львів, 1993, ССХХV, 393–405 [Bandrivskyy Mykola, Lukomskyy Yuriy, Sulyk Roman. From the History of Research of Assumption Cathedral in Halych (Discovery of the Burial of the Prince of Halych Yaroslav Osmomysl). In: *Notes of the Shevchenko Scientific Society*. Lviv, 1993. ССХХV, 393–405]
 
-Results of research on the temple and especially the skeleton of Prince Yaroslav Volodymyrkovych
+Results of research on the temple and especially the skeleton of Prince Yaroslav Volodymyrkovych.
 
 Лукомський Юрій. Успенський собор давнього Галича (за результатами досліджень 1992–2000 років), *Записки Записки Наукового Товариства імені Шевченка*, Львів, 2002. CCXCLIV : праці Археологічної комісії. 578–607 [Lukomskyy Yuriy. Assumption Cathedral of Ancient Halych (According to the Results of Research in 1992–1998) In: *Notes of the Shevchenko Scientific Society*. Lviv, 2002. CCXCLIV : Works of the Archaeological Commission. 578–607].
 
-Results of the study of the Assumption Cathedral during 1992–2000s – for the first time after Ukraine declared independence
+Results of the study of the Assumption Cathedral during 1992–2000s – for the first time after Ukraine declared independence.
 
 Lukomskyi Juriy. Archaeological Investigation of the Monumental Architecture of the Principality of Halych, 12th–13th Centuries A. D. *Essays from the 2 International Conference on European History*. ATINER: Michel Aradas & Nicholas C. J. Pappas, 2005. 239–254.
 
-English version of the results of the study of the Assumption Cathedral during 1992–2000s – for the first time after Ukraine declared independence
+English version of the results of the study of the Assumption Cathedral during 1992–2000s – for the first time after Ukraine declared independence.
 
 Успенський собор Галича. Минуле, сучасне, майбутнє. Матеріали міжнародної науково-практичної конференції. Галич, 14–15 грудня 2017 року. Галич : Інформаційно-видавничий відділ Національного заповідника «Давній Галич», 2017 [Assumption Cathedral of Halych. Past, Present, Future. *Materials of the International Scientific and Practical Conference*. Halych, December 14–15, 2017. Halych, 2017].
 
-Materials of the International scientific conference dedicated to the problem of preserving fragments of the Assumption Cathedral and studying its history
+Materials of the International scientific conference dedicated to the problem of preserving fragments of the Assumption Cathedral and studying its history.
 
 Пастернак Ярослав. Старий Галич*. Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ : Лілея-НВ, 2022. Серія 2. Вип. 8. 71–106 [Pasternak Yaroslav. Ancient Halych. *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2022. Series II, Vol. 8. 71–106]
 
-The first research on the excavated temple, made by Yaroslav Pasternak
+The first research on the excavated temple, made by Yaroslav Pasternak.
