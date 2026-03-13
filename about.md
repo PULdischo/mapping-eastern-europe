@@ -11,7 +11,7 @@ Enhancements to the website and specific commissions related to Byzantium have b
 
 The Advocacy Seed Grant from the International Center of Medieval Art has helped further grow this project in the period between July and December 2021. The ICMA grant sponsored content related to medieval art.  
 
-Between 2024 and 2026, content related to the history and visual culture of Ukraine has been supported through the project "[HER-UKR: Challenges and opportunities for EU heritage diplomacy in Ukraine,](https://www.kuleuven.be/her-ukr)" co-funded by the European Uniun within the ERASMUS+ Jean Monnet Policy Debate action
+Between 2024 and 2026, content related to the history and visual culture of Ukraine has been supported through the project "[HER-UKR: Challenges and opportunities for EU heritage diplomacy in Ukraine,](https://www.kuleuven.be/her-ukr)" co-funded by the European Union within the ERASMUS+ Jean Monnet Policy Debate action.
 
 The project has also received support from Tufts University.
 
