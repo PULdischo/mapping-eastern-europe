@@ -38,7 +38,6 @@ start_year: 1150
 end_year: 1750
 make_public: true
 ---
-
 *By Myroslav Voloshchuk | Vasyl Stefanyk Carpathian National University (Ivano-Frankivsk, Ukraine)*
 
 **Description** 
@@ -69,16 +68,16 @@ Traditions of the All-Ukrainian Patriarch Pilgrimage to the Halych Miraculous Ic
 
 Петрушевичъ Антоній. О Соборной Богородичной церкви въ городе Галиче происходящей съ первой половины XII столєтія. Съ приложеніемъ плана и видовъ ея. Львовъ: Типография Ставропигійского института, 1898. 224 с. \[Petrushevych Antoniy. About the Mother of God Cathedral Church From the First Half of the 12th Century. With the Attached Plan and Views of It. Lviv, 1898. 224]
 
-The first book about the Assumption church in Krylos
+The first book about the Assumption church in Krylos.
 
 Вуйцик Володимир. Церква Успення Пресвятої Богородиці у Крилосі: до проблеми датування. *Народознавчі зошити*. Львів, 2000. 1. 228–236 [Vuytsyk Volodymyr. The Assumption Church in Krylos: to the Problem of Dating. *Folk Studies Notebooks*. Lviv, 2000. 1. 228–236].
 
-This article is devoted to the date of construction of the Assumption church
+This article is devoted to the date of construction of the Assumption church.
 
 Корнієнко В’ячеслав. Епіграфіка сакральних пам’яток Галича (ХІІ–ХІХ ст.). *Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ: Лілея-НВ, 2018. Серія 2. Вип. 3. 20–35 [Korniienko Viacheslav. Epigraphy of Sacred Monuments of Halych (12th–19th Centuries). *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2018. Series 2, Vol. 3. 20–35].
 
-This article is dedicated to the epigraphic monuments of the Assumption church in Krylos and the time of its construction
+This article is dedicated to the epigraphic monuments of the Assumption church in Krylos and the time of its construction.
 
 Корнієнко В’ячеслав. Епіграфічні пам’ятки Успенської церкви в Крилосі та час її побудови, *Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ : Лілея НВ, 2016. 1. 75–86 [Korniienko Viacheslav. Epigraphic Monuments of the Assumption Church in Krylos and the Time of Its Construction. *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2016. 1. 75–86].
 
-This article is dedicated to the dragon (fairy-tale creature) from the Assumption Church in Halych from the Polish research perspective
+This article is dedicated to the dragon (fairy-tale creature) from the Assumption Church in Halych from the Polish research perspective.
