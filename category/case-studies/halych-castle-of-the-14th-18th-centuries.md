@@ -1,6 +1,6 @@
 ---
 title: Halych castle of the 14th–18th centuries
-slug: halych-castle-of-the-14th-18th-centuries
+slug: halych-castle
 author: Myroslav Voloshchuk
 type:
   - Architecture
