@@ -41,7 +41,6 @@ start_year: 1150
 end_year: 1750
 make_public: true
 ---
-
 *By Myroslav Voloshchuk | Vasyl Stefanyk Carpathian National University (Ivano-Frankivsk, Ukraine)*
 
 **Description** 
@@ -74,20 +73,20 @@ Nowadays in the place of the former temple a symbolic memorable cross is establi
 
 Диба Юрій. Петрик Василь. До проблеми графічної реконструкції церкви Пророка Іллі у княжому Галичі. *Вісник Інституту Укрзахідпроектреставрація*, № 10, Львів, 1999. 15–26 [Dyba Yurii, Petryk Vasyl. To the Problem of Graphic Reconstruction of Prophet Elijah Church in Princely Halych: In: *Bulletin of Institute of* *Ukrzakhidproektrestavratsiya*. 10, Lviv, 1999. 15–26].
 
-Publication of the newest reconstruction of the exterior of the church and monastery
+Publication of the newest reconstruction of the exterior of the church and monastery.
 
 Вуйцик Володимир. Про час зведення церкви Св. Пр. Іллі у давньому Галичі, *Вісник інституту «Укрзахідпроектреставрація»*. 14. Львів, 2004. 265–267 [Vuytsyk Volodymyr. About the Time of Construction of Prophet Elijah Church in Ancient Halych. In: *Bulletin of Institute of* *Ukrzakhidproektrestavratsiya*. 14. Lviv, 2004. 265–267].
 
-Article about the construction time of the Church of St. Elijah
+Article about the construction time of the Church of St. Elijah.
 
 Мельничук Олег. Археологічні дослідження монастиря Св. Пророка Іллі у Крилосі *Матеріали Міжнародної наукової конференції «Галич і Галицька земля в державотворчих процесах України»*. Галич, 2013. 124–133 [Melnychuk Oleg. Archaeological Research at St. Prophet Elijah Monastery in Krylos. In: *Materials of the International Scientific Conference “Halych and Halych Land in the State-Forming Processes of Ukraine”*. Halych, 2013. 124–133].
 
-The article is devoted to archaeological research of the church in the 2000s
+The article is devoted to archaeological research of the church in the 2000s.
 
 Пеленський Йосип. Галич в історії середньовічного мистецтва на основі археологічних досліджень і архівних джерел, *Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ : Лілея-НВ, 2018. Серія 2. Вип. 4. 118–120 [Pelenskyy Joseph. Halych in the History of Medieval art Based on Archaeological Research and Archival Sources. In: *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2018. Series II, Vol. 4. 118–120].
 
-A short fragment of a book about the state of study of the Church of St. Elijah at the beginning of the 20th century
+A short fragment of a book about the state of study of the Church of St. Elijah at the beginning of the 20th century.
 
 Пастернак Ярослав. Старий Галич*. Галич. Збірник наукових праць*, за ред. Мирослава Волощука. Івано-Франківськ : Лілея-НВ, 2022. Серія 2. Вип. 8. 43–44, 108–109, 207–208 [Pasternak Yaroslav. Ancient Halych. *Halych. Collection of Scientific Works*, ed. Myroslav Voloshchuk. Ivano-Frankivsk: Lileya-NV, 2022. Series II, Vol. 8. 43–44, 108–109, 207–208]
 
-Short fragments of the book about the results of the study of the Church of St. Elijah in the interwar period of the 1920s–1930s
+Short fragments of the book about the results of the study of the Church of St. Elijah in the interwar period of the 1920s–1930s.
