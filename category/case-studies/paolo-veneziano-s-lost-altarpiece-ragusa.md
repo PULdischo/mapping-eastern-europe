@@ -13,8 +13,8 @@ subjects:
   - Art history
   - Paolo Veneziano
   - Economic history
-latitude: 42.3827
-longitude: 18.0632
+latitude: 42.641895
+longitude: 18.111086
 item_image: /assets/img/veneziano-dubrovnik-1.jpg
 item_image_caption: "Paolo Veneziano, Harvard polyptych, ca. 1350-55, egg
   tempera and gold leaf on panel, Harvard Art Museum, Cambridge, Massachusetts,
