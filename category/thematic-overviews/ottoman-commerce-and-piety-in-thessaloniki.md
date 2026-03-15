@@ -27,8 +27,12 @@ author: Melina Perdikopoulou Melpomeni
 locations:
   - Greece
 subjects:
-  - Thessaloniki; Ottoman architecture; Bedesten; Caravanserai; Hamza Bey Camii;
-    commerce and religion
+  - Thessaloniki
+  - Ottoman architecture
+  - Bedesten
+  - Caravanserai
+  - Hamza Bey Camii
+  - commerce and religion
 latitude: 40.6354428
 longitude: 22.9470448
 make_public: true
