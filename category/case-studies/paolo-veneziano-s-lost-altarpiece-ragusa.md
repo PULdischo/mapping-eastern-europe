@@ -35,7 +35,7 @@ slider_images:
       Lukarević chapel on the right, source: Saiko (Wikimedia Commons)."
 start_year: 1150
 end_year: 1750
-make_public: false
+make_public: true
 ---
 *By Christopher Platts | University of Cincinnati*
 
