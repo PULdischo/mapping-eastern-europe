@@ -17,7 +17,8 @@ The project has also received support from Tufts University.
 
 *Mapping Eastern Europe* aims to make the material evidence and sources known and accessible, and thereby help expand the temporal and geographic parameters of the study of medieval, early modern, Byzantine, and post-Byzantine history, art, and culture. The project stems from the **[North of Byzantium](https://www.northofbyzantium.org/)** initiative.
 
-## The Team
+**The Team**
+
 
 **Co-Founders and Editors:** Maria Alessia Rossi (Princeton University) and Alice Isabella Sullivan (Tufts University)
 

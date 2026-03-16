@@ -48,6 +48,19 @@
     // create an array from the collection with item.slug, item.title, item.item_image, item.author, item.subject_names, item.location_names
     {% set listCollection = listCollection | default("items") %}
     console.log("Using collection: {{ listCollection }}");
+    {% if listCollection == 'book-reviews' %}
+    let collection = [  
+      {% for item in collections[listCollection] %}
+        {
+          slug: "{{ item.data.title_link }}",
+          title: "{{ item.data.title | markdownify | safe }}",
+          thumbnail: "{{ item.data.item_image }}",
+          subject_names: "{{ (item.data.subject_names or []) | join(", ") }}",
+          location_names: "{{ (item.data.location_names or []) | join(", ") }}",
+        },
+      {% endfor %}
+      ];
+    {% else %}
     let collection = [  
       {% for item in collections[listCollection] %}
         {
@@ -59,6 +72,8 @@
         },
       {% endfor %}
       ];
+    {% endif %}
+    
      
     
     // create a smaller array from collection with 5 
