@@ -1,39 +1,42 @@
 ---
 title: The Thessaloniki Epitaphios
 slug: the-thessaloniki-epitaphios
-title_link: ''
-item_image: /assets/media/items/threnos.jpg
-item_image_caption: 'Thessaloniki Epitaphios, detail of the threnos, ca. 1300, embroidered
-  textile, Museum of Byzantine Culture, No. ΒΥΦ 57, Thessaloniki, Greece (source:
-  Hellenic Ministry of Culture and Sports. Museum of Byzantine Culture, Thessaloniki)'
-slider_images:
-- slider_image: /assets/media/items/Thessaloniki_Epitaphios_large_HIGMXWD.jpg
-  caption: 'Thessaloniki Epitaphios, ca. 1300, embroidered textile, Museum of Byzantine
-    Culture, No. ΒΥΦ 57, Thessaloniki, Greece (source: Hellenic Ministry of Culture
-    and Sports. Museum of Byzantine Culture, Thessaloniki)'
-- slider_image: /assets/media/items/Communion_of_the_Bread.jpg
-  caption: 'Thessaloniki Epitaphios, detail of the communion of the bread, ca. 1300,
-    embroidered textile, Museum of Byzantine Culture, No. ΒΥΦ 57, Thessaloniki, Greece
-    (source: Hellenic Ministry of Culture and Sports. Museum of Byzantine Culture,
-    Thessaloniki)'
-- slider_image: /assets/media/items/Communion_of_the_Wine.jpg
-  caption: 'Thessaloniki Epitaphios, detail of the communion of the wine, ca. 1300,
-    embroidered textile, Museum of Byzantine Culture, No. ΒΥΦ 57, Thessaloniki, Greece
-    (source: Hellenic Ministry of Culture and Sports. Museum of Byzantine Culture,
-    Thessaloniki)'
-start_year: 1280
-end_year: 1330
-author: Roland Betancourt
 type:
-- Textile
+  - Textile
 locations:
-- Greece
-subjects:
-- Palaiologan Dynasty
-- Religious object
-- Threnos (Iconography)
+  - Greece
 latitude: 40.6400629
 longitude: 22.9444191
+item_image: /assets/media/items/threnos.jpg
+item_image_caption: "Thessaloniki Epitaphios, detail of the threnos, ca. 1300,
+  embroidered textile, Museum of Byzantine Culture, No. ΒΥΦ 57, Thessaloniki,
+  Greece (source: Hellenic Ministry of Culture and Sports. Museum of Byzantine
+  Culture, Thessaloniki)"
+slider_images:
+  - slider_image: /assets/media/items/Thessaloniki_Epitaphios_large_HIGMXWD.jpg
+    caption: "Thessaloniki Epitaphios, ca. 1300, embroidered textile, Museum of
+      Byzantine Culture, No. ΒΥΦ 57, Thessaloniki, Greece (source: Hellenic
+      Ministry of Culture and Sports. Museum of Byzantine Culture,
+      Thessaloniki)"
+  - slider_image: /assets/media/items/Communion_of_the_Bread.jpg
+    caption: "Thessaloniki Epitaphios, detail of the communion of the bread, ca.
+      1300, embroidered textile, Museum of Byzantine Culture, No. ΒΥΦ 57,
+      Thessaloniki, Greece (source: Hellenic Ministry of Culture and Sports.
+      Museum of Byzantine Culture, Thessaloniki)"
+  - slider_image: /assets/media/items/Communion_of_the_Wine.jpg
+    caption: "Thessaloniki Epitaphios, detail of the communion of the wine, ca.
+      1300, embroidered textile, Museum of Byzantine Culture, No. ΒΥΦ 57,
+      Thessaloniki, Greece (source: Hellenic Ministry of Culture and Sports.
+      Museum of Byzantine Culture, Thessaloniki)"
+start_year: 1280
+end_year: 1330
+title_link: ""
+author: Roland Betancourt
+subjects:
+  - Palaiologan Dynasty
+  - Religious object
+  - Threnos (Iconography)
+  - Iconography
 make_public: true
 ---
 
