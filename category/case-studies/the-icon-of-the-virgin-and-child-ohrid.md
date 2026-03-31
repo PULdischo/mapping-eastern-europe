@@ -1,48 +1,50 @@
 ---
 title: The Icon of the Virgin and Child, Ohrid
 slug: the-icon-of-the-virgin-and-child-ohrid
-title_link: ''
-item_image: /assets/media/items/4_2.jpg
-item_image_caption: 'Icon (no. 81\), 1343/4,Ohrid Gallery of Icons (source: S. Filipova)'
-slider_images:
-- slider_image: /assets/media/items/Fig._2_Jb09One.jpg
-  caption: 'Icon (no. 81\), 1343/4, tempera, plaster ground on canvas overlaid on
-    board, revetment made of gilded silver, Ohrid Gallery of Icons (source: database
-    of The Republic Institute for Protection of Monuments in Skopje)'
-- slider_image: /assets/media/items/Fig._2a_glava_ikona.jpg
-  caption: 'Icon (no. 81\), detail, 1343/4, tempera, plaster ground on canvas overlaid
-    on board, revetment made of gilded silver, Ohrid Gallery of Icons (source: database
-    of The Republic Institute for Protection of Monuments in Skopje)'
-- slider_image: /assets/media/items/Fig._2b.jpg
-  caption: Icon (no. 81\), drawing, 1343/4, Ohrid Gallery of Icons
-- slider_image: /assets/media/items/Fig._3_DPuLgOh.jpg
-  caption: 'Duccio (1255\-1318\), Madonna with Child and Two Angels (Crevole Madonna)
-    1283/4, tempera on wood, 89 x 60 cm., Museo dell’Opera del Duomo, Siena (source:
-    Wikimedia)'
-- slider_image: /assets/media/items/Fig._4_BqXM0KO.jpg
-  caption: 'Young king Uroš, narthex fresco painting, church at Decani Monastery (source:
-    D. Vojvodić)'
-- slider_image: /assets/media/items/Fig._5_9ZODDrX.JPG
-  caption: 'Queen Helene, royal portrait next to Tzar Dušan, 1345 or 1347, naos fresco
-    painting, Holy Archangels, Lesnovo (source: S. Gabelić)'
-- slider_image: /assets/media/items/7_dushespasitelka_od_BPerivl_14_vek.jpg
-  caption: Icon of the Virgin Psychosostria (no. 10\), 1300\-20, Ohrid Gallery of
-    Icons
-- slider_image: /assets/media/items/angel2_1.jpg
-  caption: Icon of the Virgin Psychosostria (no. 10\), detail of the angel, 1300\-20,
-    Ohrid Gallery of Icons
-start_year: 1300
-end_year: 1350
-author: Snežana Filipova
 type:
-- Panel painting
+  - Panel painting
 locations:
-- Republic of North Macedonia
-subjects:
-- Religious object
-- Virgin Mary and Christ Child (Iconography)
+  - Republic of North Macedonia
 latitude: 41.1142006
 longitude: 20.7954559
+item_image: /assets/media/items/4_2.jpg
+item_image_caption: "Icon (no. 81\\), 1343/4,Ohrid Gallery of Icons (source: S. Filipova)"
+slider_images:
+  - slider_image: /assets/media/items/Fig._2_Jb09One.jpg
+    caption: "Icon (no. 81\\), 1343/4, tempera, plaster ground on canvas overlaid on
+      board, revetment made of gilded silver, Ohrid Gallery of Icons (source:
+      database of The Republic Institute for Protection of Monuments in Skopje)"
+  - slider_image: /assets/media/items/Fig._2a_glava_ikona.jpg
+    caption: "Icon (no. 81\\), detail, 1343/4, tempera, plaster ground on canvas
+      overlaid on board, revetment made of gilded silver, Ohrid Gallery of Icons
+      (source: database of The Republic Institute for Protection of Monuments in
+      Skopje)"
+  - slider_image: /assets/media/items/Fig._2b.jpg
+    caption: Icon (no. 81\), drawing, 1343/4, Ohrid Gallery of Icons
+  - slider_image: /assets/media/items/Fig._3_DPuLgOh.jpg
+    caption: "Duccio (1255\\-1318\\), Madonna with Child and Two Angels (Crevole
+      Madonna) 1283/4, tempera on wood, 89 x 60 cm., Museo dell’Opera del Duomo,
+      Siena (source: Wikimedia)"
+  - slider_image: /assets/media/items/Fig._4_BqXM0KO.jpg
+    caption: "Young king Uroš, narthex fresco painting, church at Decani Monastery
+      (source: D. Vojvodić)"
+  - slider_image: /assets/media/items/Fig._5_9ZODDrX.JPG
+    caption: "Queen Helene, royal portrait next to Tzar Dušan, 1345 or 1347, naos
+      fresco painting, Holy Archangels, Lesnovo (source: S. Gabelić)"
+  - slider_image: /assets/media/items/7_dushespasitelka_od_BPerivl_14_vek.jpg
+    caption: Icon of the Virgin Psychosostria (no. 10\), 1300\-20, Ohrid Gallery of
+      Icons
+  - slider_image: /assets/media/items/angel2_1.jpg
+    caption: Icon of the Virgin Psychosostria (no. 10\), detail of the angel,
+      1300\-20, Ohrid Gallery of Icons
+start_year: 1300
+end_year: 1350
+title_link: ""
+author: Snežana Filipova
+subjects:
+  - Religious object
+  - Virgin Mary and Christ Child (Iconography)
+  - Iconography
 make_public: true
 ---
 
