@@ -1,28 +1,28 @@
 ---
 title: The Large Crucifix from the Icon Museum of Korčula
 slug: the-large-crucifix-from-the-icon-museum-of-korcula
-title_link: ''
-item_image: /assets/media/items/P3120089_LM0yt6m.JPG
-item_image_caption: 'Ieremias Palladas (attrib.), Crux Magna, early 17th c., egg tempera
-  on wood, All Saint’s fraternity\-Icon Museum, Korčula, Croatia (source: Gamulin,
-  Ggro. The Painted Crucifixes in Croatia, Monumenta Artis Croatiae: First series,
-  Zagreb, 1983: 124, cat. XII.)'
-slider_images:
-- slider_image: /assets/media/items/Ieremias_Pallads_Sinai.JPG
-  caption: 'Ieremias Palladas (attrib.), Crucifix on iconostasis, 1612, egg tempera
-    on wood, Saint Catherine’s Monastery, Sinai (source: Gamulin, Ggro. The Painted
-    Crucifixes in Croatia, Monumenta Artis Croatiae: First series, Zagreb, 1983: plate
-    49\.)'
-start_year: 1300
-end_year: 1599
-author: Maria Vavva
 type: []
 locations:
-- Croatia
-subjects:
-- Icon painting
+  - Croatia
 latitude: 42.9373836
 longitude: 16.7924852
+item_image: /assets/media/items/P3120089_LM0yt6m.JPG
+item_image_caption: "Ieremias Palladas (attrib.), Crux Magna, early 17th c., egg
+  tempera on wood, All Saint’s fraternity\\-Icon Museum, Korčula, Croatia
+  (source: Gamulin, Ggro. The Painted Crucifixes in Croatia, Monumenta Artis
+  Croatiae: First series, Zagreb, 1983: 124, cat. XII.)"
+slider_images:
+  - slider_image: /assets/media/items/Ieremias_Pallads_Sinai.JPG
+    caption: "Ieremias Palladas (attrib.), Crucifix on iconostasis, 1612, egg
+      tempera on wood, Saint Catherine’s Monastery, Sinai (source: Gamulin,
+      Ggro. The Painted Crucifixes in Croatia, Monumenta Artis Croatiae: First
+      series, Zagreb, 1983: plate 49\\.)"
+start_year: 1300
+end_year: 1599
+title_link: ""
+author: Maria Vavva
+subjects:
+  - Icons
 make_public: true
 ---
 
