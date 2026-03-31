@@ -1,24 +1,25 @@
 ---
-title: 'Death and the Archangel: An Icon at Yale'
+title: "Death and the Archangel: An Icon at Yale"
 slug: death-and-the-archangel-an-icon-at-yale
-title_link: ''
+type:
+  - Panel painting
+locations:
+  - Greece
+latitude: 35.21
+longitude: 24.91
 item_image: /assets/media/items/CaseStudy_Parpulov.jpg
-item_image_caption: 'Icon, Saint Michael Weighing a Soul, ca. 1700, tempera on wood,
-  New Haven, Yale University Art Gallery, inv. 1934\.85 (source: Yale University Art
-  Gallery)'
+item_image_caption: "Icon, Saint Michael Weighing a Soul, ca. 1700, tempera on
+  wood, New Haven, Yale University Art Gallery, inv. 1934\\.85 (source: Yale
+  University Art Gallery)"
 slider_images: []
 start_year: 1680
 end_year: 1720
+title_link: ""
 author: Georgi R. Parpulov
-type:
-- Panel painting
-locations:
-- Greece
 subjects:
-- Religious object
-- Michael the Archangel (Iconography)
-latitude: 35.21
-longitude: 24.91
+  - Religious object
+  - Michael the Archangel (Iconography)
+  - Iconography
 make_public: true
 ---
 
