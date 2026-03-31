@@ -1,34 +1,37 @@
 ---
 title: The Pietà Icon, Ostrov Monastery
 slug: the-pieta-icon-ostrov-monastery
-title_link: ''
-item_image: /assets/media/items/01.jpg
-item_image_caption: 'Descent from the Cross/Pietà, ca. 1522, 67\.5 x 44\.5 cm, collection
-  of National Museum of Art in Bucharest, inv. 11345/ i2 (source: National Museum
-  of Art, Bucharest)'
-slider_images:
-- slider_image: /assets/media/items/02_SgeJry4.jpg
-  caption: 'Nikolaos Tzafouris, Pietà triptych, collection of National Museum in Warsaw,
-    inv. M.Ob.632 MNW (source: Krzysztof Wilczyński, National Museum in Warsaw)'
-- slider_image: /assets/media/items/03.jpg
-  caption: 'Andreas Pavias, Pietà, 1490–1510, Museo Diocesano, Rossano (source: Museo
-    Diocesano, Rossano)'
-- slider_image: /assets/media/items/04.jpg
-  caption: 'Donor Vladislava and her deceased son Aktasis, church of St. Nicholas
-    Magaleiou, Kastoria, 1504‒05 (source: http://zografi.info/?page\_id\=1543\&lang\=en)'
-start_year: 1490
-end_year: 1530
-author: Elisabeta Negrău
 type:
-- Panel painting
+  - Panel painting
 locations:
-- Romania
-subjects:
-- Basarab family
-- Religious object
-- Pietà (Iconography)
+  - Romania
 latitude: 45.2456098
 longitude: 24.3437046
+item_image: /assets/media/items/01.jpg
+item_image_caption: "Descent from the Cross/Pietà, ca. 1522, 67\\.5 x 44\\.5 cm,
+  collection of National Museum of Art in Bucharest, inv. 11345/ i2 (source:
+  National Museum of Art, Bucharest)"
+slider_images:
+  - slider_image: /assets/media/items/02_SgeJry4.jpg
+    caption: "Nikolaos Tzafouris, Pietà triptych, collection of National Museum in
+      Warsaw, inv. M.Ob.632 MNW (source: Krzysztof Wilczyński, National Museum
+      in Warsaw)"
+  - slider_image: /assets/media/items/03.jpg
+    caption: "Andreas Pavias, Pietà, 1490–1510, Museo Diocesano, Rossano (source:
+      Museo Diocesano, Rossano)"
+  - slider_image: /assets/media/items/04.jpg
+    caption: "Donor Vladislava and her deceased son Aktasis, church of St. Nicholas
+      Magaleiou, Kastoria, 1504‒05 (source:
+      http://zografi.info/?page\\_id\\=1543\\&lang\\=en)"
+start_year: 1490
+end_year: 1530
+title_link: ""
+author: Elisabeta Negrău
+subjects:
+  - Basarab family
+  - Religious object
+  - Pietà (Iconography)
+  - Iconography
 make_public: true
 ---
 
