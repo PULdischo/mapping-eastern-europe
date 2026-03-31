@@ -1,44 +1,49 @@
 ---
 title: The Imperial Deësis Mural at the Church of St. Elijah, Suceava
 slug: the-imperial-deesis-mural-at-the-church-of-st-eli
-title_link: ''
-item_image: /assets/media/items/1.JPG
-item_image_caption: 'The Imperial *Deësis*, naos, northern wall, the church of the
-  Prophet Elijah near Suceava, post 1488 (source: A. Dumitrescu)'
-slider_images:
-- slider_image: /assets/media/items/1-_The_Imperial_Deesis_EqIkwf5.JPG
-  caption: 'The “Imperial Deesis” and the figure of King David, naos, northern wall,
-    the church of the Prophet Elijah, Suceava, Romania, post 1488 (source: A. Dumitrescu)'
-- slider_image: /assets/media/items/2_sgNO9Db.JPG
-  caption: 'The Virgin as Queen, detail from the Imperial Deesis, naos, northern wall,
-    the church of the Prophet Elijah near Suceava, post 1488 (source: A. Dumitrescu)'
-- slider_image: /assets/media/items/2-The_series_of_monarchic_effigies_uIe6dI8.JPG
-  caption: 'The series of monarchic effigies in the lower register of the naos, the
-    church of the Prophet Elijah, Suceava, Romania, post 1488 (source: A. Dumitrescu)'
-- slider_image: /assets/media/items/3-The_votive_portrait_of_the_voivode_Stephen_III_TQ2pLVe.JPG
-  caption: 'The votive portrait of the voivode Stephen III, introduced before Christ
-    by the Prophet Elijah, naos, western wall, the church of the Prophet Elijah, Suceava,
-    Romania, post 1488 (source: A. Dumitrescu)'
-- slider_image: /assets/media/items/3.JPG
-  caption: 'The Church of the Prophet Elijah, exterior (source: A. Dumitrescu)'
-- slider_image: /assets/media/items/5.jpg
-  caption: The Church of the Prophet Elijah, section (https://alpha.ipartner.ro/project/biserica\-sfantul\-ilie/)
-- slider_image: /assets/media/items/6.jpg
-  caption: '“Predsta tsaritsa” icon, currently in the Assumption cathedral, Moscow,
-    late 14th century (source: Wikimedia)'
-- slider_image: /assets/media/items/7.jpg
-  caption: Imperial Deesis, naos, Kovaljevo Monastery, near Novgorod, ca. 1370–80
-start_year: 1480
-end_year: 1500
-author: Andrei Dumitrescu
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Romania
-subjects:
-- The Imperial Deësis (Iconography)
+  - Romania
 latitude: 47.6355482
 longitude: 26.2095764
+item_image: /assets/media/items/1.JPG
+item_image_caption: "The Imperial *Deësis*, naos, northern wall, the church of
+  the Prophet Elijah near Suceava, post 1488 (source: A. Dumitrescu)"
+slider_images:
+  - slider_image: /assets/media/items/1-_The_Imperial_Deesis_EqIkwf5.JPG
+    caption: "The “Imperial Deesis” and the figure of King David, naos, northern
+      wall, the church of the Prophet Elijah, Suceava, Romania, post 1488
+      (source: A. Dumitrescu)"
+  - slider_image: /assets/media/items/2_sgNO9Db.JPG
+    caption: "The Virgin as Queen, detail from the Imperial Deesis, naos, northern
+      wall, the church of the Prophet Elijah near Suceava, post 1488 (source: A.
+      Dumitrescu)"
+  - slider_image: /assets/media/items/2-The_series_of_monarchic_effigies_uIe6dI8.JPG
+    caption: "The series of monarchic effigies in the lower register of the naos,
+      the church of the Prophet Elijah, Suceava, Romania, post 1488 (source: A.
+      Dumitrescu)"
+  - slider_image: /assets/media/items/3-The_votive_portrait_of_the_voivode_Stephen_III_TQ2pLVe.JPG
+    caption: "The votive portrait of the voivode Stephen III, introduced before
+      Christ by the Prophet Elijah, naos, western wall, the church of the
+      Prophet Elijah, Suceava, Romania, post 1488 (source: A. Dumitrescu)"
+  - slider_image: /assets/media/items/3.JPG
+    caption: "The Church of the Prophet Elijah, exterior (source: A. Dumitrescu)"
+  - slider_image: /assets/media/items/5.jpg
+    caption: The Church of the Prophet Elijah, section
+      (https://alpha.ipartner.ro/project/biserica\-sfantul\-ilie/)
+  - slider_image: /assets/media/items/6.jpg
+    caption: "“Predsta tsaritsa” icon, currently in the Assumption cathedral,
+      Moscow, late 14th century (source: Wikimedia)"
+  - slider_image: /assets/media/items/7.jpg
+    caption: Imperial Deesis, naos, Kovaljevo Monastery, near Novgorod, ca. 1370–80
+start_year: 1480
+end_year: 1500
+title_link: ""
+author: Andrei Dumitrescu
+subjects:
+  - The Imperial Deësis (Iconography)
+  - Iconography
 make_public: true
 ---
 
