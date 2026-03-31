@@ -1,42 +1,44 @@
 ---
 title: The Icon Collection of the Andrei Sheptytskyi National Museum in Lviv
 slug: the-icon-collection-of-the-andrei-sheptytskyi-nati
-title_link: ''
 item_image: /assets/media/items/Il_1_3.jpg
-item_image_caption: 'St. George the Dragon Slayer. Last quarter of the 14th (?) century.
-  From the church in village Stanylia (Lviv region, Ukraine). 92\.5 x 69 cm. Board,
-  gesso, tempera, silvering (source: Andrei Sheptytskyi National Museum in Lviv).'
+item_image_caption: "St. George the Dragon Slayer. Last quarter of the 14th (?)
+  century. From the church in village Stanylia (Lviv region, Ukraine). 92\\.5 x
+  69 cm. Board, gesso, tempera, silvering (source: Andrei Sheptytskyi National
+  Museum in Lviv)."
 slider_images:
-- slider_image: /assets/media/items/il_2_3.jpg
-  caption: 'The Descent of the Holy Spirit. Early 15th century. From the church in
-    village Radruzh (Poland). 100 x 81 cm. Board, gesso, tempera, gilding (source:
-    Andrei Sheptytskyi National Museum in Lviv).'
-- slider_image: /assets/media/items/il_3_3.jpg
-  caption: 'The Theotokos Hodegetria with the Praise. 15th century. From the village
-    Pidhorodtsi (Lviv region, Ukraine). 140 x 93 cm. Board, gesso, tempera, gilding
-    (source: Andrei Sheptytskyi National Museum in Lviv).'
-- slider_image: /assets/media/items/Il_4_3.jpg
-  caption: 'Christ Pantocrator. 15th century. From the church in Peremyshl (Poland).
-    120 x 60 cm. Board, gesso, tempera, gilding (source: Andrei Sheptytskyi National
-    Museum in Lviv).'
-- slider_image: /assets/media/items/il_5_3.jpg
-  caption: 'The Exaltation of The Holy Cross with the biblical scenes. 15th century.
-    From the church in Zdvyzhen (Poland). 152\.5 x 117 cm. Board, gesso, tempera,
-    gilding (source: Andrei Sheptytskyi National Museum in Lviv).'
-- slider_image: /assets/media/items/il_6_1.jpg
-  caption: 'The Last Judgment. 1662\. From the church in Medenychi (Lviv region, Ukraine).
-    307 х 257\.5 cm Board, gesso, tempera, gilding (source: Andrei Sheptytskyi National
-    Museum in Lviv).'
+  - slider_image: /assets/media/items/il_2_3.jpg
+    caption: "The Descent of the Holy Spirit. Early 15th century. From the church in
+      village Radruzh (Poland). 100 x 81 cm. Board, gesso, tempera, gilding
+      (source: Andrei Sheptytskyi National Museum in Lviv)."
+  - slider_image: /assets/media/items/il_3_3.jpg
+    caption: "The Theotokos Hodegetria with the Praise. 15th century. From the
+      village Pidhorodtsi (Lviv region, Ukraine). 140 x 93 cm. Board, gesso,
+      tempera, gilding (source: Andrei Sheptytskyi National Museum in Lviv)."
+  - slider_image: /assets/media/items/Il_4_3.jpg
+    caption: "Christ Pantocrator. 15th century. From the church in Peremyshl
+      (Poland). 120 x 60 cm. Board, gesso, tempera, gilding (source: Andrei
+      Sheptytskyi National Museum in Lviv)."
+  - slider_image: /assets/media/items/il_5_3.jpg
+    caption: "The Exaltation of The Holy Cross with the biblical scenes. 15th
+      century. From the church in Zdvyzhen (Poland). 152\\.5 x 117 cm. Board,
+      gesso, tempera, gilding (source: Andrei Sheptytskyi National Museum in
+      Lviv)."
+  - slider_image: /assets/media/items/il_6_1.jpg
+    caption: "The Last Judgment. 1662\\. From the church in Medenychi (Lviv region,
+      Ukraine). 307 х 257\\.5 cm Board, gesso, tempera, gilding (source: Andrei
+      Sheptytskyi National Museum in Lviv)."
 start_year: 1400
 end_year: 1700
+title_link: ""
 author: Roksolana Kosiv
 type:
-- Panel painting
+  - Panel painting
 locations:
-- Ukraine
+  - Ukraine
 subjects:
-- Religious object
-- Icon painting
+  - Religious object
+  - Icons
 latitude: 49.8430269
 longitude: 24.0279416
 make_public: true
