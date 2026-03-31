@@ -1,34 +1,37 @@
 ---
 title: The Gospel Lectionary Cover by Dimos
 slug: the-gospel-lectionary-cover-by-dimos
-title_link: ''
-item_image: /assets/media/items/GospelBook_Cover_-_Dimos_-_1673_-front.JPG
-item_image_caption: 'Front cover of Gospel book by the goldsmith Dimos, 1673, front
-  cover; wooden board, velvet, metallic plaques and stripes, partly gilt, enamel,
-  repoussé, filigree, Church of St Nicholas, Metaxochori, Aghia, Thessaly) (source:
-  project «Ecclesiastical Silver: Study and Documentation using Non\-Destructive Techniques
-  of Ecclesiastic Plate in Magnesia and Larissa Districts (15th \- 19th centuries)»
-  (MIS 5005968\), Y. Varalis and C. Dolmas)'
-slider_images:
-- slider_image: /assets/media/items/GospelBook_Cover_-_Dimos_-_1673_-_back_CQ3oN6F.JPG
-  caption: 'Back cover of Gospel book by the goldsmith Dimos, 1673, front cover; wooden
-    board, velvet, metallic plaques and stripes, partly gilt, enamel, repoussé, filigree,
-    Church of St Nicholas, Metaxochori, Aghia, Thessaly) (source: project «Ecclesiastical
-    Silver: Study and Documentation using Non\-Destructive Techniques of Ecclesiastic
-    Plate in Magnesia and Larissa Districts (15th \- 19th centuries)» (MIS 5005968\),
-    Y. Varalis and C. Dolmas)'
-start_year: 1673
-end_year: 1680
-author: Yannis D. Varalis and Constantine Dolmas
 type:
-- Metalwork
+  - Metalwork
 locations:
-- Greece
-subjects:
-- Religious object
-- The Crucifixion of Christ (Iconography)
+  - Greece
 latitude: 39.7249759
 longitude: 22.7413333
+item_image: /assets/media/items/GospelBook_Cover_-_Dimos_-_1673_-front.JPG
+item_image_caption: "Front cover of Gospel book by the goldsmith Dimos, 1673,
+  front cover; wooden board, velvet, metallic plaques and stripes, partly gilt,
+  enamel, repoussé, filigree, Church of St Nicholas, Metaxochori, Aghia,
+  Thessaly) (source: project «Ecclesiastical Silver: Study and Documentation
+  using Non\\-Destructive Techniques of Ecclesiastic Plate in Magnesia and
+  Larissa Districts (15th \\- 19th centuries)» (MIS 5005968\\), Y. Varalis and
+  C. Dolmas)"
+slider_images:
+  - slider_image: /assets/media/items/GospelBook_Cover_-_Dimos_-_1673_-_back_CQ3oN6F.JPG
+    caption: "Back cover of Gospel book by the goldsmith Dimos, 1673, front cover;
+      wooden board, velvet, metallic plaques and stripes, partly gilt, enamel,
+      repoussé, filigree, Church of St Nicholas, Metaxochori, Aghia, Thessaly)
+      (source: project «Ecclesiastical Silver: Study and Documentation using
+      Non\\-Destructive Techniques of Ecclesiastic Plate in Magnesia and Larissa
+      Districts (15th \\- 19th centuries)» (MIS 5005968\\), Y. Varalis and C.
+      Dolmas)"
+start_year: 1673
+end_year: 1680
+title_link: ""
+author: Yannis D. Varalis and Constantine Dolmas
+subjects:
+  - Religious object
+  - The Crucifixion of Christ (Iconography)
+  - Iconography
 make_public: true
 ---
 
