@@ -1,47 +1,51 @@
 ---
 title: The Zhovkva Iconostasis by Ivan Rutkovych
 slug: the-zhovkva-iconostasis-by-ivan-rutkovych
-title_link: ''
-item_image: /assets/media/items/il_1_2.jpg
-item_image_caption: 'Ivan Rutkovych (icons). Zhovkva iconostasis. 1697–99\. Reconstruction
-  by R. Zilinko, O. Lozynskyi, and O. Bryndikov. Andrei Sheptytskyi National Museum
-  in Lviv (source: Andrei Sheptytskyi National Museum in Lviv).'
-slider_images:
-- slider_image: /assets/media/items/il_2_2.jpg
-  caption: 'Ivan Rutkovych. Archangels Michael and Gabriel on the deacon doors of
-    the Zhovkva iconostasis. 1697–99\. Andrei Sheptytskyi National Museum in Lviv
-    (source: Andrei Sheptytskyi National Museum in Lviv).'
-- slider_image: /assets/media/items/il_3_2.jpg
-  caption: 'Ivan Rutkovych. Sts. Prince Volodymyr the Great and Emperor Constantine
-    the Great. Icons from the Deësis tier of the Zhovkva iconostasis. 1697–99\. Andrei
-    Sheptytskyi National Museum in Lviv (source: Andrei Sheptytskyi National Museum
-    in Lviv).'
-- slider_image: /assets/media/items/il_4_2.jpg
-  caption: 'Ivan Rutkovych. Christ in Glory. Icon from the additional tier of the
-    Zhovkva iconostasis. 1697–99\. Andrei Sheptytskyi National Museum in Lviv (source:
-    Andrei Sheptytskyi National Museum in Lviv).'
-- slider_image: /assets/media/items/il_5_2.jpg
-  caption: 'Ivan Rutkovych. Healing of the Paralytic. Icon from the Sunday\-Pentecostal
-    tier of the Zhovkva iconostasis. 1697–99\. Andrei Sheptytskyi National Museum
-    in Lviv (source: Andrei Sheptytskyi National Museum in Lviv).'
-- slider_image: /assets/media/items/il_6.jpg
-  caption: 'Ivan Rutkovych. Adam and St. John the Baptist. Icons from the prophetic
-    tier of the Zhovkva iconostasis. 1697–99\. Andrei Sheptytskyi National Museum
-    in Lviv (source: Andrei Sheptytskyi National Museum in Lviv).'
-start_year: 1690
-end_year: 1700
-author: Roksolana Kosiv
 type:
-- Monumental art
-- Panel painting
-- Woodwork
+  - Monumental art
+  - Panel painting
+  - Woodwork
 locations:
-- Ukraine
-subjects:
-- Religious object
-- The Crucifixion of Christ (Iconography)
+  - Ukraine
 latitude: 50.0579557727
 longitude: 23.9696468179
+item_image: /assets/media/items/il_1_2.jpg
+item_image_caption: "Ivan Rutkovych (icons). Zhovkva iconostasis. 1697–99\\.
+  Reconstruction by R. Zilinko, O. Lozynskyi, and O. Bryndikov. Andrei
+  Sheptytskyi National Museum in Lviv (source: Andrei Sheptytskyi National
+  Museum in Lviv)."
+slider_images:
+  - slider_image: /assets/media/items/il_2_2.jpg
+    caption: "Ivan Rutkovych. Archangels Michael and Gabriel on the deacon doors of
+      the Zhovkva iconostasis. 1697–99\\. Andrei Sheptytskyi National Museum in
+      Lviv (source: Andrei Sheptytskyi National Museum in Lviv)."
+  - slider_image: /assets/media/items/il_3_2.jpg
+    caption: "Ivan Rutkovych. Sts. Prince Volodymyr the Great and Emperor
+      Constantine the Great. Icons from the Deësis tier of the Zhovkva
+      iconostasis. 1697–99\\. Andrei Sheptytskyi National Museum in Lviv
+      (source: Andrei Sheptytskyi National Museum in Lviv)."
+  - slider_image: /assets/media/items/il_4_2.jpg
+    caption: "Ivan Rutkovych. Christ in Glory. Icon from the additional tier of the
+      Zhovkva iconostasis. 1697–99\\. Andrei Sheptytskyi National Museum in Lviv
+      (source: Andrei Sheptytskyi National Museum in Lviv)."
+  - slider_image: /assets/media/items/il_5_2.jpg
+    caption: "Ivan Rutkovych. Healing of the Paralytic. Icon from the
+      Sunday\\-Pentecostal tier of the Zhovkva iconostasis. 1697–99\\. Andrei
+      Sheptytskyi National Museum in Lviv (source: Andrei Sheptytskyi National
+      Museum in Lviv)."
+  - slider_image: /assets/media/items/il_6.jpg
+    caption: "Ivan Rutkovych. Adam and St. John the Baptist. Icons from the
+      prophetic tier of the Zhovkva iconostasis. 1697–99\\. Andrei Sheptytskyi
+      National Museum in Lviv (source: Andrei Sheptytskyi National Museum in
+      Lviv)."
+start_year: 1690
+end_year: 1700
+title_link: ""
+author: Roksolana Kosiv
+subjects:
+  - Religious object
+  - The Crucifixion of Christ (Iconography)
+  - Iconography
 make_public: true
 ---
 
