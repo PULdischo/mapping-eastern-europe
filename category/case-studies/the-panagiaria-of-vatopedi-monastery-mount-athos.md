@@ -1,45 +1,48 @@
 ---
 title: The Panagiaria of Vatopedi Monastery, Mount Athos (14th–16th centuries)
 slug: the-panagiaria-of-vatopedi-monastery-mount-athos
-title_link: ''
-item_image: /assets/media/items/Fig._1_YRRQJ81.JPG
-item_image_caption: Mount Athos, Monastery of Vatopedi, Panagiario, second half of
-  the 14th–early 15th century
-slider_images:
-- slider_image: /assets/media/items/Fig._2a.JPG
-  caption: 'Mount Athos, Monastery of Vatopedi, Panagiario, 15th century (source:
-    Ιερά Μεγίστη Μονή Βατοπεδίου. Εγκόλπια, Άγιον Όρος 2000, 232\-233\)'
-- slider_image: /assets/media/items/Fig._2b.JPG
-  caption: 'Mount Athos, Monastery of Vatopedi, Panagiario, 15th century (source:
-    Ιερά Μεγίστη Μονή Βατοπεδίου. Εγκόλπια, Άγιον Όρος 2000, 232\-233\)'
-- slider_image: /assets/media/items/Fig._3a.JPG
-  caption: Mount Athos, Monastery of Vatopedi, Panagiario, Gift of Great Comis of
-    Wallachia Neagoe (1510–11\)
-- slider_image: /assets/media/items/Fig._3b.JPG
-  caption: Mount Athos, Monastery of Vatopedi, Panagiario, Gift of Great Comis of
-    Wallachia Neagoe (1510–11\)
-- slider_image: /assets/media/items/Fig._4a.JPG
-  caption: 'Mount Athos, Monastery of Vatopedi, Panagiario, early 16th century (source:
-    Ιερά Μεγίστη Μονή Βατοπεδίου. Εγκόλπια, Άγιον Όρος 2000, 191, 193\)'
-- slider_image: /assets/media/items/Fig._4b.JPG
-  caption: 'Mount Athos, Monastery of Vatopedi, Panagiario, early 16th century (source:
-    Ιερά Μεγίστη Μονή Βατοπεδίου. Εγκόλπια, Άγιον Όρος 2000, 191, 193\)'
-- slider_image: /assets/media/items/Fig._5_GW6PHps.JPG
-  caption: Mount Athos, Monastery of Vatopedi, Panagiario, second half of the 16th
-    century
-start_year: 1300
-end_year: 1599
-author: Dimitris Liakos
 type:
-- Metalwork
-- Woodwork
+  - Metalwork
+  - Woodwork
 locations:
-- Greece
-subjects:
-- Religious object
-- Virgin Mary and Christ Child (Iconography)
+  - Greece
 latitude: 40.3147233
 longitude: 24.2098214
+item_image: /assets/media/items/Fig._1_YRRQJ81.JPG
+item_image_caption: Mount Athos, Monastery of Vatopedi, Panagiario, second half
+  of the 14th–early 15th century
+slider_images:
+  - slider_image: /assets/media/items/Fig._2a.JPG
+    caption: "Mount Athos, Monastery of Vatopedi, Panagiario, 15th century (source:
+      Ιερά Μεγίστη Μονή Βατοπεδίου. Εγκόλπια, Άγιον Όρος 2000, 232\\-233\\)"
+  - slider_image: /assets/media/items/Fig._2b.JPG
+    caption: "Mount Athos, Monastery of Vatopedi, Panagiario, 15th century (source:
+      Ιερά Μεγίστη Μονή Βατοπεδίου. Εγκόλπια, Άγιον Όρος 2000, 232\\-233\\)"
+  - slider_image: /assets/media/items/Fig._3a.JPG
+    caption: Mount Athos, Monastery of Vatopedi, Panagiario, Gift of Great Comis of
+      Wallachia Neagoe (1510–11\)
+  - slider_image: /assets/media/items/Fig._3b.JPG
+    caption: Mount Athos, Monastery of Vatopedi, Panagiario, Gift of Great Comis of
+      Wallachia Neagoe (1510–11\)
+  - slider_image: /assets/media/items/Fig._4a.JPG
+    caption: "Mount Athos, Monastery of Vatopedi, Panagiario, early 16th century
+      (source: Ιερά Μεγίστη Μονή Βατοπεδίου. Εγκόλπια, Άγιον Όρος 2000, 191,
+      193\\)"
+  - slider_image: /assets/media/items/Fig._4b.JPG
+    caption: "Mount Athos, Monastery of Vatopedi, Panagiario, early 16th century
+      (source: Ιερά Μεγίστη Μονή Βατοπεδίου. Εγκόλπια, Άγιον Όρος 2000, 191,
+      193\\)"
+  - slider_image: /assets/media/items/Fig._5_GW6PHps.JPG
+    caption: Mount Athos, Monastery of Vatopedi, Panagiario, second half of the 16th
+      century
+start_year: 1300
+end_year: 1599
+title_link: ""
+author: Dimitris Liakos
+subjects:
+  - Religious object
+  - Virgin Mary and Christ Child (Iconography)
+  - Iconography
 make_public: true
 ---
 
