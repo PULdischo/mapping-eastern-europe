@@ -1,29 +1,33 @@
 ---
 title: The Icon of Our Lady Skopiotissa, Savina Monastery
 slug: the-icon-of-our-lady-skopiotissa-savina-monastery
-title_link: ''
-item_image: /assets/media/items/Savina1.jpeg
-item_image_caption: 'Icon of Our Lady Skopiotissa, after 1647, tempera on wooden panel,
-  61,5 x 47,4 cm, Savina Monastery, Montenegro (source: M. Voulgaropoulou).'
-slider_images:
-- slider_image: /assets/media/items/Savina2_b6kcw4v.jpeg
-  caption: 'Our Lady Skopiotissa (detail: view of Zakynthos), after 1647, tempera
-    on wooden panel, 61,5 x 47,4 cm, Savina Monastery, Montenegro (source: M. Voulgaropoulou).'
-- slider_image: /assets/media/items/Savina3_GG5kqsK.jpeg
-  caption: 'Our Lady Skopiotissa (detail: the donor, Stefan Tomić), after 1647, tempera
-    on wooden panel, 61,5 x 47,4 cm, Savina Monastery, Montenegro (source: M. Voulgaropoulou).'
-start_year: 1647
-end_year: 1700
-author: Margarita Voulgaropoulou
 type:
-- Panel painting
+  - Panel painting
 locations:
-- Montenegro
-subjects:
-- Religious object
-- Virgin Mary and Christ Child (Iconography)
+  - Montenegro
 latitude: 42.4528377
 longitude: 18.550769
+item_image: /assets/media/items/Savina1.jpeg
+item_image_caption: "Icon of Our Lady Skopiotissa, after 1647, tempera on wooden
+  panel, 61,5 x 47,4 cm, Savina Monastery, Montenegro (source: M.
+  Voulgaropoulou)."
+slider_images:
+  - slider_image: /assets/media/items/Savina2_b6kcw4v.jpeg
+    caption: "Our Lady Skopiotissa (detail: view of Zakynthos), after 1647, tempera
+      on wooden panel, 61,5 x 47,4 cm, Savina Monastery, Montenegro (source: M.
+      Voulgaropoulou)."
+  - slider_image: /assets/media/items/Savina3_GG5kqsK.jpeg
+    caption: "Our Lady Skopiotissa (detail: the donor, Stefan Tomić), after 1647,
+      tempera on wooden panel, 61,5 x 47,4 cm, Savina Monastery, Montenegro
+      (source: M. Voulgaropoulou)."
+start_year: 1647
+end_year: 1700
+title_link: ""
+author: Margarita Voulgaropoulou
+subjects:
+  - Religious object
+  - Virgin Mary and Christ Child (Iconography)
+  - Iconography
 make_public: true
 ---
 
