@@ -1,32 +1,33 @@
 ---
 title: The Epitaphios of Cozia Monastery
 slug: the-epitaphios-of-cozia-monastery
-title_link: ''
-item_image: /assets/media/items/_DSC3842.jpg
-item_image_caption: 'Epitaphios, 1396, embroidery, Cozia Monastery, Romania, now in
-  the National Museum of Art of Romania (MNAR), Bucharest (source: MNAR)'
-slider_images:
-- slider_image: /assets/media/items/_MG_2612.JPG
-  caption: 'Detail of epitaphios, 1396, embroidery, Cozia Monastery, Romania, now
-    in the National Museum of Art of Romania (MNAR), Bucharest (source: MNAR)'
-- slider_image: /assets/media/items/_MG_2631.JPG
-  caption: 'Detail of epitaphios, 1396, embroidery, Cozia Monastery, Romania, now
-    in the National Museum of Art of Romania (MNAR), Bucharest (source: MNAR)'
-- slider_image: /assets/media/items/_MG_2675.JPG
-  caption: 'Detail of epitaphios, 1396, embroidery, Cozia Monastery, Romania, now
-    in the National Museum of Art of Romania (MNAR), Bucharest (source: MNAR)'
-start_year: 1350
-end_year: 1400
-author: Emanuela Cernea
 type:
-- Textile
+  - Textile
 locations:
-- Romania
-subjects:
-- Religious object
-- Threnos (Iconography)
+  - Romania
 latitude: 45.2716751
 longitude: 24.3157196
+item_image: /assets/media/items/_DSC3842.jpg
+item_image_caption: "Epitaphios, 1396, embroidery, Cozia Monastery, Romania, now
+  in the National Museum of Art of Romania (MNAR), Bucharest (source: MNAR)"
+slider_images:
+  - slider_image: /assets/media/items/_MG_2612.JPG
+    caption: "Detail of epitaphios, 1396, embroidery, Cozia Monastery, Romania, now
+      in the National Museum of Art of Romania (MNAR), Bucharest (source: MNAR)"
+  - slider_image: /assets/media/items/_MG_2631.JPG
+    caption: "Detail of epitaphios, 1396, embroidery, Cozia Monastery, Romania, now
+      in the National Museum of Art of Romania (MNAR), Bucharest (source: MNAR)"
+  - slider_image: /assets/media/items/_MG_2675.JPG
+    caption: "Detail of epitaphios, 1396, embroidery, Cozia Monastery, Romania, now
+      in the National Museum of Art of Romania (MNAR), Bucharest (source: MNAR)"
+start_year: 1350
+end_year: 1400
+title_link: ""
+author: Emanuela Cernea
+subjects:
+  - Religious object
+  - Threnos (Iconography)
+  - Iconography
 make_public: true
 ---
 
