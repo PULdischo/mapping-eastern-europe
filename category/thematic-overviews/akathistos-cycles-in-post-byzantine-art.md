@@ -1,43 +1,47 @@
 ---
 title: Akathistos Cycles in (post\-)Byzantine Art
 slug: akathistos-cycles-in-post-byzantine-art
-title_link: ''
 item_image: /assets/media/items/Markov1.jpg
-item_image_caption: Stropes 24, 1 and 2 of the Akathsistos cycle, 1376–1381, wall
-  painting, the Church of Saint Demetrius, Marko Monastery, North Macedonia (photograph
-  by byzantologist https://www.flickr.com/photos/189933228@N05/50642158573/)
+item_image_caption: Stropes 24, 1 and 2 of the Akathsistos cycle, 1376–1381,
+  wall painting, the Church of Saint Demetrius, Marko Monastery, North Macedonia
+  (photograph by byzantologist
+  https://www.flickr.com/photos/189933228@N05/50642158573/)
 slider_images:
-- slider_image: /assets/media/items/Markov2.jpg
-  caption: Strophe 23 of the Akathistos cycle, 1376–1381, wall painting, the Church
-    of Saint Demetrius, Marko Monastery, North Macedonia (photograph by byzantologist
-    https://www.flickr.com/photos/189933228@N05/50642914041/)
-- slider_image: /assets/media/items/Serbian.jpg
-  caption: 'Strophes 22, 23, 24 of the Akathistos cycle, 1396–1410, manuscript illumination,
-    Munich Serbian Psalter, The Bavarian State Library (Cod. Slav 4\), Munich, Germany
-    (Reproduced in: Strzygowski, Josef. Die Miniaturen des serbischen Psalters der
-    königl. Hof\- und Staatsbibliothek in München. Wien, 1906\.)'
-- slider_image: /assets/media/items/Akathistos_01.jpg
-  caption: 'Akathistos cycle, 1567–68, wall painting, the Church of Archangels, Dochiariou
-    Monastery, Mount Athos, Greece (Reproduced in: Millet, Gabriel. Monuments de l''Athos.
-    Paris: Librairie Ernest Leroux, 1927\).'
-- slider_image: /assets/media/items/Akathistos_02.jpg
-  caption: Akathistos cycle, 1537, wall painting, the Church of Annunciation, Moldovița
-    Monastery, Suceava County, Romania (photograph by the author).
-- slider_image: /assets/media/items/Akathistos_03.jpg
-  caption: Strophes 1, 2/3, 4, 5 of the Akathistos cycle, 1627, print on paper, Triodion,
-    printed in the Cave Monastery, Kyiv, Ukraine (photograph by Oksana Sadova).
+  - slider_image: /assets/media/items/Markov2.jpg
+    caption: Strophe 23 of the Akathistos cycle, 1376–1381, wall painting, the
+      Church of Saint Demetrius, Marko Monastery, North Macedonia (photograph by
+      byzantologist https://www.flickr.com/photos/189933228@N05/50642914041/)
+  - slider_image: /assets/media/items/Serbian.jpg
+    caption: "Strophes 22, 23, 24 of the Akathistos cycle, 1396–1410, manuscript
+      illumination, Munich Serbian Psalter, The Bavarian State Library (Cod.
+      Slav 4\\), Munich, Germany (Reproduced in: Strzygowski, Josef. Die
+      Miniaturen des serbischen Psalters der königl. Hof\\- und Staatsbibliothek
+      in München. Wien, 1906\\.)"
+  - slider_image: /assets/media/items/Akathistos_01.jpg
+    caption: "Akathistos cycle, 1567–68, wall painting, the Church of Archangels,
+      Dochiariou Monastery, Mount Athos, Greece (Reproduced in: Millet, Gabriel.
+      Monuments de l'Athos. Paris: Librairie Ernest Leroux, 1927\\)."
+  - slider_image: /assets/media/items/Akathistos_02.jpg
+    caption: Akathistos cycle, 1537, wall painting, the Church of Annunciation,
+      Moldovița Monastery, Suceava County, Romania (photograph by the author).
+  - slider_image: /assets/media/items/Akathistos_03.jpg
+    caption: Strophes 1, 2/3, 4, 5 of the Akathistos cycle, 1627, print on paper,
+      Triodion, printed in the Cave Monastery, Kyiv, Ukraine (photograph by
+      Oksana Sadova).
 start_year: 1261
 end_year: 1453
+title_link: ""
 author: Nazar Kozak
 type:
-- Manuscript
-- Wall painting
+  - Manuscript
+  - Wall painting
 locations:
-- Republic of North Macedonia
+  - Republic of North Macedonia
 subjects:
-- Akathistos cycles
-- Icons
-- Akathistos hymn to the Mother of God
+  - Akathistos cycles (Iconography)
+  - Icons
+  - Akathistos hymn to the Mother of God
+  - Iconography
 latitude: 41.8991465
 longitude: 21.4094525
 make_public: true
