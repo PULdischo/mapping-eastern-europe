@@ -1,54 +1,67 @@
 ---
 title: The Man of Sorrows in the Chancel of the Fortified Church at Dârlos
 slug: the-man-of-sorrows-in-the-chancel-of-the-fortified
-title_link: ''
-item_image: /assets/media/items/3_1.JPG
-item_image_caption: 'The iconography of the southern wall: Vir Dolorum, Sts. Stephen
-  and Ladislas, Sts. Constantine and Helena flanking the True Cross, and the cycle
-  of St. Catherine of Alexandria, Dârlos Romania, 15th century (source: M. D. Anghel)'
-slider_images:
-- slider_image: /assets/media/items/1_YfI8JCc.jpg
-  caption: 'General view of the pentagonal sanctuary, the fortified church at Dârlos,
-    Romania, 14th–15th centuries (source: M. Mihail)'
-- slider_image: /assets/media/items/3_XxeXNkb.JPG
-  caption: 'The Man of Sorrows and the Holy Kings of Hungary, sedilia, the fortified
-    church at Dârlos Romania, 15th century (source: M. Anghel)'
-- slider_image: /assets/media/items/5_RQYhIgh.jpg
-  caption: 'The Man of Sorrows (detail), sedilia, Dârlos, Romania, 15th century (source:
-    M. Mihail)'
-- slider_image: /assets/media/items/61.jpg
-  caption: 'The Man of Sorrows, bilateral icon, Metropolis of Kastoria, Greece, 12th
-    century (source: [https://orthodoxartsjournal.org/notes\-from\-the\-road\-review\-of\-heaven\-and\-earth\-art\-of\-byzantium\-at\-the\-national\-gallery/](https://orthodoxartsjournal.org/notes-from-the-road-review-of-heaven-and-earth-art-of-byzantium-at-the-national-gallery/))'
-- slider_image: /assets/media/items/71.jpg
-  caption: 'The Man of Sorrows, micromosaic, Santa Croce in Gerusalemme, Rome, 14th
-    century (source: [https://cb5116\.omeka.fas.harvard.edu/exhibits/show/man\_of\_sorrows\_evolution/gerusalemme](https://cb5116.omeka.fas.harvard.edu/exhibits/show/man_of_sorrows_evolution/gerusalemme))'
-- slider_image: /assets/media/items/8_1.jpg
-  caption: 'The enlivened Man of Sorrows, apse of the prothesis, The Kalenić Monastery,
-    Serbia, ca. 1418 (source: [https://docplayer.net/51449648\-Jerusalem\-as\-narrative\-space\-erzahlraum\-jerusalem.html](https://docplayer.net/51449648-Jerusalem-as-narrative-space-erzahlraum-jerusalem.html))'
-- slider_image: /assets/media/items/10.JPG
-  caption: 'Sts. Stephen and Ladislas in the sedilia, surmounted by the ‘Living Cross’,
-    frescoes in the process of restoration, the Evangelical church at Șmig, Romania,
-    15th century (source: M. Anghel)'
-- slider_image: /assets/media/items/11.jpg
-  caption: 'Saintly kings, sedilia, Westminster Abbey, London, 1307 (source: https://www.wmf.org/project/westminster\-abbey\-sedilia)'
-- slider_image: /assets/media/items/4_1.JPG
-  caption: 'The Man of Sorrows, sedilia, the fortified church at Dârlos, Romania,
-    15th century (source: M. Anghel)'
-- slider_image: /assets/media/items/9_bqWyowu.JPG
-  caption: 'The enlivened Man of Sorrows, the Evangelical church at Nemșa, Romania,
-    15th century (source: M. Anghel)'
-start_year: 1400
-end_year: 1499
-author: Maria D. Anghel
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Romania
-subjects:
-- Artistic eclecticism
-- The Man of Sorrows (Iconography)
+  - Romania
 latitude: 46.1891908
 longitude: 24.4106293
+item_image: /assets/media/items/3_1.JPG
+item_image_caption: "The iconography of the southern wall: Vir Dolorum, Sts.
+  Stephen and Ladislas, Sts. Constantine and Helena flanking the True Cross, and
+  the cycle of St. Catherine of Alexandria, Dârlos Romania, 15th century
+  (source: M. D. Anghel)"
+slider_images:
+  - slider_image: /assets/media/items/1_YfI8JCc.jpg
+    caption: "General view of the pentagonal sanctuary, the fortified church at
+      Dârlos, Romania, 14th–15th centuries (source: M. Mihail)"
+  - slider_image: /assets/media/items/3_XxeXNkb.JPG
+    caption: "The Man of Sorrows and the Holy Kings of Hungary, sedilia, the
+      fortified church at Dârlos Romania, 15th century (source: M. Anghel)"
+  - slider_image: /assets/media/items/5_RQYhIgh.jpg
+    caption: "The Man of Sorrows (detail), sedilia, Dârlos, Romania, 15th century
+      (source: M. Mihail)"
+  - slider_image: /assets/media/items/61.jpg
+    caption: "The Man of Sorrows, bilateral icon, Metropolis of Kastoria, Greece,
+      12th century (source:
+      [https://orthodoxartsjournal.org/notes\\-from\\-the\\-road\\-review\\-of\
+      \\-heaven\\-and\\-earth\\-art\\-of\\-byzantium\\-at\\-the\\-national\\-ga\
+      llery/](https://orthodoxartsjournal.org/notes-from-the-road-review-of-hea\
+      ven-and-earth-art-of-byzantium-at-the-national-gallery/))"
+  - slider_image: /assets/media/items/71.jpg
+    caption: "The Man of Sorrows, micromosaic, Santa Croce in Gerusalemme, Rome,
+      14th century (source:
+      [https://cb5116\\.omeka.fas.harvard.edu/exhibits/show/man\\_of\\_sorrows\
+      \\_evolution/gerusalemme](https://cb5116.omeka.fas.harvard.edu/exhibits/s\
+      how/man_of_sorrows_evolution/gerusalemme))"
+  - slider_image: /assets/media/items/8_1.jpg
+    caption: "The enlivened Man of Sorrows, apse of the prothesis, The Kalenić
+      Monastery, Serbia, ca. 1418 (source:
+      [https://docplayer.net/51449648\\-Jerusalem\\-as\\-narrative\\-space\\-er\
+      zahlraum\\-jerusalem.html](https://docplayer.net/51449648-Jerusalem-as-na\
+      rrative-space-erzahlraum-jerusalem.html))"
+  - slider_image: /assets/media/items/10.JPG
+    caption: "Sts. Stephen and Ladislas in the sedilia, surmounted by the ‘Living
+      Cross’, frescoes in the process of restoration, the Evangelical church at
+      Șmig, Romania, 15th century (source: M. Anghel)"
+  - slider_image: /assets/media/items/11.jpg
+    caption: "Saintly kings, sedilia, Westminster Abbey, London, 1307 (source:
+      https://www.wmf.org/project/westminster\\-abbey\\-sedilia)"
+  - slider_image: /assets/media/items/4_1.JPG
+    caption: "The Man of Sorrows, sedilia, the fortified church at Dârlos, Romania,
+      15th century (source: M. Anghel)"
+  - slider_image: /assets/media/items/9_bqWyowu.JPG
+    caption: "The enlivened Man of Sorrows, the Evangelical church at Nemșa,
+      Romania, 15th century (source: M. Anghel)"
+start_year: 1400
+end_year: 1499
+title_link: ""
+author: Maria D. Anghel
+subjects:
+  - Artistic eclecticism
+  - The Man of Sorrows (Iconography)
+  - Iconography
 make_public: true
 ---
 
