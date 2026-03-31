@@ -1,43 +1,44 @@
 ---
 title: Antimensia in the Danubian Principalities
 slug: antimensia-in-the-danubian-principalities
-title_link: ''
 item_image: /assets/media/items/6._The_Antimension_of_Pachomios_of_Gledin.jpeg
-item_image_caption: 'The antimension of Pachomios of Gledin (1714\). (source: Neamț
-  Monastery)'
+item_image_caption: "The antimension of Pachomios of Gledin (1714\\). (source: Neamț Monastery)"
 slider_images:
-- slider_image: /assets/media/items/1._The_Antimension_of_Luke.jpg
-  caption: 'The antimension of Luke (1604\), Brădet, Argeș. (source: from Iorga 1935\)'
-- slider_image: /assets/media/items/2._The_Antimension_of_Steven_I_1.jpg
-  caption: 'The antimension of Steven I (1650\). (source: from Chițulescu 2022\)'
-- slider_image: /assets/media/items/3._The_Antimension_of_Steven_I_2.JPG
-  caption: 'The antimension of Steven I (1657\), Vlădești, Argeș. (source: The Romanian
-    National Museum of Art)'
-- slider_image: /assets/media/items/4._The_Antimension_of_Antim.jpg
-  caption: 'The antimension of Antim of Iviria (after 1708\). (source: The Museum
-    of Antim Monastery)'
-- slider_image: /assets/media/items/5._The_Antimension_of_Barlaam.jpg
-  caption: 'The antimension of Varlaam (1648\). (source: from Ivan 1968\)'
-- slider_image: /assets/media/items/7._The_Antimension_of_Jacob_of_Putna.jpeg
-  caption: 'The antimension of Jacob of Putna (1753\). (source: Neamț Monastery)'
-- slider_image: /assets/media/items/8._The_Antimension_of_Jeremiah_Tissarowsky_1632.jpg
-  caption: 'The antimension of Jeremiah Tissarowsky (1632\), Poienele Izei, Maramureș.
-    (source: The Archbishopric of Arad)'
+  - slider_image: /assets/media/items/1._The_Antimension_of_Luke.jpg
+    caption: "The antimension of Luke (1604\\), Brădet, Argeș. (source: from Iorga
+      1935\\)"
+  - slider_image: /assets/media/items/2._The_Antimension_of_Steven_I_1.jpg
+    caption: "The antimension of Steven I (1650\\). (source: from Chițulescu 2022\\)"
+  - slider_image: /assets/media/items/3._The_Antimension_of_Steven_I_2.JPG
+    caption: "The antimension of Steven I (1657\\), Vlădești, Argeș. (source: The
+      Romanian National Museum of Art)"
+  - slider_image: /assets/media/items/4._The_Antimension_of_Antim.jpg
+    caption: "The antimension of Antim of Iviria (after 1708\\). (source: The Museum
+      of Antim Monastery)"
+  - slider_image: /assets/media/items/5._The_Antimension_of_Barlaam.jpg
+    caption: "The antimension of Varlaam (1648\\). (source: from Ivan 1968\\)"
+  - slider_image: /assets/media/items/7._The_Antimension_of_Jacob_of_Putna.jpeg
+    caption: "The antimension of Jacob of Putna (1753\\). (source: Neamț Monastery)"
+  - slider_image: /assets/media/items/8._The_Antimension_of_Jeremiah_Tissarowsky_1632.jpg
+    caption: "The antimension of Jeremiah Tissarowsky (1632\\), Poienele Izei,
+      Maramureș. (source: The Archbishopric of Arad)"
 start_year: 1201
 end_year: 1700
+title_link: ""
 author: Octavian-Adrian Negoiță
 type:
-- Textile
+  - Textile
 locations:
-- Romania
+  - Romania
 subjects:
-- Artistic eclecticism
-- Religious object
-- Antimensia
-- Epitaphios
-- Liturgy
-- eileton
-- The Lamentation (iconography)
+  - Artistic eclecticism
+  - Religious object
+  - Antimensia
+  - Epitaphios
+  - Liturgy
+  - eileton
+  - The Lamentation (iconography)
+  - Iconography
 latitude: 46.0016201486
 longitude: 24.9317177125
 make_public: true
