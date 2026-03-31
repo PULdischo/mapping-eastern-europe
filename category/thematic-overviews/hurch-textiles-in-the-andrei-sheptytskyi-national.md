@@ -1,44 +1,46 @@
 ---
 title: Сhurch Textiles in the Andrei Sheptytskyi National Museum in Lviv
-slug: hurch-textiles-in-the-andrei-sheptytskyi-national
-title_link: ''
+slug: church-textiles-in-the-andrei-sheptytskyi-national
 item_image: /assets/media/items/il_5_1.jpg
-item_image_caption: 'Liturgical veil for the chalice. Provenance unknown. Kyiv workshop.
-  Silk, embroidery with metal (golden and silver) and silk threads (source: Andrei
-  Sheptytskyi National Museum in Lviv).'
+item_image_caption: "Liturgical veil for the chalice. Provenance unknown. Kyiv
+  workshop. Silk, embroidery with metal (golden and silver) and silk threads
+  (source: Andrei Sheptytskyi National Museum in Lviv)."
 slider_images:
-- slider_image: /assets/media/items/il_1_1.jpg
-  caption: 'The Deësis. 15th century. From St. Nicholas church in Zolochiv (Lviv region,
-    Ukraine). Silk, embroidery with silk, metal (golden and silver) threads (source:
-    Andrei Sheptytskyi National Museum in Lviv).'
-- slider_image: /assets/media/items/il_2_1.jpg
-  caption: 'Cape. Second half of the 17th century. From the Armenian cathedral in
-    Lviv. Lviv workshop (?). Velvet, embroidery with metal (golden and silver) and
-    silk threads, oil painting (source: Andrei Sheptytskyi National Museum in Lviv).'
-- slider_image: /assets/media/items/il_3_1.jpg
-  caption: 'Epitrachelion. 1643\. Provenance unknown. Moldavian workshop. Velvet,
-    embroidery with metal (golden and silver) and silk threads (source: Andrei Sheptytskyi
-    National Museum in Lviv).'
-- slider_image: /assets/media/items/il_4_1.jpg
-  caption: 'Embroidery from an omophorion (?). First half of the 17th century. From
-    the church in the village of Porokhnyk. Kyiv workshop (?). Silk, embroidery with
-    metal (golden and silver) and silk threads (source: Andrei Sheptytskyi National
-    Museum in Lviv).'
-- slider_image: /assets/media/items/il_6__1.jpg
-  caption: 'Liturgical veils for the chalice and paten. Late 17th century. Provenance
-    unknown. Kyiv workshop. Velvet, embroidery with metal (golden and silver) and
-    silk threads (source: Andrei Sheptytskyi National Museum in Lviv).'
+  - slider_image: /assets/media/items/il_1_1.jpg
+    caption: "The Deësis. 15th century. From St. Nicholas church in Zolochiv (Lviv
+      region, Ukraine). Silk, embroidery with silk, metal (golden and silver)
+      threads (source: Andrei Sheptytskyi National Museum in Lviv)."
+  - slider_image: /assets/media/items/il_2_1.jpg
+    caption: "Cape. Second half of the 17th century. From the Armenian cathedral in
+      Lviv. Lviv workshop (?). Velvet, embroidery with metal (golden and silver)
+      and silk threads, oil painting (source: Andrei Sheptytskyi National Museum
+      in Lviv)."
+  - slider_image: /assets/media/items/il_3_1.jpg
+    caption: "Epitrachelion. 1643\\. Provenance unknown. Moldavian workshop. Velvet,
+      embroidery with metal (golden and silver) and silk threads (source: Andrei
+      Sheptytskyi National Museum in Lviv)."
+  - slider_image: /assets/media/items/il_4_1.jpg
+    caption: "Embroidery from an omophorion (?). First half of the 17th century.
+      From the church in the village of Porokhnyk. Kyiv workshop (?). Silk,
+      embroidery with metal (golden and silver) and silk threads (source: Andrei
+      Sheptytskyi National Museum in Lviv)."
+  - slider_image: /assets/media/items/il_6__1.jpg
+    caption: "Liturgical veils for the chalice and paten. Late 17th century.
+      Provenance unknown. Kyiv workshop. Velvet, embroidery with metal (golden
+      and silver) and silk threads (source: Andrei Sheptytskyi National Museum
+      in Lviv)."
 start_year: 1299
 end_year: 1700
+title_link: ""
 author: Roksolana Kosiv
 type:
-- Textile
+  - Textile
 locations:
-- Ukraine
+  - Ukraine
 subjects:
-- Religious object
-- Icons
-- Religious architecture
+  - Religious object
+  - Icons
+  - Religious architecture
 latitude: 49.8330707
 longitude: 24.0282978
 make_public: true
