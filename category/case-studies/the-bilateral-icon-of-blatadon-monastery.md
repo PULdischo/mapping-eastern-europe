@@ -1,29 +1,30 @@
 ---
 title: The Bilateral Icon of Blatadon Monastery
 slug: the-bilateral-icon-of-blatadon-monastery
-title_link: ''
-item_image: /assets/media/items/Crucifixion_15th_C_Bilateral.JPG
-item_image_caption: 'Bilateral icon, late 15th century, inlaid icon, mid 14th century,
-  tempera and gold on wood, The Holy Monastery of Blatadon, Thessaloniki (source:
-  J. A. Rodriguez)'
-slider_images:
-- slider_image: /assets/media/items/Hierarchy_and_Inlaid_Icon.jpeg
-  caption: 'Bilateral icon, late 15th century, inlaid icon, mid 14th century, tempera
-    and gold on wood, The Holy Monastery of Blatadon, Thessalonike (source: J. A.
-    Rodriguez)'
-start_year: 1350
-end_year: 1499
-author: James A. Rodriguez
 type:
-- Panel painting
+  - Panel painting
 locations:
-- Greece
-subjects:
-- Religious object
-- The Crucifixion of Christ (Iconography)
-- Virgin Mary and Christ Child (Iconography)
+  - Greece
 latitude: 40.6410908
 longitude: 22.952845
+item_image: /assets/media/items/Crucifixion_15th_C_Bilateral.JPG
+item_image_caption: "Bilateral icon, late 15th century, inlaid icon, mid 14th
+  century, tempera and gold on wood, The Holy Monastery of Blatadon,
+  Thessaloniki (source: J. A. Rodriguez)"
+slider_images:
+  - slider_image: /assets/media/items/Hierarchy_and_Inlaid_Icon.jpeg
+    caption: "Bilateral icon, late 15th century, inlaid icon, mid 14th century,
+      tempera and gold on wood, The Holy Monastery of Blatadon, Thessalonike
+      (source: J. A. Rodriguez)"
+start_year: 1350
+end_year: 1499
+title_link: ""
+author: James A. Rodriguez
+subjects:
+  - Religious object
+  - The Crucifixion of Christ (Iconography)
+  - Virgin Mary and Christ Child (Iconography)
+  - Iconography
 make_public: true
 ---
 
