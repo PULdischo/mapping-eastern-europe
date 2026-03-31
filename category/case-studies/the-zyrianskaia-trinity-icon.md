@@ -1,26 +1,27 @@
 ---
 title: The Zyrianskaia Trinity Icon
 slug: the-zyrianskaia-trinity-icon
-title_link: ''
-item_image: /assets/media/items/zyrianskaia_troitsa_after_cleaning.jpg
-item_image_caption: Zyrianskaia Trinity Icon, 119\.3 x 73\.7 cm, late 14th century,
-  Vologda State Museum Reserve, inv. no. 2780
-slider_images:
-- slider_image: /assets/media/items/zyrianskaia_troitsa_inscription.jpg
-  caption: Zyrianskaia Trinity Icon, 119\.3 x 73\.7 cm, late 14th century, Vologda
-    State Museum Reserve, inv. no. 2780
-start_year: 1201
-end_year: 1700
-author: Justin Willson
 type:
-- Panel painting
+  - Panel painting
 locations:
-- Russia
-subjects:
-- Religious object
-- Abraham’s Hospitality (Iconography)
+  - Russia
 latitude: 62.0177428962
 longitude: 48.6935949326
+item_image: /assets/media/items/zyrianskaia_troitsa_after_cleaning.jpg
+item_image_caption: Zyrianskaia Trinity Icon, 119\.3 x 73\.7 cm, late 14th
+  century, Vologda State Museum Reserve, inv. no. 2780
+slider_images:
+  - slider_image: /assets/media/items/zyrianskaia_troitsa_inscription.jpg
+    caption: Zyrianskaia Trinity Icon, 119\.3 x 73\.7 cm, late 14th century, Vologda
+      State Museum Reserve, inv. no. 2780
+start_year: 1201
+end_year: 1700
+title_link: ""
+author: Justin Willson
+subjects:
+  - Religious object
+  - Abraham’s Hospitality (Iconography)
+  - Iconography
 make_public: true
 ---
 
