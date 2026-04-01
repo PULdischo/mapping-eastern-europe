@@ -20,6 +20,7 @@ subjects:
   - Religious object
   - Michael the Archangel (Iconography)
   - Iconography
+  - Icons
 make_public: true
 ---
 
