@@ -1,40 +1,42 @@
 ---
 title: Ali Bey Mosque in Timișoara
 slug: ali-bey-mosque-in-timisoara
-title_link: ''
-item_image: /assets/media/items/Fig._1_VPZNAXj.jpg
-item_image_caption: 'Ali Bey Mosque (red arrow) on the plan of Timișoara made by François
-  Perrette in 1716; (source: Opriș 2007, 19\)'
-slider_images:
-- slider_image: /assets/media/items/Fig._3_bJ8yhlG.jpg
-  caption: '1a,b: Ruins of the Ali Bey Mosque. Details with the niche on the south
-    side; 2: Foundation of the mosque; 3: The floor inside the mosque; (source: Gașpar
-    2023, Fig. 7\. 1a, b, 3\-4\)'
-- slider_image: /assets/media/items/Fig._4_Xf32fMR.jpg
-  caption: 'The plan of the Ali Bey Mosque, with the outline of the archaeologically
-    discovered walls (topographic plan); (source: Gașpar 2023, Fig. 7\. 2\)'
-- slider_image: /assets/media/items/Fig._5_yq6OBSn.jpg
-  caption: '1a, b, 2a, b: Ottoman smoking pipe (2nd half of the 17th century); 3a,
-    b: Ottoman smoking pipe (17th century); 4a, b: Bone handle (2nd half of the 16th
-    century–end of the 17th century); 5a, b: Chinese porcelain cup (1st half of the
-    17th century); 6a, b: Cup\-shaped stove tiles (16th–17th centuries) (photos by
-    A. Gașpar). (source: Gașpar 2023, Fig. 8\)'
-- slider_image: /assets/media/items/Fig._2_KMMSip4.jpg
-  caption: '1: Timișoara on the map of Romania; 2: Timișoara Fortress units and archaeological
-    campaigns (overlay and graphic processing by A. Gașpar); (source: Gașpar 2023,
-    Fig. 1\.1\-2\)'
-start_year: 1540
-end_year: 1700
-author: Adriana Gașpar
 type:
-- Architecture
+  - Architecture
 locations:
-- Romania
-subjects:
-- mosque
-- Ottoman
+  - Romania
 latitude: 45.7564448549
 longitude: 21.2279370444
+item_image: /assets/media/items/Fig._1_VPZNAXj.jpg
+item_image_caption: "Ali Bey Mosque (red arrow) on the plan of Timișoara made by
+  François Perrette in 1716; (source: Opriș 2007, 19\\)"
+slider_images:
+  - slider_image: /assets/media/items/Fig._3_bJ8yhlG.jpg
+    caption: "1a,b: Ruins of the Ali Bey Mosque. Details with the niche on the south
+      side; 2: Foundation of the mosque; 3: The floor inside the mosque;
+      (source: Gașpar 2023, Fig. 7\\. 1a, b, 3\\-4\\)"
+  - slider_image: /assets/media/items/Fig._4_Xf32fMR.jpg
+    caption: "The plan of the Ali Bey Mosque, with the outline of the
+      archaeologically discovered walls (topographic plan); (source: Gașpar
+      2023, Fig. 7\\. 2\\)"
+  - slider_image: /assets/media/items/Fig._5_yq6OBSn.jpg
+    caption: "1a, b, 2a, b: Ottoman smoking pipe (2nd half of the 17th century); 3a,
+      b: Ottoman smoking pipe (17th century); 4a, b: Bone handle (2nd half of
+      the 16th century–end of the 17th century); 5a, b: Chinese porcelain cup
+      (1st half of the 17th century); 6a, b: Cup\\-shaped stove tiles (16th–17th
+      centuries) (photos by A. Gașpar). (source: Gașpar 2023, Fig. 8\\)"
+  - slider_image: /assets/media/items/Fig._2_KMMSip4.jpg
+    caption: "1: Timișoara on the map of Romania; 2: Timișoara Fortress units and
+      archaeological campaigns (overlay and graphic processing by A. Gașpar);
+      (source: Gașpar 2023, Fig. 1\\.1\\-2\\)"
+start_year: 1540
+end_year: 1700
+title_link: ""
+author: Adriana Gașpar
+subjects:
+  - Mosque
+  - Ottoman
+  - Religious architecture
 make_public: true
 ---
 
