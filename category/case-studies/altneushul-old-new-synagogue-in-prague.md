@@ -1,21 +1,23 @@
 ---
 title: Altneushul (Old\-New Synagogue) in Prague
 slug: altneushul-old-new-synagogue-in-prague
-title_link: ''
+type:
+  - Architecture
+locations:
+  - Czechia
+latitude: 50.0900716
+longitude: 14.4186049
 item_image: /assets/media/items/Prague_Praha_2014_Holmstad_Den_gammelnye_synagogen.jpg
-item_image_caption: 'Altneushul (Old\-New Synagogue) in Prague (source: Øyvind Holmstad
-  / Wikimedia Commons)'
+item_image_caption: "Altneushul (Old\\-New Synagogue) in Prague (source: Øyvind
+  Holmstad / Wikimedia Commons)"
 slider_images: []
 start_year: 1201
 end_year: 1700
+title_link: ""
 author: Samuel D. Gruber and Carol Herselle Krinsky with Diane Wolfthal
-type:
-- Architecture
-locations:
-- Czechia
-subjects: []
-latitude: 50.0900716
-longitude: 14.4186049
+subjects:
+  - Synagogue
+  - Religious architecture
 make_public: true
 ---
 
