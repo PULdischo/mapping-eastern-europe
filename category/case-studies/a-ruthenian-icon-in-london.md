@@ -1,16 +1,12 @@
 ---
-end_year: 1500
-title_link: ""
 title: A Ruthenian Icon in London
 slug: a-ruthenian-icon-in-london
-author: Georgi Parpulov
 type:
   - Tempera on wood
 locations:
   - Republic of Moldova
   - Poland
   - Lithuania
-subjects: []
 latitude: 49.7833008
 longitude: 22.7665148
 item_image: /assets/media/items/Parpulov.jpg
@@ -19,10 +15,16 @@ item_image_caption: "Icon of the Virgin and Child with Archangels (Virgin
   Courtauld Trust), inv. P.1932.SC.386. (Source: artuk.org)"
 slider_images: []
 start_year: 1450
+end_year: 1500
+title_link: ""
+author: Georgi Parpulov
+subjects:
+  - Icons
+  - Virgin Mary and Christ Child (Iconography)
+  - Ruthenia
 make_public: true
 ---
-
-*By Georgi Parpulov | Akademie der Wissenschaften zu Göttingen*\
+*By Georgi Parpulov | Akademie der Wissenschaften zu Göttingen*
 
 **Description** 
 
