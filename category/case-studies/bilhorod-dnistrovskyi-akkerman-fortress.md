@@ -35,6 +35,7 @@ author: Viktor Filas
 subjects:
   - Artistic eclecticism
   - Fortress
+  - Military history
 make_public: true
 ---
 
