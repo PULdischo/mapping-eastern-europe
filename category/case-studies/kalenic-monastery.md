@@ -1,41 +1,42 @@
 ---
 title: Kalenić Monastery
 slug: kalenic-monastery
-title_link: ''
-item_image: /assets/media/items/004.jpg
-item_image_caption: 'Kalenić monastery, Church of the Presentation of Virgin, window
-  on the northern wall of the naos (source: I. Stevović)'
-slider_images:
-- slider_image: /assets/media/items/001.JPG
-  caption: 'Kalenić monastery, Church of the Presentation of Virgin, exterior looking
-    southeast (source: I. Stevović)'
-- slider_image: /assets/media/items/002.JPG
-  caption: 'Kalenić monastery, Church of the Presentation of Virgin, upper zone of
-    the apse (source: I. Stevović)'
-- slider_image: /assets/media/items/003.JPG
-  caption: 'Kalenić monastery, Church of the Presentation of Virgin, rosette and curved
-    decoration on the southern wall of nartex (source: I. Stevović)'
-- slider_image: /assets/media/items/005Wedding_at_Cana_photo_Branislav_Cvetkovic_1.JPG
-  caption: 'Kalenić monastery, Church of the Presentation of Virgin, Wedding at Cana,
-    fresco (source: B. Cvetković)'
-- slider_image: /assets/media/items/006_Saint_Theodosius_Koinoviarhos.jpg
-  caption: 'Kalenić monastery, Church of the Presentation of Virgin, Saint Theodosios
-    Koinoviarhos, fresco (source: B. Cvetković)'
-- slider_image: /assets/media/items/Kalenic_ground_plan_and_section.jpg
-  caption: Kalenić monastery, Church of the Presentation of Virgin, ground and section
-    plan
-start_year: 1400
-end_year: 1415
-author: Ivan Stevović
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Serbia
-subjects:
-- Stefan Lazarević (Despot)
-- Bogdan (protovestiarios)
+  - Serbia
 latitude: 43.7725052
 longitude: 20.9917453
+item_image: /assets/media/items/004.jpg
+item_image_caption: "Kalenić monastery, Church of the Presentation of Virgin,
+  window on the northern wall of the naos (source: I. Stevović)"
+slider_images:
+  - slider_image: /assets/media/items/001.JPG
+    caption: "Kalenić monastery, Church of the Presentation of Virgin, exterior
+      looking southeast (source: I. Stevović)"
+  - slider_image: /assets/media/items/002.JPG
+    caption: "Kalenić monastery, Church of the Presentation of Virgin, upper zone of
+      the apse (source: I. Stevović)"
+  - slider_image: /assets/media/items/003.JPG
+    caption: "Kalenić monastery, Church of the Presentation of Virgin, rosette and
+      curved decoration on the southern wall of nartex (source: I. Stevović)"
+  - slider_image: /assets/media/items/005Wedding_at_Cana_photo_Branislav_Cvetkovic_1.JPG
+    caption: "Kalenić monastery, Church of the Presentation of Virgin, Wedding at
+      Cana, fresco (source: B. Cvetković)"
+  - slider_image: /assets/media/items/006_Saint_Theodosius_Koinoviarhos.jpg
+    caption: "Kalenić monastery, Church of the Presentation of Virgin, Saint
+      Theodosios Koinoviarhos, fresco (source: B. Cvetković)"
+  - slider_image: /assets/media/items/Kalenic_ground_plan_and_section.jpg
+    caption: Kalenić monastery, Church of the Presentation of Virgin, ground and
+      section plan
+start_year: 1400
+end_year: 1415
+title_link: ""
+author: Ivan Stevović
+subjects:
+  - Stefan Lazarević (Despot)
+  - Bogdan (protovestiarios)
+  - Religious architecture
 make_public: true
 ---
 
