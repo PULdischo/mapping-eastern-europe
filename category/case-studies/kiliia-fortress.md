@@ -28,6 +28,8 @@ title_link: ""
 author: Viktor Filas
 subjects:
   - Fortress
+  - Military history
+  - Ottoman
 make_public: true
 ---
 
