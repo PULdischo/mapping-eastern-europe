@@ -9,7 +9,8 @@ locations:
 subjects:
   - Halych
   - Castle
-  - Religious architecture
+  - Fortress
+  - Military history
 latitude: 49.121667
 longitude: 24.730278
 item_image: /assets/img/41.jpg
