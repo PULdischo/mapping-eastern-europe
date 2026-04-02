@@ -1,33 +1,35 @@
 ---
 title: Lesnovo Monastery
 slug: lesnovo-monastery
-title_link: ''
-item_image: /assets/media/items/lesnovo2.jpg
-item_image_caption: 'St. Michael Archangel katholikon of Lesnovo Monastery, the view
-  of the northern wall, the donor portrait of Jovan Oliver with St. Archangel Michael,
-  1341–43 (source: A. Adashinskaya)'
-slider_images:
-- slider_image: /assets/media/items/lesnovo1.jpg
-  caption: 'St. Michael Archangel katholikon of Lesnovo Monastery, the view of the
-    sanctuary, Christ as a serving priest and the Communion of Apostles, 1341–43 (source:
-    A. Adashinskaya)'
-- slider_image: /assets/media/items/lesnovo.jpg
-  caption: 'St. Michael Archangel katholikon of Lesnovo Monastery, the view from south\-west,
-    1341–49 (source: @Ivica Ivanovski <https://www.flickr.com/photos/117511528@N03/>)'
-- slider_image: /assets/media/items/Lesnovo4.jpg
-  caption: 'St. Michael Archangel katholikon of Lesnovo Monastery, the ground plan
-    (source: Gabelić, Manastir Lesnovo: istorija i slikarstvo)'
-start_year: 1330
-end_year: 1350
-author: Anna Adashinskaya
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Republic of North Macedonia
-subjects:
-- Jovan Oliver (Despot)
+  - Republic of North Macedonia
 latitude: 42.0132481
 longitude: 22.2282922
+item_image: /assets/media/items/lesnovo2.jpg
+item_image_caption: "St. Michael Archangel katholikon of Lesnovo Monastery, the
+  view of the northern wall, the donor portrait of Jovan Oliver with St.
+  Archangel Michael, 1341–43 (source: A. Adashinskaya)"
+slider_images:
+  - slider_image: /assets/media/items/lesnovo1.jpg
+    caption: "St. Michael Archangel katholikon of Lesnovo Monastery, the view of the
+      sanctuary, Christ as a serving priest and the Communion of Apostles,
+      1341–43 (source: A. Adashinskaya)"
+  - slider_image: /assets/media/items/lesnovo.jpg
+    caption: "St. Michael Archangel katholikon of Lesnovo Monastery, the view from
+      south\\-west, 1341–49 (source: @Ivica Ivanovski
+      <https://www.flickr.com/photos/117511528@N03/>)"
+  - slider_image: /assets/media/items/Lesnovo4.jpg
+    caption: "St. Michael Archangel katholikon of Lesnovo Monastery, the ground plan
+      (source: Gabelić, Manastir Lesnovo: istorija i slikarstvo)"
+start_year: 1330
+end_year: 1350
+title_link: ""
+author: Anna Adashinskaya
+subjects:
+  - Jovan Oliver (Despot)
+  - Religious architecture
 make_public: true
 ---
 
