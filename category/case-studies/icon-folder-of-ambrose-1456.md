@@ -4,7 +4,6 @@ slug: icon-folder-of-ambrose-1456
 type:
   - Metalwork
   - Sculpture
-  - Religious object
 locations:
   - Russia
 latitude: 56.3096334
