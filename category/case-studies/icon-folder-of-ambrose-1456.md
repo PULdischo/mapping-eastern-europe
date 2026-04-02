@@ -1,34 +1,37 @@
 ---
 title: Icon\-folder of Ambrose (1456\)
 slug: icon-folder-of-ambrose-1456
-title_link: ''
-item_image: /assets/media/items/12.jpg
-item_image_caption: Icon\-folder, Ambrose, 1456, walnut, gold (The Sergiev\-Posad
-  Art and Historical Museum\-Preserve**, [link](http://Icon-folder, Ambrose, 1456,
-  walnut, gold (The Sergiev-Posad Art and Historical Museum-Preserve, http://en.museum-sp.ru/collection/istoriko-khudozhestvennaya-kollektsiya-xiv-xxi-vv/melkaya-plastika-xi-xvii-vv)**)
-slider_images:
-- slider_image: /assets/media/items/paraskeva_tri.jpg
-  caption: 'Three hierarchs and Paraskeva, Pskov, 1440s–1450s (source: State Tretyakov
-    Gallery)'
-- slider_image: /assets/media/items/Epitaphios.jpg
-  caption: 'Embroidered Epitaphios, Novgorod, 1441 (source: State Armory Chamber)'
-- slider_image: /assets/media/items/Christ_on_the_throne.jpg
-  caption: 'Christ on the Throne, Angelos Akotantos, middle of the 15th century (source:
-    Zakynthos Museum)'
-start_year: 1456
-end_year: 1456
-author: Ekaterina Solodovnikova
 type:
-- Metalwork
-- Sculpture
+  - Metalwork
+  - Sculpture
+  - Religious object
 locations:
-- Russia
-subjects:
-- Religious object
-- Icons
-- True Cross
+  - Russia
 latitude: 56.3096334
 longitude: 38.1290911
+item_image: /assets/media/items/12.jpg
+item_image_caption: Icon\-folder, Ambrose, 1456, walnut, gold (The
+  Sergiev\-Posad Art and Historical Museum\-Preserve**,
+  [link](http://Icon-folder, Ambrose, 1456, walnut, gold (The Sergiev-Posad Art
+  and Historical Museum-Preserve,
+  http://en.museum-sp.ru/collection/istoriko-khudozhestvennaya-kollektsiya-xiv-xxi-vv/melkaya-plastika-xi-xvii-vv)**)
+slider_images:
+  - slider_image: /assets/media/items/paraskeva_tri.jpg
+    caption: "Three hierarchs and Paraskeva, Pskov, 1440s–1450s (source: State
+      Tretyakov Gallery)"
+  - slider_image: /assets/media/items/Epitaphios.jpg
+    caption: "Embroidered Epitaphios, Novgorod, 1441 (source: State Armory Chamber)"
+  - slider_image: /assets/media/items/Christ_on_the_throne.jpg
+    caption: "Christ on the Throne, Angelos Akotantos, middle of the 15th century
+      (source: Zakynthos Museum)"
+start_year: 1456
+end_year: 1456
+title_link: ""
+author: Ekaterina Solodovnikova
+subjects:
+  - Religious object
+  - Icons
+  - True Cross
 make_public: true
 ---
 
