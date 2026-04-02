@@ -1,45 +1,46 @@
 ---
 title: Gračanica Monastery
 slug: gracanica-monastery
-title_link: ''
-item_image: /assets/media/items/3._Gracanica_Interior_view_from_the_narthex_to_the_altar.jpg
-item_image_caption: 'Interior view from the narthex to the altar of the Dormition
-  Church of the Gračanica Monastery, 1321 (source: D. Vujičić and publishing house
-  Platoneum D. O. O.)'
-slider_images:
-- slider_image: /assets/media/items/1._Gracanica_Church_of_Dormition_view_from_the_West.JPG
-  caption: 'Exterior of the Dormition Church of the Gračanica Monastery, view from
-    the west (source: D. Vujičić and publishing house Platoneum D. O. O.)'
-- slider_image: /assets/media/items/4._The_Nemanjic_Family_Tree.jpg
-  caption: 'The Nemanjić Family Tree, till 1321, nartex of the Dormition Church of
-    Gračanica Monastery, 1321 (source: D. Vujičić and publishing house Platoneum D.
-    O. O.)'
-- slider_image: /assets/media/items/5._King_Milutin_as_a_ktetor.jpg
-  caption: 'King Milutin holding the Church in ktetor’s composition, detail, 1321,
-    inner side of the arch leading from the narthex to the naos of the Dormition Church
-    of Gračanica Monastery (source: D. Vujičić and publishing house Platoneum D. O.
-    O.)'
-- slider_image: /assets/media/items/6._St._Abraham_welcoming_three_Angels.jpg
-  caption: 'Abraham welcoming the three Angels, altar space, 1321, of the Dormition
-    Church of Gračanica Monastery (source: D. Vujičić and publishing house Platoneum
-    D. O. O.)'
-- slider_image: /assets/media/items/2._Gracanica_church_axonometry.jpg
-  caption: 'Axonometric representation of the original Dormition Church of the Gračanica
-    Monastery, without exonarthex (source: Ćurčić, Gračanica)'
-- slider_image: /assets/media/items/2a_Gracanica_floor_plan.jpg
-  caption: 'Floor plan of the Dormition Church of the Gračanica Monastery (source:
-    Ćurčić, Gračanica)'
-start_year: 1320
-end_year: 1450
-author: Aleksandra Davidov Temerinski
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Kosovo
-subjects:
-- Nemanjić Dynasty
+  - Kosovo
 latitude: 42.59848
 longitude: 21.193494
+item_image: /assets/media/items/3._Gracanica_Interior_view_from_the_narthex_to_the_altar.jpg
+item_image_caption: "Interior view from the narthex to the altar of the
+  Dormition Church of the Gračanica Monastery, 1321 (source: D. Vujičić and
+  publishing house Platoneum D. O. O.)"
+slider_images:
+  - slider_image: /assets/media/items/1._Gracanica_Church_of_Dormition_view_from_the_West.JPG
+    caption: "Exterior of the Dormition Church of the Gračanica Monastery, view from
+      the west (source: D. Vujičić and publishing house Platoneum D. O. O.)"
+  - slider_image: /assets/media/items/4._The_Nemanjic_Family_Tree.jpg
+    caption: "The Nemanjić Family Tree, till 1321, nartex of the Dormition Church of
+      Gračanica Monastery, 1321 (source: D. Vujičić and publishing house
+      Platoneum D. O. O.)"
+  - slider_image: /assets/media/items/5._King_Milutin_as_a_ktetor.jpg
+    caption: "King Milutin holding the Church in ktetor’s composition, detail, 1321,
+      inner side of the arch leading from the narthex to the naos of the
+      Dormition Church of Gračanica Monastery (source: D. Vujičić and publishing
+      house Platoneum D. O. O.)"
+  - slider_image: /assets/media/items/6._St._Abraham_welcoming_three_Angels.jpg
+    caption: "Abraham welcoming the three Angels, altar space, 1321, of the
+      Dormition Church of Gračanica Monastery (source: D. Vujičić and publishing
+      house Platoneum D. O. O.)"
+  - slider_image: /assets/media/items/2._Gracanica_church_axonometry.jpg
+    caption: "Axonometric representation of the original Dormition Church of the
+      Gračanica Monastery, without exonarthex (source: Ćurčić, Gračanica)"
+  - slider_image: /assets/media/items/2a_Gracanica_floor_plan.jpg
+    caption: "Floor plan of the Dormition Church of the Gračanica Monastery (source:
+      Ćurčić, Gračanica)"
+start_year: 1320
+end_year: 1450
+title_link: ""
+author: Aleksandra Davidov Temerinski
+subjects:
+  - Nemanjić Dynasty
+  - Religious architecture
 make_public: true
 ---
 
