@@ -1,89 +1,90 @@
 ---
 title: St. Antim Monastery in Bucharest
 slug: st-antim-monastery-in-bucharest
-title_link: ''
-item_image: /assets/media/items/A.3._St_Antim_Monastery_-_The_Church_The_Entrance.jpeg
-item_image_caption: 'St Antim Monastery \- The Church (The Entrance). (source: Octavian\-Adrian
-  Negoiță)'
-slider_images:
-- slider_image: /assets/media/items/A.1._St_Antim_Monastery_-_The_Church_View_from_the_Courtyard_-_West_Side.jpeg
-  caption: 'St Antim Monastery \- The Church (View from the Courtyard \- West Side).
-    (source: Octavian\-Adrian Negoiță)'
-- slider_image: /assets/media/items/A.2._St_Antim_Monastery_-_The_Church_View_from_the_Courtyard_-_South_Side.jpeg
-  caption: 'St Antim Monastery \- The Church (View from the Courtyard \- South Side).
-    (source: Octavian\-Adrian Negoiță)'
-- slider_image: /assets/media/items/A.5._St_Antim_Monastery_-_The_Church_The_Greek_Inscription.jpeg
-  caption: 'St Antim Monastery \- The Church (The Greek Inscription). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/A.7._St_Antim_Monastery_-_The_Church_Inside_-_View_from_the_West_Side.jpeg
-  caption: 'St Antim Monastery \- The Church (Inside \- View from the West Side).
-    (source: Octavian\-Adrian Negoiță)'
-- slider_image: /assets/media/items/A.8._St_Antim_Monastery_-_The_Church_The_Naos_-_North_Side.jpeg
-  caption: 'St Antim Monastery \- The Church (The Naos \- North Side). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/A.12._St_Antim_Monastery_-_The_Church.jpeg
-  caption: 'St Antim Monastery \- The Church (The Relics Casket). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/A.13._St_Antim_Monastery_-_The_Church_The_Stone_Iconostasis.jpeg
-  caption: 'St Antim Monastery \- The Church (The Stone Iconostasis). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/B.1._St_Antim_Monastery_-_The_Parekklesion_The_Entrance.jpeg
-  caption: 'St Antim Monastery \- The Parekklesion (The Entrance). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/B.2._St_Antim_Monastery_-_The_Parekklesion_The_Icon_of_the_Patron_Saints.jpeg
-  caption: 'St Antim Monastery \- The Parekklesion (Icon of the Patron Saints). (source:
-    Octavian\-Adrian Negoiță)'
-- slider_image: /assets/media/items/B.3._St_Antim_Monastery_-_The_Parekklesion_Inside_View_from_the_West.jpeg
-  caption: 'St Antim Monastery \- The Parekklesion (Inside View from the West). (source:
-    Octavian\-Adrian Negoiță)'
-- slider_image: /assets/media/items/B.4._St_Antim_Monastery_-_The_Parekklesion_The_Dome.jpeg
-  caption: 'St Antim Monastery \- The Parekklesion (The Dome). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/B.5._St_Antim_Monastery_-_The_Parekklesion_The_Fresco_of_the_Dormition_of_the_Virgin.jpeg
-  caption: 'St Antim Monastery \- The Parekklesion (Fresco of the Dormition of the
-    Virgin). (source: Octavian\-Adrian Negoiță)'
-- slider_image: /assets/media/items/C.1._St_Antim_Monastery_-_The_Tower_Bell_View_from_the_Courtyard.jpeg
-  caption: 'St Antim Monastery \- The Tower Bell (View from the Courtyard). (source:
-    Octavian\-Adrian Negoiță)'
-- slider_image: /assets/media/items/C.3._St_Antim_Monastery_-_The_Tower_Bell_Fresco_of_St_Antim.jpeg
-  caption: 'St Antim Monastery \- The Tower Bell (Fresco of St Antim). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/C.5._St_Antim_Monastery_-_The_Tower_Bell_Frescos_II.jpeg
-  caption: 'St Antim Monastery \- The Tower Bell (Frescos II). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/C.6._St_Antim_Monastery_-_The_Tower_Bell_Frescos_III.jpeg
-  caption: 'St Antim Monastery \- The Tower Bell (Frescos III). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/D.1._St_Antim_Monastery_-_The_Courtyard_The_Museum.jpeg
-  caption: 'St Antim Monastery \- The Courtyard (The Museum). (source: Octavian\-Adrian
-    Negoiță)'
-- slider_image: /assets/media/items/D.2._St_Antim_Monastery_-_The_Courtyard_The_Monastery_s_Buildings_-_South_Side.jpeg
-  caption: 'St Antim Monastery \- The Courtyard (The Monastery’s Buildings \- South
-    Side). (source: Octavian\-Adrian Negoiță)'
-- slider_image: /assets/media/items/D.3._St_Antim_Monastery_-_The_Courtyard_The_Library_of_the_Holy_Synod.jpeg
-  caption: 'St Antim Monastery \- The Courtyard (Library of the Holy Synod). (source:
-    Octavian\-Adrian Negoiță)'
-- slider_image: /assets/media/items/D.4._St_Antim_Monastery_-_The_Monastery_s_Plans_1936.png
-  caption: 'St Antim Monastery \- The Pompilian Parekklesion. (source: from Boghiu
-    2005\)'
-- slider_image: /assets/media/items/D.5._St_Antim_Monastery_-_The_Pompilian_Parekklesion.png
-  caption: 'St Antim Monastery \- The Monastery’s Plans. (source: from Chițulescu
-    et al. 2016\)'
-start_year: 1650
-end_year: 1716
-author: Octavian-Adrian Negoiță
 type:
-- Monumental art
-- Architecture
-locations: []
-subjects:
-- Artistic eclecticism
-- Bucharest
-- Antim
-- Brancovan Style
-- Triconch
+  - Monumental art
+  - Architecture
+locations:
+  - Romania
 latitude: 44.4262663
 longitude: 26.0938898
+item_image: /assets/media/items/A.3._St_Antim_Monastery_-_The_Church_The_Entrance.jpeg
+item_image_caption: "St Antim Monastery \\- The Church (The Entrance). (source:
+  Octavian\\-Adrian Negoiță)"
+slider_images:
+  - slider_image: /assets/media/items/A.1._St_Antim_Monastery_-_The_Church_View_from_the_Courtyard_-_West_Side.jpeg
+    caption: "St Antim Monastery \\- The Church (View from the Courtyard \\- West
+      Side). (source: Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/A.2._St_Antim_Monastery_-_The_Church_View_from_the_Courtyard_-_South_Side.jpeg
+    caption: "St Antim Monastery \\- The Church (View from the Courtyard \\- South
+      Side). (source: Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/A.5._St_Antim_Monastery_-_The_Church_The_Greek_Inscription.jpeg
+    caption: "St Antim Monastery \\- The Church (The Greek Inscription). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/A.7._St_Antim_Monastery_-_The_Church_Inside_-_View_from_the_West_Side.jpeg
+    caption: "St Antim Monastery \\- The Church (Inside \\- View from the West
+      Side). (source: Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/A.8._St_Antim_Monastery_-_The_Church_The_Naos_-_North_Side.jpeg
+    caption: "St Antim Monastery \\- The Church (The Naos \\- North Side). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/A.12._St_Antim_Monastery_-_The_Church.jpeg
+    caption: "St Antim Monastery \\- The Church (The Relics Casket). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/A.13._St_Antim_Monastery_-_The_Church_The_Stone_Iconostasis.jpeg
+    caption: "St Antim Monastery \\- The Church (The Stone Iconostasis). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/B.1._St_Antim_Monastery_-_The_Parekklesion_The_Entrance.jpeg
+    caption: "St Antim Monastery \\- The Parekklesion (The Entrance). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/B.2._St_Antim_Monastery_-_The_Parekklesion_The_Icon_of_the_Patron_Saints.jpeg
+    caption: "St Antim Monastery \\- The Parekklesion (Icon of the Patron Saints).
+      (source: Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/B.3._St_Antim_Monastery_-_The_Parekklesion_Inside_View_from_the_West.jpeg
+    caption: "St Antim Monastery \\- The Parekklesion (Inside View from the West).
+      (source: Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/B.4._St_Antim_Monastery_-_The_Parekklesion_The_Dome.jpeg
+    caption: "St Antim Monastery \\- The Parekklesion (The Dome). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/B.5._St_Antim_Monastery_-_The_Parekklesion_The_Fresco_of_the_Dormition_of_the_Virgin.jpeg
+    caption: "St Antim Monastery \\- The Parekklesion (Fresco of the Dormition of
+      the Virgin). (source: Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/C.1._St_Antim_Monastery_-_The_Tower_Bell_View_from_the_Courtyard.jpeg
+    caption: "St Antim Monastery \\- The Tower Bell (View from the Courtyard).
+      (source: Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/C.3._St_Antim_Monastery_-_The_Tower_Bell_Fresco_of_St_Antim.jpeg
+    caption: "St Antim Monastery \\- The Tower Bell (Fresco of St Antim). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/C.5._St_Antim_Monastery_-_The_Tower_Bell_Frescos_II.jpeg
+    caption: "St Antim Monastery \\- The Tower Bell (Frescos II). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/C.6._St_Antim_Monastery_-_The_Tower_Bell_Frescos_III.jpeg
+    caption: "St Antim Monastery \\- The Tower Bell (Frescos III). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/D.1._St_Antim_Monastery_-_The_Courtyard_The_Museum.jpeg
+    caption: "St Antim Monastery \\- The Courtyard (The Museum). (source:
+      Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/D.2._St_Antim_Monastery_-_The_Courtyard_The_Monastery_s_Buildings_-_South_Side.jpeg
+    caption: "St Antim Monastery \\- The Courtyard (The Monastery’s Buildings \\-
+      South Side). (source: Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/D.3._St_Antim_Monastery_-_The_Courtyard_The_Library_of_the_Holy_Synod.jpeg
+    caption: "St Antim Monastery \\- The Courtyard (Library of the Holy Synod).
+      (source: Octavian\\-Adrian Negoiță)"
+  - slider_image: /assets/media/items/D.4._St_Antim_Monastery_-_The_Monastery_s_Plans_1936.png
+    caption: "St Antim Monastery \\- The Pompilian Parekklesion. (source: from
+      Boghiu 2005\\)"
+  - slider_image: /assets/media/items/D.5._St_Antim_Monastery_-_The_Pompilian_Parekklesion.png
+    caption: "St Antim Monastery \\- The Monastery’s Plans. (source: from Chițulescu
+      et al. 2016\\)"
+start_year: 1650
+end_year: 1716
+title_link: ""
+author: Octavian-Adrian Negoiță
+subjects:
+  - Artistic eclecticism
+  - Bucharest
+  - Antim
+  - Brancovan Style
+  - Triconch
 make_public: true
 ---
 
