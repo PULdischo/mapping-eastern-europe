@@ -1,29 +1,32 @@
 ---
 title: Moldavian Podeai at Vatopedi Monastery
 slug: moldavian-podeai-at-vatopedi-monastery
-title_link: ''
-item_image: /assets/media/items/Podea_a.jpg
-item_image_caption: 'Podeai of Vasile Lupu, 1651–52, Vatopedi Monastery (source: N.
-  Mertzimekis)'
-slider_images:
-- slider_image: /assets/media/items/Podea_b_tgGGTRj.jpg
-  caption: 'Podeai of Vasile Lupu, 1651–52, Vatopedi Monastery (source: N. Mertzimekis)'
-- slider_image: /assets/media/items/Podea_c_24FxLzy.jpg
-  caption: 'Podeai of Vasile Lupu, 1651–52, Vatopedi Monastery (source: N. Mertzimekis)'
-- slider_image: /assets/media/items/Podea_d.jpg
-  caption: 'Podeai of Vasile Lupu, 1651–52, Vatopedi Monastery (source: N. Mertzimekis)'
-start_year: 1600
-end_year: 1700
-author: Nikolaos Mertzimekis
 type:
-- Textile
+  - Textile
 locations:
-- Greece
-subjects:
-- Religious object
-- Vasile Lupu
+  - Greece
+  - Moldavia
 latitude: 40.3147233
 longitude: 24.2098214
+item_image: /assets/media/items/Podea_a.jpg
+item_image_caption: "Podeai of Vasile Lupu, 1651–52, Vatopedi Monastery (source: N. Mertzimekis)"
+slider_images:
+  - slider_image: /assets/media/items/Podea_b_tgGGTRj.jpg
+    caption: "Podeai of Vasile Lupu, 1651–52, Vatopedi Monastery (source: N.
+      Mertzimekis)"
+  - slider_image: /assets/media/items/Podea_c_24FxLzy.jpg
+    caption: "Podeai of Vasile Lupu, 1651–52, Vatopedi Monastery (source: N.
+      Mertzimekis)"
+  - slider_image: /assets/media/items/Podea_d.jpg
+    caption: "Podeai of Vasile Lupu, 1651–52, Vatopedi Monastery (source: N.
+      Mertzimekis)"
+start_year: 1600
+end_year: 1700
+title_link: ""
+author: Nikolaos Mertzimekis
+subjects:
+  - Religious object
+  - Vasile Lupu
 make_public: true
 ---
 
