@@ -1,38 +1,41 @@
 ---
 title: Terracotta Decorations in the North Adriatic
 slug: terracotta-decorations-in-the-north-adriatic
-title_link: ''
-item_image: /assets/media/items/1.JPEG
-item_image_caption: 'Ravenna, National Museum, the terracotta decorations in the lapidary
-  of the second cloister (source: Direzione Musei Emilia\-Romagna)'
-slider_images:
-- slider_image: /assets/media/items/21_5DGz86W.jpg
-  caption: 'Ravenna, National Museum, the terracotta cross from Sant’Adalberto in
-    Pereo (source: Direzione Musei Emilia\-Romagna)'
-- slider_image: /assets/media/items/31.JPG
-  caption: 'Ravenna, National Museum, cuspidated formella from San Pietro in Vincoli
-    with birds symmetrically approached to the Tree of Life (source: Direzione Musei
-    Emilia\-Romagna)'
-- slider_image: /assets/media/items/41.JPG
-  caption: 'Ravenna, National Museum, part of a cuspidated formella with griffin from
-    Sant’Adalberto in Pereo (source: Direzione Musei Emilia\-Romagna)'
-- slider_image: /assets/media/items/51.JPG
-  caption: Gaston Virebent, (detail) drawing of a terracotta found in Ravenna exhibited
-    at the National Museum (private collection \- Les Amis de Virebent)
-- slider_image: /assets/media/items/61.JPG
-  caption: 'Codigoro, Santa Maria di Pomposa abbey church: the facade, 1026, part
-    of the terracotta decorations of the portico (source: P. Novara)'
-start_year: 1201
-end_year: 1700
-author: Elisa Emaldi, Paola Novara
 type:
-- Architecture
-- Terracotta
+  - Architecture
+  - Terracotta
 locations:
-- Italy
-subjects: []
+  - Italy
 latitude: 44.4201713
 longitude: 12.196123
+item_image: /assets/media/items/1.JPEG
+item_image_caption: "Ravenna, National Museum, the terracotta decorations in the
+  lapidary of the second cloister (source: Direzione Musei Emilia\\-Romagna)"
+slider_images:
+  - slider_image: /assets/media/items/21_5DGz86W.jpg
+    caption: "Ravenna, National Museum, the terracotta cross from Sant’Adalberto in
+      Pereo (source: Direzione Musei Emilia\\-Romagna)"
+  - slider_image: /assets/media/items/31.JPG
+    caption: "Ravenna, National Museum, cuspidated formella from San Pietro in
+      Vincoli with birds symmetrically approached to the Tree of Life (source:
+      Direzione Musei Emilia\\-Romagna)"
+  - slider_image: /assets/media/items/41.JPG
+    caption: "Ravenna, National Museum, part of a cuspidated formella with griffin
+      from Sant’Adalberto in Pereo (source: Direzione Musei Emilia\\-Romagna)"
+  - slider_image: /assets/media/items/51.JPG
+    caption: Gaston Virebent, (detail) drawing of a terracotta found in Ravenna
+      exhibited at the National Museum (private collection \- Les Amis de
+      Virebent)
+  - slider_image: /assets/media/items/61.JPG
+    caption: "Codigoro, Santa Maria di Pomposa abbey church: the facade, 1026, part
+      of the terracotta decorations of the portico (source: P. Novara)"
+start_year: 1201
+end_year: 1700
+title_link: ""
+author: Elisa Emaldi, Paola Novara
+subjects:
+  - Artistic eclecticism
+  - ""
 make_public: true
 ---
 
