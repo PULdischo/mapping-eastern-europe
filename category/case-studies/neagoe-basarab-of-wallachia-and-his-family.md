@@ -1,27 +1,29 @@
 ---
 title: Neagoe Basarab of Wallachia and His Family
 slug: neagoe-basarab-of-wallachia-and-his-family
-title_link: ''
-item_image: /assets/media/items/Fig._2_-_Neagoe_Basarab_and_Family_SUrQtK6.jpg
-item_image_caption: 'Neagoe Basarab, Milica Despina and their children, interior mural,
-  1512–21, Church of the Dormition of the Virgin, Curtea de Argeş Monastery, now in
-  the collection of the National Museum of Art of Romania, Bucharest (source: Wikimedia)'
-slider_images:
-- slider_image: /assets/media/items/Fig._1_-_Wooden_box_lid_with_Neagoe_Basarab_and_his_family_0Q7oZwV.jpg
-  caption: 'Lid of a wooden box showing Neagoe Basarab and his immediate family in
-    adoration of the Virgin Blachernitissa, 1512–21, Wallachia, modern Romania, now
-    in the collection of Saint Catherine Monastery on Mount Sinai (source: UM Sinai
-    Archive, 577816\)'
-start_year: 1500
-end_year: 1550
-author: Alice Isabella Sullivan
-type: []
+type:
+  - Woodwork
 locations:
-- Romania
-subjects:
-- Basarab family
+  - Romania
 latitude: 45.1405966
 longitude: 24.6685182
+item_image: /assets/media/items/Fig._2_-_Neagoe_Basarab_and_Family_SUrQtK6.jpg
+item_image_caption: "Neagoe Basarab, Milica Despina and their children, interior
+  mural, 1512–21, Church of the Dormition of the Virgin, Curtea de Argeş
+  Monastery, now in the collection of the National Museum of Art of Romania,
+  Bucharest (source: Wikimedia)"
+slider_images:
+  - slider_image: /assets/media/items/Fig._1_-_Wooden_box_lid_with_Neagoe_Basarab_and_his_family_0Q7oZwV.jpg
+    caption: "Lid of a wooden box showing Neagoe Basarab and his immediate family in
+      adoration of the Virgin Blachernitissa, 1512–21, Wallachia, modern
+      Romania, now in the collection of Saint Catherine Monastery on Mount Sinai
+      (source: UM Sinai Archive, 577816\\)"
+start_year: 1500
+end_year: 1550
+title_link: ""
+author: Alice Isabella Sullivan
+subjects:
+  - Basarab family
 make_public: true
 ---
 
