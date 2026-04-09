@@ -1,38 +1,41 @@
 ---
 title: The Alaca Imaret of Thessaloniki
 slug: the-alaca-imaret-of-thessaloniki
-title_link: ''
-item_image: /assets/media/items/2_1a6CUz6.jpg
-item_image_caption: 'The Alaca Imaret of Thessaloniki (1485\), aerial photo (source:
-  Melpomeni Perdikopoulou)'
-slider_images:
-- slider_image: /assets/media/items/1..png
-  caption: The Alaca Imaret of Thessaloniki (1485\), floorplan (Drawing by Melpomeni
-    Perdikopoulou)
-- slider_image: /assets/media/items/3_SLW4APj.jpg
-  caption: 'The Alaca Imaret of Thessaloniki (1485\), the main entrance and the dedicatory
-    inscription (source: Melpomeni Perdikopoulou)'
-- slider_image: /assets/media/items/4_Zv67UAg.png
-  caption: 'The Alaca Imaret of Thessaloniki (1485\), the interior of the mosque,
-    facing the prayer area (source: Melpomeni Perdikopoulou)'
-- slider_image: /assets/media/items/5_4Rxml64.jpg
-  caption: 'The Alaca Imaret of Thessaloniki (1485\), detail of the mihrab niche (source:
-    Melpomeni Perdikopoulou)'
-- slider_image: /assets/media/items/6_vGswwcp.jpg
-  caption: 'The Alaca Imaret of Thessaloniki (1485\), the fireplace and the cupboards
-    of one of the accommodation rooms (source: Melpomeni Perdikopoulou)'
-start_year: 1485
-end_year: 1700
-author: Melpomeni Perdikopoulou
 type:
-- Architecture
+  - Architecture
 locations:
-- Greece
-subjects:
-- mosque
-- Ottoman
+  - Greece
 latitude: 40.6392234943
 longitude: 22.9495923357
+item_image: /assets/media/items/2_1a6CUz6.jpg
+item_image_caption: "The Alaca Imaret of Thessaloniki (1485\\), aerial photo
+  (source: Melpomeni Perdikopoulou)"
+slider_images:
+  - slider_image: /assets/media/items/1..png
+    caption: The Alaca Imaret of Thessaloniki (1485\), floorplan (Drawing by
+      Melpomeni Perdikopoulou)
+  - slider_image: /assets/media/items/3_SLW4APj.jpg
+    caption: "The Alaca Imaret of Thessaloniki (1485\\), the main entrance and the
+      dedicatory inscription (source: Melpomeni Perdikopoulou)"
+  - slider_image: /assets/media/items/4_Zv67UAg.png
+    caption: "The Alaca Imaret of Thessaloniki (1485\\), the interior of the mosque,
+      facing the prayer area (source: Melpomeni Perdikopoulou)"
+  - slider_image: /assets/media/items/5_4Rxml64.jpg
+    caption: "The Alaca Imaret of Thessaloniki (1485\\), detail of the mihrab niche
+      (source: Melpomeni Perdikopoulou)"
+  - slider_image: /assets/media/items/6_vGswwcp.jpg
+    caption: "The Alaca Imaret of Thessaloniki (1485\\), the fireplace and the
+      cupboards of one of the accommodation rooms (source: Melpomeni
+      Perdikopoulou)"
+start_year: 1485
+end_year: 1700
+title_link: ""
+author: Melpomeni Perdikopoulou
+subjects:
+  - Mosque
+  - Ottoman
+  - Religious architecture
+  - Hospitality
 make_public: true
 ---
 
