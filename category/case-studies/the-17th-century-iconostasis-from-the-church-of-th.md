@@ -1,26 +1,32 @@
 ---
-title: The 17th\-Century Iconostasis from the Church of the Dormition of the Mother
-  of God in Lviv
+title: The 17th\-Century Iconostasis from the Church of the Dormition of the
+  Mother of God in Lviv
 slug: the-17th-century-iconostasis-from-the-church-of-th
-title_link: ''
-item_image: /assets/media/items/Lviv_Iconostasis.JPG
-item_image_caption: The iconostasis from the Dormition of the Mother of God Church
-  in Lviv, ca 1616–38\. The current view in the church of Sts. Cosmas and Damian in
-  Velyki Hrybovychi, Lvivska Oblast, Ukraine (photograph by the author).
-slider_images:
-- slider_image: /assets/media/items/Lviv_Iconostasis_2.jpg
-  caption: Fedir Senkovych (?). The Last Supper (detail), before 1630\. Church of
-    Sts. Cosmas and Damian in Velyki Hrybovychi, Lvivska Oblast, Ukraine (photograph
-    by the author).
-start_year: 1500
-end_year: 1599
-author: Nazar Kozak
 type:
-- Tempera on wood
-locations: []
-subjects: []
+  - Tempera on wood
+locations:
+  - Ukraine
 latitude: 49.8420657
 longitude: 24.0344435
+item_image: /assets/media/items/Lviv_Iconostasis.JPG
+item_image_caption: The iconostasis from the Dormition of the Mother of God
+  Church in Lviv, ca 1616–38\. The current view in the church of Sts. Cosmas and
+  Damian in Velyki Hrybovychi, Lvivska Oblast, Ukraine (photograph by the
+  author).
+slider_images:
+  - slider_image: /assets/media/items/Lviv_Iconostasis_2.jpg
+    caption: Fedir Senkovych (?). The Last Supper (detail), before 1630\. Church of
+      Sts. Cosmas and Damian in Velyki Hrybovychi, Lvivska Oblast, Ukraine
+      (photograph by the author).
+start_year: 1500
+end_year: 1599
+title_link: ""
+author: Nazar Kozak
+subjects:
+  - Artistic eclecticism
+  - Church history
+  - Icons
+  - Religious object
 make_public: true
 ---
 
