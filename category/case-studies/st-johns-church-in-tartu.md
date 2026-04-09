@@ -1,28 +1,32 @@
 ---
 title: St. John’s Church in Tartu
 slug: st-johns-church-in-tartu
-title_link: ''
-item_image: /assets/media/items/Screen_Shot_2022-09-23_at_2.08.56_PM.png
-item_image_caption: St. John’s church from the East, 14th century, Tartu (Photo by
-  author).
-slider_images:
-- slider_image: /assets/media/items/Screen_Shot_2022-09-23_at_2.09.09_PM.png
-  caption: View on the nave towards the west, 14th century (ceiling and the northern
-    high wall are reconstructed during the restoration works in 1990s), St. John’s
-    church in Tartu (photo by author).
-- slider_image: /assets/media/items/Screen_Shot_2022-09-23_at_2.08.39_PM.png
-  caption: 'Floor plan of St. John’s church in the modern day. (Made by Kaur Alttoa.
-    Source: 6916 Tartu Jaani kirik, 14\. Saj, VLAKV.1\.17\. The database of national
-    registry of cultural monuments, Estonia).'
-start_year: 1201
-end_year: 1700
-author: Kristel Markus-Venäläinen
 type:
-- Monumental art
-locations: []
-subjects: []
+  - Monumental art
+  - Sculpture
+  - Terracotta
+locations:
+  - Estonia
 latitude: 58.3826875
 longitude: 26.7200625
+item_image: /assets/media/items/Screen_Shot_2022-09-23_at_2.08.56_PM.png
+item_image_caption: St. John’s church from the East, 14th century, Tartu (Photo by author).
+slider_images:
+  - slider_image: /assets/media/items/Screen_Shot_2022-09-23_at_2.09.09_PM.png
+    caption: View on the nave towards the west, 14th century (ceiling and the
+      northern high wall are reconstructed during the restoration works in
+      1990s), St. John’s church in Tartu (photo by author).
+  - slider_image: /assets/media/items/Screen_Shot_2022-09-23_at_2.08.39_PM.png
+    caption: "Floor plan of St. John’s church in the modern day. (Made by Kaur
+      Alttoa. Source: 6916 Tartu Jaani kirik, 14\\. Saj, VLAKV.1\\.17\\. The
+      database of national registry of cultural monuments, Estonia)."
+start_year: 1201
+end_year: 1700
+title_link: ""
+author: Kristel Markus-Venäläinen
+subjects:
+  - Religious architecture
+  - Brick Gothic
 make_public: true
 ---
 
