@@ -1,36 +1,39 @@
 ---
 title: St. George in King's Church at Studenica Monastery
 slug: st-george-in-kings-church-at-studenica-monastery
-title_link: ''
-item_image: /assets/media/items/Photo_1.jpg
-item_image_caption: 'St. George, ca. 1318–19, north wall, King’s Church, Studenica
-  Monastery (source: N. Bogojević)'
-slider_images:
-- slider_image: /assets/media/items/Photo_2.jpg
-  caption: 'Detail of the founders composition showing King Milutin and the model
-    of church, ca. 1318–19, south wall, King’s Church, Studenica Monastery (source:
-    N. Bogojević)'
-- slider_image: /assets/media/items/Photo_3.jpg
-  caption: 'Founders composition, ca. 1318–19, south wall, King’s Church, Studenica
-    Monastery (source: N. Bogojević)'
-- slider_image: /assets/media/items/Photo_4.jpg
-  caption: 'Procession with the representations of St. Dimitrios, St. George, St.
-    Sava and St. Simeon, ca. 1318–19, north wall, King’s Church, Studenica Monastery
-    (source: N. Bogojević)'
-- slider_image: /assets/media/items/5_kings_church_exteriorrr.jpg
-  caption: 'Exterior of King’s Church, ca. 1318–19, Studenica Monastery (source: blagofund.org)'
-start_year: 1313
-end_year: 1319
-author: Sofija Trpčevski
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Serbia
-subjects:
-- Nemanjić Dynasty
-- Michael Astrapas (Artist)
+  - Serbia
 latitude: 43.4866074
 longitude: 20.5316786
+item_image: /assets/media/items/Photo_1.jpg
+item_image_caption: "St. George, ca. 1318–19, north wall, King’s Church,
+  Studenica Monastery (source: N. Bogojević)"
+slider_images:
+  - slider_image: /assets/media/items/Photo_2.jpg
+    caption: "Detail of the founders composition showing King Milutin and the model
+      of church, ca. 1318–19, south wall, King’s Church, Studenica Monastery
+      (source: N. Bogojević)"
+  - slider_image: /assets/media/items/Photo_3.jpg
+    caption: "Founders composition, ca. 1318–19, south wall, King’s Church,
+      Studenica Monastery (source: N. Bogojević)"
+  - slider_image: /assets/media/items/Photo_4.jpg
+    caption: "Procession with the representations of St. Dimitrios, St. George, St.
+      Sava and St. Simeon, ca. 1318–19, north wall, King’s Church, Studenica
+      Monastery (source: N. Bogojević)"
+  - slider_image: /assets/media/items/5_kings_church_exteriorrr.jpg
+    caption: "Exterior of King’s Church, ca. 1318–19, Studenica Monastery (source:
+      blagofund.org)"
+start_year: 1313
+end_year: 1319
+title_link: ""
+author: Sofija Trpčevski
+subjects:
+  - Nemanjić Dynasty
+  - Michael Astrapas (Artist)
+  - Religious architecture
+  - Military saints
 make_public: true
 ---
 
