@@ -1,23 +1,25 @@
 ---
 title: The Bell of Hieromonk Theodosios
 slug: the-bell-of-hieromonk-theodosios
-title_link: ''
-item_image: /assets/media/items/Fig._1.jpeg
-item_image_caption: Bell of Hieromonk Theodosios, 1270, cast in bronze, National History
-  Museum (Sofia). Author
-slider_images:
-- slider_image: /assets/media/items/Fig._2_Nc4lf4K.jpg
-  caption: Detail of the two lines of the inscription, cast on mirror reverse. Author
-start_year: 1270
-end_year: 1299
-author: Alex Rodriguez Suarez
 type:
-- Metalwork
+  - Metalwork
 locations:
-- Bulgaria
-subjects: []
+  - Bulgaria
 latitude: 41.5246053
 longitude: 23.3915096
+item_image: /assets/media/items/Fig._1.jpeg
+item_image_caption: Bell of Hieromonk Theodosios, 1270, cast in bronze, National
+  History Museum (Sofia). Author
+slider_images:
+  - slider_image: /assets/media/items/Fig._2_Nc4lf4K.jpg
+    caption: Detail of the two lines of the inscription, cast on mirror reverse. Author
+start_year: 1270
+end_year: 1299
+title_link: ""
+author: Alex Rodriguez Suarez
+subjects:
+  - Bell
+  - ""
 make_public: true
 ---
 
