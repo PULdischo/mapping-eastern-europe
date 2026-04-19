@@ -25,6 +25,8 @@ subjects:
   - The Crucifixion of Christ (Iconography)
   - Virgin Mary and Christ Child (Iconography)
   - Iconography
+  - Icons
+  - Liturgy
 make_public: true
 ---
 
