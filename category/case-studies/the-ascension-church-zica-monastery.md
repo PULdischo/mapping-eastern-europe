@@ -1,42 +1,46 @@
 ---
 title: The Ascension Church, Žiča Monastery
 slug: the-ascension-church-zica-monastery
-title_link: ''
-item_image: /assets/media/items/Fig._1_BmEgrKg.jpg
-item_image_caption: 'View from the southeast, Ascension Church, Žiča Monastery (source:
-  Institute for the Protection of Cultural Monuments of Serbia – Belgrade)'
-slider_images:
-- slider_image: /assets/media/items/Fig._2_LIjKJdF.jpg
-  caption: 'Axonometric representation of the Ascension Church, Žiča Monastery (source:
-    M. Čanak\-Medić)'
-- slider_image: /assets/media/items/Fig._3_uKS0gUW.jpg
-  caption: 'Crucifixion, ca. 1221, interior eastern wall of the southern choir, Ascension
-    Church, Žiča Monastery (source: Institute for the Protection of Cultural Monuments
-    of Serbia – Belgrade)'
-- slider_image: /assets/media/items/Fig._4_JYSmkjF.jpg
-  caption: 'Figures of six apostles, ca. 1221, interior western part of the southern
-    choir, Ascension Church, Žiča Monastery (source: B. Živković)'
-- slider_image: /assets/media/items/Fig._5_xddBShc.jpg
-  caption: 'Wall paintings in the room on the second floor, 1221\-27, view of the
-    eastern side of the room on the second floor of the tower, Ascension Church, Žiča
-    Monastery (source: Institute for the Protection of Cultural Monuments of Serbia
-    – Belgrade)'
-- slider_image: /assets/media/items/Fig._6_H7Cehp7.jpg
-  caption: 'Depiction of Anatolios’ Christmas sticheron “What shall we offer you,
-    Christ,” 1309\-16, eastern wall of the porch on the ground floor of the tower,
-    Ascension Church, Žiča Monastery (source: Institute for the Protection of Cultural
-    Monuments of Serbia – Belgrade)'
-start_year: 1207
-end_year: 1221
-author: Dragan Vojvodić
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Serbia
-subjects:
-- Nemanjić Dynasty
+  - Serbia
 latitude: 43.6952584
 longitude: 20.6460501
+item_image: /assets/media/items/Fig._1_BmEgrKg.jpg
+item_image_caption: "View from the southeast, Ascension Church, Žiča Monastery
+  (source: Institute for the Protection of Cultural Monuments of Serbia –
+  Belgrade)"
+slider_images:
+  - slider_image: /assets/media/items/Fig._2_LIjKJdF.jpg
+    caption: "Axonometric representation of the Ascension Church, Žiča Monastery
+      (source: M. Čanak\\-Medić)"
+  - slider_image: /assets/media/items/Fig._3_uKS0gUW.jpg
+    caption: "Crucifixion, ca. 1221, interior eastern wall of the southern choir,
+      Ascension Church, Žiča Monastery (source: Institute for the Protection of
+      Cultural Monuments of Serbia – Belgrade)"
+  - slider_image: /assets/media/items/Fig._4_JYSmkjF.jpg
+    caption: "Figures of six apostles, ca. 1221, interior western part of the
+      southern choir, Ascension Church, Žiča Monastery (source: B. Živković)"
+  - slider_image: /assets/media/items/Fig._5_xddBShc.jpg
+    caption: "Wall paintings in the room on the second floor, 1221\\-27, view of the
+      eastern side of the room on the second floor of the tower, Ascension
+      Church, Žiča Monastery (source: Institute for the Protection of Cultural
+      Monuments of Serbia – Belgrade)"
+  - slider_image: /assets/media/items/Fig._6_H7Cehp7.jpg
+    caption: "Depiction of Anatolios’ Christmas sticheron “What shall we offer you,
+      Christ,” 1309\\-16, eastern wall of the porch on the ground floor of the
+      tower, Ascension Church, Žiča Monastery (source: Institute for the
+      Protection of Cultural Monuments of Serbia – Belgrade)"
+start_year: 1207
+end_year: 1221
+title_link: ""
+author: Dragan Vojvodić
+subjects:
+  - Nemanjić Dynasty
+  - Religious architecture
+  - Artistic eclecticism
+  - Church history
 make_public: true
 ---
 
