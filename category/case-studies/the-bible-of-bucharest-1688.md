@@ -1,39 +1,42 @@
 ---
 title: The Bible of Bucharest (1688\)
 slug: the-bible-of-bucharest-1688
-title_link: ''
-item_image: /assets/media/items/1._Title_Page.jpg
-item_image_caption: 'The Bible, Title page. (source: Metropolitan Library, Bucharest)'
-slider_images:
-- slider_image: /assets/media/items/2._Coat_of_Arms.jpg
-  caption: 'The Bible, the coat of arms and verses by Radu Greceanu. (source: Metropolitan
-    Library, Bucharest)'
-- slider_image: /assets/media/items/3._Letter_by_Serban_Cantacuzino.jpg
-  caption: 'The Bible, Șerban Cantacuzino’s Letter. (source: Metropolitan Library,
-    Bucharest)'
-- slider_image: /assets/media/items/4._Letter_to_Brancoveanu_by_Dositheos.jpg
-  caption: 'The Bible, Letter to Constantine Brâncoveanu by Dositheos of Jerusalem.
-    (source: Metropolitan Library, Bucharest)'
-- slider_image: /assets/media/items/5._Table_of_Contents.jpg
-  caption: 'The Bible, Table of Contents. (source: Metropolitan Library, Bucharest)'
-- slider_image: /assets/media/items/6._Book_of_Genesis.jpg
-  caption: 'The Bible, The Beginning of the Old Testament, the Book of Genesis. (source:
-    Metropolitan Library, Bucharest)'
-- slider_image: /assets/media/items/7._Gospel_of_Matthew.jpg
-  caption: 'The Bible, The Beginning of the New Testament, the Gospel of Matthew.
-    (source: Metropolitan Library, Bucharest)'
-start_year: 1670
-end_year: 1690
-author: Octavian-Adrian Negoiță
 type:
-- Manuscript
+  - Manuscript
 locations:
-- Romania
-subjects:
-- Religious object
-- Bible
+  - Romania
 latitude: 44.443999
 longitude: 26.0971943
+item_image: /assets/media/items/1._Title_Page.jpg
+item_image_caption: "The Bible, Title page. (source: Metropolitan Library, Bucharest)"
+slider_images:
+  - slider_image: /assets/media/items/2._Coat_of_Arms.jpg
+    caption: "The Bible, the coat of arms and verses by Radu Greceanu. (source:
+      Metropolitan Library, Bucharest)"
+  - slider_image: /assets/media/items/3._Letter_by_Serban_Cantacuzino.jpg
+    caption: "The Bible, Șerban Cantacuzino’s Letter. (source: Metropolitan Library,
+      Bucharest)"
+  - slider_image: /assets/media/items/4._Letter_to_Brancoveanu_by_Dositheos.jpg
+    caption: "The Bible, Letter to Constantine Brâncoveanu by Dositheos of
+      Jerusalem. (source: Metropolitan Library, Bucharest)"
+  - slider_image: /assets/media/items/5._Table_of_Contents.jpg
+    caption: "The Bible, Table of Contents. (source: Metropolitan Library, Bucharest)"
+  - slider_image: /assets/media/items/6._Book_of_Genesis.jpg
+    caption: "The Bible, The Beginning of the Old Testament, the Book of Genesis.
+      (source: Metropolitan Library, Bucharest)"
+  - slider_image: /assets/media/items/7._Gospel_of_Matthew.jpg
+    caption: "The Bible, The Beginning of the New Testament, the Gospel of Matthew.
+      (source: Metropolitan Library, Bucharest)"
+start_year: 1670
+end_year: 1690
+title_link: ""
+author: Octavian-Adrian Negoiță
+subjects:
+  - Religious object
+  - Bible
+  - Print
+  - Translation
+  - ""
 make_public: true
 ---
 
