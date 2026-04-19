@@ -1,29 +1,30 @@
 ---
 title: The Bell of Anastasie Crimca
 slug: the-bell-of-anastasie-crimca
-title_link: ''
-item_image: /assets/media/items/unnamed1.jpg
-item_image_caption: 'Bell of Archbishop Anastasie Crimca, 1614, cast in bronze, Dochiariou
-  Monastery, Mount Athos (source: A. Rodriguez Suarez)'
-slider_images:
-- slider_image: /assets/media/items/unnamed2.jpg
-  caption: 'Detail of the four lines of the inscription on Crimca’s bell (source:
-    A. Rodriguez Suarez)'
-- slider_image: /assets/media/items/unnamed3.jpg
-  caption: 'Self\-portrait of the donor, from a missal dated to 7118 \= 1609/1610
-    (source: Wikimedia Commons)'
-start_year: 1500
-end_year: 1700
-author: Alex Rodriguez Suarez
 type:
-- Metalwork
-- Casting
+  - Metalwork
+  - Casting
 locations:
-- Greece
-subjects:
-- Religious architecture
+  - Greece
 latitude: 40.2667515
 longitude: 24.1729151
+item_image: /assets/media/items/unnamed1.jpg
+item_image_caption: "Bell of Archbishop Anastasie Crimca, 1614, cast in bronze,
+  Dochiariou Monastery, Mount Athos (source: A. Rodriguez Suarez)"
+slider_images:
+  - slider_image: /assets/media/items/unnamed2.jpg
+    caption: "Detail of the four lines of the inscription on Crimca’s bell (source:
+      A. Rodriguez Suarez)"
+  - slider_image: /assets/media/items/unnamed3.jpg
+    caption: "Self\\-portrait of the donor, from a missal dated to 7118 \\=
+      1609/1610 (source: Wikimedia Commons)"
+start_year: 1500
+end_year: 1700
+title_link: ""
+author: Alex Rodriguez Suarez
+subjects:
+  - Religious architecture
+  - Bell
 make_public: true
 ---
 
