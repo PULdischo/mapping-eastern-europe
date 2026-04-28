@@ -360,7 +360,7 @@ function make_map() {
     // Medium
     if (feature.properties.type && Array.isArray(feature.properties.type)) {
       feature.properties.type.forEach(medium => {
-        if (medium !== null && !mediumTypes.has(medium.toString())) {
+        if (medium !== null && medium !== '' && !mediumTypes.has(medium.toString())) {
           mediumTypes.add(medium.toString());
           uniqueMedium.push({ id: medium.toString(), text: medium.toString() });
         }
@@ -369,7 +369,7 @@ function make_map() {
     // Subjects
     if (feature.properties.subjects && Array.isArray(feature.properties.subjects)) {
       feature.properties.subjects.forEach(subId => {
-        if (subId !== null && !subjectIds.has(subId.toString())) {
+        if (subId !== null && subId !== '' && !subjectIds.has(subId.toString())) {
           subjectIds.add(subId.toString());
           uniqueSubjects.push({ id: subId.toString(), text: subId.toString() });
         }
@@ -379,7 +379,7 @@ function make_map() {
     // Locations
     if (feature.properties.locations && Array.isArray(feature.properties.locations)) {
       feature.properties.locations.forEach(locId => {
-        if (locId !== null && !locationIds.has(locId.toString())) {
+        if (locId !== null && locId !== '' && !locationIds.has(locId.toString())) {
           locationIds.add(locId.toString());
           uniqueLocations.push({ id: locId.toString(), text: locId.toString() });
         }
