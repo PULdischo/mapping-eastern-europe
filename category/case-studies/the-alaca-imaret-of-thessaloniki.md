@@ -23,7 +23,7 @@ slider_images:
   - slider_image: /assets/media/items/5_4Rxml64.jpg
     caption: "The Alaca Imaret of Thessaloniki (1485\\), detail of the mihrab niche
       (source: Melpomeni Perdikopoulou)"
-  - slider_image: /assets/media/items/6_vGswwcp.jpg
+  - slider_image: /assets/img/alaca-imaret6.jpg
     caption: "The Alaca Imaret of Thessaloniki (1485\\), the fireplace and the
       cupboards of one of the accommodation rooms (source: Melpomeni
       Perdikopoulou)"
