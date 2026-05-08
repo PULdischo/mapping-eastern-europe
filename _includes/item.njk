@@ -154,7 +154,7 @@
 
             function open_modal(e) {
                 document.getElementById('modal_image').src = e.src;
-                //document.getElementById('modal_caption').textContent = e.alt;
+                document.getElementById('modal_caption').innerHTML = e.alt;
                 $('#itemModal').modal('toggle');
             }
         </script>

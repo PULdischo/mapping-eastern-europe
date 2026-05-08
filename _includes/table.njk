@@ -29,7 +29,7 @@
                                 {% for item in collections[listCollection] %}
                                 <tr>
                                     
-                                    <td><a href="{{item.data.slug }}">{{ item.data.title | markdownify | safe }}</a></td>
+                                    <td><a href="{{item.url }}">{{ item.data.title | markdownify | safe }}</a></td>
                                     
                                 </tr>
                                 {% endfor %}
