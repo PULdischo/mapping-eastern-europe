@@ -12,6 +12,27 @@ img {
   max-width: 100%;
 }
 
+/* Reserve space for images before they load to prevent grid reflow */
+.img-item img {
+  aspect-ratio: 4 / 3;
+  width: 100%;
+  object-fit: cover;
+  background-color: #e9ecef;
+  background-image: linear-gradient(90deg, #e9ecef 0%, #f8f9fa 50%, #e9ecef 100%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.5s infinite linear;
+}
+
+.img-item img.loaded {
+  animation: none;
+  background-image: none;
+}
+
+@keyframes skeleton-shimmer {
+  0%   { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
 /*
   Shuffle needs either relative or absolute positioning on the container
   It will set it for you, but it'll cause another style recalculation and layout.

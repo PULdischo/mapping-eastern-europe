@@ -22,7 +22,9 @@ make_public: true
 
 *By Alice Isabella Sullivan \| Tufts University*
 
-[https://www.youtube.com/embed/mu74jQbyxKI](https://www.youtube.com/embed/mu74jQbyxKI)
+<div class="ratio ratio-16x9" style="max-width:640px; margin: 1rem auto;">
+  <iframe src="https://www.youtube.com/embed/mu74jQbyxKI" title="The Siege of Constantinople at Moldovița Monastery" allowfullscreen></iframe>
+</div>
 
 **Further Reading** 
 Ciobanu, Constantin Ion. *Stihia Profeticului: Sursele literare ale imaginii “Asediului Constantinopolului” și ale “Profețiilor” înțelepților antichității din pictura murală medievală Moldavă.*Chișinău: Institutul Patrimoniului Cultural, Academia de Științe a Moldovei, 2007\.

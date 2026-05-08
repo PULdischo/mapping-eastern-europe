@@ -23,7 +23,9 @@ make_public: true
 
 *By Iuliana Damian \| National Museum of Art of Romania, Bucharest*
 
-[https://www.youtube.com/embed/RAUDJo_3AS0](https://www.youtube.com/embed/RAUDJo_3AS0)
+<div class="ratio ratio-16x9" style="max-width:640px; margin: 1rem auto;">
+  <iframe src="https://www.youtube.com/embed/RAUDJo_3AS0" title="The Portrait of a 16th-century Wallachian Princess" allowfullscreen></iframe>
+</div>
 
 **Further Reading** 
 Cernea, Emanuela, and Lucreția Pătrășcanu. *Mărturii: Frescele Mănăstirii Argeșului*. Exhibition Catalog. Bucharest: MNAR, 2019\.

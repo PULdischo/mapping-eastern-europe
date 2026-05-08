@@ -157,7 +157,7 @@
                             <div>
                               <a href="${ item.slug }" target="_blank" rel="noopener"
                                   title="${ item.title }">
-                                  <img src="${ item.thumbnail }" alt="${ item.title }"  />
+                                  <img src="${ item.thumbnail }" alt="${ item.title }" onload="this.classList.add('loaded')" />
                               </a>
                             </div>
                           </div>
@@ -173,9 +173,9 @@
                   
                               <div>
                                 <div>
-                                  <a href="${ item.slug }/" target="_blank" rel="noopener"
+                                  <a href="${ item.slug }" target="_blank" rel="noopener"
                                       title="${ item.title }">
-                                      <img class="d-none" src="${ item.thumbnail }" alt="${ item.title }"  />
+                                      <img class="d-none" loading="lazy" src="${ item.thumbnail }" alt="${ item.title }" onload="this.classList.add('loaded')" />
                                   </a>
                                 </div>
                               </div>
