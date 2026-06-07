@@ -11,7 +11,7 @@ item_image: /assets/media/items/2_1a6CUz6.jpg
 item_image_caption: "The Alaca Imaret of Thessaloniki (1485\\), aerial photo
   (source: Melpomeni Perdikopoulou)"
 slider_images:
-  - slider_image: /assets/media/items/1..png
+  - slider_image: /assets/img/alaca-imaret-1.png
     caption: The Alaca Imaret of Thessaloniki (1485\), floorplan (Drawing by
       Melpomeni Perdikopoulou)
   - slider_image: /assets/media/items/3_SLW4APj.jpg
