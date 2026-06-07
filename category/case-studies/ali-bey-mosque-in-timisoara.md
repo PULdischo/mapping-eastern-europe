@@ -11,7 +11,7 @@ item_image: /assets/media/items/Fig._1_VPZNAXj.jpg
 item_image_caption: "Ali Bey Mosque (red arrow) on the plan of Timișoara made by
   François Perrette in 1716; (source: Opriș 2007, 19\\)"
 slider_images:
-  - slider_image: /assets/media/items/Fig._3_bJ8yhlG.jpg
+  - slider_image: /assets/img/ali-bey-mosque-fig-3.jpg
     caption: "1a,b: Ruins of the Ali Bey Mosque. Details with the niche on the south
       side; 2: Foundation of the mosque; 3: The floor inside the mosque;
       (source: Gașpar 2023, Fig. 7\\. 1a, b, 3\\-4\\)"
@@ -19,7 +19,7 @@ slider_images:
     caption: "The plan of the Ali Bey Mosque, with the outline of the
       archaeologically discovered walls (topographic plan); (source: Gașpar
       2023, Fig. 7\\. 2\\)"
-  - slider_image: /assets/media/items/Fig._5_yq6OBSn.jpg
+  - slider_image: /assets/img/ali-bey-mosque-fig-5.jpg
     caption: "1a, b, 2a, b: Ottoman smoking pipe (2nd half of the 17th century); 3a,
       b: Ottoman smoking pipe (17th century); 4a, b: Bone handle (2nd half of
       the 16th century–end of the 17th century); 5a, b: Chinese porcelain cup
