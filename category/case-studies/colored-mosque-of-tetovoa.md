@@ -7,20 +7,20 @@ locations:
   - Republic of North Macedonia
 latitude: 42.0057199
 longitude: 20.9667833
-item_image: /assets/media/items/Tetovo_Fig_3.JPG
+item_image: /assets/img/tetovo-fig3.jpg
 item_image_caption: "Tetovo/a colored Mosque. Interior of the prayer hall.
   Detail of the wooden dome wall painting with landscapes. (source: Ana Marija
   Grbanovic)"
 slider_images:
-  - slider_image: /assets/media/items/Tetovo_Fig_2.JPG
+  - slider_image: /assets/img/tetovo-fig2.jpg
     caption: "Tetovo/a Colored Mosque. View of the western side of the mosque with
       earlier minaret and construction break between the prayer hall and the
       portal of the mosque. (source: Ana Marija Grbanovic)"
-  - slider_image: /assets/media/items/Tetovo_Fig_5.JPG
+  - slider_image: /assets/img/tetovo_fig_5.jpg
     caption: "Tetovo/a Colored Mosque. Detail of prayer hall wall paintings’ Baroque
       architectural and vegetal elements with calligraphic roundels. (source:
       Ana Marija Grbanovic)"
-  - slider_image: /assets/media/items/Tetovo_Fig_6.JPG
+  - slider_image: /assets/img/tetovo_fig_6.jpg
     caption: "Tetovo/a Colored Mosque. Detail of the prayer hall’s mahfil structure
       with vegetal composition wall paintings. (source: Ana Marija Grbanovic)"
   - slider_image: /assets/media/items/1565px-20090714_Tetovo_Colored_or_Painted_Mosque_Aladzha_or_Sharena_Dzamija_Detail.jpg
