@@ -1,49 +1,57 @@
 ---
 title: The Cathedral of St. Demetrios, Vladimir
 slug: the-cathedral-of-st-demetrios-vladimir
-title_link: ''
-item_image: /assets/media/items/1-St_Demetrios-wikipedia.jpg
-item_image_caption: 'The Cathedral of St. Demetrios, 1193\-97, view of south facade,
-  white stone, Vladimir (source: Wikimedia)'
-slider_images:
-- slider_image: /assets/media/items/3-dome_JW.jpeg
-  caption: 'Dome and detail of stone reliefs on the zakomara, Cathedral of St. Demetrios,
-    1193\-97, Vladimir (source: J. Willson)'
-- slider_image: /assets/media/items/4-standing_saints_JW.jpeg
-  caption: 'Fragment of stone reliefs on the façade with figural corbels and standing
-    saints, Cathedral of St. Demetrios, 1193\-97, Vladimir (source: J. Willson)'
-- slider_image: /assets/media/items/5-King_David_JW.jpeg
-  caption: 'King David Enthroned and surrounded by angels, plants and animals, Cathedral
-    of St. Demetrios, 1193\-97, Vladimir (source: J. Willson)'
-- slider_image: /assets/media/items/6-vsevolod_and_sons_1_JW.jpeg
-  caption: 'View of north façade left zakomara, Vsevolod III with his five sons, Cathedral
-    of St. Demetrios, 1193\-97, Vladimir (source: J. Willson)'
-- slider_image: /assets/media/items/7-Alexander_JW_southfacade.jpeg
-  caption: 'View of south façade right zakomara, Apotheosis of Alexander the Great,
-    Cathedral of St. Demetrios, 1193\-97, Vladimir (source: J. Willson)'
-- slider_image: /assets/media/items/8a-fresco-Apostles-larger_scene-JW.jpeg
-  caption: 'Interior view of large vault beneath west gallery, Apostles and angels,
-    Cathedral of St. Demetrios, 1193\-97, Vladimir (source: J. Willson)'
-- slider_image: /assets/media/items/9-_fresco_St_peter_leading_righteous_wives_to_heaven_JW.jpeg
-  caption: 'Interior view of small vault beneath west gallery, St. Peter leading the
-    righteous wives to heaven, Cathedral of St. Demetrios, 1193\-97, Vladimir (source:
-    J. Willson)'
-- slider_image: /assets/media/items/10-_fresco_1_-paradise_Abraham_isaac_jacob_-JW.jpeg
-  caption: 'Interior view of small vault beneath west gallery, Jacob, Abraham and
-    Isaac, Cathedral of St. Demetrios, 1193\-97, Vladimir (source: J. Willson)'
-- slider_image: /assets/media/items/2-St_demetrios_Plan-wikipedia.jpg
-  caption: 'Plan of the Cathedral of St. Demetrios, 1193\-97, Vladimir (source: Wikimedia)'
-start_year: 1193
-end_year: 1210
-author: Özlem Eren
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Russia
-subjects:
-- Artistic eclecticism
+  - Russia
 latitude: 56.129257
 longitude: 40.4109426
+item_image: /assets/media/items/1-St_Demetrios-wikipedia.jpg
+item_image_caption: "The Cathedral of St. Demetrios, 1193\\-97, view of south
+  facade, white stone, Vladimir (source: Wikimedia)"
+slider_images:
+  - slider_image: /assets/media/items/3-dome_JW.jpeg
+    caption: "Dome and detail of stone reliefs on the zakomara, Cathedral of St.
+      Demetrios, 1193\\-97, Vladimir (source: J. Willson)"
+  - slider_image: /assets/media/items/4-standing_saints_JW.jpeg
+    caption: "Fragment of stone reliefs on the façade with figural corbels and
+      standing saints, Cathedral of St. Demetrios, 1193\\-97, Vladimir (source:
+      J. Willson)"
+  - slider_image: /assets/media/items/5-King_David_JW.jpeg
+    caption: "King David Enthroned and surrounded by angels, plants and animals,
+      Cathedral of St. Demetrios, 1193\\-97, Vladimir (source: J. Willson)"
+  - slider_image: /assets/media/items/6-vsevolod_and_sons_1_JW.jpeg
+    caption: "View of north façade left zakomara, Vsevolod III with his five sons,
+      Cathedral of St. Demetrios, 1193\\-97, Vladimir (source: J. Willson)"
+  - slider_image: /assets/media/items/7-Alexander_JW_southfacade.jpeg
+    caption: "View of south façade right zakomara, Apotheosis of Alexander the
+      Great, Cathedral of St. Demetrios, 1193\\-97, Vladimir (source: J.
+      Willson)"
+  - slider_image: /assets/media/items/8a-fresco-Apostles-larger_scene-JW.jpeg
+    caption: "Interior view of large vault beneath west gallery, Apostles and
+      angels, Cathedral of St. Demetrios, 1193\\-97, Vladimir (source: J.
+      Willson)"
+  - slider_image: /assets/media/items/9-_fresco_St_peter_leading_righteous_wives_to_heaven_JW.jpeg
+    caption: "Interior view of small vault beneath west gallery, St. Peter leading
+      the righteous wives to heaven, Cathedral of St. Demetrios, 1193\\-97,
+      Vladimir (source: J. Willson)"
+  - slider_image: /assets/media/items/10-_fresco_1_-paradise_Abraham_isaac_jacob_-JW.jpeg
+    caption: "Interior view of small vault beneath west gallery, Jacob, Abraham and
+      Isaac, Cathedral of St. Demetrios, 1193\\-97, Vladimir (source: J.
+      Willson)"
+  - slider_image: /assets/media/items/2-St_demetrios_Plan-wikipedia.jpg
+    caption: "Plan of the Cathedral of St. Demetrios, 1193\\-97, Vladimir (source:
+      Wikimedia)"
+start_year: 1193
+end_year: 1210
+title_link: ""
+author: Özlem Eren
+subjects:
+  - Artistic eclecticism
+  - Religious architecture
+  - Vladimir-Suzdal
+  - Yurievichi Dynasty
 make_public: true
 ---
 
