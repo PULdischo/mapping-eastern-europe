@@ -1,28 +1,32 @@
 ---
 title: The Bogdan Saray, Istanbul
 slug: the-bogdan-saray-istanbul
-title_link: ''
-item_image: /assets/media/items/MelvaniBogdan3.jpg
-item_image_caption: 'Drawing of the Bogdan Saray, Istanbul, view from northeast (source:
-  Alexandros Paspatis, Byzantinai Meletai \[Istanbul, 1877])'
-slider_images:
-- slider_image: /assets/media/items/MelvaniBogdan1_AlHJ7vv.JPG
-  caption: 'Remains of the Bogdan Saray, 14th century, Istanbul, view from the east
-    (source: N. Melvani)'
-- slider_image: /assets/media/items/MelvaniBogdan2_31D1E9G.JPG
-  caption: 'Remains of the Bogdan Saray, 14th century, Istanbul, interior facing east
-    (source: N. Melvani)'
-start_year: 1301
-end_year: 1400
-author: Nicholas Melvani
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Turkey
-subjects:
-- Raoul/Ralles
+  - Turkey
 latitude: 41.0296757
 longitude: 28.9424664
+item_image: /assets/media/items/MelvaniBogdan3.jpg
+item_image_caption: "Drawing of the Bogdan Saray, Istanbul, view from northeast
+  (source: Alexandros Paspatis, Byzantinai Meletai \\[Istanbul, 1877])"
+slider_images:
+  - slider_image: /assets/media/items/MelvaniBogdan1_AlHJ7vv.JPG
+    caption: "Remains of the Bogdan Saray, 14th century, Istanbul, view from the
+      east (source: N. Melvani)"
+  - slider_image: /assets/media/items/MelvaniBogdan2_31D1E9G.JPG
+    caption: "Remains of the Bogdan Saray, 14th century, Istanbul, interior facing
+      east (source: N. Melvani)"
+start_year: 1301
+end_year: 1400
+title_link: ""
+author: Nicholas Melvani
+subjects:
+  - Raoul/Ralles
+  - Residential complex
+  - Religious architecture
+  - Byzantine aristocracy
+  - Moldavian aristocracy
 make_public: true
 ---
 
