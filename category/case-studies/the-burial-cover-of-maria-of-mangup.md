@@ -1,23 +1,24 @@
 ---
 title: The Burial Cover of Maria of Mangup
 slug: the-burial-cover-of-maria-of-mangup
-title_link: ''
+type:
+  - Textile
+locations:
+  - Romania
+latitude: 47.8670373927
+longitude: 25.5982871929
 item_image: /assets/media/items/Burial_Cover_of_Maria_of_Mangup_MXCJK5Q.jpg
-item_image_caption: 'Burial cover of Maria of Mangup, ca. 1477, embroidery with gold
-  and silver thread and colored silk on a red satin foundation, Collection of Putna
-  Monastery (source: Putna Monastery)'
+item_image_caption: "Burial cover of Maria of Mangup, ca. 1477, embroidery with
+  gold and silver thread and colored silk on a red satin foundation, Collection
+  of Putna Monastery (source: Putna Monastery)"
 slider_images: []
 start_year: 1450
 end_year: 1478
+title_link: ""
 author: Alice Isabella Sullivan
-type:
-- Textile
-locations:
-- Romania
 subjects:
-- Palaiologan Dynasty
-latitude: 47.8670373927
-longitude: 25.5982871929
+  - Palaiologan Dynasty
+  - Burial
 make_public: true
 ---
 
