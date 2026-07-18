@@ -12,7 +12,7 @@ subjects:
   - Chernihiv Princes
   - Religious architecture
   - Frescoes
-latitude: ""
+latitude: 50.45466
 longitude: 30.5238
 item_image: /assets/img/st-cyril-1-first-image-5.jpg
 item_image_caption: "Aerial view of the St. Cyril Church, Kyiv (source: Wikimedia Commons)"
