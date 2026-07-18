@@ -10,7 +10,7 @@ subjects:
   - Baroque
   - Hetmanate
   - Cossacks
-latitude: ""
+latitude: 51.04801
 longitude: 31.88688
 item_image: /assets/img/st-nicholas-nizhyn-1.jpg
 item_image_caption: St.Nikolas Church in Nizhyn. Maksym Yaremenko, 7.08.2011.
