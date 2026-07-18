@@ -5,7 +5,7 @@ author: Martin-Oleksandr Kisly
 type:
   - Architecture
 locations:
-  - Ukraine
+  - Crimea
 subjects:
   - Tatars
   - Judaism
