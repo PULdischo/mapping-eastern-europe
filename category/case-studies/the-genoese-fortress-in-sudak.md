@@ -5,12 +5,12 @@ author: Martin-Oleksandr Kisly
 type:
   - Architecture
 locations:
-  - Ukraine
+  - Crimea
 subjects:
   - Fortress
   - Economic history
   - Genoese trade
-latitude: ""
+latitude: 44.840278
 longitude: 34.957778
 item_image: /assets/img/1-main-image-sudak.jpg
 item_image_caption: "The Genoese Fortress on the northwestern slopes of Fortress
