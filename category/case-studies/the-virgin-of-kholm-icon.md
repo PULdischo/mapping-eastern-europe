@@ -70,6 +70,6 @@ This collection features research by historians on the development of the cult o
 
 This collection brings together articles regarding the iconography, the evolution of the cult, and the restoration of the Kholm Icon of the Mother of God. It features works by prominent art historians, historians, museum studies experts, and restorers, originally published in various editions between 2000 and 2009.
 
-Deluga, Waldemar. “Ikona Matki Boskiej Chełmskiej. Głos w dyskusji badaczy polskich i ukraińskich” \[The Kholm Icon of the Mother of God: A Contribution to the Discussion Between Polish and Ukrainian Researchers]. Український гуманітарний огляд [*Ukrainian Humanitarian Review*] 7 (2002): 116-131. [          
+Deluga, Waldemar. “Ikona Matki Boskiej Chełmskiej. Głos w dyskusji badaczy polskich i ukraińskich” \[The Kholm Icon of the Mother of God: A Contribution to the Discussion Between Polish and Ukrainian Researchers]. Український гуманітарний огляд [*Ukrainian Humanitarian Review*] 7 (2002): 116-131.         
 
 The article provides a critical review of various hypotheses regarding the date of the icon's creation and its arrival in Rus'. Another objective of the paper is to present the reasons behind the popularity of the Kholm Mother of God image within the 17th-century Polish-Lithuanian Commonwealth.
