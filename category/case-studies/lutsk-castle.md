@@ -1,6 +1,6 @@
 ---
 title: Lutsk Castle
-slug: lutsk-Castle
+slug: lutsk-castle
 author: Maksym Yaremenko
 type:
   - Architecture
@@ -9,7 +9,7 @@ locations:
 subjects:
   - Fortress
   - Liubartas (prince of Galicia and Volhynia)
-latitude: ""
+latitude: 50.75932
 longitude: 25.34244
 item_image: /assets/img/lc-3-main-image.jpg
 item_image_caption: "Liubartas’ Castle (source: www.istvolyn.info)"
