@@ -37,7 +37,7 @@ start_year: 1150
 end_year: 1750
 make_public: true
 ---
-*By Martin-Oleksandr Kisly | HistoryDepartment of National University of Kyiv-Mohyla Academy (NaUKMA)*
+*By Martin-Oleksandr Kisly | History Department of National University of Kyiv-Mohyla Academy (NaUKMA)*
 
 **Description**
 
