@@ -14,7 +14,7 @@ longitude: 25.34244
 item_image: /assets/img/lc-3-main-image.jpg
 item_image_caption: "Liubartas’ Castle (source: www.istvolyn.info)"
 slider_images:
-  - slider_image: /assets/img/lc-1.jpg
+  - slider_image: /assets/img/lc-2.jpg
     caption: "The Entrance Tower (source: Wikimedia Commons)"
   - slider_image: /assets/img/lc-4.jpg
     caption: View of the Upper Castle from the Entrance Tower. Maksym Yaremenko,
@@ -28,7 +28,7 @@ start_year: 1150
 end_year: 1750
 make_public: true
 ---
-*By Maksym Yaremenko | NationalUniversity of Kyiv-Mohyla Academy*
+*By Maksym Yaremenko | National University of Kyiv-Mohyla Academy*
 
 **Description**
 
