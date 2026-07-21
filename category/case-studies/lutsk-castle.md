@@ -14,8 +14,6 @@ longitude: 25.34244
 item_image: /assets/img/lc-3-main-image.jpg
 item_image_caption: "Liubartas’ Castle (source: www.istvolyn.info)"
 slider_images:
-  - slider_image: /assets/img/lc-2.jpg
-    caption: "The Entrance Tower (source: Wikimedia Commons)"
   - slider_image: /assets/img/lc-4.jpg
     caption: View of the Upper Castle from the Entrance Tower. Maksym Yaremenko,
       12.08.2025
