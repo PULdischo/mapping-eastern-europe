@@ -15,28 +15,31 @@ subjects:
 latitude: 50.32942
 longitude: 26.51425
 item_image: /assets/img/1-main-image.jpg
-item_image_caption: Frontispiece, Collection of the V. I. Vernadskyi National
-  Library of Ukraine, Кир. 686
+item_image_caption: "Frontispiece, version with July 12, 1580 printing date
+  (source: Collection of the V. I. Vernadskyi National Library of Ukraine, Кир.
+  686)"
 slider_images:
   - slider_image: /assets/img/beginning-of-colophon.jpg
-    caption: Beginning of colophon, Collection of the V. I. Vernadskyi National
-      Library of Ukraine, Кир. 686
+    caption: "Beginning of colophon, version with July 12, 1580 printing date
+      (source: Collection of the V. I. Vernadskyi National Library of Ukraine,
+      Кир. 686)"
   - slider_image: /assets/img/col.jpg
-    caption: End of colophon, Collection of the V. I. Vernadskyi National Library of
-      Ukraine, Кир. 686
+    caption: "End of colophon, version with July 12, 1580 printing date (source:
+      Collection of the V. I. Vernadskyi National Library of Ukraine, Кир. 686)"
   - slider_image: /assets/img/last-folio-version-with-july-12-1580-date-of-printing.jpg
-    caption: Last folio, version with July 12 1580 printing date, Collection of the
-      V. I. Vernadskyi National Library of Ukraine, Кир. 686
+    caption: "Last folio, version with July 12, 1580 printing date (source:
+      Collection of the V. I. Vernadskyi National Library of Ukraine, Кир. 686)"
   - slider_image: /assets/img/paages-of-ob-psalter-.jpg
-    caption: Pages from Psalter, Collection of the V. I. Vernadskyi National Library
-      of Ukraine, Кир. 686
+    caption: "Pages from Psalter, version with July 12, 1580 printing date (source:
+      Collection of the V. I. Vernadskyi National Library of Ukraine, Кир. 686)"
   - slider_image: /assets/img/the-beginning-of-the-book-of-genesis.jpg
-    caption: The beginning of the Book of Genesis, Collection of the V. I.
-      Vernadskyi National Library of Ukraine, Кир. 686
+    caption: "The beginning of the Book of Genesis, version with July 12, 1580
+      printing date (source: Collection of the V. I. Vernadskyi National Library
+      of Ukraine, Кир. 686)"
   - slider_image: /assets/img/verses-on-the-coat-of-arms-of-prince-kostiantyn-of-ostroh-“see-these-signs”-.jpg
-    caption: Verses on the coat of arms of Prince Vasyl-Konstiantyn of Ostroh ("See
-      these signs"), Collection of the V. I. Vernadskyi National Library of
-      Ukraine, Кир. 686
+    caption: 'Verses on the coat of arms of Prince Vasyl-Konstiantyn of Ostroh ("See
+      these signs"), version with July 12, 1580 printing date (source:
+      Collection of the V. I. Vernadskyi National Library of Ukraine, Кир. 686)'
 start_year: 1150
 end_year: 1750
 make_public: true
