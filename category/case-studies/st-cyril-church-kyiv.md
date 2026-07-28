@@ -17,12 +17,19 @@ longitude: 30.5238
 item_image: /assets/img/st-cyril-1-first-image-5.jpg
 item_image_caption: "Aerial view of the St. Cyril Church, Kyiv (source: Wikimedia Commons)"
 slider_images:
-  - slider_image: /assets/img/byzantine1.png
+  - slider_image: /assets/img/st-cyril-1.jpg
+    caption: "West side of the St. Cyril Church, Kyiv (source: St. Cyril Church Museum)"
+  - slider_image: /assets/img/st-cyril-1-2.jpg
+    caption: "East side of the St. Cyril Church, Kyiv (source: Wikimedia Commons)"
+  - slider_image: /assets/img/st-cyril-3.jpg
+    caption: "The Angel Rolling Up the Heavens (source: St. Cyril Church Museum)"
+  - slider_image: /assets/img/st-cyril-4.jpg
+    caption: "A portrait of Innokentii Monastyrskyi (source: St. Cyril Church Museum)"
 start_year: 1150
 end_year: 1750
 make_public: true
 ---
-*By Maksym Yaremenko | NationalUniversity of Kyiv-Mohyla Academy*
+*By Maksym Yaremenko | National University of Kyiv-Mohyla Academy*
 
 **Description**
 
@@ -44,9 +51,8 @@ St. Cyril Church was dedicated to the 5th-century Saint Cyril of Alexandria, a 
 
 Currently, two versions regarding the founders of the church and monastery have been proposed based on the surviving evidence:
 
-1) The church was founded between 1146 and 1179 by Mariia Mstyslavna (†1179), the wife of Kyivan Prince Vsevolod Olgovych of the Chernihiv branch of the Rurikid dynasty. According to Olenka Pevny’s interpretation, the construction of the church in Kyiv coincided with a surge of interest during the 1150s in Constantinople in the teachings of Saint Cyril, linked to theological disputes, and the arrival in Rus’ of a new metropolitan from there, who brought this interest in the saint to Kyiv.
-
-2) The church was founded between 1139 and 1146 by Prince Vsevolod Olgovych himself (†1146) to commemorate his victory in the struggle for the Kyiv princely throne in 1139. In this version, Mariia Mstyslavna is credited with the completion of the church’s frescoes. The cathedral’s dedication was chosen in honor of Prince Vsevolod  Olgovych’s heavenly patron, Saint Cyril. 
+1. The church was founded between 1146 and 1179 by Mariia Mstyslavna (†1179), the wife of Kyivan Prince Vsevolod Olgovych of the Chernihiv branch of the Rurikid dynasty. According to Olenka Pevny’s interpretation, the construction of the church in Kyiv coincided with a surge of interest during the 1150s in Constantinople in the teachings of Saint Cyril, linked to theological disputes, and the arrival in Rus’ of a new metropolitan from there, who brought this interest in the saint to Kyiv.
+2. The church was founded between 1139 and 1146 by Prince Vsevolod Olgovych himself (†1146) to commemorate his victory in the struggle for the Kyiv princely throne in 1139. In this version, Mariia Mstyslavna is credited with the completion of the church’s frescoes. The cathedral’s dedication was chosen in honor of Prince Vsevolod  Olgovych’s heavenly patron, Saint Cyril. 
 
 The church served as the Olgovych family’s princely necropolis. In addition to Mariia Mstyslavna, her daughter-in-law Mariia Kazymyrivna, daughter of the Prince of Kraków, was buried in St.  Cyril Church in 1179, and in 1194, Kyivan Prince Sviatoslav Vsevolodovych ,Vsevolod Olgovych’s son, was buried there.
 
