@@ -1,15 +1,14 @@
 backend:
-  # Use netlify identity as backend
-  name: git-gateway
+  name: github
+  repo: PULdischo/mapping-eastern-europe
   branch: main
+  auth_methods: [token]
+  
 editor:
   preview: false
 
 publish_mode: editorial_workflow
 media_folder: "assets/img/"
-
-# Please run "npx netlify-cms-proxy-server" for local backend
-local_backend: true
 
 collections:
   - name: "book-reviews"
