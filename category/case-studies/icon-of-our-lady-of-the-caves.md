@@ -13,8 +13,8 @@ subjects:
   - Anthony
   - Theodosius
   - Kyiv-Pechersk Lavra
-latitude: null
-longitude: null
+latitude: 50.4338
+longitude: 30.5555
 item_image: /assets/img/1 - Pecherskaya_(Svenskaya)_with_SS.Antonius_and_Feodosius_(13_c,_Tretyakov_gallery).jpg
 item_image_caption: 'Our Lady of the Caves Icon, late 13th century, now in the Tretyakov Gallery, Moscow (source: Wikimedia Commons)'
 slider_images:
