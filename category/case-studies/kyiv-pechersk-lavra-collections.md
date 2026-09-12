@@ -11,8 +11,8 @@ subjects:
   - Kyiv
   - collections
   - architecture
-latitude: null
-longitude: null
+latitude: 50.4338
+longitude: 30.5555
 item_image: /assets/img/1 .jpg
 item_image_caption: 'General view of the Kyiv-Pechersk Lavra, Kyiv, Ukraine (source: Wikimedia Commons)'
 slider_images:
