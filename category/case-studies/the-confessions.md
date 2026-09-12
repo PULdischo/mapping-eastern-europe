@@ -1,5 +1,5 @@
 ---
-title: The confessions
+title: The Icon of Our Lady of the Caves
 slug: ''
 author: ''
 type: []
