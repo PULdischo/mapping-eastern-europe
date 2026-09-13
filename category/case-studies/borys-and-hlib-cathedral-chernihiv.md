@@ -21,8 +21,6 @@ slider_images:
     caption: 'The Borys and Hlib Cathedral located between the Savior Cathedral and the Collegium building (source: Wikimedia Commons)'
   - slider_image: /assets/img/Il17.webp
     caption: 'Omphalion in the Borys and Hlib Cathedral, Chernihiv (source: Wikimedia Commons)'
-  - slider_image: /assets/img/byzantine1.png
-    caption: ''
 start_year: 1150
 end_year: 1750
 make_public: true
@@ -38,7 +36,7 @@ The cathedral is located in the northern part of the historic center of Chernihi
 
 The present appearance of the Borys and Hlib Cathedral is the result of restoration in the 1950s, which involved a complete rebuilding based on reconstructions of its original form. Prior to that, the cathedral had undergone several episodes of destruction and rebuilding, the most significant of which were its remodeling in the 1630s to resemble a Roman Catholic church, as well as the addition of several vestibules and other structures during the second half of the 17th century and throughout the 19th century. 
 
-The Borys and Hlib Cathedral is a typical example of 12th-century architecture in Chernihiv. It is cross-shaped, six-columned, and crowned with a single dome (6 m heigh). All facades of the cathedral are topped with reconstructed zakomaras (semicircular arches crowning an exterior wall that correspond to the inner vaults). The cathedral is 26.5 m long, 18.5 m wide, and 25 m high. On the northern and western sides, it had galleries, while on the southern side, there was a chapel and a vestibule in front of the portal. These structures have not been reconstructed; only their foundations with surviving masonry have been preserved.      Today, they encircle the cathedral. The cathedral has all been plastered on the outside.
+The Borys and Hlib Cathedral is a typical example of 12th-century architecture in Chernihiv. It is cross-shaped, six-columned, and crowned with a single dome (6 m heigh). All facades of the cathedral are topped with reconstructed zakomaras (semicircular arches crowning an exterior wall that correspond to the inner vaults). The cathedral is 26.5 m long, 18.5 m wide, and 25 m high. On the northern and western sides, it had galleries, while on the southern side, there was a chapel and a vestibule in front of the portal. These structures have not been reconstructed; only their foundations with surviving masonry have been preserved. Today, they encircle the cathedral. The cathedral has all been plastered on the outside.
 
 The Borys and Hlib Cathedral represents a new architectural trend that emerged in Chernihiv at the turn of the 12th century. It is characterized by a combination of the traditional Byzantine church plan with constructive elements of European Romanesque architecture. In particular, the influence of the latter is evident in the structural design of the cathedral: all the bays of its facades were finished with semicircular zakomaras. Another adapted element is the decorative ornamentation featuring zoomorphic motifs, which are found in the carved capitals with animal figures, as well as in stones depicting fantastic creatures – the Sirin bird, a dragon, stylized lions, and others.
 
@@ -78,7 +76,7 @@ After the monastery was abolished in 1786, its buildings were taken over by the 
 
 After the Bolshevik occupation of Ukraine and the establishment of the Ukrainian SSR, the Borys and Hlib Cathedral in the 1920s–1940s successively belonged to the Ukrainian Autocephalous Orthodox Church (1921–1925) and the Renovationist Synodal community of the Russian Orthodox Church (1925–1930). After the church was closed, it was repurposed as a warehouse for dried vegetables and tobacco products.
 
-During the Second World War, the church was damaged by an aerial bomb on 23–25 August 1941. After the war and the completion of extensive archaeological investigations by Mykola Kholostenko (in 1947–48 and 1956–58), the Borys and Hlib Cathedral was reconstructed with an emphasis on restoring its original appearance from the Kyivan Rus’ period. As a result, its appearance as a monument of Ukrainian Baroque architecture, as well as the structures from the time of Hetman Ivan Mazepa, were completely lost. The only reminder of the Ukrainian Cossack era is the magnificent Royal Doors of the iconostasis     , which are now a highlight of the museum exhibition in the cathedral.
+During the Second World War, the church was damaged by an aerial bomb on 23–25 August 1941. After the war and the completion of extensive archaeological investigations by Mykola Kholostenko (in 1947–48 and 1956–58), the Borys and Hlib Cathedral was reconstructed with an emphasis on restoring its original appearance from the Kyivan Rus’ period. As a result, its appearance as a monument of Ukrainian Baroque architecture, as well as the structures from the time of Hetman Ivan Mazepa, were completely lost. The only reminder of the Ukrainian Cossack era is the magnificent Royal Doors of the iconostasis, which are now a highlight of the museum exhibition in the cathedral.
 
 This monument serves as an essential material source for studying the regional characteristics of 12th-century Rus' architecture. It is equally important for understanding how early Rus' ecclesiastical buildings were transformed within the Ukrainian cultural tradition of the early modern era.
 
