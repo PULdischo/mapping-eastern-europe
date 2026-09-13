@@ -1,46 +1,32 @@
 ---
-title: The Church of the Nativity of the Mother of God, Ferapontovo Monastery, Vologdskaya
-  Oblast’
-slug: the-church-of-the-nativity-of-the-mother-of-god-f
-title_link: ''
-item_image: /assets/media/items/Shevelkina_Image_1_Zo5Euya.jpeg
-item_image_caption: 'Monuments of the Ferapontovo Monastery: (left to right) Church
-  of St. Martinian (1641\), The Nativity of the Mother of God Church (1490\), The
-  Church of the Annunciation with Refectory (1530\-31\), Vologda, Russia (source:
-  Enotovidnii via Wikimedia)'
-slider_images:
-- slider_image: /assets/media/items/Shevelkina_Image_2.jpeg
-  caption: 'Dionisy and his workshop, The Visitation of Mary and Elizabeth, Akathistos
-    Hymn, Eikos 3, 1502, wall\-painting, central crosswise nave, west view, The Nativity
-    of the Mother of God church, Ferapontovo Monastery, Vologda, Russia (source: Wikimedia)'
-- slider_image: /assets/media/items/Shevelkina_Image_3.jpeg
-  caption: 'Dionisy and his workshop, The Marriage in Cana of Galilee, 1502, wall\-painting,
-    central crosswise nave, east view, The Nativity of the Mother of God church, Ferapontovo
-    Monastery, Vologda, Russia (source: Wikimedia)'
-- slider_image: /assets/media/items/Shevelkina_Image_4.jpeg
-  caption: 'Dionisy and his workshop, Mother of God with Archangels, 1502, wall\-painting,
-    central crosswise nave, east view, The Nativity of the Mother of God church, Ferapontovo
-    Monastery, Vologda, Russia (source: Wikimedia)'
-- slider_image: /assets/media/items/Shevelkina_Image_5.jpeg
-  caption: 'Dionisy and his workshop, The Nativity of the Mother of God, 1502, wall\-painting,
-    western façade, The Nativity of the Mother of God church, Ferapontovo Monastery,
-    Vologda, Russia (source: Wikimedia)'
-- slider_image: /assets/media/items/Shevelkina_Image_6.jpeg
-  caption: 'Dionisy and his workshop, the Parable of Wise and Foolish Virgins, 1502,
-    wall\-painting, central lengthwise nave, north view, The Nativity of the Mother
-    of God church, Ferapontovo Monastery, Vologda, Russia (source: Wikimedia)'
-start_year: 1490
-end_year: 1502
+title: The Church of the Nativity of the Mother of God, Ferapontovo Monastery, Vologdskaya Oblast’
+slug: church-of-the-nativity-of-the-mother-of-god
 author: Maria Shevelkina
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Russia
+  - Russia
 subjects:
-- Dionisy (Artist)
+  - Dionisy (Artist)
 latitude: 59.9566131
 longitude: 38.5674859
+item_image: /assets/media/items/Shevelkina_Image_1_Zo5Euya.jpeg
+item_image_caption: 'Monuments of the Ferapontovo Monastery: (left to right) Church of St. Martinian (1641), The Nativity of the Mother of God Church (1490), The Church of the Annunciation with Refectory (1530-31), Vologda, Russia (source: Enotovidnii via Wikimedia)'
+slider_images:
+  - slider_image: /assets/media/items/Shevelkina_Image_2.jpeg
+    caption: 'Dionisy and his workshop, The Visitation of Mary and Elizabeth, Akathistos Hymn, Eikos 3, 1502, wall\-painting, central crosswise nave, west view, The Nativity of the Mother of God church, Ferapontovo Monastery, Vologda, Russia (source: Wikimedia)'
+  - slider_image: /assets/media/items/Shevelkina_Image_3.jpeg
+    caption: 'Dionisy and his workshop, The Marriage in Cana of Galilee, 1502, wall\-painting, central crosswise nave, east view, The Nativity of the Mother of God church, Ferapontovo Monastery, Vologda, Russia (source: Wikimedia)'
+  - slider_image: /assets/media/items/Shevelkina_Image_4.jpeg
+    caption: 'Dionisy and his workshop, Mother of God with Archangels, 1502, wall\-painting, central crosswise nave, east view, The Nativity of the Mother of God church, Ferapontovo Monastery, Vologda, Russia (source: Wikimedia)'
+  - slider_image: /assets/media/items/Shevelkina_Image_5.jpeg
+    caption: 'Dionisy and his workshop, The Nativity of the Mother of God, 1502, wall\-painting, western façade, The Nativity of the Mother of God church, Ferapontovo Monastery, Vologda, Russia (source: Wikimedia)'
+  - slider_image: /assets/media/items/Shevelkina_Image_6.jpeg
+    caption: 'Dionisy and his workshop, the Parable of Wise and Foolish Virgins, 1502, wall\-painting, central lengthwise nave, north view, The Nativity of the Mother of God church, Ferapontovo Monastery, Vologda, Russia (source: Wikimedia)'
+start_year: 1490
+end_year: 1502
 make_public: true
+title_link: ''
 ---
 
 *By Maria Shevelkina \| Stanford University* 
@@ -80,5 +66,3 @@ This book\-length study traverses the structural and administrative history of t
 The articles compiled in this volume address the extensive history and processes of restoration of the wall paintings at the Church of the Nativity of the Mother of God, with in\-depth analyses of structures, pigments, and the processes of Dionisy’s workshop and the conservators/restorers coming thereafter.
 
 This contribution was sponsored by the [**Mary Jaharis Center for Byzantine Art and Culture**](https://maryjahariscenter.org/) at Hellenic College Holy Cross.
-
-
