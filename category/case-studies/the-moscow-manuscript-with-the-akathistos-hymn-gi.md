@@ -1,39 +1,30 @@
 ---
-title: The Moscow Manuscript with the Akathistos Hymn (GIM Syn. gr. 429\)
-slug: the-moscow-manuscript-with-the-akathistos-hymn-gi
-title_link: ''
-item_image: /assets/media/items/1_image_ms_429.jpeg
-item_image_caption: A sample book spread, Moscow, State Historical Museum, Synod.
-  gr. 429, 14th or early 15th century. Photograph by Olga Yunak from a facsimile copy.
-slider_images:
-- slider_image: /assets/media/items/2_image_ms_429.jpg
-  caption: The Nativity of Christ, Moscow, State Historical Museum, Synod. gr. 429,
-    fol. 20v, 14th or early 15th century. Photograph by Olga Yunak from a facsimile
-    copy.
-- slider_image: /assets/media/items/3_image_ms_429.jpeg
-  caption: Zoomorphic initial letter, Moscow, State Historical Museum, Synod. gr.
-    429, fol. 26v, 14th or early 15th century. Photograph by Olga Yunak from a facsimile
-    copy.
-- slider_image: /assets/media/items/4_image_ms_429.jpg
-  caption: Christ flanked by cantors, bishops, and monks, Moscow, State Historical
-    Museum, Synod. gr. 429, fol. 48v, 14th or early 15th century. Photograph by Olga
-    Yunak from a facsimile copy.
-- slider_image: /assets/media/items/5_image_ms_429.jpg
-  caption: Procession with the icon Hodegetria, Moscow, State Historical Museum, Synod.
-    gr. 429, fol. 33v, 14th or early 15th century. Photograph by Olga Yunak from a
-    facsimile copy.
-start_year: 1300
-end_year: 1450
+title: The Moscow Manuscript with the Akathistos Hymn (GIM Syn. gr. 429)
+slug: moscow-manuscript-akathistos-hymn
 author: Olga Yunak
 type:
-- Manuscript
+  - Manuscript
 locations:
-- Greece
-- Russia
+  - Greece
+  - Russia
 subjects: []
 latitude: 55.755826
 longitude: 37.6173
+item_image: /assets/media/items/1_image_ms_429.jpeg
+item_image_caption: A sample book spread, Moscow, State Historical Museum, Synod. gr. 429, 14th or early 15th century. Photograph by Olga Yunak from a facsimile copy.
+slider_images:
+  - slider_image: /assets/media/items/2_image_ms_429.jpg
+    caption: The Nativity of Christ, Moscow, State Historical Museum, Synod. gr. 429, fol. 20v, 14th or early 15th century. Photograph by Olga Yunak from a facsimile copy.
+  - slider_image: /assets/media/items/3_image_ms_429.jpeg
+    caption: Zoomorphic initial letter, Moscow, State Historical Museum, Synod. gr. 429, fol. 26v, 14th or early 15th century. Photograph by Olga Yunak from a facsimile copy.
+  - slider_image: /assets/media/items/4_image_ms_429.jpg
+    caption: Christ flanked by cantors, bishops, and monks, Moscow, State Historical Museum, Synod. gr. 429, fol. 48v, 14th or early 15th century. Photograph by Olga Yunak from a facsimile copy.
+  - slider_image: /assets/media/items/5_image_ms_429.jpg
+    caption: Procession with the icon Hodegetria, Moscow, State Historical Museum, Synod. gr. 429, fol. 33v, 14th or early 15th century. Photograph by Olga Yunak from a facsimile copy.
+start_year: 1300
+end_year: 1450
 make_public: true
+title_link: ''
 ---
 
 *By Olga Yunak \| Graduate Theological Union, Berkeley, CA*  
@@ -81,5 +72,3 @@ Dobrynina, Elina, and Patricia Donegan. “The Akathistos Hymn.” In *A Compani
 This chapter is the most recent comprehensive analysis of the manuscript updated to reflect the findings of the past decades.
 
 This contribution was sponsored by the **[Mary Jaharis Center for Byzantine Art and Culture](https://maryjahariscenter.org/)** at Hellenic College Holy Cross.
-
-
