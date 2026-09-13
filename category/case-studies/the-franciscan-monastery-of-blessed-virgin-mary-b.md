@@ -1,36 +1,31 @@
 ---
 title: The Franciscan monastery of Blessed Virgin Mary, Bač
-slug: the-franciscan-monastery-of-blessed-virgin-mary-b
-title_link: ''
-item_image: /assets/media/items/Franjevacki_samostan_u_Bacu.jpeg
-item_image_caption: 'Church of the Assumption of the Blessed Virgin Mary in Bač, view
-  from the northwest side (source: Wikimedia)'
-slider_images:
-- slider_image: /assets/media/items/Fig._1_ZyHKOo2.jpg
-  caption: 'Church of the Assumption of the Blessed Virgin Mary in Bač, view from
-    the northwest side (source: N. Piperski)'
-- slider_image: /assets/media/items/Fig._3_lmJOTMY.jpg
-  caption: 'Fresco of the Crucifixion of Christ, end of the 12th century, west side
-    of the southern buttress and trace of a former Gothic arch, most probably the
-    beginning of the 14th century (source: N. Piperski)'
-- slider_image: /assets/media/items/Fig.4_P9cHk7v.jpg
-  caption: 'Fresco depicting kings, vault over communion fence, around 1300 (source:
-    N. Piperski)'
-- slider_image: /assets/media/items/Fig.5_XNy77Ac.jpg
-  caption: 'Remains of a fresco on the south wall, 14th century (source: N. Piperski)'
-- slider_image: /assets/media/items/Fig.6.jpg
-  caption: 'Dima, Icon of Joyful Lady of Bač, 1684 (source: N. Piperski)'
-start_year: 1300
-end_year: 1526
+slug: franciscan-monastery-of-blessed-virgin-mary
 author: Nikola Piperski
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Serbia
+  - Serbia
 subjects: []
 latitude: 45.3915411
 longitude: 19.232532
+item_image: /assets/media/items/Franjevacki_samostan_u_Bacu.jpeg
+item_image_caption: 'Church of the Assumption of the Blessed Virgin Mary in Bač, view from the northwest side (source: Wikimedia)'
+slider_images:
+  - slider_image: /assets/media/items/Fig._1_ZyHKOo2.jpg
+    caption: 'Church of the Assumption of the Blessed Virgin Mary in Bač, view from the northwest side (source: N. Piperski)'
+  - slider_image: /assets/media/items/Fig._3_lmJOTMY.jpg
+    caption: 'Fresco of the Crucifixion of Christ, end of the 12th century, west side of the southern buttress and trace of a former Gothic arch, most probably the beginning of the 14th century (source: N. Piperski)'
+  - slider_image: /assets/media/items/Fig.4_P9cHk7v.jpg
+    caption: 'Fresco depicting kings, vault over communion fence, around 1300 (source: N. Piperski)'
+  - slider_image: /assets/media/items/Fig.5_XNy77Ac.jpg
+    caption: 'Remains of a fresco on the south wall, 14th century (source: N. Piperski)'
+  - slider_image: /assets/media/items/Fig.6.jpg
+    caption: 'Dima, Icon of Joyful Lady of Bač, 1684 (source: N. Piperski)'
+start_year: 1300
+end_year: 1526
 make_public: true
+title_link: ''
 ---
 
 *By Nikola Piperski \| University of Belgrade*  
@@ -74,5 +69,3 @@ Piperski, Nikola. “Црква фрањевачког самостана Све
 The text is written in Serbian, but with a summary in English. It provides more detailed information on the building layers and wall paintings of the Church of the Assumption of the Blessed Virgin Mary in Bač, created during the Middle Ages.
 
 This contribution was sponsored by the [**International Center of Medieval Art**](https://www.medievalart.org/) through the 2021 Advocacy Seed Grant.
-
-
