@@ -1,39 +1,30 @@
 ---
 title: The Genealogical Tree of the Nemanjić Dynasty, Dečani Monastery
-slug: the-genealogical-tree-of-the-nemanjic-dynasty-dec
+slug: genealogical-tree-of-the-nemanjic-dynasty-decani
+author: Nicole C. Paxton
 type:
   - Monumental art
 locations:
   - Kosovo
-latitude: 42.5461496
-longitude: 20.2659536
-item_image: /assets/media/items/01_NemanjicFamilyTree_IMG_7862.JPG
-item_image_caption: "Nemanjić Genealogy, Narthex, Dečani Monastery, ca. 1346–48,
-  Fresco, Kosovo, (source: N.P. Sullo with permission from Visoki Dečani
-  Monastery)"
-slider_images:
-  - slider_image: /assets/media/items/02_NemanjicFamilyTree_Detail_IMG_7865.JPG
-    caption: "Detail of Stefan Uroš V, Stefan Uroš IV Dušan, and Stefan Uroš III
-      Dečanski, Nemanjić Genealogy, Narthex, Dečani Monastery, ca. 1346–48,
-      Fresco, Kosovo, (source: N. P. Sullo with permission from Visoki Dečani
-      Monastery)"
-  - slider_image: /assets/media/items/03_NemanjicFamilyTree_Detail_IMG_7819.JPG
-    caption: "Detail of Stefan Uroš IV Dušan with Stefan Constantine at right,
-      Nemanjić Genealogy, Narthex, Dečani Monastery, ca. 1346–48, Fresco,
-      Kosovo, (source: N.P. Sullo with permission from Visoki Dečani Monastery)"
-  - slider_image: /assets/media/items/04_NemanjicFamilyTree_Detail_IMG_7821.JPG
-    caption: "Detail of Stefan Uroš III Dečanski with Stefan Constantine at left,
-      Nemanjić Genealogy, Narthex, Dečani Monastery, ca. 1346–48, Fresco,
-      Kosovo, (source: N.P. Sullo with permission from Visoki Dečani Monastery)"
-start_year: 1340
-end_year: 1350
-title_link: ""
-author: Nicole C. Paxton
 subjects:
   - Nemanjić Dynasty
   - The Genealogical Tree (Iconography)
   - Iconography
+latitude: 42.5461496
+longitude: 20.2659536
+item_image: /assets/media/items/01_NemanjicFamilyTree_IMG_7862.JPG
+item_image_caption: 'Nemanjić Genealogy, Narthex, Dečani Monastery, ca. 1346–48, Fresco, Kosovo, (source: N.P. Sullo with permission from Visoki Dečani Monastery)'
+slider_images:
+  - slider_image: /assets/media/items/02_NemanjicFamilyTree_Detail_IMG_7865.JPG
+    caption: 'Detail of Stefan Uroš V, Stefan Uroš IV Dušan, and Stefan Uroš III Dečanski, Nemanjić Genealogy, Narthex, Dečani Monastery, ca. 1346–48, Fresco, Kosovo, (source: N. P. Sullo with permission from Visoki Dečani Monastery)'
+  - slider_image: /assets/media/items/03_NemanjicFamilyTree_Detail_IMG_7819.JPG
+    caption: 'Detail of Stefan Uroš IV Dušan with Stefan Constantine at right, Nemanjić Genealogy, Narthex, Dečani Monastery, ca. 1346–48, Fresco, Kosovo, (source: N.P. Sullo with permission from Visoki Dečani Monastery)'
+  - slider_image: /assets/media/items/04_NemanjicFamilyTree_Detail_IMG_7821.JPG
+    caption: 'Detail of Stefan Uroš III Dečanski with Stefan Constantine at left, Nemanjić Genealogy, Narthex, Dečani Monastery, ca. 1346–48, Fresco, Kosovo, (source: N.P. Sullo with permission from Visoki Dečani Monastery)'
+start_year: 1340
+end_year: 1350
 make_public: true
+title_link: ''
 ---
 
 *By Nicole C. Paxton \| Yale University*  
@@ -75,5 +66,3 @@ This essay analyzes the royal portraits and Nemanjić genealogical tree in the n
 Vojvodić, Dragan. “From the Horizontal to the Vertical Genealogical Image of the Nemanjić Dynasty.” Z*bornik radova Vizantoloskog instituta* 44 (2007\): 295–313\. (in Serbian with English summary.)
 
 This article traces the development of the Nemanjić family tree and its appearance at Gračanica, Peć, Dečani, Mateič, and Studenica. Vojvodić focuses on the shift between “horizontal” ancestral imagery and the “vertical” genealogies, which visually referenced Jesse Tree iconography and linked the dynasty to the idea of a “chosen people.”
-
-
