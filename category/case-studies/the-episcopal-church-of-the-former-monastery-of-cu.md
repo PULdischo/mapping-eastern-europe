@@ -1,44 +1,38 @@
 ---
 title: The Episcopal Church of the former Monastery of Curtea de Argeș
-slug: the-episcopal-church-of-the-former-monastery-of-cu
-title_link: ''
+slug: episcopal-church-curtea-de-arges
+author: Cosmin Minea
+type:
+  - Monumental art
+locations:
+  - Romania
+subjects:
+  - Basarab family
+latitude: 45.156785
+longitude: 24.6753724
 item_image: /assets/media/items/CdA_Picture.jpeg
 item_image_caption: 'The church of Curtea de Argeș (source: C. Minea)'
 slider_images:
-- slider_image: /assets/media/items/MineaPicture2.jpg
-  caption: 'The church of Curtea de Argeș, details of the entrance (source: trilulilu.ro)'
-- slider_image: /assets/media/items/MineaPicture3.jpg
-  caption: 'The church of Curtea de Argeș, ground\-floor plan (source: Lăzărescu,
-    Biserica Mănăstirii Argeșului)'
-- slider_image: /assets/media/items/MineaPicture4.jpg
-  caption: 'Curtea de Argeș Church, details of the façade with the bronze birds (source:
-    Sanziana Gheorghe / [www.vladimir\-rosulescu.blogspot.com](http://www.vladimir-rosulescu.blogspot.com))'
-- slider_image: /assets/media/items/MineaPicture5.jpg
-  caption: 'Curtea de Argeș Church, details of the façade with the bronze birds (source:
-    Sanziana Gheorghe / [www.vladimir\-rosulescu.blogspot.com](http://www.vladimir-rosulescu.blogspot.com))'
-- slider_image: /assets/media/items/MineaPicture6.jpg
-  caption: 'Emile Frédéric Nicolle, Charles Paul Renouard et al., frescoes inside
-    Curtea de Argeș Cathedral, 1881–86 (source: https://watcherromano.files.wordpress.com/2010/05/manastirea\-curtea\-de\-arges\-8\.jpg?w\=927\&h\=\&zoom\=2
-    / watcher.ro)'
-- slider_image: /assets/media/items/MineaPicture7.jpg
-  caption: 'Luc\-Olivier Merson, King Carol, Queen Elisabeth, Curtea de Argeș, ca.
-    1885 (source: Melidonium Journal / [https://melidoniumm.files.wordpress.com/2012/04/regele\-carol\-i\-manastirea\-curtea\-de\-arges.jpg](https://melidoniumm.files.wordpress.com/2012/04/regele-carol-i-manastirea-curtea-de-arges.jpg))'
-- slider_image: /assets/media/items/MineaPicture8_nxTYfI0.jpg
-  caption: 'Dealu Monastery, late 15th century (source: [http://ortodoxia.rol.ro/manastirea\-dealu\-locul\-de\-odihna\-al\-domnitorilor\-romani\-929791\.html](http://ortodoxia.rol.ro/manastirea-dealu-locul-de-odihna-al-domnitorilor-romani-929791.html))'
-- slider_image: /assets/media/items/MineaPicture9.jpg
-  caption: 'Church of Holy Cross, Akdamar, Turkey (source: Rupen Janbazian, commons.wikimedia.org)'
+  - slider_image: /assets/media/items/MineaPicture2.jpg
+    caption: 'The church of Curtea de Argeș, details of the entrance (source: trilulilu.ro)'
+  - slider_image: /assets/media/items/MineaPicture3.jpg
+    caption: 'The church of Curtea de Argeș, ground\-floor plan (source: Lăzărescu, Biserica Mănăstirii Argeșului)'
+  - slider_image: /assets/media/items/MineaPicture4.jpg
+    caption: 'Curtea de Argeș Church, details of the façade with the bronze birds (source: Sanziana Gheorghe / [www.vladimir\-rosulescu.blogspot.com](http://www.vladimir-rosulescu.blogspot.com))'
+  - slider_image: /assets/media/items/MineaPicture5.jpg
+    caption: 'Curtea de Argeș Church, details of the façade with the bronze birds (source: Sanziana Gheorghe / [www.vladimir\-rosulescu.blogspot.com](http://www.vladimir-rosulescu.blogspot.com))'
+  - slider_image: /assets/media/items/MineaPicture6.jpg
+    caption: 'Emile Frédéric Nicolle, Charles Paul Renouard et al., frescoes inside Curtea de Argeș Cathedral, 1881–86 (source: https://watcherromano.files.wordpress.com/2010/05/manastirea\-curtea\-de\-arges\-8\.jpg?w\=927\&h\=\&zoom\=2 / watcher.ro)'
+  - slider_image: /assets/media/items/MineaPicture7.jpg
+    caption: 'Luc\-Olivier Merson, King Carol, Queen Elisabeth, Curtea de Argeș, ca. 1885 (source: Melidonium Journal / [https://melidoniumm.files.wordpress.com/2012/04/regele\-carol\-i\-manastirea\-curtea\-de\-arges.jpg](https://melidoniumm.files.wordpress.com/2012/04/regele-carol-i-manastirea-curtea-de-arges.jpg))'
+  - slider_image: /assets/media/items/MineaPicture8_nxTYfI0.jpg
+    caption: 'Dealu Monastery, late 15th century (source: [http://ortodoxia.rol.ro/manastirea\-dealu\-locul\-de\-odihna\-al\-domnitorilor\-romani\-929791\.html](http://ortodoxia.rol.ro/manastirea-dealu-locul-de-odihna-al-domnitorilor-romani-929791.html))'
+  - slider_image: /assets/media/items/MineaPicture9.jpg
+    caption: 'Church of Holy Cross, Akdamar, Turkey (source: Rupen Janbazian, commons.wikimedia.org)'
 start_year: 1510
 end_year: 1530
-author: Cosmin Minea
-type:
-- Monumental art
-locations:
-- Romania
-subjects:
-- Basarab family
-latitude: 45.156785
-longitude: 24.6753724
 make_public: true
+title_link: ''
 ---
 
 *By Cosmin Minea \| New Europe College, Bucharest \& arthist.ro*  
@@ -90,5 +84,3 @@ Negrău, Elisabeta. “The Structure of the Monastery Church from Curtea De Arge
 A discussion about the various theological interpretations of the architecture and interior space of the church.
 
 This contribution was sponsored by the [**International Center of Medieval Art**](https://www.medievalart.org/) through the 2021 Advocacy Seed Grant.
-
-
