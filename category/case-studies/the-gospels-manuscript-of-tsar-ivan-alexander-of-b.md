@@ -1,37 +1,30 @@
 ---
 title: The Gospels Manuscript of Tsar Ivan Alexander of Bulgaria
-slug: the-gospels-manuscript-of-tsar-ivan-alexander-of-b
-title_link: ''
-item_image: /assets/media/items/TetraevangeliaOfIvanAlexanderFol212v.jpg
-item_image_caption: 'The ruler receives the blessing of the evangelist Luke, fol.
-  212v, Gospels of Tsar Ivan Alexander, 1355\-56, parchment, The British Library,
-  London, Add. Ms. 39627 (source: Wikimedia)'
-slider_images:
-- slider_image: /assets/media/items/Picture1_wezO4js.jpg
-  caption: 'Opening family portrait, fol. 3r, Gospels of Tsar Ivan Alexander, 1355\-56,
-    parchment, The British Library, London, Add. Ms. 39627 (source: Wikimedia)'
-- slider_image: /assets/media/items/Picture2_KCwViI3.jpg
-  caption: 'Opening family portrait, fol. 2v, Gospels of Tsar Ivan Alexander, 1355\-56,
-    parchment, The British Library, London, Add. Ms. 39627 (source: Wikimedia)'
-- slider_image: /assets/media/items/TetraevangeliaOfIvanAlexanderFol45.jpg
-  caption: 'Frieze images of the Feeding of the Five Thousand and Jesus Walking on
-    Water, fol. 45r, Gospels of Tsar Ivan Alexander, 1355\-56, parchment, The British
-    Library, London, Add. Ms. 39627 (source: Wikimedia)'
-- slider_image: /assets/media/items/Picture.jpg
-  caption: 'Monastery of St. Paul, Mount Athos (source: R. Curzon, Visits To The Monasteries
-    The Levant \[London: John Murray, 1850], p. XXIX.)'
-start_year: 1350
-end_year: 1399
+slug: gospels-of-tsar-ivan-alexander
 author: Lilyana Yordanova
 type:
-- Manuscript
+  - Manuscript
 locations:
-- Bulgaria
+  - Bulgaria
 subjects:
-- Ivan Alexander (Tsar)
+  - Ivan Alexander (Tsar)
 latitude: 43.0758926568
 longitude: 25.6286522656
+item_image: /assets/media/items/TetraevangeliaOfIvanAlexanderFol212v.jpg
+item_image_caption: 'The ruler receives the blessing of the evangelist Luke, fol. 212v, Gospels of Tsar Ivan Alexander, 1355-56, parchment, The British Library, London, Add. Ms. 39627 (source: Wikimedia)'
+slider_images:
+  - slider_image: /assets/media/items/Picture1_wezO4js.jpg
+    caption: 'Opening family portrait, fol. 3r, Gospels of Tsar Ivan Alexander, 1355\-56, parchment, The British Library, London, Add. Ms. 39627 (source: Wikimedia)'
+  - slider_image: /assets/media/items/Picture2_KCwViI3.jpg
+    caption: 'Opening family portrait, fol. 2v, Gospels of Tsar Ivan Alexander, 1355\-56, parchment, The British Library, London, Add. Ms. 39627 (source: Wikimedia)'
+  - slider_image: /assets/media/items/TetraevangeliaOfIvanAlexanderFol45.jpg
+    caption: 'Frieze images of the Feeding of the Five Thousand and Jesus Walking on Water, fol. 45r, Gospels of Tsar Ivan Alexander, 1355\-56, parchment, The British Library, London, Add. Ms. 39627 (source: Wikimedia)'
+  - slider_image: /assets/media/items/Picture.jpg
+    caption: 'Monastery of St. Paul, Mount Athos (source: R. Curzon, Visits To The Monasteries The Levant \[London: John Murray, 1850], p. XXIX.)'
+start_year: 1350
+end_year: 1399
 make_public: true
+title_link: ''
 ---
 
 *By Lilyana Yordanova \| École française d’Athènes* 
@@ -97,5 +90,3 @@ This is the most complete inventory to date of illuminated portraits classified 
 Yordanova, Lilyana. “The Story Behind the Image: The literary patronage of Tsar Ivan Alexander of Bulgaria between ostentation and decline.” In *Late Byzantium Reconsidered: The Arts of the Palaiologan Era in the Mediterranean*, edited by Andrea Mattiello and Maria Alessia Rossi, 193–206\. New York: Routledge, 2019\.
 
 This article offers a comparative analysis of the visual and written strategies of two illuminated manuscripts commissioned by Tsar Ivan Alexander in respect to the political context of their creation: the illustrated Bulgarian copy of the Chronicle of Constantine Manasses (Vatican Library, cod. Slavo 2\) and the Gospels.
-
-
