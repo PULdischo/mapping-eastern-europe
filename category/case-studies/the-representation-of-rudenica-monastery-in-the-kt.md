@@ -1,33 +1,29 @@
 ---
 title: The Representation of Rudenica Monastery in the Ktetorial Image
-slug: the-representation-of-rudenica-monastery-in-the-kt
-title_link: ''
-item_image: /assets/media/items/01_IpOK7Gv.jpg
-item_image_caption: 'Ktetor Vukašin and his wife Vukosava, ca. 1403–05, the southern
-  wall of the western bay, Rudenica Monastery (source: J. S. Ćirić)'
-slider_images:
-- slider_image: /assets/media/items/02_AGNmSFQ.jpg
-  caption: 'Despot Stefan Lazarević with the representation of the church in his hands
-    and Vuk Lazarević, ca. 1403–05, the southern part of the western wall of the western
-    bay, Rudenica Monastery (source: J. S. Ćirić)'
-- slider_image: /assets/media/items/031.jpg
-  caption: 'Representation of the ktetorial architecture, detail (source: J. S. Ćirić)'
-- slider_image: /assets/media/items/041.jpg
-  caption: 'St. Elijah’s Church, exterior, the north facade, Rudenica Monastery (source:
-    J. S. Ćirić)'
-start_year: 1400
-end_year: 1410
+slug: representation-of-rudenica-monastery
 author: Nevena Bogojević
 type:
-- Monumental art
+  - Monumental art
 locations:
-- Serbia
+  - Serbia
 subjects:
-- Stefan Lazarević (Despot)
-- Vukašin (nobleman)
+  - Stefan Lazarević (Despot)
+  - Vukašin (nobleman)
 latitude: 43.5057913
 longitude: 21.0862622
+item_image: /assets/media/items/01_IpOK7Gv.jpg
+item_image_caption: 'Ktetor Vukašin and his wife Vukosava, ca. 1403–05, the southern wall of the western bay, Rudenica Monastery (source: J. S. Ćirić)'
+slider_images:
+  - slider_image: /assets/media/items/02_AGNmSFQ.jpg
+    caption: 'Despot Stefan Lazarević with the representation of the church in his hands and Vuk Lazarević, ca. 1403–05, the southern part of the western wall of the western bay, Rudenica Monastery (source: J. S. Ćirić)'
+  - slider_image: /assets/media/items/031.jpg
+    caption: 'Representation of the ktetorial architecture, detail (source: J. S. Ćirić)'
+  - slider_image: /assets/media/items/041.jpg
+    caption: 'St. Elijah’s Church, exterior, the north facade, Rudenica Monastery (source: J. S. Ćirić)'
+start_year: 1400
+end_year: 1410
 make_public: true
+title_link: ''
 ---
 
 *By Nevena Bogojević* \| *Independent Researcher*  
@@ -63,5 +59,3 @@ This is a scientific monograph that chronologically analyzes the mural painting 
 Stojaković, Anka, “Arhitektonski prostor u slikarstvu srednjovekovne Srbije” \[Architectural space in Painting of Medieval Serbia]. Novi Sad: Matica Srpska\-Odeljenje za likovne umetnosti, 1970\.
 
 This book analyzes and discusses the function of painted architecture in the construction of the mural painting, the problems of projection systems used in the frescoes, then the problems of lighting and shading the depicted architecture. In addition, it considers the function of ktetorial models.
-
-
