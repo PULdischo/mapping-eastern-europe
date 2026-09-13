@@ -26,7 +26,7 @@ end_year: 1750
 make_public: true
 ---
 
-By Yaroslav Zatyliuk | National University of Kyiv-Mohyla Academy
+_By Yaroslav Zatyliuk | National University of Kyiv-Mohyla Academy_
 
 **Description**
 
