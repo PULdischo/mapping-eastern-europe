@@ -1,46 +1,36 @@
 ---
 title: The Stucco Templon of the Kokkini Ekklisia in Boulgareli (Epiros)
-slug: the-stucco-templon-of-the-kokkini-ekklisia-in-boul
-title_link: ''
-item_image: /assets/media/items/2._Exterior_FNYxCAs.JPG
-item_image_caption: 'Exterior, view from south\-west, Kokkini Ekklisia, Voulgareli
-  (source: F. Vanni 2019\)'
-slider_images:
-- slider_image: /assets/media/items/3._Exterior_southern_facade.JPG
-  caption: 'Exterior, southern façade (source: F. Vanni 2019\).'
-- slider_image: /assets/media/items/4._Dedicatory_inscription.jpg
-  caption: 'Dedicatory inscription, 1295/96, western wall, naos, Kokkini Ekklisia,
-    Voulgareli (source: F. Vanni 2019\).'
-- slider_image: /assets/media/items/5._Donor_portaits.jpg
-  caption: 'Two panels with donors’ portraits (from the left: the *protostratorissa*
-    Maria, the *protostrator* Theodoros Tzimiskés, Ioannis Tzimiskés, Anna wife of
-    Ioannis), 1295/96, eastern wall, narthex, Kokkini Ekklisia, Voulgareli (source:
-    F. Vanni 2019\)'
-- slider_image: /assets/media/items/6._Theodore_Tzimiskes_and_Maria.jpg
-  caption: 'Detail of the protostrator Theodoros Tzimiskés and the wife the protostratorissa
-    Maria, 1295/96, eastern wall, narthex, Kokkini Ekklisia, Voulgareli (source: F.
-    Vanni 2019\)'
-- slider_image: /assets/media/items/7._Ioannes_Tzimiskes_and_Anna1.jpg
-  caption: 'Detail of the Ioannis Tzimiskés and the wife Anna, 1295/96, eastern wall,
-    narthex, Kokkini Ekklisia, Voulgareli (source: F. Vanni 2019\)'
-- slider_image: /assets/media/items/8._Stucco_decoration_after_Orlandos_1927.jpg
-  caption: Some of the fragments of the stucco templon (ca 1295/96\) at the time of
-    their discovery, Kokkini Ekklisia, Voulgareli (after Orlandos 1927\).
-- slider_image: /assets/media/items/1._Kokkini_ekklisia_plan_X0srO9N.jpg
-  caption: 'Architectural plan, Kokkini Ekklisia, Voulgareli (source: Papadopoulou
-    2008\).'
-start_year: 1290
-end_year: 1300
+slug: stucco-templon-of-the-kokkini-ekklisia-in-boulgareli
 author: Flavia Vanni
 type:
-- Sculpture
+  - Sculpture
 locations:
-- Greece
+  - Greece
 subjects:
-- Theodoros Tzimiskés (protostrator)
+  - Theodoros Tzimiskés (protostrator)
 latitude: 39.35462
 longitude: 21.18612
+item_image: /assets/media/items/2._Exterior_FNYxCAs.JPG
+item_image_caption: 'Exterior, view from south-west, Kokkini Ekklisia, Voulgareli (source: F. Vanni 2019)'
+slider_images:
+  - slider_image: /assets/media/items/3._Exterior_southern_facade.JPG
+    caption: 'Exterior, southern façade (source: F. Vanni 2019\).'
+  - slider_image: /assets/media/items/4._Dedicatory_inscription.jpg
+    caption: 'Dedicatory inscription, 1295/96, western wall, naos, Kokkini Ekklisia, Voulgareli (source: F. Vanni 2019\).'
+  - slider_image: /assets/media/items/5._Donor_portaits.jpg
+    caption: 'Two panels with donors’ portraits (from the left: the *protostratorissa* Maria, the *protostrator* Theodoros Tzimiskés, Ioannis Tzimiskés, Anna wife of Ioannis), 1295/96, eastern wall, narthex, Kokkini Ekklisia, Voulgareli (source: F. Vanni 2019\)'
+  - slider_image: /assets/media/items/6._Theodore_Tzimiskes_and_Maria.jpg
+    caption: 'Detail of the protostrator Theodoros Tzimiskés and the wife the protostratorissa Maria, 1295/96, eastern wall, narthex, Kokkini Ekklisia, Voulgareli (source: F. Vanni 2019\)'
+  - slider_image: /assets/media/items/7._Ioannes_Tzimiskes_and_Anna1.jpg
+    caption: 'Detail of the Ioannis Tzimiskés and the wife Anna, 1295/96, eastern wall, narthex, Kokkini Ekklisia, Voulgareli (source: F. Vanni 2019\)'
+  - slider_image: /assets/media/items/8._Stucco_decoration_after_Orlandos_1927.jpg
+    caption: Some of the fragments of the stucco templon (ca 1295/96\) at the time of their discovery, Kokkini Ekklisia, Voulgareli (after Orlandos 1927\).
+  - slider_image: /assets/media/items/1._Kokkini_ekklisia_plan_X0srO9N.jpg
+    caption: 'Architectural plan, Kokkini Ekklisia, Voulgareli (source: Papadopoulou 2008\).'
+start_year: 1290
+end_year: 1300
 make_public: true
+title_link: ''
 ---
 
 *By Flavia Vanni* \| *University of Birmingham* 
@@ -104,5 +94,3 @@ Cultural and Economic Implications across the Mediterranean.” PhD thesis, Univ
 This study discusses and contextualizes Epirote stucco production relative to Middle and Late Byzantine stucco decoration.
 
 This contribution was sponsored by the [**International Center of Medieval Art**](https://www.medievalart.org/) through the 2021 Advocacy Seed Grant.
-
-
