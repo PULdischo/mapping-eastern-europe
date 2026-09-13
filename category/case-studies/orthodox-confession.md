@@ -24,7 +24,7 @@ slider_images:
     caption: The verso of the title page and the first page of ‘Preface to Reader’ of the Collection of Brief Teachings on the Articles of the Orthodox-Catholic Christian Faith” (Typography of Kyiv Pechersk Lavra, 1645) – a short version of PeterMohyla’s Orthodox Confession in Ukrainian (“the Ruthenian dialect”). Collection of the V. I. Vernadskyi National Library of Ukraine, Кир. 4752 п).
 start_year: 1550
 end_year: 1750
-make_public: false
+make_public: true
 ---
 
 _By Maksym Yaremenko | National University of Kyiv-Mohyla Academy_
