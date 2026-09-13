@@ -26,7 +26,7 @@ end_year: 1750
 make_public: true
 ---
 
-By Martin-Oleksandr Kisly | National University of Kyiv-Mohyla Academy
+_By Martin-Oleksandr Kisly | National University of Kyiv-Mohyla Academy_
 
 **Description**
 
