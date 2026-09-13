@@ -1,30 +1,27 @@
 ---
 title: The Phiale of the Great Lavra Monastery, Mount Athos
-slug: the-phiale-of-the-great-lavra-monastery-mount-ath
-title_link: ''
-item_image: /assets/media/items/Fig._1_0QWQ2OM.jpg
-item_image_caption: 'The phiale of the katholikon of the monastery of Megisti Lavra,
-  Mount Athos (source: P. Androudis)'
-slider_images:
-- slider_image: /assets/media/items/Fig._2_cvcnfwN.jpg
-  caption: 'The marble basin of the phiale, Mount Athos (source: P. Androudis)'
-- slider_image: /assets/media/items/Fig._3_95GalZK.JPG
-  caption: 'Marble slab and pseudosarcophagus in the phiale, Mount Athos (source:
-    P. Androudis)'
-- slider_image: /assets/media/items/Fig._4_nKhJjBq.JPG
-  caption: 'Marble slabs with schamplevé sculptures in the construction of the phiale,
-    Mount Athos (source: P. Androudis)'
-start_year: 1201
-end_year: 1634
+slug: phiale-of-the-great-lavra-monastery-mount-athos
 author: Paschalis Androudis
 type:
-- Sculpture
+  - Sculpture
 locations:
-- Greece
+  - Greece
 subjects: []
 latitude: 40.1707971
 longitude: 24.3831114
+item_image: /assets/media/items/Fig._1_0QWQ2OM.jpg
+item_image_caption: 'The phiale of the katholikon of the monastery of Megisti Lavra, Mount Athos (source: P. Androudis)'
+slider_images:
+  - slider_image: /assets/media/items/Fig._2_cvcnfwN.jpg
+    caption: 'The marble basin of the phiale, Mount Athos (source: P. Androudis)'
+  - slider_image: /assets/media/items/Fig._3_95GalZK.JPG
+    caption: 'Marble slab and pseudosarcophagus in the phiale, Mount Athos (source: P. Androudis)'
+  - slider_image: /assets/media/items/Fig._4_nKhJjBq.JPG
+    caption: 'Marble slabs with schamplevé sculptures in the construction of the phiale, Mount Athos (source: P. Androudis)'
+start_year: 1201
+end_year: 1634
 make_public: true
+title_link: ''
 ---
 
 *By Paschalis Androudis \| Aristotle University of Thessaloniki* 
@@ -64,5 +61,3 @@ Voyadjis, Sotiris.*The Katholikon of the Saint Monastery of the Great Lavra on M
 These sudies are significant and useful not only for the examination of the spolia in the phiale of the Great Lavra Monastery and their possible provenance, but also for their better dating. They are also significant for the study of the late 10th century Byzantine champlevé sculptures on Mount Athos in general.
 
 This contribution was sponsored by the [**Mary Jaharis Center for Byzantine Art and Culture**](https://maryjahariscenter.org/) at Hellenic College Holy Cross.
-
-
