@@ -21,7 +21,7 @@ slider_images:
     caption: 'Aerial view of the Holy Intercession Church, Sutkivtsi (source: Wikimedia Commons)'
 start_year: 1400
 end_year: 1750
-make_public: false
+make_public: true
 ---
 
 _By Martin-Oleksandr Kisly | National University of Kyiv-Mohyla Academy_
