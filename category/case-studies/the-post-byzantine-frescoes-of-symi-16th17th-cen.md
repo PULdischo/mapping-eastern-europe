@@ -1,38 +1,32 @@
 ---
-title: The Post\-Byzantine Frescoes of Symi (16th–17th century)
-slug: the-post-byzantine-frescoes-of-symi-16th17th-cen
-title_link: ''
-item_image: /assets/media/items/01_ibClQvgZ.jpg
-item_image_caption: 'Exterior, view from south\-west, St. Dimitrios tou Ambeliou,
-  Symi (source: M. Asfentagakis).'
-slider_images:
-- slider_image: /assets/media/items/02_dTsIYadG_Q3zOKCi.jpg
-  caption: 'The depiction of the enthroned *Pantokrator,* north wall (naos), St. Dimitrios
-    tou Ambeliou, Symi (source: M. Asfentagakis).'
-- slider_image: /assets/media/items/03_9DjodA6h.jpg
-  caption: 'The depiction of the equestrian military saint, north wall (naos), St.
-    Dimitrios tou Ambeliou, Symi (source: M. Asfentagakis).'
-- slider_image: /assets/media/items/04_2c9FkeK0.jpg
-  caption: 'The patron inscription, west wall (exterior), Monastery of Archangel Michael
-    Kokkimidis, Symi (source: M. Asfentagakis).'
-- slider_image: /assets/media/items/05_NfS8EN3b.jpg
-  caption: 'Depiction of co\-officiating hierarchs, holy bema, Monastery of Archangel
-    Michael Kokkimidis, Symi (source: M. Asfentagakis).'
-- slider_image: /assets/media/items/06_lS2b4XKI.jpg
-  caption: 'The depiction of the Apostles Peter and Paul, west wall (naos), Monastery
-    of Archangel Michael Kokkimidis, Symi (source: M. Asfentagakis).'
-start_year: 1500
-end_year: 1699
+title: The Post-Byzantine Frescoes of Symi (16th–17th century)
+slug: post-byzantine-frescoes-of-symi
 author: Michail I. Asfentagakis
 type:
-- Monumental art
-- Wall painting
+  - Monumental art
+  - Wall painting
 locations:
-- Greece
+  - Greece
 subjects: []
 latitude: 36.585572
 longitude: 27.8428651
+item_image: /assets/media/items/01_ibClQvgZ.jpg
+item_image_caption: 'Exterior, view from south-west, St. Dimitrios tou Ambeliou, Symi (source: M. Asfentagakis).'
+slider_images:
+  - slider_image: /assets/media/items/02_dTsIYadG_Q3zOKCi.jpg
+    caption: 'The depiction of the enthroned *Pantokrator,* north wall (naos), St. Dimitrios tou Ambeliou, Symi (source: M. Asfentagakis).'
+  - slider_image: /assets/media/items/03_9DjodA6h.jpg
+    caption: 'The depiction of the equestrian military saint, north wall (naos), St. Dimitrios tou Ambeliou, Symi (source: M. Asfentagakis).'
+  - slider_image: /assets/media/items/04_2c9FkeK0.jpg
+    caption: 'The patron inscription, west wall (exterior), Monastery of Archangel Michael Kokkimidis, Symi (source: M. Asfentagakis).'
+  - slider_image: /assets/media/items/05_NfS8EN3b.jpg
+    caption: 'Depiction of co\-officiating hierarchs, holy bema, Monastery of Archangel Michael Kokkimidis, Symi (source: M. Asfentagakis).'
+  - slider_image: /assets/media/items/06_lS2b4XKI.jpg
+    caption: 'The depiction of the Apostles Peter and Paul, west wall (naos), Monastery of Archangel Michael Kokkimidis, Symi (source: M. Asfentagakis).'
+start_year: 1500
+end_year: 1699
 make_public: true
+title_link: ''
 ---
 
 *By Michail I. Asfentagakis \| National and Kapodistrian University of Athens*
@@ -74,5 +68,3 @@ In the third one, the majority of the frescoes of the local painting workshop of
 In the fourth study the researcher presents shortly the safely dated frescoes of the 17th century in the churches of Rhodes (and some others) and makes some observations on their iconography and style.
 
 This contribution was sponsored by the [**Mary Jaharis Center for Byzantine Art and Culture**](https://maryjahariscenter.org/) at Hellenic College Holy Cross.
-
-
