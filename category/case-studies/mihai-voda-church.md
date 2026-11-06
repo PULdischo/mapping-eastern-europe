@@ -55,7 +55,7 @@ The church was not destroyed because of its importance in the history of a unifi
 
 **Further Reading**
 
-Ousterhout, Robert G. _Eastern Medieval Architecture: The Building Traditions of Byzantium and Neighboring Lands_. Onassis Series in Hellenic Culture. Oxford University Press, 2019.
+Ousterhout, Robert G. _Eastern Medieval Architecture: The Building Traditions of Byzantium and Neighboring Lands_. Oxford University Press, 2019.
 
 Chapter twenty-six explores the cultural exchanges between Serbia, Bulgaria, and Romania. It is one of the few comprehensive medieval books that presents the connection between the Carpathian and Balkan regions.
 
