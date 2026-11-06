@@ -53,7 +53,7 @@ In 1977, the Mihai-Vodă church, alongside other sites,sufferedimminent threats 
 
 The church was not destroyed because of its importance in the history of a unified Romanian nation as a site of memory. Given Michael the Brave's role in temporarily unifying the principalities of Romania, this church, as one of the voievode's earliest constructions, has been imbued with proto-national meaning. Therefore, if it had been fully destroyed, the image of the Romanian nation could have been considered under threat, which could have led to increased political unrest. As the integrity of the original place was destroyed through the demolition of the monastic complex and movement from the original location, a new site of memory – or sufferance – was created. The memory of a foundation as strong as the Romanian proto-nationality of the 1600s was then, in the 1980s, relocated by the Communist regime.
 
-**Further reading:**
+**Further Reading**
 
 Ousterhout, Robert G. _Eastern Medieval Architecture: The Building Traditions of Byzantium and Neighboring Lands_. Onassis Series in Hellenic Culture. Oxford University Press, 2019.
 
